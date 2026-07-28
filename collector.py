@@ -368,15 +368,33 @@ def main():
         for h in CONFIG["accounts"][tier_name]:
             tiers[h.lower()] = tier_name
 
-    seen, candidates, kills = set(), [], {}
+    seen, candidates, kills, rejects = set(), [], {}, []
+
+    def log_reject(t, reason, score=None):
+        rejects.append(
+            {
+                "id": t["id"],
+                "url": t["url"],
+                "handle": t["author_handle"],
+                "reason": reason,
+                "score": score,
+                "likes": t.get("likes"),
+                "text": (t["text"] or "")[:2000],
+            }
+        )
+
     for item, source in raw:
         t = normalize(item, source)
-        if not t or t["id"] in seen:
+        if not t:
+            kills["unparseable"] = kills.get("unparseable", 0) + 1
+            continue
+        if t["id"] in seen:
             continue
         seen.add(t["id"])
         score, parts, killed = score_tweet(t, tiers)
         if killed:
             kills[killed] = kills.get(killed, 0) + 1
+            log_reject(t, killed)
             continue
         bucket = guess_bucket(t, tiers)
         floor = (
@@ -386,6 +404,7 @@ def main():
         )
         if score < floor:
             kills["low_score"] = kills.get("low_score", 0) + 1
+            log_reject(t, f"low_score({bucket})", score)
             continue
         t["score"] = score
         t["score_parts"] = parts
@@ -417,8 +436,23 @@ def main():
     stamp = until_dt.strftime("%Y-%m-%d")
     (data_dir / f"candidates-{stamp}.json").write_text(json.dumps(out, indent=1))
     (data_dir / "latest.json").write_text(json.dumps(out, indent=1))
+    rejects.sort(key=lambda r: (r["reason"], -(r["score"] or 0)))
+    (data_dir / f"rejects-{stamp}.json").write_text(
+        json.dumps(
+            {
+                "generated_at": out["generated_at"],
+                "window": out["window"],
+                "counts": out["counts"],
+                "note": "Every collected tweet that did not make candidates, with reason. "
+                "Near-full text kept (2000-char cap) as a corpus for later league-wide "
+                "analysis; raw Apify datasets also persist ~1 week in the console.",
+                "rejects": rejects,
+            },
+            indent=1,
+        )
+    )
     print(json.dumps({k: out[k] for k in ("window", "counts", "buckets")}, indent=2))
-    print(f"Wrote data/candidates-{stamp}.json and data/latest.json")
+    print(f"Wrote data/candidates-{stamp}.json, data/rejects-{stamp}.json, data/latest.json")
 
 
 if __name__ == "__main__":
