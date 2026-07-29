@@ -38,6 +38,8 @@ WEIGHTS = {
     "tier1": 14,
     "tier2": 8,
     "fun": 6,
+    "news": 12,
+    "news_boost": 10,
     "engagement_cap": 10,
     "kill_promo": -100,
     "kill_reply": -100,
@@ -104,6 +106,14 @@ INJURY_NEWS_PATTERNS = [
     r"\bruled out\b", r"\bexpected to miss\b", r"\bweek[- ]to[- ]week\b",
     r"\bday[- ]to[- ]day\b", r"\bsources?:\b",
 ]
+# Sunday mode treats news as signal, not noise — superset of the injury list.
+NEWS_PATTERNS = INJURY_NEWS_PATTERNS + [
+    r"\bquestionable\b", r"\bdoubtful\b", r"\binactive\b", r"\bwill not play\b",
+    r"\bexpected to play\b", r"\bgame[- ]time decision\b", r"\belevated\b",
+    r"\bactivated\b", r"\bdowngraded\b", r"\bupgraded to\b", r"\bofficially out\b",
+    r"\bdid not practice\b", r"\blimited practice\b", r"\bfull practice\b",
+    r"\binjury report\b", r"\bsigned\b", r"\bwaived\b", r"\breleased\b",
+]
 COLD_PATTERNS = [
     r"\bworst\b", r"\blowest\b", r"\bdead last\b", r"\bfewest\b",
     r"\bhasn'?t\b|\bhas not\b", r"\b0 (?:yards|catches|targets|tds|touchdowns)\b",
@@ -119,7 +129,7 @@ def _count(patterns, text):
     return sum(1 for p in patterns if re.search(p, t, re.I))
 
 
-def score_tweet(t, tiers):
+def score_tweet(t, tiers, mode="weekly"):
     """Returns (score, parts, killed_reason)."""
     text = t["text"] or ""
     parts = {}
@@ -150,23 +160,35 @@ def score_tweet(t, tiers):
     handle = (t["author_handle"] or "").lower()
     tier = tiers.get(handle, "")
     parts["tier"] = {"tier1": WEIGHTS["tier1"], "tier2": WEIGHTS["tier2"],
-                     "fun": WEIGHTS["fun"]}.get(tier, 0)
+                     "fun": WEIGHTS["fun"], "news": WEIGHTS["news"]}.get(tier, 0)
 
     eng = (t.get("likes") or 0) + 2 * (t.get("retweets") or 0)
     parts["engagement"] = min(
         WEIGHTS["engagement_cap"], max(0.0, (math.log10(eng + 1) - 1.5) * 4)
     )
 
-    penalty = WEIGHTS["injury_news"] if _count(INJURY_NEWS_PATTERNS, text) else 0
+    if mode == "sunday":
+        parts["news_boost"] = (
+            WEIGHTS["news_boost"]
+            if (tier == "news" or _count(NEWS_PATTERNS, text))
+            else 0
+        )
+        penalty = 0
+    else:
+        penalty = WEIGHTS["injury_news"] if _count(INJURY_NEWS_PATTERNS, text) else 0
     parts["penalty"] = penalty
 
     score = max(0.0, min(100.0, sum(parts.values())))
     return round(score, 1), {k: round(v, 1) for k, v in parts.items()}, None
 
 
-def guess_bucket(t, tiers):
+def guess_bucket(t, tiers, mode="weekly"):
     handle = (t["author_handle"] or "").lower()
     text = t["text"] or ""
+    if mode == "sunday" and (
+        tiers.get(handle) == "news" or _count(NEWS_PATTERNS, text) >= 1
+    ):
+        return "news"
     stat_density = 100 * len(NUM_RE.findall(text)) / max(len(text), 1)
     is_quote = bool(re.search(r'["“”].{8,}["“”]', text))
     if tiers.get(handle) == "fun" or (
@@ -185,7 +207,7 @@ def guess_bucket(t, tiers):
 # ----------------------------------------------------------------------------
 # Apify collection
 # ----------------------------------------------------------------------------
-def build_queries(since, until):
+def build_queries(since, until, mode="weekly"):
     acc = CONFIG["accounts"]
     aq = CONFIG["account_query"]
     date_clause = f"since:{since} until:{until}"
@@ -193,16 +215,53 @@ def build_queries(since, until):
 
     queries, account_queries = [], []
     handles = acc["tier1"] + acc["tier2"] + acc["fun"]
+    if mode == "sunday":
+        handles = handles + acc.get("news", [])
     n = aq["handles_per_query"]
     for i in range(0, len(handles), n):
         batch = " OR ".join(f"from:{h}" for h in handles[i : i + n])
         account_queries.append(f"({batch}) {date_clause} {base_filters}")
 
-    for s in CONFIG["searches"]:
+    searches = list(CONFIG["searches"])
+    if mode == "sunday":
+        searches += CONFIG.get("sunday", {}).get("searches", [])
+    for s in searches:
         q = f'{s["query"]} min_faves:{s["min_faves"]} {date_clause} {base_filters}'
         queries.append({"q": q, "max_items": s["max_items"], "name": s["name"]})
 
     return account_queries, queries
+
+
+def snapshot_odds(stamp):
+    """Keyless ESPN scoreboard snapshot -> data/odds-{stamp}.json.
+    Wednesday snapshots are the baseline; Sunday snapshots diff against them
+    for the Sunday Brief's line-move section. Never fails the run."""
+    if not CONFIG.get("odds", {}).get("espn_snapshot", False):
+        return
+    try:
+        r = requests.get(
+            "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard",
+            timeout=30,
+        )
+        r.raise_for_status()
+        games = []
+        for ev in r.json().get("events", []):
+            comp = (ev.get("competitions") or [{}])[0]
+            odds = (comp.get("odds") or [{}])[0]
+            games.append(
+                {
+                    "game": ev.get("shortName"),
+                    "date": ev.get("date"),
+                    "spread": odds.get("details"),
+                    "over_under": odds.get("overUnder"),
+                    "provider": (odds.get("provider") or {}).get("name"),
+                }
+            )
+        out_path = ROOT / "data" / f"odds-{stamp}.json"
+        out_path.write_text(json.dumps({"captured_at": stamp, "games": games}, indent=1))
+        print(f"Odds snapshot: {len(games)} games -> {out_path.name}")
+    except Exception as e:
+        print(f"WARNING: odds snapshot failed ({e}) — continuing without it")
 
 
 def run_actor(token, search_terms, max_items):
@@ -342,13 +401,19 @@ def main():
     if not token:
         sys.exit("APIFY_TOKEN env var is required")
 
-    window = int(os.environ.get("WINDOW_DAYS", CONFIG.get("window_days", 7)))
+    mode = os.environ.get("MODE", "weekly").lower()
+    default_window = (
+        CONFIG.get("sunday", {}).get("window_days", 3)
+        if mode == "sunday"
+        else CONFIG.get("window_days", 7)
+    )
+    window = int(os.environ.get("WINDOW_DAYS", default_window))
     until_dt = datetime.now(timezone.utc)
     since_dt = until_dt - timedelta(days=window)
     since, until = since_dt.strftime("%Y-%m-%d"), (until_dt + timedelta(days=1)).strftime("%Y-%m-%d")
-    print(f"Window: {since} → {until} (UTC)")
+    print(f"Mode: {mode} | Window: {since} → {until} (UTC)")
 
-    account_queries, search_queries = build_queries(since, until)
+    account_queries, search_queries = build_queries(since, until, mode)
 
     print(f"Run 1: {len(account_queries)} account-batch queries")
     raw = [
@@ -364,8 +429,8 @@ def main():
     print(f"  total raw items: {len(raw)}")
 
     tiers = {}
-    for tier_name in ("tier1", "tier2", "fun"):
-        for h in CONFIG["accounts"][tier_name]:
+    for tier_name in ("tier1", "tier2", "fun", "news"):
+        for h in CONFIG["accounts"].get(tier_name, []):
             tiers[h.lower()] = tier_name
 
     seen, candidates, kills, rejects = set(), [], {}, []
@@ -391,17 +456,17 @@ def main():
         if t["id"] in seen:
             continue
         seen.add(t["id"])
-        score, parts, killed = score_tweet(t, tiers)
+        score, parts, killed = score_tweet(t, tiers, mode)
         if killed:
             kills[killed] = kills.get(killed, 0) + 1
             log_reject(t, killed)
             continue
-        bucket = guess_bucket(t, tiers)
-        floor = (
-            CONFIG["output"].get("min_score_fun", 8)
-            if bucket == "fun"
-            else CONFIG["output"].get("min_score", 25)
-        )
+        bucket = guess_bucket(t, tiers, mode)
+        floors = {
+            "fun": CONFIG["output"].get("min_score_fun", 8),
+            "news": CONFIG["output"].get("min_score_news", 10),
+        }
+        floor = floors.get(bucket, CONFIG["output"].get("min_score", 25))
         if score < floor:
             kills["low_score"] = kills.get("low_score", 0) + 1
             log_reject(t, f"low_score({bucket})", score)
@@ -417,6 +482,7 @@ def main():
 
     out = {
         "generated_at": until_dt.isoformat(),
+        "mode": mode,
         "window": {"since": since, "until": until, "days": window},
         "counts": {
             "raw": len(raw),
@@ -426,7 +492,7 @@ def main():
         },
         "buckets": {
             b: sum(1 for c in candidates if c["bucket_guess"] == b)
-            for b in ("analysis_hype", "cold_water", "fun")
+            for b in ("analysis_hype", "cold_water", "fun", "news")
         },
         "candidates": candidates,
     }
@@ -451,7 +517,8 @@ def main():
             indent=1,
         )
     )
-    print(json.dumps({k: out[k] for k in ("window", "counts", "buckets")}, indent=2))
+    snapshot_odds(stamp)
+    print(json.dumps({k: out[k] for k in ("mode", "window", "counts", "buckets")}, indent=2))
     print(f"Wrote data/candidates-{stamp}.json, data/rejects-{stamp}.json, data/latest.json")
 
 

@@ -20,6 +20,7 @@ ROOT = Path(__file__).parent
 BUCKETS = [
     ("analysis_hype", "Analysis & Hype", "#0e7a4f", "#e7f5ee"),
     ("cold_water", "Cold Water", "#1d5fa8", "#e8f0fa"),
+    ("news", "Since Thursday — News", "#8f2d56", "#fae8ef"),
     ("fun", "The Fun Stuff", "#a86308", "#fdf3e2"),
 ]
 

@@ -1,0 +1,37 @@
+# NFL stadiums — weather lookup reference for the Sunday Brief.
+# roof: open | dome | retractable | fixed (fixed = permanent roof, e.g. SoFi)
+# Weather only matters for roof: open (and retractables are usually closed
+# in bad weather — flag only if reported open).
+stadiums:
+  ARI: {stadium: State Farm Stadium, city: Glendale AZ, roof: retractable, lat: 33.5276, lon: -112.2626}
+  ATL: {stadium: Mercedes-Benz Stadium, city: Atlanta GA, roof: retractable, lat: 33.7554, lon: -84.4010}
+  BAL: {stadium: M&T Bank Stadium, city: Baltimore MD, roof: open, lat: 39.2780, lon: -76.6227}
+  BUF: {stadium: Highmark Stadium, city: Orchard Park NY, roof: open, lat: 42.7738, lon: -78.7870}
+  CAR: {stadium: Bank of America Stadium, city: Charlotte NC, roof: open, lat: 35.2258, lon: -80.8528}
+  CHI: {stadium: Soldier Field, city: Chicago IL, roof: open, lat: 41.8623, lon: -87.6167}
+  CIN: {stadium: Paycor Stadium, city: Cincinnati OH, roof: open, lat: 39.0955, lon: -84.5161}
+  CLE: {stadium: Huntington Bank Field, city: Cleveland OH, roof: open, lat: 41.5061, lon: -81.6995}
+  DAL: {stadium: AT&T Stadium, city: Arlington TX, roof: retractable, lat: 32.7473, lon: -97.0945}
+  DEN: {stadium: Empower Field at Mile High, city: Denver CO, roof: open, lat: 39.7439, lon: -105.0201}
+  DET: {stadium: Ford Field, city: Detroit MI, roof: dome, lat: 42.3400, lon: -83.0456}
+  GB:  {stadium: Lambeau Field, city: Green Bay WI, roof: open, lat: 44.5013, lon: -88.0622}
+  HOU: {stadium: NRG Stadium, city: Houston TX, roof: retractable, lat: 29.6847, lon: -95.4107}
+  IND: {stadium: Lucas Oil Stadium, city: Indianapolis IN, roof: retractable, lat: 39.7601, lon: -86.1639}
+  JAX: {stadium: EverBank Stadium, city: Jacksonville FL, roof: open, lat: 30.3239, lon: -81.6373}
+  KC:  {stadium: GEHA Field at Arrowhead, city: Kansas City MO, roof: open, lat: 39.0489, lon: -94.4839}
+  LAC: {stadium: SoFi Stadium, city: Inglewood CA, roof: fixed, lat: 33.9535, lon: -118.3392}
+  LAR: {stadium: SoFi Stadium, city: Inglewood CA, roof: fixed, lat: 33.9535, lon: -118.3392}
+  LV:  {stadium: Allegiant Stadium, city: Las Vegas NV, roof: dome, lat: 36.0909, lon: -115.1833}
+  MIA: {stadium: Hard Rock Stadium, city: Miami Gardens FL, roof: open, lat: 25.9580, lon: -80.2389}
+  MIN: {stadium: U.S. Bank Stadium, city: Minneapolis MN, roof: dome, lat: 44.9738, lon: -93.2577}
+  NE:  {stadium: Gillette Stadium, city: Foxborough MA, roof: open, lat: 42.0909, lon: -71.2643}
+  NO:  {stadium: Caesars Superdome, city: New Orleans LA, roof: dome, lat: 29.9511, lon: -90.0812}
+  NYG: {stadium: MetLife Stadium, city: East Rutherford NJ, roof: open, lat: 40.8135, lon: -74.0745}
+  NYJ: {stadium: MetLife Stadium, city: East Rutherford NJ, roof: open, lat: 40.8135, lon: -74.0745}
+  PHI: {stadium: Lincoln Financial Field, city: Philadelphia PA, roof: open, lat: 39.9008, lon: -75.1675}
+  PIT: {stadium: Acrisure Stadium, city: Pittsburgh PA, roof: open, lat: 40.4468, lon: -80.0158}
+  SEA: {stadium: Lumen Field, city: Seattle WA, roof: open, lat: 47.5952, lon: -122.3316}
+  SF:  {stadium: Levi's Stadium, city: Santa Clara CA, roof: open, lat: 37.4032, lon: -121.9698}
+  TB:  {stadium: Raymond James Stadium, city: Tampa FL, roof: open, lat: 27.9759, lon: -82.5033}
+  TEN: {stadium: Nissan Stadium, city: Nashville TN, roof: open, lat: 36.1665, lon: -86.7713}
+  WAS: {stadium: Northwest Stadium, city: Landover MD, roof: open, lat: 38.9076, lon: -76.8645}

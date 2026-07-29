@@ -68,6 +68,15 @@ accounts:
     - AustinAbbottFF
     - PFF_Fantasy
     - PFF_RyanSmith
+  # National insiders — collected ONLY in Sunday mode (news lens)
+  news:
+    - AdamSchefter
+    - RapSheet
+    - TomPelissero
+    - MikeGarafolo
+    - FieldYates
+    - JFowlerESPN
+    - CameronWolfe
   # Fun Stuff regulars
   fun:
     - mlfootball
@@ -123,7 +132,30 @@ searches:
     min_faves: 150
     max_items: 120
 
+# Sunday Brief mode (MODE=sunday): Thu->Sun window, news lens for the
+# in-season Sunday AM edition. Injury/designation news is BOOSTED here,
+# not penalized.
+sunday:
+  window_days: 3
+  searches:
+    - name: designations
+      query: '("ruled out" OR questionable OR doubtful OR "will not play" OR "expected to play" OR "game-time decision" OR inactive OR activated OR elevated) (NFL OR fantasy) lang:en'
+      min_faves: 300
+      max_items: 150
+    - name: practice_reports
+      query: '("did not practice" OR "limited practice" OR "full practice" OR "injury report" OR DNP) NFL lang:en'
+      min_faves: 150
+      max_items: 80
+    - name: line_moves
+      query: '("opened at" OR "moved to" OR "now favored" OR "line move" OR "total dropped" OR "total moved") (NFL OR spread OR total) lang:en'
+      min_faves: 100
+      max_items: 60
+
+odds:
+  espn_snapshot: true         # keyless spread/OU snapshot each run -> data/odds-DATE.json
+
 output:
   keep_top: 160               # candidates written to data/latest.json
   min_score: 25               # floor for analysis/cold-water candidates
   min_score_fun: 8            # fun bucket is judged on humor, not stat density
+  min_score_news: 10          # sunday mode: "Player X OUT" is short by nature
