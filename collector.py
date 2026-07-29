@@ -167,7 +167,7 @@ def score_tweet(t, tiers, mode="weekly"):
         WEIGHTS["engagement_cap"], max(0.0, (math.log10(eng + 1) - 1.5) * 4)
     )
 
-    if mode == "sunday":
+    if mode in ("sunday", "inactives"):
         parts["news_boost"] = (
             WEIGHTS["news_boost"]
             if (tier == "news" or _count(NEWS_PATTERNS, text))
@@ -185,7 +185,7 @@ def score_tweet(t, tiers, mode="weekly"):
 def guess_bucket(t, tiers, mode="weekly"):
     handle = (t["author_handle"] or "").lower()
     text = t["text"] or ""
-    if mode == "sunday" and (
+    if mode in ("sunday", "inactives") and (
         tiers.get(handle) == "news" or _count(NEWS_PATTERNS, text) >= 1
     ):
         return "news"
@@ -207,24 +207,32 @@ def guess_bucket(t, tiers, mode="weekly"):
 # ----------------------------------------------------------------------------
 # Apify collection
 # ----------------------------------------------------------------------------
-def build_queries(since, until, mode="weekly"):
+def build_queries(since, until, mode="weekly", date_clause=None):
     acc = CONFIG["accounts"]
     aq = CONFIG["account_query"]
-    date_clause = f"since:{since} until:{until}"
+    date_clause = date_clause or f"since:{since} until:{until}"
     base_filters = "-filter:nativeretweets -filter:replies"
 
     queries, account_queries = [], []
-    handles = acc["tier1"] + acc["tier2"] + acc["fun"]
-    if mode == "sunday":
-        handles = handles + acc.get("news", [])
+    if mode == "inactives":
+        handles = acc["tier1"] + acc.get("news", [])
+    else:
+        handles = acc["tier1"] + acc["tier2"] + acc["fun"]
+        if mode == "sunday":
+            handles = handles + acc.get("news", [])
     n = aq["handles_per_query"]
     for i in range(0, len(handles), n):
         batch = " OR ".join(f"from:{h}" for h in handles[i : i + n])
         account_queries.append(f"({batch}) {date_clause} {base_filters}")
 
-    searches = list(CONFIG["searches"])
-    if mode == "sunday":
-        searches += CONFIG.get("sunday", {}).get("searches", [])
+    if mode == "inactives":
+        sun = CONFIG.get("sunday", {})
+        searches = [s for s in sun.get("searches", []) if s["name"] == "designations"]
+        searches += sun.get("inactives", {}).get("searches", [])
+    else:
+        searches = list(CONFIG["searches"])
+        if mode == "sunday":
+            searches += CONFIG.get("sunday", {}).get("searches", [])
     for s in searches:
         q = f'{s["query"]} min_faves:{s["min_faves"]} {date_clause} {base_filters}'
         queries.append({"q": q, "max_items": s["max_items"], "name": s["name"]})
@@ -402,18 +410,36 @@ def main():
         sys.exit("APIFY_TOKEN env var is required")
 
     mode = os.environ.get("MODE", "weekly").lower()
-    default_window = (
-        CONFIG.get("sunday", {}).get("window_days", 3)
-        if mode == "sunday"
-        else CONFIG.get("window_days", 7)
-    )
-    window = int(os.environ.get("WINDOW_DAYS", default_window))
     until_dt = datetime.now(timezone.utc)
-    since_dt = until_dt - timedelta(days=window)
+    date_clause = None
+    if mode == "inactives":
+        hours = float(
+            os.environ.get(
+                "WINDOW_HOURS",
+                CONFIG.get("sunday", {}).get("inactives", {}).get("window_hours", 7),
+            )
+        )
+        since_dt = until_dt - timedelta(hours=hours)
+        window = round(hours / 24, 3)
+        date_clause = (
+            f"since_time:{int(since_dt.timestamp())} "
+            f"until_time:{int(until_dt.timestamp())}"
+        )
+    else:
+        default_window = (
+            CONFIG.get("sunday", {}).get("window_days", 3)
+            if mode == "sunday"
+            else CONFIG.get("window_days", 7)
+        )
+        window = int(os.environ.get("WINDOW_DAYS", default_window))
+        since_dt = until_dt - timedelta(days=window)
     since, until = since_dt.strftime("%Y-%m-%d"), (until_dt + timedelta(days=1)).strftime("%Y-%m-%d")
-    print(f"Mode: {mode} | Window: {since} → {until} (UTC)")
+    print(
+        f"Mode: {mode} | Window: {since} → {until} (UTC)"
+        + (f" | clause: {date_clause}" if date_clause else "")
+    )
 
-    account_queries, search_queries = build_queries(since, until, mode)
+    account_queries, search_queries = build_queries(since, until, mode, date_clause)
 
     print(f"Run 1: {len(account_queries)} account-batch queries")
     raw = [
@@ -478,7 +504,12 @@ def main():
         candidates.append(t)
 
     candidates.sort(key=lambda x: -x["score"])
-    candidates = candidates[: CONFIG["output"].get("keep_top", 160)]
+    keep = (
+        CONFIG.get("sunday", {}).get("inactives", {}).get("keep_top", 80)
+        if mode == "inactives"
+        else CONFIG["output"].get("keep_top", 160)
+    )
+    candidates = candidates[:keep]
 
     out = {
         "generated_at": until_dt.isoformat(),
@@ -500,10 +531,12 @@ def main():
     data_dir = ROOT / "data"
     data_dir.mkdir(exist_ok=True)
     stamp = until_dt.strftime("%Y-%m-%d")
-    (data_dir / f"candidates-{stamp}.json").write_text(json.dumps(out, indent=1))
-    (data_dir / "latest.json").write_text(json.dumps(out, indent=1))
+    suffix = "-inactives" if mode == "inactives" else ""
+    latest_name = "inactives-latest.json" if mode == "inactives" else "latest.json"
+    (data_dir / f"candidates-{stamp}{suffix}.json").write_text(json.dumps(out, indent=1))
+    (data_dir / latest_name).write_text(json.dumps(out, indent=1))
     rejects.sort(key=lambda r: (r["reason"], -(r["score"] or 0)))
-    (data_dir / f"rejects-{stamp}.json").write_text(
+    (data_dir / f"rejects-{stamp}{suffix}.json").write_text(
         json.dumps(
             {
                 "generated_at": out["generated_at"],
@@ -519,7 +552,10 @@ def main():
     )
     snapshot_odds(stamp)
     print(json.dumps({k: out[k] for k in ("mode", "window", "counts", "buckets")}, indent=2))
-    print(f"Wrote data/candidates-{stamp}.json, data/rejects-{stamp}.json, data/latest.json")
+    print(
+        f"Wrote data/candidates-{stamp}{suffix}.json, "
+        f"data/rejects-{stamp}{suffix}.json, data/{latest_name}"
+    )
 
 
 if __name__ == "__main__":

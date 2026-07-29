@@ -150,6 +150,17 @@ sunday:
       query: '("opened at" OR "moved to" OR "now favored" OR "line move" OR "total dropped" OR "total moved") (NFL OR spread OR total) lang:en'
       min_faves: 100
       max_items: 60
+  # Inactives Addendum pull — Sundays ~11:45am ET (official inactives drop
+  # 11:30am ET, 90 min before early kickoff). Light pass: tier1 + news
+  # accounts, trailing ~7 hours, hour-precise window.
+  inactives:
+    window_hours: 7
+    keep_top: 80
+    searches:
+      - name: inactives_lists
+        query: '(inactives OR "officially inactive" OR "officially active" OR "is active" OR "will play" OR "not expected to play" OR "surprise inactive") NFL lang:en'
+        min_faves: 50
+        max_items: 120
 
 odds:
   espn_snapshot: true         # keyless spread/OU snapshot each run -> data/odds-DATE.json

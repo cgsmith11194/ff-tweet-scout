@@ -38,3 +38,17 @@ Every bullet: link on the player name (candidate `url` field or fetched source).
 ## Voice
 
 Same newsletter voice, tightened for morning scanning: short declaratives, "The read:" pattern for implications, no hedging padding ("we'll see!"), no filler intros. Length target: readable in three minutes.
+
+---
+
+# Inactives Addendum (separate deliverable, ~12:10pm ET)
+
+Official inactives drop 11:30am ET (90 min before early kickoff) — after the main brief ships. A second light pull runs ~11:45am ET (`data/inactives-latest.json`), and the addendum lands ~12:10pm ET / 9:10am PT as its own short paste-ready block to slot in before sending.
+
+Sections:
+
+- **Inactives — early window**: notable inactives only (fantasy-relevant players, surprise scratches), grouped by game. Each bullet: player, status, and the beneficiary read ("• [Player] inactive — {backup} inherits the early-down work"). Full 7-inactive lists are noise; relevance only.
+- **Game-time calls, resolved**: every Questionable player the main brief flagged as a game-time decision → active or inactive.
+- **Late window / primetime — best known**: reported expectations for 4pm ET and primetime games (clearly labeled as reports, not official).
+
+Rules: official-designation claims must trace to an insider/beat tweet in the pull or a fetched source — never inferred. If the pull is stale or empty, deliver a diagnostic, not guesses. Keep the whole addendum under ~20 bullets; it's a delta, not a second brief.
