@@ -8,6 +8,11 @@
 - Each pick = one paragraph. Multi-stat tweets keep their list structure as line breaks, using the tweet's own style: `1.` numbering for leaderboards, `•` bullets for stat blocks. En dashes (–) between name and value.
 - **Lists get bullets, not comma run-ons.** Any list of names, teams, or setup points (an "only club," camp-buzz names, a multi-point situation breakdown) renders as a `•` bulleted list — one entry per line — never as a long comma string inside a sentence. A comma list is acceptable only for ≤3 short names sharing one value ("Purdy, Jackson, and Herbert, all at −1").
 
+## Ordering notes
+
+- **Straddle the Cold Water fold with two-direction tweets.** When one tweet carries both halves of the story (a best list AND a worst list — e.g. the weekly three-and-out punt rates), don't bury it mid-section: place it right at the Analysis & Hype → Cold Water break, so the positive half closes the hype and the negative half opens the cold.
+- **Keep the same player grouped.** If a pick prominently features a player who has his own item in the same section (a QB-luck leaderboard with Caleb Williams near the top, say, running alongside a standalone Caleb Williams item), rank the two adjacent rather than scattering them.
+
 ## Rewriting rules (Analysis & Hype / Cold Water)
 
 - Light declarative rewording — read like the newsletter wrote it, not like a screenshot.
@@ -44,4 +49,4 @@ New-line pattern examples (note the length — link does the work):
 
 ## Deliverable format
 
-Self-contained HTML file named `FF-Substack-Paste-<YYYY-MM-DD>.html`: Georgia serif, single column, a small instruction note at top separated from the content by an `<hr>`. Everything below the rule is the paste region — H2 headers, `<p>` items with `<br>` line breaks, and `<a>` links all carry over when pasted into the Substack editor. Delivered every week **alongside** the ranked digest HTML, never instead of it.
+Self-contained HTML file named `FF-Substack-Paste-<YYYY-MM-DD>.html`: Georgia serif, single column, section headings unbolded (H2s at normal font weight — size sets them apart, not bold), a small instruction note at top separated from the content by an `<hr>`. Everything below the rule is the paste region — H2 headers, `<p>` items with `<br>` line breaks, and `<a>` links all carry over when pasted into the Substack editor. Delivered every week **alongside** the ranked digest HTML, never instead of it.
