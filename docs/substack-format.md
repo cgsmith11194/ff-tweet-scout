@@ -6,7 +6,9 @@
 
 - Sections in order, as H2 headings: **Analysis & Hype**, **Cold Water**, **The Fun Stuff**.
 - Each pick = one paragraph. Multi-stat tweets keep their list structure as line breaks, using the tweet's own style: `1.` numbering for leaderboards, `•` bullets for stat blocks. En dashes (–) between name and value.
-- **Lists get bullets, not comma run-ons.** Any list of names, teams, or setup points (an "only club," camp-buzz names, a multi-point situation breakdown) renders as a `•` bulleted list — one entry per line — never as a long comma string inside a sentence. A comma list is acceptable only for ≤3 short names sharing one value ("Purdy, Jackson, and Herbert, all at −1").
+- **Lists get bullets, not comma run-ons.** Any list of names, teams, or setup points (an "only club," camp-buzz names, a multi-point situation breakdown) renders as a `•` bulleted list — one entry per line — never as a long comma string inside a sentence. A comma list is acceptable only for short names sharing one value ("Purdy, Jackson, and Herbert, all at −1") — tie lines below are the standing case.
+- **Condense ties onto one line.** Tied entries in a ranked list share a single line under a `T` rank — `T2. Jordan Love, Jared Goff, Bo Nix – 27` — never one line per tied player. The names share one value, so the comma run is sanctioned even past three names. (Past issues also used `T-3.` and value-first groupings like `14 – Deebo Samuel, Jaylen Waddle, Josh Gordon`; any of these reads fine, `T2.` is the default.)
+- **Truncate long lists.** After tie-condensing, a ranked list still running longer than six lines gets cut: keep the top, drop the tail. Unless the point lives lower down (an only-club's newest member, a worst-list dagger, a surprise at No. 38) — then keep the payoff and bridge with a `[...]` line mid-list so the top stays as frame of reference: `1. Justin Herbert – 77` / `2. Dan Marino – 70` / `3. Bo Nix – 64` / `[...]` / `T10. Peyton Manning, Lamar Jackson – 54`.
 
 ## Ordering notes
 
