@@ -53,6 +53,29 @@ New-line pattern examples (note the length — link does the work):
 - "[Puka Nacua](url) put himself fifth on his own top-five list."
 - "Zero running backs in this year's [Madden 99 Club](url)."
 
+## Title + intro (drafted by the weekly session, added 8/6)
+
+The Substack doc opens with the issue title (H1) and a 2-4 short-paragraph intro.
+Both are DRAFTS for Chris and Cam to punch up: the skeleton should survive as-is,
+the insider color (memes, pricing, personal bits) gets injected by the owners —
+that's the division of labor, not a failure.
+
+- **Title:** wordplay off the week's dominant storyline, read from the top picks or
+  the NFL calendar. Put 2-3 alternate titles in the delivery summary, not the doc.
+- **P1 - the hook:** the week's biggest thing (a season milestone, the story the
+  picks orbit). Conversational, wry, first-person-plural.
+- **Middle - one aside + the plugs:** one light roast or running-gag beat when the
+  week's material offers one; then the standing plugs - the draft guide during
+  draft season (roughly May-Aug), the Discord always. Use bracketed
+  [PLACEHOLDERS] for every link, price, date, member count, or personal detail
+  not verifiable from fetched material - NEVER invent specifics. (House reference
+  points that exist but whose numbers drift: Season Pass, the "Costco Clan," the
+  Trophy Room Discord channel.)
+- **Close:** the send-off line ("Without further ado, enjoy this week's content 👇
+  and enjoy the game 🏈" - vary it naturally). Emoji allowed only here.
+- In-season the hook shifts to the week's slate and results; offseason, to camp
+  and draft-season beats. Prose dashes are hyphens here like everywhere else.
+
 ## Mock Tales (recurring segment, added 8/6)
 
 Sits between Cold Water and The Fun Stuff. One tight setup paragraph in the
