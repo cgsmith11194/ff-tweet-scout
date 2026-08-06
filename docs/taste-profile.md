@@ -112,3 +112,47 @@ Rank the top pre-scored candidates by fit to the archetypes above, enforcing: (1
 ### Seasonality
 - **In-season (Sep–Dec):** weekly usage splits, week-range leaders, waiver-relevant opportunity stats, matchup daggers.
 - **Offseason (Jan–Aug):** historical pace/comps, ADP/market-vs-production gaps, coaching-change quantification, camp usage signals, best-ball structure data.
+
+## 6. Post-pick hygiene (added 2026-08-06, calibrated against the 8/6 issue edit)
+
+**Dedup against published editions.** Re-running a tweet — or the same stat from a
+different tweet — that appeared in a prior issue is an anti-pattern. The weekly
+session dedupes every pick against the TWO most recently published issues
+(theffnewsletter.substack.com/archive): exact tweet-id exclusion first, then a fuzzy
+pass for same-stat-different-tweet repeats (same stat frame + same key
+numbers/players; the same player with a genuinely NEW stat is fine). The collector
+also drops candidates the previous same-mode run already offered
+(`kills.repeat_prev_run`), which kills the window-overlap mechanism at the source.
+
+**Comment check (reply-sentiment prune).** Leading candidates ship with a
+`reply_sample` field (top replies by likes, collector-fetched). Before final
+ranking, scan replies on every near-pick and DROP items where informed consensus
+rebuts the stat: corrected numbers, cherry-pick callouts ("min. X is doing all the
+work"), community-notes-style debunks, or a clear clickbait consensus. Fan anger or
+a ratio alone is NOT disqualifying — good cold water gets ratio'd by fans. Log every
+comment-check drop with a one-line quoted reply. Seed example: the 8/6 Egbuka
+with/without-Evans split died to a comment check.
+
+**Scale sanity-check.** Every leaderboard value gets smelled against known
+magnitudes before it makes the board. (Case: a "full-PPR through first 3 seasons"
+list with Justin Jefferson at 653.9 is wrong on its face — his real first-3 total is
+~950.) A stat that fails dies regardless of source or engagement. Transcription
+checks verify us-vs-tweet; this verifies tweet-vs-reality.
+
+**Additional anti-patterns (join §4's list):**
+- **Archive-digging:** a historical stat with no named current-season takeaway (the
+  CJ Spiller 74-rookie-carries tweet). Historical frames must land on a present-day
+  fantasy decision.
+- **Joke-stat noise:** Day-1 camp leaderboards, one-practice samples, era-adjusted
+  anything on tiny data. Cute is not analysis.
+- **Same-story redundancy:** two lists telling one story (worst YPT-over-expected +
+  worst separation score, both Legette-topped) — keep the cleaner one.
+- **Stale-scheme splits:** usage/scheme splits from a departed coach's offense are
+  non-actionable (Dolphins two-high run splits after the staff change).
+
+**The Fun Stuff bar (recalibrated 8/6).** The section skews to NOT-football
+content: locker-room culture, off-field stories, absurd history, video-game and
+meme material. On-field camp highlights (a one-hand catch, "player looks fast," a
+player stating goals) are not Fun Stuff unless truly exceptional — football content
+belongs in Analysis or nowhere.
+
