@@ -2,9 +2,10 @@ name: weekly-collect
 
 on:
   schedule:
-    # Wed 22:00 UTC = 3:00pm PDT / 2:00pm PST — finishes well before the
-    # Wednesday 5pm PT Claude session that builds the digest.
-    - cron: '0 22 * * 3'
+    # Wed 21:23 UTC = 2:23pm PDT / 1:23pm PST. Off-hour minute dodges the :00
+    # scheduled-workflow stampede (runs at '0 22' started ~50min late on 7/29 and
+    # 8/5); even a worst-case delay lands well before the Wednesday digest session.
+    - cron: '23 21 * * 3'
     # In-season Sundays (Sep–Dec) 14:30 UTC = 7:30am PDT / 6:30am PST —
     # news-mode collection (Thu→Sun window) for the 8:30am PT Sunday Brief.
     - cron: '30 14 * 9-12 0'
