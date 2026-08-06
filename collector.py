@@ -404,6 +404,50 @@ def normalize(item, source):
 
 
 # ----------------------------------------------------------------------------
+def fetch_reply_samples(token, candidates, mode):
+    """Attach top replies to each leading candidate as `reply_sample` (list of
+    {text, likes, handle}) — the weekly digest session's comment check reads
+    these to prune tweets the community identifies as misleading/clickbait.
+    Additive and best-effort: any failure leaves candidates unchanged.
+    Tune via CONFIG["replies"]: {enabled, top_candidates, per_tweet}."""
+    cfg = CONFIG.get("replies", {})
+    if not cfg.get("enabled", True) or mode == "inactives":
+        return
+    top_n = int(cfg.get("top_candidates", 100))
+    per = int(cfg.get("per_tweet", 10))
+    targets = [t for t in candidates[:top_n]]
+    if not targets:
+        return
+    queries = [f"conversation_id:{t['id']} filter:replies" for t in targets]
+    print(f"Run 3: reply samples for top {len(targets)} candidates")
+    try:
+        items = run_actor(token, queries, top_n * per)
+    except Exception as e:
+        print(f"WARNING: reply fetch failed ({e}) — continuing without samples")
+        return
+    by_conv = {}
+    for it in items:
+        conv = str(_get(it, "conversationId", "conversation_id")
+                   or _get(it, "inReplyToId", "in_reply_to_status_id") or "")
+        r = normalize(it, "replies")
+        if r and conv:
+            by_conv.setdefault(conv, []).append(r)
+    attached = 0
+    for t in targets:
+        rs = sorted(by_conv.get(t["id"], []), key=lambda x: -(x.get("likes") or 0))
+        rs = [r for r in rs if r.get("author_handle") != t.get("author_handle")]
+        if rs:
+            t["reply_sample"] = [
+                {"text": (r["text"] or "")[:400],
+                 "likes": r.get("likes") or 0,
+                 "handle": r.get("author_handle")}
+                for r in rs[:per]
+            ]
+            attached += 1
+    print(f"Reply samples attached: {attached}/{len(targets)}")
+
+
+# ----------------------------------------------------------------------------
 def main():
     token = os.environ.get("APIFY_TOKEN")
     if not token:
@@ -503,6 +547,29 @@ def main():
         t["bucket_guess"] = bucket
         candidates.append(t)
 
+    # Cross-run dedup (added 2026-08-06): weekly windows overlap ~a day at the
+    # boundary, so boundary-day tweets recur as candidates week over week (this
+    # shipped a repeat in consecutive issues). Drop anything the previous run of
+    # the SAME mode already offered; the digest session separately dedupes
+    # against published issues. Best-effort: never fails the run.
+    try:
+        prev_name = "inactives-latest.json" if mode == "inactives" else "latest.json"
+        prev_path = ROOT / "data" / prev_name
+        if prev_path.exists():
+            prev = json.loads(prev_path.read_text())
+            if prev.get("mode") == mode:
+                prev_ids = {str(p.get("id")) for p in prev.get("candidates", [])}
+                dropped = [t for t in candidates if t["id"] in prev_ids]
+                if dropped:
+                    candidates = [t for t in candidates if t["id"] not in prev_ids]
+                    for t in dropped:
+                        log_reject(t, "repeat_prev_run", t.get("score"))
+                    kills["repeat_prev_run"] = len(dropped)
+                    print(f"Cross-run dedup: dropped {len(dropped)} candidates "
+                          f"already offered by the previous {mode} run")
+    except Exception as e:
+        print(f"WARNING: cross-run dedup skipped ({e})")
+
     candidates.sort(key=lambda x: -x["score"])
     keep = (
         CONFIG.get("sunday", {}).get("inactives", {}).get("keep_top", 80)
@@ -510,6 +577,8 @@ def main():
         else CONFIG["output"].get("keep_top", 160)
     )
     candidates = candidates[:keep]
+
+    fetch_reply_samples(token, candidates, mode)
 
     out = {
         "generated_at": until_dt.isoformat(),
