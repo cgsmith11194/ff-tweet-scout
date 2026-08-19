@@ -98,7 +98,7 @@ accounts:
 account_query:
   handles_per_query: 9        # X search ~512-char query limit
   min_faves: 0                # no floor for followed accounts
-  max_items: 1400             # cap across all account batches per run
+  max_items: 20               # PROBE 8/19: page-1 only, no pagination (was 1400)
 
 # Pattern searches — catch the ~40% of picks from one-off accounts.
 # {since}/{until} are injected by collector.py.
@@ -106,35 +106,35 @@ searches:
   - name: routes_targets
     query: '("yards per route run" OR YPRR OR "targets per route" OR "target share" OR "route share" OR "route participation") lang:en'
     min_faves: 120
-    max_items: 120
+    max_items: 3
   - name: only_first_since
     query: '(NFL OR fantasy) ("first player since" OR "only player in" OR "first rookie since" OR "in NFL history" OR "Super Bowl era") lang:en'
     min_faves: 250
-    max_items: 120
+    max_items: 3
   - name: rushing_efficiency
     query: '("yards after contact" OR "missed tackles forced" OR "rush yards over expected" OR RYOE OR "success rate" OR "explosive run") (RB OR rushing OR carries) lang:en'
     min_faves: 120
-    max_items: 100
+    max_items: 3
   - name: epa_qb
     query: '("EPA per" OR "EPA/play" OR CPOE OR "completion percentage over expected" OR "off target rate" OR "pressure rate") (QB OR quarterback OR dropback) lang:en'
     min_faves: 120
-    max_items: 100
+    max_items: 3
   - name: usage_snaps
     query: '("snap share" OR "snap rate" OR "route rate" OR "1st read" OR "first read") (WR OR TE OR RB OR target) lang:en'
     min_faves: 120
-    max_items: 100
+    max_items: 3
   - name: redzone_goalline
     query: '("inside the 5" OR "inside the 10" OR "end zone targets" OR "goal line carries" OR "red zone targets") lang:en'
     min_faves: 100
-    max_items: 80
+    max_items: 3
   - name: pace_scheme
     query: '("situation-neutral pace" OR "neutral pace" OR "pass rate over expectation" OR PROE OR "play-action rate" OR "pace of play") NFL lang:en'
     min_faves: 80
-    max_items: 80
+    max_items: 3
   - name: fantasy_pace_market
     query: '("fantasy points per game" OR "PPR points per game" OR "on pace for" OR "priced as" OR ADP) (WR OR RB OR TE OR QB) lang:en'
     min_faves: 150
-    max_items: 120
+    max_items: 3
 
 # Sunday Brief mode (MODE=sunday): Thu->Sun window, news lens for the
 # in-season Sunday AM edition. Injury/designation news is BOOSTED here,

@@ -1,1 +1,1 @@
-poke: 2026-08-19T23:38:45Z — retry pinned to build 1.0.507 (pre-regression per Chris), since_time-only clause
+poke: 2026-08-19T23:48:20Z — PROBE: page-1-only caps (account 20, searches 3ea) to test pagination-breakage theory
