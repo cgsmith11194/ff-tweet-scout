@@ -1,1 +1,1 @@
-poke: 2026-08-19T23:36:18Z — retry with since_time-only (no upper bound), latest build
+poke: 2026-08-19T23:38:45Z — retry pinned to build 1.0.507 (pre-regression per Chris), since_time-only clause

@@ -7,10 +7,10 @@ apify:
   # kaitoeasyapi = $0.25 per 1,000 tweets, pay-per-result
   # (swap for apidojo~tweet-scraper if you prefer; collector normalizes both)
   actor: kaitoeasyapi~twitter-x-data-tweet-scraper-pay-per-result-cheapest
-  # 8/19 incident note: X degraded date-bounded search; fix was dropping the
-  # upper date bound from queries (see collector.py). A build pin knob exists
-  # if an actor release ever misbehaves: uncomment to pin, remove for latest.
-  # build: "1.0.509"
+  # 8/19 incident: build 1.0.509 (current "latest") returns only mock filler
+  # for every query — day-string, epoch, and since-only date clauses alike.
+  # 1.0.507 was the last build before the regression (Chris). Remove to unpin.
+  build: "1.0.507"
   query_type: Latest        # Latest | Top
   poll_seconds: 15
   timeout_minutes: 20
