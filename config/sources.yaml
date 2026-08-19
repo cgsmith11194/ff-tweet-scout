@@ -7,6 +7,10 @@ apify:
   # kaitoeasyapi = $0.25 per 1,000 tweets, pay-per-result
   # (swap for apidojo~tweet-scraper if you prefer; collector normalizes both)
   actor: kaitoeasyapi~twitter-x-data-tweet-scraper-pay-per-result-cheapest
+  # 8/19 incident: current build returns only mock filler (zero real tweets)
+  # for every query, with both day-string and epoch date operators. Pinned to
+  # the last known-good build (8/12 run). Remove this line to return to latest.
+  build: "1.0.509"
   query_type: Latest        # Latest | Top
   poll_seconds: 15
   timeout_minutes: 20
