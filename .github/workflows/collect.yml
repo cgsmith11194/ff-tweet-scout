@@ -15,6 +15,14 @@ on:
     - cron: '45 15 * 9,10 0'
     - cron: '45 16 * 11,12 0'
   workflow_dispatch: {}
+  # Manual poke reachable from Claude sandbox sessions: the sandbox git proxy
+  # allows authenticated pushes but blocks api.github.com, so workflow_dispatch
+  # can't be called from there. Bumping .github/collect-now fires a collection
+  # (mode is computed from the day, same as a dispatch). Data commits carry
+  # [skip ci] and the paths filter is exact, so this cannot self-loop.
+  push:
+    branches: [main]
+    paths: ['.github/collect-now']
 
 permissions:
   contents: write
