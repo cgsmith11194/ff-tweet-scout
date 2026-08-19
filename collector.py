@@ -277,8 +277,12 @@ def run_actor(token, search_terms, max_items):
     payload = {
         "searchTerms": search_terms,
         "maxItems": max_items,
+        # Send both actors' input dialects; each ignores the other's keys.
+        # kaitoeasyapi: queryType + lang | apidojo: sort + tweetLanguage
         "queryType": CONFIG["apify"].get("query_type", "Latest"),
+        "sort": CONFIG["apify"].get("query_type", "Latest"),
         "lang": "en",
+        "tweetLanguage": "en",
     }
     params = {"token": token}
     # Optional escape hatch: pin an actor build (tag or number, e.g. "1.0.509")
