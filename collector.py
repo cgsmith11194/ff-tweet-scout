@@ -280,9 +280,14 @@ def run_actor(token, search_terms, max_items):
         "queryType": CONFIG["apify"].get("query_type", "Latest"),
         "lang": "en",
     }
+    params = {"token": token}
+    # Optional escape hatch: pin an actor build (tag or number, e.g. "1.0.509")
+    # via config when a new actor build misbehaves. Omit to run "latest".
+    if CONFIG["apify"].get("build"):
+        params["build"] = str(CONFIG["apify"]["build"])
     r = requests.post(
         f"{APIFY_BASE}/acts/{actor}/runs",
-        params={"token": token},
+        params=params,
         json=payload,
         timeout=60,
     )
@@ -477,6 +482,16 @@ def main():
         )
         window = int(os.environ.get("WINDOW_DAYS", default_window))
         since_dt = until_dt - timedelta(days=window)
+        # 2026-08-19: X broke day-granularity since:/until: search operators
+        # (~8/15 per the actor's changelog) — the 8/19 weekly run got 0 real
+        # tweets across all 15 queries, only per-call mock filler. The actor
+        # now directs everyone to Unix-timestamp operators, which inactives
+        # mode always used. Use them for every mode; the day-string clause in
+        # build_queries() remains only as a never-reached fallback.
+        date_clause = (
+            f"since_time:{int(since_dt.timestamp())} "
+            f"until_time:{int(until_dt.timestamp())}"
+        )
     since, until = since_dt.strftime("%Y-%m-%d"), (until_dt + timedelta(days=1)).strftime("%Y-%m-%d")
     print(
         f"Mode: {mode} | Window: {since} → {until} (UTC)"
