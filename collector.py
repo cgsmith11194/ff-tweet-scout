@@ -470,10 +470,7 @@ def main():
         )
         since_dt = until_dt - timedelta(hours=hours)
         window = round(hours / 24, 3)
-        date_clause = (
-            f"since_time:{int(since_dt.timestamp())} "
-            f"until_time:{int(until_dt.timestamp())}"
-        )
+        date_clause = f"since_time:{int(since_dt.timestamp())}"  # until==now; upper bound dropped 8/19, see below
     else:
         default_window = (
             CONFIG.get("sunday", {}).get("window_days", 3)
@@ -482,16 +479,14 @@ def main():
         )
         window = int(os.environ.get("WINDOW_DAYS", default_window))
         since_dt = until_dt - timedelta(days=window)
-        # 2026-08-19: X broke day-granularity since:/until: search operators
-        # (~8/15 per the actor's changelog) — the 8/19 weekly run got 0 real
-        # tweets across all 15 queries, only per-call mock filler. The actor
-        # now directs everyone to Unix-timestamp operators, which inactives
-        # mode always used. Use them for every mode; the day-string clause in
-        # build_queries() remains only as a never-reached fallback.
-        date_clause = (
-            f"since_time:{int(since_dt.timestamp())} "
-            f"until_time:{int(until_dt.timestamp())}"
-        )
+        # 2026-08-19: X degraded date-bounded search — day-string since:/until:
+        # AND epoch operators with an upper bound both returned 0 real tweets
+        # across all 15 weekly queries (mock filler only), on latest and pinned
+        # builds alike. apidojo's scraper docs (updated 8/19) flag `until`
+        # specifically and advise dropping date filters. Our until is always
+        # "now", so it's semantically free to drop: use a since_time lower
+        # bound only, and post-filter by created_at below as the true window.
+        date_clause = f"since_time:{int(since_dt.timestamp())}"
     since, until = since_dt.strftime("%Y-%m-%d"), (until_dt + timedelta(days=1)).strftime("%Y-%m-%d")
     print(
         f"Mode: {mode} | Window: {since} → {until} (UTC)"
@@ -538,6 +533,14 @@ def main():
         if not t:
             kills["unparseable"] = kills.get("unparseable", 0) + 1
             continue
+        # Post-hoc window filter (8/19): queries no longer carry an upper date
+        # bound (X degraded `until`-style operators), so enforce the window
+        # here. Missing created_at passes through — scoring judges those.
+        if t.get("created_at"):
+            cdt = datetime.fromisoformat(t["created_at"])
+            if cdt < since_dt or cdt > until_dt + timedelta(hours=1):
+                kills["out_of_window"] = kills.get("out_of_window", 0) + 1
+                continue
         if t["id"] in seen:
             continue
         seen.add(t["id"])
