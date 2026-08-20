@@ -210,15 +210,8 @@ def guess_bucket(t, tiers, mode="weekly"):
 def build_queries(since, until, mode="weekly", date_clause=None):
     acc = CONFIG["accounts"]
     aq = CONFIG["account_query"]
-    # None -> legacy day-string clause. "" -> deliberately NO date operators
-    # (8/20: X zeroes out date-filtered searches; the collector enforces the
-    # window post-hoc via created_at instead — kills.out_of_window).
-    if date_clause is None:
-        date_clause = f"since:{since} until:{until}"
-    # 8/20: -filter: operators removed from queries — final query-side suspect
-    # in the zero-results incident (X appears to reject advanced operators).
-    # Retweets/replies are already killed post-hoc in score_tweet().
-    base_filters = ""
+    date_clause = date_clause or f"since:{since} until:{until}"
+    base_filters = "-filter:nativeretweets -filter:replies"
 
     queries, account_queries = [], []
     if mode == "inactives":
@@ -230,7 +223,7 @@ def build_queries(since, until, mode="weekly", date_clause=None):
     n = aq["handles_per_query"]
     for i in range(0, len(handles), n):
         batch = " OR ".join(f"from:{h}" for h in handles[i : i + n])
-        account_queries.append(" ".join(x for x in [f"({batch})", date_clause, base_filters] if x))
+        account_queries.append(f"({batch}) {date_clause} {base_filters}")
 
     if mode == "inactives":
         sun = CONFIG.get("sunday", {})
@@ -241,8 +234,7 @@ def build_queries(since, until, mode="weekly", date_clause=None):
         if mode == "sunday":
             searches += CONFIG.get("sunday", {}).get("searches", [])
     for s in searches:
-        mf = f'min_faves:{s["min_faves"]}' if s.get("min_faves") else ""
-        q = " ".join(x for x in [s["query"], mf, date_clause, base_filters] if x)
+        q = f'{s["query"]} min_faves:{s["min_faves"]} {date_clause} {base_filters}'
         queries.append({"q": q, "max_items": s["max_items"], "name": s["name"]})
 
     return account_queries, queries
@@ -280,39 +272,17 @@ def snapshot_odds(stamp):
         print(f"WARNING: odds snapshot failed ({e}) — continuing without it")
 
 
-def run_actor_handles(token, handles, max_items):
-    """Profile-timeline scrape via apidojo's twitterHandles input — bypasses
-    X search entirely (8/20: X search returns empty to scraper actors; the
-    timeline endpoint is a separate door). Same output schema as searches."""
-    actor = CONFIG["apify"]["actor"]
-    payload = {
-        "twitterHandles": handles,
-        "maxItems": max_items,
-        "sort": "Latest",
-        "tweetLanguage": "en",
-    }
-    return _run_actor_payload(token, actor, payload)
-
-
 def run_actor(token, search_terms, max_items):
+    actor = CONFIG["apify"]["actor"]
     payload = {
         "searchTerms": search_terms,
         "maxItems": max_items,
-        # Send both actors' input dialects; each ignores the other's keys.
-        # kaitoeasyapi: queryType + lang | apidojo: sort + tweetLanguage
         "queryType": CONFIG["apify"].get("query_type", "Latest"),
-        "sort": CONFIG["apify"].get("query_type", "Latest"),
         "lang": "en",
-        "tweetLanguage": "en",
     }
-    actor = CONFIG["apify"]["actor"]
-    return _run_actor_payload(token, actor, payload)
-
-
-def _run_actor_payload(token, actor, payload):
     params = {"token": token}
-    # Optional escape hatch: pin an actor build (tag or number, e.g. "1.0.509")
-    # via config when a new actor build misbehaves. Omit to run "latest".
+    # Optional escape hatch: pin an actor build (tag or number, e.g. "1.0.507")
+    # via config key apify.build when an actor release misbehaves.
     if CONFIG["apify"].get("build"):
         params["build"] = str(CONFIG["apify"]["build"])
     r = requests.post(
@@ -500,7 +470,10 @@ def main():
         )
         since_dt = until_dt - timedelta(hours=hours)
         window = round(hours / 24, 3)
-        date_clause = ""  # 8/20: date operators removed entirely, see below
+        date_clause = (
+            f"since_time:{int(since_dt.timestamp())} "
+            f"until_time:{int(until_dt.timestamp())}"
+        )
     else:
         default_window = (
             CONFIG.get("sunday", {}).get("window_days", 3)
@@ -509,14 +482,13 @@ def main():
         )
         window = int(os.environ.get("WINDOW_DAYS", default_window))
         since_dt = until_dt - timedelta(days=window)
-        # 2026-08-19/20 incident: X zeroes out date-filtered search. Every
-        # variant failed with 0 real results across two independent actors
-        # (kaito: mock filler; apidojo: {"noResults": true}) — day-string
-        # since:/until:, epoch pairs, and epoch since-only alike. Latest-sort
-        # queries with NO date operators + the created_at post-filter below
-        # are the working strategy; the window narrows to whatever the caps
-        # reach back to (accepted: recent-slice-of-week beats zero).
-        date_clause = ""
+        # 8/19-20 incident: X degraded date-filtered search. Both actors' docs
+        # now direct users to Unix-timestamp operators and flag `until`-style
+        # upper bounds specifically. Our until is always run-start "now", so a
+        # since_time-only clause is semantically identical — and the collector
+        # additionally enforces the window post-hoc via created_at (see
+        # kills.out_of_window) in case the lower bound is also ignored.
+        date_clause = f"since_time:{int(since_dt.timestamp())}"
     since, until = since_dt.strftime("%Y-%m-%d"), (until_dt + timedelta(days=1)).strftime("%Y-%m-%d")
     print(
         f"Mode: {mode} | Window: {since} → {until} (UTC)"
@@ -525,20 +497,10 @@ def main():
 
     account_queries, search_queries = build_queries(since, until, mode, date_clause)
 
-    # 8/20: account collection now scrapes profile timelines (twitterHandles)
-    # instead of from:-batched searches — X search returns empty to scraper
-    # actors, timelines are a separate endpoint. Handles mirror build_queries.
-    acc = CONFIG["accounts"]
-    if mode == "inactives":
-        handles = acc["tier1"] + acc.get("news", [])
-    else:
-        handles = acc["tier1"] + acc["tier2"] + acc["fun"]
-        if mode == "sunday":
-            handles = handles + acc.get("news", [])
-    print(f"Run 1: timeline scrape of {len(handles)} handles")
+    print(f"Run 1: {len(account_queries)} account-batch queries")
     raw = [
         (it, "accounts")
-        for it in run_actor_handles(token, handles, CONFIG["account_query"]["max_items"])
+        for it in run_actor(token, account_queries, CONFIG["account_query"]["max_items"])
     ]
     print(f"  got {len(raw)} items")
 
@@ -548,9 +510,9 @@ def main():
     raw += [(it, "search") for it in run_actor(token, search_terms, search_cap)]
     print(f"  total raw items: {len(raw)}")
 
-    # Observability (2026-08-20): persist a verbatim sample of raw actor output.
-    # The 8/19 incident (every item killed as unparseable) was debugged blind —
-    # raw datasets only live in the Apify console. Never fails the run.
+    # Observability (2026-08-20): persist a verbatim sample of raw actor output
+    # so schema drift / notice items are diagnosable from the repo (the 8/19
+    # incident was debugged blind). Never fails the run.
     try:
         (ROOT / "data" / "raw-sample.json").write_text(
             json.dumps([it for it, _ in raw[:10]], indent=1, default=str)[:100000]
@@ -583,9 +545,9 @@ def main():
         if not t:
             kills["unparseable"] = kills.get("unparseable", 0) + 1
             continue
-        # Post-hoc window filter (8/19): queries no longer carry an upper date
-        # bound (X degraded `until`-style operators), so enforce the window
-        # here. Missing created_at passes through — scoring judges those.
+        # Post-hoc window enforcement (8/20): queries carry only a since_time
+        # lower bound now, so verify created_at against the true window here.
+        # Missing created_at passes through — scoring judges those.
         if t.get("created_at"):
             cdt = datetime.fromisoformat(t["created_at"])
             if cdt < since_dt or cdt > until_dt + timedelta(hours=1):
