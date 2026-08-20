@@ -241,7 +241,8 @@ def build_queries(since, until, mode="weekly", date_clause=None):
         if mode == "sunday":
             searches += CONFIG.get("sunday", {}).get("searches", [])
     for s in searches:
-        q = " ".join(x for x in [s["query"], f'min_faves:{s["min_faves"]}', date_clause, base_filters] if x)
+        mf = f'min_faves:{s["min_faves"]}' if s.get("min_faves") else ""
+        q = " ".join(x for x in [s["query"], mf, date_clause, base_filters] if x)
         queries.append({"q": q, "max_items": s["max_items"], "name": s["name"]})
 
     return account_queries, queries
