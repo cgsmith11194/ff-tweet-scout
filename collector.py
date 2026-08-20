@@ -280,8 +280,21 @@ def snapshot_odds(stamp):
         print(f"WARNING: odds snapshot failed ({e}) — continuing without it")
 
 
-def run_actor(token, search_terms, max_items):
+def run_actor_handles(token, handles, max_items):
+    """Profile-timeline scrape via apidojo's twitterHandles input — bypasses
+    X search entirely (8/20: X search returns empty to scraper actors; the
+    timeline endpoint is a separate door). Same output schema as searches."""
     actor = CONFIG["apify"]["actor"]
+    payload = {
+        "twitterHandles": handles,
+        "maxItems": max_items,
+        "sort": "Latest",
+        "tweetLanguage": "en",
+    }
+    return _run_actor_payload(token, actor, payload)
+
+
+def run_actor(token, search_terms, max_items):
     payload = {
         "searchTerms": search_terms,
         "maxItems": max_items,
@@ -292,6 +305,11 @@ def run_actor(token, search_terms, max_items):
         "lang": "en",
         "tweetLanguage": "en",
     }
+    actor = CONFIG["apify"]["actor"]
+    return _run_actor_payload(token, actor, payload)
+
+
+def _run_actor_payload(token, actor, payload):
     params = {"token": token}
     # Optional escape hatch: pin an actor build (tag or number, e.g. "1.0.509")
     # via config when a new actor build misbehaves. Omit to run "latest".
@@ -507,10 +525,20 @@ def main():
 
     account_queries, search_queries = build_queries(since, until, mode, date_clause)
 
-    print(f"Run 1: {len(account_queries)} account-batch queries")
+    # 8/20: account collection now scrapes profile timelines (twitterHandles)
+    # instead of from:-batched searches — X search returns empty to scraper
+    # actors, timelines are a separate endpoint. Handles mirror build_queries.
+    acc = CONFIG["accounts"]
+    if mode == "inactives":
+        handles = acc["tier1"] + acc.get("news", [])
+    else:
+        handles = acc["tier1"] + acc["tier2"] + acc["fun"]
+        if mode == "sunday":
+            handles = handles + acc.get("news", [])
+    print(f"Run 1: timeline scrape of {len(handles)} handles")
     raw = [
         (it, "accounts")
-        for it in run_actor(token, account_queries, CONFIG["account_query"]["max_items"])
+        for it in run_actor_handles(token, handles, CONFIG["account_query"]["max_items"])
     ]
     print(f"  got {len(raw)} items")
 
