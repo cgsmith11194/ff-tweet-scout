@@ -1,6 +1,5 @@
 {
  "generated_at": "2026-08-20T00:02:30.063258+00:00",
- "mode": "weekly",
  "window": {
   "since": "2026-08-13",
   "until": "2026-08-21",
@@ -14,11 +13,6 @@
    "unparseable": 20
   }
  },
- "buckets": {
-  "analysis_hype": 0,
-  "cold_water": 0,
-  "fun": 0,
-  "news": 0
- },
- "candidates": []
+ "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
+ "rejects": []
 }

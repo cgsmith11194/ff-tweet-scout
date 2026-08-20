@@ -1,0 +1,117 @@
+{
+ "captured_at": "2026-08-20",
+ "games": [
+  {
+   "game": "DET @ CIN",
+   "date": "2026-08-13T23:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "GB @ PIT",
+   "date": "2026-08-13T23:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "IND @ NE",
+   "date": "2026-08-13T23:30Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "ARI @ LV",
+   "date": "2026-08-14T00:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "LAC @ HOU",
+   "date": "2026-08-14T00:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "TEN @ SF",
+   "date": "2026-08-14T01:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "DEN @ ATL",
+   "date": "2026-08-14T23:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "TB @ NYJ",
+   "date": "2026-08-14T23:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "MIA @ WSH",
+   "date": "2026-08-14T23:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "CAR @ BUF",
+   "date": "2026-08-15T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "CLE @ CHI",
+   "date": "2026-08-15T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "MIN @ NYG",
+   "date": "2026-08-15T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "LAR @ KC",
+   "date": "2026-08-15T20:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "JAX @ NO",
+   "date": "2026-08-15T20:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "PHI @ BAL",
+   "date": "2026-08-15T23:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "DAL @ SEA",
+   "date": "2026-08-16T00:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  }
+ ]
+}
