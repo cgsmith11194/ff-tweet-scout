@@ -215,7 +215,10 @@ def build_queries(since, until, mode="weekly", date_clause=None):
     # window post-hoc via created_at instead — kills.out_of_window).
     if date_clause is None:
         date_clause = f"since:{since} until:{until}"
-    base_filters = "-filter:nativeretweets -filter:replies"
+    # 8/20: -filter: operators removed from queries — final query-side suspect
+    # in the zero-results incident (X appears to reject advanced operators).
+    # Retweets/replies are already killed post-hoc in score_tweet().
+    base_filters = ""
 
     queries, account_queries = [], []
     if mode == "inactives":
