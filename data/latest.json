@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T23:48:30.868925+00:00",
+ "generated_at": "2026-08-19T23:59:26.377866+00:00",
  "mode": "weekly",
  "window": {
   "since": "2026-08-12",
@@ -7,11 +7,11 @@
   "days": 7
  },
  "counts": {
-  "raw": 30,
+  "raw": 20,
   "unique": 0,
   "kept": 0,
   "kills": {
-   "unparseable": 30
+   "unparseable": 20
   }
  },
  "buckets": {
