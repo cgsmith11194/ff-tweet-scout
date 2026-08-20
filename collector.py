@@ -512,6 +512,16 @@ def main():
     raw += [(it, "search") for it in run_actor(token, search_terms, search_cap)]
     print(f"  total raw items: {len(raw)}")
 
+    # Observability (2026-08-20): persist a verbatim sample of raw actor output.
+    # The 8/19 incident (every item killed as unparseable) was debugged blind —
+    # raw datasets only live in the Apify console. Never fails the run.
+    try:
+        (ROOT / "data" / "raw-sample.json").write_text(
+            json.dumps([it for it, _ in raw[:10]], indent=1, default=str)[:100000]
+        )
+    except Exception as e:
+        print(f"  raw-sample dump failed: {e}")
+
     tiers = {}
     for tier_name in ("tier1", "tier2", "fun", "news"):
         for h in CONFIG["accounts"].get(tier_name, []):
