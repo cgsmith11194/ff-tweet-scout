@@ -210,7 +210,11 @@ def guess_bucket(t, tiers, mode="weekly"):
 def build_queries(since, until, mode="weekly", date_clause=None):
     acc = CONFIG["accounts"]
     aq = CONFIG["account_query"]
-    date_clause = date_clause or f"since:{since} until:{until}"
+    # None -> legacy day-string clause. "" -> deliberately NO date operators
+    # (8/20: X zeroes out date-filtered searches; the collector enforces the
+    # window post-hoc via created_at instead — kills.out_of_window).
+    if date_clause is None:
+        date_clause = f"since:{since} until:{until}"
     base_filters = "-filter:nativeretweets -filter:replies"
 
     queries, account_queries = [], []
@@ -223,7 +227,7 @@ def build_queries(since, until, mode="weekly", date_clause=None):
     n = aq["handles_per_query"]
     for i in range(0, len(handles), n):
         batch = " OR ".join(f"from:{h}" for h in handles[i : i + n])
-        account_queries.append(f"({batch}) {date_clause} {base_filters}")
+        account_queries.append(" ".join(x for x in [f"({batch})", date_clause, base_filters] if x))
 
     if mode == "inactives":
         sun = CONFIG.get("sunday", {})
@@ -234,7 +238,7 @@ def build_queries(since, until, mode="weekly", date_clause=None):
         if mode == "sunday":
             searches += CONFIG.get("sunday", {}).get("searches", [])
     for s in searches:
-        q = f'{s["query"]} min_faves:{s["min_faves"]} {date_clause} {base_filters}'
+        q = " ".join(x for x in [s["query"], f'min_faves:{s["min_faves"]}', date_clause, base_filters] if x)
         queries.append({"q": q, "max_items": s["max_items"], "name": s["name"]})
 
     return account_queries, queries
@@ -474,7 +478,7 @@ def main():
         )
         since_dt = until_dt - timedelta(hours=hours)
         window = round(hours / 24, 3)
-        date_clause = f"since_time:{int(since_dt.timestamp())}"  # until==now; upper bound dropped 8/19, see below
+        date_clause = ""  # 8/20: date operators removed entirely, see below
     else:
         default_window = (
             CONFIG.get("sunday", {}).get("window_days", 3)
@@ -483,14 +487,14 @@ def main():
         )
         window = int(os.environ.get("WINDOW_DAYS", default_window))
         since_dt = until_dt - timedelta(days=window)
-        # 2026-08-19: X degraded date-bounded search — day-string since:/until:
-        # AND epoch operators with an upper bound both returned 0 real tweets
-        # across all 15 weekly queries (mock filler only), on latest and pinned
-        # builds alike. apidojo's scraper docs (updated 8/19) flag `until`
-        # specifically and advise dropping date filters. Our until is always
-        # "now", so it's semantically free to drop: use a since_time lower
-        # bound only, and post-filter by created_at below as the true window.
-        date_clause = f"since_time:{int(since_dt.timestamp())}"
+        # 2026-08-19/20 incident: X zeroes out date-filtered search. Every
+        # variant failed with 0 real results across two independent actors
+        # (kaito: mock filler; apidojo: {"noResults": true}) — day-string
+        # since:/until:, epoch pairs, and epoch since-only alike. Latest-sort
+        # queries with NO date operators + the created_at post-filter below
+        # are the working strategy; the window narrows to whatever the caps
+        # reach back to (accepted: recent-slice-of-week beats zero).
+        date_clause = ""
     since, until = since_dt.strftime("%Y-%m-%d"), (until_dt + timedelta(days=1)).strftime("%Y-%m-%d")
     print(
         f"Mode: {mode} | Window: {since} → {until} (UTC)"
