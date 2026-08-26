@@ -1,32 +1,3216 @@
 [
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092744055171973491",
+  "url": "https://x.com/jagibbs_23/status/2092744055171973491",
+  "twitterUrl": "https://twitter.com/jagibbs_23/status/2092744055171973491",
+  "text": "Every Fernando Mendoza dropback - Preseason Week 2 https://t.co/fZIyMjTgZC",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 8,
+  "quoteCount": 0,
+  "viewCount": 5839,
+  "createdAt": "Wed Aug 26 22:40:38 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092744055171973491",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "jagibbs_23",
+   "url": "https://x.com/jagibbs_23",
+   "twitterUrl": "https://twitter.com/jagibbs_23",
+   "id": "3334410552",
+   "name": "Jacob Gibbs",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
+   "description": "",
+   "location": "Kansas City, MO",
+   "followers": 73880,
+   "following": 866,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 26505,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 8571,
+   "statusesCount": 41138,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2092344624392065220"
+   ],
+   "profile_bio": {
+    "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "cbssports.com/newsletters/fa\u2026",
+        "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/6MwuwHkH5N"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/fZIyMjTgZC",
+     "expanded_url": "https://x.com/jagibbs_23/status/2092744055171973491/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2092743217942802433",
+     "indices": [
+      51,
+      74
+     ],
+     "media_key": "13_2092743217942802433",
+     "media_results": {
+      "result": {
+       "media_key": "13_2092743217942802433"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2092743217942802433/img/iL-wSJqw-JXVZh3D.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 710,
+      "width": 1256
+     },
+     "sizes": {
+      "large": {
+       "h": 710,
+       "resize": "fit",
+       "w": 1256
+      },
+      "medium": {
+       "h": 678,
+       "resize": "fit",
+       "w": 1200
+      },
+      "small": {
+       "h": 384,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "video",
+     "url": "https://t.co/fZIyMjTgZC",
+     "video_info": {
+      "aspect_ratio": [
+       628,
+       355
+      ],
+      "duration_millis": 228066,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2092743217942802433/pl/PmUmBT8PH3RdyynU.m3u8?tag=29"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092743217942802433/vid/avc1/476x270/x-Q0tcmCwgxbKzdo.mp4?tag=29"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092743217942802433/vid/avc1/636x360/vdZkoLHDdgqb5eaT.mp4?tag=29"
+       },
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092743217942802433/vid/avc1/1256x710/BXiwEi-6eVwEJYbg.mp4?tag=29"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/fZIyMjTgZC",
+     "expanded_url": "https://x.com/jagibbs_23/status/2092744055171973491/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2092743217942802433",
+     "indices": [
+      51,
+      74
+     ],
+     "media_key": "13_2092743217942802433",
+     "media_results": {
+      "result": {
+       "media_key": "13_2092743217942802433"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2092743217942802433/img/iL-wSJqw-JXVZh3D.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 710,
+      "width": 1256
+     },
+     "sizes": {
+      "large": {
+       "h": 710,
+       "resize": "fit",
+       "w": 1256
+      },
+      "medium": {
+       "h": 678,
+       "resize": "fit",
+       "w": 1200
+      },
+      "small": {
+       "h": 384,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "video",
+     "url": "https://t.co/fZIyMjTgZC",
+     "video_info": {
+      "aspect_ratio": [
+       628,
+       355
+      ],
+      "duration_millis": 228066,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2092743217942802433/pl/PmUmBT8PH3RdyynU.m3u8?tag=29"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092743217942802433/vid/avc1/476x270/x-Q0tcmCwgxbKzdo.mp4?tag=29"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092743217942802433/vid/avc1/636x360/vdZkoLHDdgqb5eaT.mp4?tag=29"
+       },
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092743217942802433/vid/avc1/1256x710/BXiwEi-6eVwEJYbg.mp4?tag=29"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": {
+   "type": "tweet",
+   "id": "2088366232818848149",
+   "url": "https://x.com/jagibbs_23/status/2088366232818848149",
+   "twitterUrl": "https://twitter.com/jagibbs_23/status/2088366232818848149",
+   "text": "Fernando Mendoza - every dropback - Preseason Week 1 https://t.co/Qtns2xuxNm",
+   "source": "",
+   "retweetCount": 0,
+   "replyCount": 0,
+   "likeCount": 15,
+   "quoteCount": 1,
+   "viewCount": 12245,
+   "createdAt": "Fri Aug 14 20:44:44 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 3,
+   "isReply": false,
+   "inReplyToId": null,
+   "conversationId": "2088366232818848149",
+   "inReplyToUserId": null,
+   "inReplyToUsername": null,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "jagibbs_23",
+    "url": "https://x.com/jagibbs_23",
+    "twitterUrl": "https://twitter.com/jagibbs_23",
+    "id": "3334410552",
+    "name": "Jacob Gibbs",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
+    "description": "",
+    "location": "Kansas City, MO",
+    "followers": 73880,
+    "following": 866,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
+    "entities": {
+     "description": {
+      "urls": []
+     },
+     "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26505,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 8571,
+    "statusesCount": 41138,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2092344624392065220"
+    ],
+    "profile_bio": {
+     "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
+     "entities": {
+      "description": {},
+      "url": {
+       "urls": [
+        {
+         "display_url": "cbssports.com/newsletters/fa\u2026",
+         "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
+         "indices": [
+          0,
+          23
+         ],
+         "url": "https://t.co/6MwuwHkH5N"
+        }
+       ]
+      }
+     }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+   },
+   "extendedEntities": {
+    "media": [
+     {
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/Qtns2xuxNm",
+      "expanded_url": "https://x.com/jagibbs_23/status/2088366232818848149/video/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "id_str": "2088366042204516352",
+      "indices": [
+       53,
+       76
+      ],
+      "media_key": "13_2088366042204516352",
+      "media_results": {
+       "result": {
+        "media_key": "13_2088366042204516352"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2088366042204516352/img/OAHE5pofRb5JEVep.jpg",
+      "original_info": {
+       "focus_rects": [],
+       "height": 776,
+       "width": 1390
+      },
+      "sizes": {
+       "large": {
+        "h": 776,
+        "resize": "fit",
+        "w": 1390
+       },
+       "medium": {
+        "h": 670,
+        "resize": "fit",
+        "w": 1200
+       },
+       "small": {
+        "h": 380,
+        "resize": "fit",
+        "w": 680
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "video",
+      "url": "https://t.co/Qtns2xuxNm",
+      "video_info": {
+       "aspect_ratio": [
+        695,
+        388
+       ],
+       "duration_millis": 269833,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/pl/bw5qwYW3ITTJ9XHJ.m3u8?tag=29"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/vid/avc1/482x270/OROeAso0sEVspoP8.mp4?tag=29"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/vid/avc1/644x360/kdWGqBH4HPfZjujk.mp4?tag=29"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/vid/avc1/1288x720/y_I8gZvDOpBtMCSH.mp4?tag=29"
+        },
+        {
+         "bitrate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/vid/avc1/1390x776/RfagqOdjnOGkt064.mp4?tag=29"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "card": null,
+   "place": {},
+   "entities": {
+    "media": [
+     {
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/Qtns2xuxNm",
+      "expanded_url": "https://x.com/jagibbs_23/status/2088366232818848149/video/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "id_str": "2088366042204516352",
+      "indices": [
+       53,
+       76
+      ],
+      "media_key": "13_2088366042204516352",
+      "media_results": {
+       "result": {
+        "media_key": "13_2088366042204516352"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2088366042204516352/img/OAHE5pofRb5JEVep.jpg",
+      "original_info": {
+       "focus_rects": [],
+       "height": 776,
+       "width": 1390
+      },
+      "sizes": {
+       "large": {
+        "h": 776,
+        "resize": "fit",
+        "w": 1390
+       },
+       "medium": {
+        "h": 670,
+        "resize": "fit",
+        "w": 1200
+       },
+       "small": {
+        "h": 380,
+        "resize": "fit",
+        "w": 680
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "video",
+      "url": "https://t.co/Qtns2xuxNm",
+      "video_info": {
+       "aspect_ratio": [
+        695,
+        388
+       ],
+       "duration_millis": 269833,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/pl/bw5qwYW3ITTJ9XHJ.m3u8?tag=29"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/vid/avc1/482x270/OROeAso0sEVspoP8.mp4?tag=29"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/vid/avc1/644x360/kdWGqBH4HPfZjujk.mp4?tag=29"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/vid/avc1/1288x720/y_I8gZvDOpBtMCSH.mp4?tag=29"
+        },
+        {
+         "bitrate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2088366042204516352/vid/avc1/1390x776/RfagqOdjnOGkt064.mp4?tag=29"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "reply_to_user_results": null,
+   "quoted_tweet_results": null,
+   "quoted_tweet": null,
+   "retweeted_tweet": null,
+   "isConversationControlled": false
+  },
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "isQuote": true,
+  "searchTermIndex": 0
  },
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092743237299515452",
+  "url": "https://x.com/UnderdogNFL/status/2092743237299515452",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2092743237299515452",
+  "text": "Danielle Hunter got to the QB on \"at least 5 occasions for would-be sacks\" against the Panthers in joint practice, per @mike_e_kaye. https://t.co/C5zOQpG887",
+  "source": "",
+  "retweetCount": 9,
+  "replyCount": 3,
+  "likeCount": 160,
+  "quoteCount": 3,
+  "viewCount": 48876,
+  "createdAt": "Wed Aug 26 22:37:23 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092743237299515452",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "",
+   "location": "",
+   "followers": 386562,
+   "following": 12,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 10,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 5072,
+   "statusesCount": 32475,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2092617609745240147"
+   ],
+   "profile_bio": {
+    "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+        "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/3wHuxASkII"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/C5zOQpG887",
+     "expanded_url": "https://x.com/UnderdogNFL/status/2092743237299515452/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 201,
+         "w": 201,
+         "x": 507,
+         "y": 75
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 178,
+         "w": 178,
+         "x": 450,
+         "y": 66
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 201,
+         "w": 201,
+         "x": 507,
+         "y": 75
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 101,
+         "w": 101,
+         "x": 255,
+         "y": 37
+        }
+       ]
+      }
+     },
+     "id_str": "2092743048899743744",
+     "indices": [
+      133,
+      156
+     ],
+     "media_key": "3_2092743048899743744",
+     "media_results": {
+      "result": {
+       "media_key": "3_2092743048899743744"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HQrqtxPWUAA848N.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 605,
+        "w": 1080,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1080,
+        "w": 1080,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1231,
+        "w": 1080,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1350,
+        "w": 675,
+        "x": 236,
+        "y": 0
+       },
+       {
+        "h": 1350,
+        "w": 1080,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1350,
+      "width": 1080
+     },
+     "sizes": {
+      "large": {
+       "h": 1350,
+       "resize": "fit",
+       "w": 1080
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 960
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 544
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/C5zOQpG887"
+    }
+   ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/C5zOQpG887",
+     "expanded_url": "https://x.com/UnderdogNFL/status/2092743237299515452/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 201,
+         "w": 201,
+         "x": 507,
+         "y": 75
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 178,
+         "w": 178,
+         "x": 450,
+         "y": 66
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 201,
+         "w": 201,
+         "x": 507,
+         "y": 75
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 101,
+         "w": 101,
+         "x": 255,
+         "y": 37
+        }
+       ]
+      }
+     },
+     "id_str": "2092743048899743744",
+     "indices": [
+      133,
+      156
+     ],
+     "media_key": "3_2092743048899743744",
+     "media_results": {
+      "result": {
+       "media_key": "3_2092743048899743744"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HQrqtxPWUAA848N.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 605,
+        "w": 1080,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1080,
+        "w": 1080,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1231,
+        "w": 1080,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1350,
+        "w": 675,
+        "x": 236,
+        "y": 0
+       },
+       {
+        "h": 1350,
+        "w": 1080,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1350,
+      "width": 1080
+     },
+     "sizes": {
+      "large": {
+       "h": 1350,
+       "resize": "fit",
+       "w": 1080
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 960
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 544
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/C5zOQpG887"
+    }
+   ],
+   "user_mentions": [
+    {
+     "id_str": "345798491",
+     "indices": [
+      119,
+      131
+     ],
+     "name": "Mike Kaye",
+     "screen_name": "mike_e_kaye"
+    }
+   ]
+  },
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "searchTermIndex": 0
  },
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092727029925867684",
+  "url": "https://x.com/jagibbs_23/status/2092727029925867684",
+  "twitterUrl": "https://twitter.com/jagibbs_23/status/2092727029925867684",
+  "text": "Preseason avoided tackle rate leaders among RBs drafted 2025-26:\n\n61% - Emmett Johnson\n50% - Kaelon Black\n41% - Mike Washington Kr.\n39% - Brashard Smith\n38% - Jarquez Hunter\n33% - Ollie Gordon\n29% - Jeremiyah Love\n25% - Jonah Coleman\n19% - Demond Claiborne\n17% - Kaytron Allen",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 21,
+  "quoteCount": 1,
+  "viewCount": 12466,
+  "createdAt": "Wed Aug 26 21:32:59 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092727029925867684",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "jagibbs_23",
+   "url": "https://x.com/jagibbs_23",
+   "twitterUrl": "https://twitter.com/jagibbs_23",
+   "id": "3334410552",
+   "name": "Jacob Gibbs",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
+   "description": "",
+   "location": "Kansas City, MO",
+   "followers": 73880,
+   "following": 866,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 26505,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 8571,
+   "statusesCount": 41138,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2092344624392065220"
+   ],
+   "profile_bio": {
+    "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "cbssports.com/newsletters/fa\u2026",
+        "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/6MwuwHkH5N"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": {
+   "type": "tweet",
+   "id": "2092719191795155054",
+   "url": "https://x.com/jagibbs_23/status/2092719191795155054",
+   "twitterUrl": "https://twitter.com/jagibbs_23/status/2092719191795155054",
+   "text": "Emmett Johnson has forced 14 missed tackles in two preseason games.\n\nNo other RB has more than 10.",
+   "source": "",
+   "retweetCount": 2,
+   "replyCount": 1,
+   "likeCount": 54,
+   "quoteCount": 2,
+   "viewCount": 22262,
+   "createdAt": "Wed Aug 26 21:01:50 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 8,
+   "isReply": false,
+   "inReplyToId": null,
+   "conversationId": "2092719191795155054",
+   "inReplyToUserId": null,
+   "inReplyToUsername": null,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "jagibbs_23",
+    "url": "https://x.com/jagibbs_23",
+    "twitterUrl": "https://twitter.com/jagibbs_23",
+    "id": "3334410552",
+    "name": "Jacob Gibbs",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
+    "description": "",
+    "location": "Kansas City, MO",
+    "followers": 73880,
+    "following": 866,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
+    "entities": {
+     "description": {
+      "urls": []
+     },
+     "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26505,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 8571,
+    "statusesCount": 41138,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2092344624392065220"
+    ],
+    "profile_bio": {
+     "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
+     "entities": {
+      "description": {},
+      "url": {
+       "urls": [
+        {
+         "display_url": "cbssports.com/newsletters/fa\u2026",
+         "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
+         "indices": [
+          0,
+          23
+         ],
+         "url": "https://t.co/6MwuwHkH5N"
+        }
+       ]
+      }
+     }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+   },
+   "extendedEntities": {},
+   "card": null,
+   "place": {},
+   "entities": {},
+   "reply_to_user_results": null,
+   "quoted_tweet_results": null,
+   "quoted_tweet": null,
+   "retweeted_tweet": null,
+   "isConversationControlled": false
+  },
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "isQuote": true,
+  "searchTermIndex": 0
  },
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092725526603382906",
+  "url": "https://x.com/Ihartitz/status/2092725526603382906",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2092725526603382906",
+  "text": "The legend of Pro Bowl QB Tyler Huntley will only increase over time https://t.co/6IRQztOYC4",
+  "source": "",
+  "retweetCount": 12,
+  "replyCount": 10,
+  "likeCount": 954,
+  "quoteCount": 0,
+  "viewCount": 46962,
+  "createdAt": "Wed Aug 26 21:27:01 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092725526603382906",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "",
+   "location": "Columbus, OH",
+   "followers": 231292,
+   "following": 1554,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 138387,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 18350,
+   "statusesCount": 82944,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2089730578723610929"
+   ],
+   "profile_bio": {
+    "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Greg Dortch WR1 | In Jalen Coker we trust | Great day to be great!",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "youtube.com/@ihartitz?si=H\u2026",
+        "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/sgF9v0Ib0b"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/6IRQztOYC4",
+     "expanded_url": "https://x.com/Ihartitz/status/2092725526603382906/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 75,
+         "w": 75,
+         "x": 31,
+         "y": 31
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 75,
+         "w": 75,
+         "x": 31,
+         "y": 31
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 75,
+         "w": 75,
+         "x": 31,
+         "y": 31
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 75,
+         "w": 75,
+         "x": 31,
+         "y": 31
+        }
+       ]
+      }
+     },
+     "id_str": "2092725471259574273",
+     "indices": [
+      69,
+      92
+     ],
+     "media_key": "3_2092725471259574273",
+     "media_results": {
+      "result": {
+       "media_key": "3_2092725471259574273"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HQraunbWwAElsIK.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 287,
+        "w": 513,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 287,
+        "w": 287,
+        "x": 54,
+        "y": 0
+       },
+       {
+        "h": 287,
+        "w": 252,
+        "x": 71,
+        "y": 0
+       },
+       {
+        "h": 287,
+        "w": 144,
+        "x": 125,
+        "y": 0
+       },
+       {
+        "h": 287,
+        "w": 610,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 287,
+      "width": 610
+     },
+     "sizes": {
+      "large": {
+       "h": 287,
+       "resize": "fit",
+       "w": 610
+      },
+      "medium": {
+       "h": 287,
+       "resize": "fit",
+       "w": 610
+      },
+      "small": {
+       "h": 287,
+       "resize": "fit",
+       "w": 610
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/6IRQztOYC4"
+    }
+   ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/6IRQztOYC4",
+     "expanded_url": "https://x.com/Ihartitz/status/2092725526603382906/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 75,
+         "w": 75,
+         "x": 31,
+         "y": 31
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 75,
+         "w": 75,
+         "x": 31,
+         "y": 31
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 75,
+         "w": 75,
+         "x": 31,
+         "y": 31
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 75,
+         "w": 75,
+         "x": 31,
+         "y": 31
+        }
+       ]
+      }
+     },
+     "id_str": "2092725471259574273",
+     "indices": [
+      69,
+      92
+     ],
+     "media_key": "3_2092725471259574273",
+     "media_results": {
+      "result": {
+       "media_key": "3_2092725471259574273"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HQraunbWwAElsIK.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 287,
+        "w": 513,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 287,
+        "w": 287,
+        "x": 54,
+        "y": 0
+       },
+       {
+        "h": 287,
+        "w": 252,
+        "x": 71,
+        "y": 0
+       },
+       {
+        "h": 287,
+        "w": 144,
+        "x": 125,
+        "y": 0
+       },
+       {
+        "h": 287,
+        "w": 610,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 287,
+      "width": 610
+     },
+     "sizes": {
+      "large": {
+       "h": 287,
+       "resize": "fit",
+       "w": 610
+      },
+      "medium": {
+       "h": 287,
+       "resize": "fit",
+       "w": 610
+      },
+      "small": {
+       "h": 287,
+       "resize": "fit",
+       "w": 610
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/6IRQztOYC4"
+    }
+   ]
+  },
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": {
+   "type": "tweet",
+   "id": "2092717034018623868",
+   "url": "https://x.com/UnderdogNFL/status/2092717034018623868",
+   "twitterUrl": "https://twitter.com/UnderdogNFL/status/2092717034018623868",
+   "text": "88 players will still receive Pro Bowl honors with no alternates, per @jjones9.",
+   "source": "",
+   "retweetCount": 50,
+   "replyCount": 18,
+   "likeCount": 1489,
+   "quoteCount": 11,
+   "viewCount": 312240,
+   "createdAt": "Wed Aug 26 20:53:16 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 48,
+   "isReply": false,
+   "inReplyToId": null,
+   "conversationId": "2092717034018623868",
+   "inReplyToUserId": null,
+   "inReplyToUsername": null,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "UnderdogNFL",
+    "url": "https://x.com/UnderdogNFL",
+    "twitterUrl": "https://twitter.com/UnderdogNFL",
+    "id": "1449054490062110725",
+    "name": "Underdog NFL",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+    "description": "",
+    "location": "",
+    "followers": 386562,
+    "following": 12,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+    "entities": {
+     "description": {
+      "urls": []
+     },
+     "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5072,
+    "statusesCount": 32475,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2092617609745240147"
+    ],
+    "profile_bio": {
+     "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+     "entities": {
+      "description": {},
+      "url": {
+       "urls": [
+        {
+         "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+         "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+         "indices": [
+          0,
+          23
+         ],
+         "url": "https://t.co/3wHuxASkII"
+        }
+       ]
+      }
+     }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+   },
+   "extendedEntities": {},
+   "card": null,
+   "place": {},
+   "entities": {
+    "user_mentions": [
+     {
+      "id_str": "45975888",
+      "indices": [
+       70,
+       78
+      ],
+      "name": "Jonathan Jones",
+      "screen_name": "jjones9"
+     }
+    ]
+   },
+   "reply_to_user_results": null,
+   "quoted_tweet_results": null,
+   "quoted_tweet": null,
+   "retweeted_tweet": null,
+   "isConversationControlled": false
+  },
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "isQuote": true,
+  "searchTermIndex": 0
  },
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092719191795155054",
+  "url": "https://x.com/jagibbs_23/status/2092719191795155054",
+  "twitterUrl": "https://twitter.com/jagibbs_23/status/2092719191795155054",
+  "text": "Emmett Johnson has forced 14 missed tackles in two preseason games.\n\nNo other RB has more than 10.",
+  "source": "",
+  "retweetCount": 2,
+  "replyCount": 1,
+  "likeCount": 54,
+  "quoteCount": 2,
+  "viewCount": 22262,
+  "createdAt": "Wed Aug 26 21:01:50 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 8,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092719191795155054",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "jagibbs_23",
+   "url": "https://x.com/jagibbs_23",
+   "twitterUrl": "https://twitter.com/jagibbs_23",
+   "id": "3334410552",
+   "name": "Jacob Gibbs",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
+   "description": "",
+   "location": "Kansas City, MO",
+   "followers": 73880,
+   "following": 866,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 26505,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 8571,
+   "statusesCount": 41138,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2092344624392065220"
+   ],
+   "profile_bio": {
+    "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "cbssports.com/newsletters/fa\u2026",
+        "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/6MwuwHkH5N"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": {
+   "type": "tweet",
+   "id": "2092718643633074220",
+   "url": "https://x.com/jagibbs_23/status/2092718643633074220",
+   "twitterUrl": "https://twitter.com/jagibbs_23/status/2092718643633074220",
+   "text": "Emmett Johnson - every Preseason Week 2 touch https://t.co/glxiJwnorr",
+   "source": "",
+   "retweetCount": 0,
+   "replyCount": 0,
+   "likeCount": 11,
+   "quoteCount": 1,
+   "viewCount": 18055,
+   "createdAt": "Wed Aug 26 20:59:40 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 2,
+   "isReply": false,
+   "inReplyToId": null,
+   "conversationId": "2092718643633074220",
+   "inReplyToUserId": null,
+   "inReplyToUsername": null,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "jagibbs_23",
+    "url": "https://x.com/jagibbs_23",
+    "twitterUrl": "https://twitter.com/jagibbs_23",
+    "id": "3334410552",
+    "name": "Jacob Gibbs",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
+    "description": "",
+    "location": "Kansas City, MO",
+    "followers": 73880,
+    "following": 866,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
+    "entities": {
+     "description": {
+      "urls": []
+     },
+     "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26505,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 8571,
+    "statusesCount": 41138,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2092344624392065220"
+    ],
+    "profile_bio": {
+     "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
+     "entities": {
+      "description": {},
+      "url": {
+       "urls": [
+        {
+         "display_url": "cbssports.com/newsletters/fa\u2026",
+         "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
+         "indices": [
+          0,
+          23
+         ],
+         "url": "https://t.co/6MwuwHkH5N"
+        }
+       ]
+      }
+     }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+   },
+   "extendedEntities": {
+    "media": [
+     {
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/glxiJwnorr",
+      "expanded_url": "https://x.com/jagibbs_23/status/2092718643633074220/video/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "id_str": "2092718548518858752",
+      "indices": [
+       46,
+       69
+      ],
+      "media_key": "13_2092718548518858752",
+      "media_results": {
+       "result": {
+        "media_key": "13_2092718548518858752"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2092718548518858752/img/Z6PQPSCqtR4bB8J4.jpg",
+      "original_info": {
+       "focus_rects": [],
+       "height": 710,
+       "width": 1256
+      },
+      "sizes": {
+       "large": {
+        "h": 710,
+        "resize": "fit",
+        "w": 1256
+       },
+       "medium": {
+        "h": 678,
+        "resize": "fit",
+        "w": 1200
+       },
+       "small": {
+        "h": 384,
+        "resize": "fit",
+        "w": 680
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "video",
+      "url": "https://t.co/glxiJwnorr",
+      "video_info": {
+       "aspect_ratio": [
+        628,
+        355
+       ],
+       "duration_millis": 74066,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2092718548518858752/pl/TkOROX9pxlZkCIi8.m3u8?tag=29"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/476x270/9PmHS2Jvy0jU93Hh.mp4?tag=29"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/636x360/ksBbTBYZHnb1QLa_.mp4?tag=29"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/1256x710/5QQAqFPiJq4TMgQ7.mp4?tag=29"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "card": null,
+   "place": {},
+   "entities": {
+    "media": [
+     {
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/glxiJwnorr",
+      "expanded_url": "https://x.com/jagibbs_23/status/2092718643633074220/video/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "id_str": "2092718548518858752",
+      "indices": [
+       46,
+       69
+      ],
+      "media_key": "13_2092718548518858752",
+      "media_results": {
+       "result": {
+        "media_key": "13_2092718548518858752"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2092718548518858752/img/Z6PQPSCqtR4bB8J4.jpg",
+      "original_info": {
+       "focus_rects": [],
+       "height": 710,
+       "width": 1256
+      },
+      "sizes": {
+       "large": {
+        "h": 710,
+        "resize": "fit",
+        "w": 1256
+       },
+       "medium": {
+        "h": 678,
+        "resize": "fit",
+        "w": 1200
+       },
+       "small": {
+        "h": 384,
+        "resize": "fit",
+        "w": 680
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "video",
+      "url": "https://t.co/glxiJwnorr",
+      "video_info": {
+       "aspect_ratio": [
+        628,
+        355
+       ],
+       "duration_millis": 74066,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2092718548518858752/pl/TkOROX9pxlZkCIi8.m3u8?tag=29"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/476x270/9PmHS2Jvy0jU93Hh.mp4?tag=29"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/636x360/ksBbTBYZHnb1QLa_.mp4?tag=29"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/1256x710/5QQAqFPiJq4TMgQ7.mp4?tag=29"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "reply_to_user_results": null,
+   "quoted_tweet_results": null,
+   "quoted_tweet": null,
+   "retweeted_tweet": null,
+   "isConversationControlled": false
+  },
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "isQuote": true,
+  "searchTermIndex": 0
  },
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092718643633074220",
+  "url": "https://x.com/jagibbs_23/status/2092718643633074220",
+  "twitterUrl": "https://twitter.com/jagibbs_23/status/2092718643633074220",
+  "text": "Emmett Johnson - every Preseason Week 2 touch https://t.co/glxiJwnorr",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 11,
+  "quoteCount": 1,
+  "viewCount": 18055,
+  "createdAt": "Wed Aug 26 20:59:40 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092718643633074220",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "jagibbs_23",
+   "url": "https://x.com/jagibbs_23",
+   "twitterUrl": "https://twitter.com/jagibbs_23",
+   "id": "3334410552",
+   "name": "Jacob Gibbs",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
+   "description": "",
+   "location": "Kansas City, MO",
+   "followers": 73880,
+   "following": 866,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 26505,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 8571,
+   "statusesCount": 41138,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2092344624392065220"
+   ],
+   "profile_bio": {
+    "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "cbssports.com/newsletters/fa\u2026",
+        "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/6MwuwHkH5N"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/glxiJwnorr",
+     "expanded_url": "https://x.com/jagibbs_23/status/2092718643633074220/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2092718548518858752",
+     "indices": [
+      46,
+      69
+     ],
+     "media_key": "13_2092718548518858752",
+     "media_results": {
+      "result": {
+       "media_key": "13_2092718548518858752"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2092718548518858752/img/Z6PQPSCqtR4bB8J4.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 710,
+      "width": 1256
+     },
+     "sizes": {
+      "large": {
+       "h": 710,
+       "resize": "fit",
+       "w": 1256
+      },
+      "medium": {
+       "h": 678,
+       "resize": "fit",
+       "w": 1200
+      },
+      "small": {
+       "h": 384,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "video",
+     "url": "https://t.co/glxiJwnorr",
+     "video_info": {
+      "aspect_ratio": [
+       628,
+       355
+      ],
+      "duration_millis": 74066,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2092718548518858752/pl/TkOROX9pxlZkCIi8.m3u8?tag=29"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/476x270/9PmHS2Jvy0jU93Hh.mp4?tag=29"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/636x360/ksBbTBYZHnb1QLa_.mp4?tag=29"
+       },
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/1256x710/5QQAqFPiJq4TMgQ7.mp4?tag=29"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/glxiJwnorr",
+     "expanded_url": "https://x.com/jagibbs_23/status/2092718643633074220/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2092718548518858752",
+     "indices": [
+      46,
+      69
+     ],
+     "media_key": "13_2092718548518858752",
+     "media_results": {
+      "result": {
+       "media_key": "13_2092718548518858752"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2092718548518858752/img/Z6PQPSCqtR4bB8J4.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 710,
+      "width": 1256
+     },
+     "sizes": {
+      "large": {
+       "h": 710,
+       "resize": "fit",
+       "w": 1256
+      },
+      "medium": {
+       "h": 678,
+       "resize": "fit",
+       "w": 1200
+      },
+      "small": {
+       "h": 384,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "video",
+     "url": "https://t.co/glxiJwnorr",
+     "video_info": {
+      "aspect_ratio": [
+       628,
+       355
+      ],
+      "duration_millis": 74066,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2092718548518858752/pl/TkOROX9pxlZkCIi8.m3u8?tag=29"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/476x270/9PmHS2Jvy0jU93Hh.mp4?tag=29"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/636x360/ksBbTBYZHnb1QLa_.mp4?tag=29"
+       },
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2092718548518858752/vid/avc1/1256x710/5QQAqFPiJq4TMgQ7.mp4?tag=29"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": {
+   "type": "tweet",
+   "id": "2089010772378518006",
+   "url": "https://x.com/jagibbs_23/status/2089010772378518006",
+   "twitterUrl": "https://twitter.com/jagibbs_23/status/2089010772378518006",
+   "text": "Emmett Johnson - Preseason Week 1 - every touch https://t.co/6gbCYTIYJE",
+   "source": "",
+   "retweetCount": 4,
+   "replyCount": 2,
+   "likeCount": 66,
+   "quoteCount": 4,
+   "viewCount": 61242,
+   "createdAt": "Sun Aug 16 15:25:54 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 17,
+   "isReply": false,
+   "inReplyToId": null,
+   "conversationId": "2089010772378518006",
+   "inReplyToUserId": null,
+   "inReplyToUsername": null,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "jagibbs_23",
+    "url": "https://x.com/jagibbs_23",
+    "twitterUrl": "https://twitter.com/jagibbs_23",
+    "id": "3334410552",
+    "name": "Jacob Gibbs",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
+    "description": "",
+    "location": "Kansas City, MO",
+    "followers": 73880,
+    "following": 866,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
+    "entities": {
+     "description": {
+      "urls": []
+     },
+     "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26505,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 8571,
+    "statusesCount": 41138,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2092344624392065220"
+    ],
+    "profile_bio": {
+     "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
+     "entities": {
+      "description": {},
+      "url": {
+       "urls": [
+        {
+         "display_url": "cbssports.com/newsletters/fa\u2026",
+         "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
+         "indices": [
+          0,
+          23
+         ],
+         "url": "https://t.co/6MwuwHkH5N"
+        }
+       ]
+      }
+     }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+   },
+   "extendedEntities": {
+    "media": [
+     {
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/6gbCYTIYJE",
+      "expanded_url": "https://x.com/jagibbs_23/status/2089010772378518006/video/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "id_str": "2089010247880888320",
+      "indices": [
+       48,
+       71
+      ],
+      "media_key": "13_2089010247880888320",
+      "media_results": {
+       "result": {
+        "media_key": "13_2089010247880888320"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2089010247880888320/img/kj0zXe-AwLijn8D9.jpg",
+      "original_info": {
+       "focus_rects": [],
+       "height": 768,
+       "width": 1378
+      },
+      "sizes": {
+       "large": {
+        "h": 768,
+        "resize": "fit",
+        "w": 1378
+       },
+       "medium": {
+        "h": 669,
+        "resize": "fit",
+        "w": 1200
+       },
+       "small": {
+        "h": 379,
+        "resize": "fit",
+        "w": 680
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "video",
+      "url": "https://t.co/6gbCYTIYJE",
+      "video_info": {
+       "aspect_ratio": [
+        689,
+        384
+       ],
+       "duration_millis": 139150,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/pl/s6j8JK1KVCoKBsFt.m3u8?tag=29"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/vid/avc1/484x270/3bdPPVw45EHh-272.mp4?tag=29"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/vid/avc1/644x360/OUHmMdTpXg1U1tcq.mp4?tag=29"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/vid/avc1/1290x720/BYpKkut-DWpBsy9X.mp4?tag=29"
+        },
+        {
+         "bitrate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/vid/avc1/1378x768/FpDg1I_TVkHizwdO.mp4?tag=29"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "card": null,
+   "place": {},
+   "entities": {
+    "media": [
+     {
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/6gbCYTIYJE",
+      "expanded_url": "https://x.com/jagibbs_23/status/2089010772378518006/video/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "id_str": "2089010247880888320",
+      "indices": [
+       48,
+       71
+      ],
+      "media_key": "13_2089010247880888320",
+      "media_results": {
+       "result": {
+        "media_key": "13_2089010247880888320"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2089010247880888320/img/kj0zXe-AwLijn8D9.jpg",
+      "original_info": {
+       "focus_rects": [],
+       "height": 768,
+       "width": 1378
+      },
+      "sizes": {
+       "large": {
+        "h": 768,
+        "resize": "fit",
+        "w": 1378
+       },
+       "medium": {
+        "h": 669,
+        "resize": "fit",
+        "w": 1200
+       },
+       "small": {
+        "h": 379,
+        "resize": "fit",
+        "w": 680
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "video",
+      "url": "https://t.co/6gbCYTIYJE",
+      "video_info": {
+       "aspect_ratio": [
+        689,
+        384
+       ],
+       "duration_millis": 139150,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/pl/s6j8JK1KVCoKBsFt.m3u8?tag=29"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/vid/avc1/484x270/3bdPPVw45EHh-272.mp4?tag=29"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/vid/avc1/644x360/OUHmMdTpXg1U1tcq.mp4?tag=29"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/vid/avc1/1290x720/BYpKkut-DWpBsy9X.mp4?tag=29"
+        },
+        {
+         "bitrate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2089010247880888320/vid/avc1/1378x768/FpDg1I_TVkHizwdO.mp4?tag=29"
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "reply_to_user_results": null,
+   "quoted_tweet_results": null,
+   "quoted_tweet": null,
+   "retweeted_tweet": null,
+   "isConversationControlled": false
+  },
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "isQuote": true,
+  "searchTermIndex": 0
  },
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092717034018623868",
+  "url": "https://x.com/UnderdogNFL/status/2092717034018623868",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2092717034018623868",
+  "text": "88 players will still receive Pro Bowl honors with no alternates, per @jjones9.",
+  "source": "",
+  "retweetCount": 50,
+  "replyCount": 18,
+  "likeCount": 1489,
+  "quoteCount": 11,
+  "viewCount": 312240,
+  "createdAt": "Wed Aug 26 20:53:16 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 48,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092717034018623868",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "",
+   "location": "",
+   "followers": 386562,
+   "following": 12,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 10,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 5072,
+   "statusesCount": 32475,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2092617609745240147"
+   ],
+   "profile_bio": {
+    "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+        "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/3wHuxASkII"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+   "user_mentions": [
+    {
+     "id_str": "45975888",
+     "indices": [
+      70,
+      78
+     ],
+     "name": "Jonathan Jones",
+     "screen_name": "jjones9"
+    }
+   ]
+  },
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": {
+   "type": "tweet",
+   "id": "2092716585169432847",
+   "url": "https://x.com/UnderdogNFL/status/2092716585169432847",
+   "twitterUrl": "https://twitter.com/UnderdogNFL/status/2092716585169432847",
+   "text": "NFL will abolish Pro Bowl game, per @jjones9.\n\nIt will remain an individual performance award.",
+   "source": "",
+   "retweetCount": 178,
+   "replyCount": 85,
+   "likeCount": 3055,
+   "quoteCount": 147,
+   "viewCount": 422525,
+   "createdAt": "Wed Aug 26 20:51:29 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 105,
+   "isReply": false,
+   "inReplyToId": null,
+   "conversationId": "2092716585169432847",
+   "inReplyToUserId": null,
+   "inReplyToUsername": null,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "UnderdogNFL",
+    "url": "https://x.com/UnderdogNFL",
+    "twitterUrl": "https://twitter.com/UnderdogNFL",
+    "id": "1449054490062110725",
+    "name": "Underdog NFL",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+    "description": "",
+    "location": "",
+    "followers": 386562,
+    "following": 12,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+    "entities": {
+     "description": {
+      "urls": []
+     },
+     "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 5072,
+    "statusesCount": 32475,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2092617609745240147"
+    ],
+    "profile_bio": {
+     "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+     "entities": {
+      "description": {},
+      "url": {
+       "urls": [
+        {
+         "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+         "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+         "indices": [
+          0,
+          23
+         ],
+         "url": "https://t.co/3wHuxASkII"
+        }
+       ]
+      }
+     }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+   },
+   "extendedEntities": {},
+   "card": null,
+   "place": {},
+   "entities": {
+    "user_mentions": [
+     {
+      "id_str": "45975888",
+      "indices": [
+       36,
+       44
+      ],
+      "name": "Jonathan Jones",
+      "screen_name": "jjones9"
+     }
+    ]
+   },
+   "reply_to_user_results": null,
+   "quoted_tweet_results": null,
+   "quoted_tweet": null,
+   "retweeted_tweet": null,
+   "isConversationControlled": false
+  },
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "isQuote": true,
+  "searchTermIndex": 0
  },
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092716585169432847",
+  "url": "https://x.com/UnderdogNFL/status/2092716585169432847",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2092716585169432847",
+  "text": "NFL will abolish Pro Bowl game, per @jjones9.\n\nIt will remain an individual performance award.",
+  "source": "",
+  "retweetCount": 178,
+  "replyCount": 85,
+  "likeCount": 3055,
+  "quoteCount": 147,
+  "viewCount": 422525,
+  "createdAt": "Wed Aug 26 20:51:29 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 105,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092716585169432847",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "",
+   "location": "",
+   "followers": 386562,
+   "following": 12,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 10,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 5072,
+   "statusesCount": 32475,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2092617609745240147"
+   ],
+   "profile_bio": {
+    "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+        "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/3wHuxASkII"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+   "user_mentions": [
+    {
+     "id_str": "45975888",
+     "indices": [
+      36,
+      44
+     ],
+     "name": "Jonathan Jones",
+     "screen_name": "jjones9"
+    }
+   ]
+  },
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "searchTermIndex": 0
  },
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092715095415492774",
+  "url": "https://x.com/SmolaDS/status/2092715095415492774",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2092715095415492774",
+  "text": "Kyle Pitts over the last 2 seasons ...  \n\nMichael Penix games:  \n* 5.9 targets \n* 18.5% target share \n* 9.1 PPR points  \n\nNon Penix games:  \n* 5.6 targets \n* 18.1% target share \n* 10.4 PPR points",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 6,
+  "quoteCount": 0,
+  "viewCount": 5694,
+  "createdAt": "Wed Aug 26 20:45:34 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092715095415492774",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "",
+   "location": "Rochester, NY",
+   "followers": 41497,
+   "following": 1333,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 7175,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 2802,
+   "statusesCount": 36205,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [],
+   "profile_bio": {
+    "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "draftsharks.com",
+        "expanded_url": "http://www.draftsharks.com",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/Uk6u1BN2wp"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {},
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": {
+   "type": "tweet",
+   "id": "2092706263847055544",
+   "url": "https://x.com/JRA1234567/status/2092706263847055544",
+   "twitterUrl": "https://twitter.com/JRA1234567/status/2092706263847055544",
+   "text": "@SmolaDS Can you use your wizardry to get the splits for Kyle Pitts?",
+   "source": "",
+   "retweetCount": 0,
+   "replyCount": 1,
+   "likeCount": 0,
+   "quoteCount": 1,
+   "viewCount": 5766,
+   "createdAt": "Wed Aug 26 20:10:28 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 0,
+   "isReply": true,
+   "inReplyToId": "2092704060579201191",
+   "conversationId": "2092704060579201191",
+   "inReplyToUserId": null,
+   "inReplyToUsername": null,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "JRA1234567",
+    "url": "https://x.com/JRA1234567",
+    "twitterUrl": "https://twitter.com/JRA1234567",
+    "id": "923543352",
+    "name": "My Egg Fell Over",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/696006900408782848/jrIlKoek_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/923543352/1457490045",
+    "description": "",
+    "location": "",
+    "followers": 69,
+    "following": 2003,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 03 16:30:18 +0000 2012",
+    "entities": {
+     "description": {
+      "urls": []
+     },
+     "url": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1701,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 32,
+    "statusesCount": 924,
+    "withheldInCountries": [],
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [],
+    "profile_bio": {
+     "description": "I Identify as a virus with legs",
+     "entities": {
+      "description": {}
+     }
+    },
+    "isAutomated": false,
+    "automatedBy": null
+   },
+   "extendedEntities": {},
+   "card": null,
+   "place": {},
+   "entities": {
+    "user_mentions": [
+     {
+      "id_str": "2264500734",
+      "indices": [
+       0,
+       8
+      ],
+      "name": "Jared Smola",
+      "screen_name": "SmolaDS"
+     }
+    ]
+   },
+   "reply_to_user_results": null,
+   "quoted_tweet_results": null,
+   "quoted_tweet": null,
+   "retweeted_tweet": null,
+   "isConversationControlled": false
+  },
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "isQuote": true,
+  "searchTermIndex": 0
  },
  {
-  "noResults": true
+  "type": "tweet",
+  "id": "2092713721227288629",
+  "url": "https://x.com/Ihartitz/status/2092713721227288629",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2092713721227288629",
+  "text": "Fantasy football's top-24 wide receivers in PPR points per game in 2025 and their current Yahoo PPR ADP.\n\nWan'Dale Robinson is going to get 140 targets again, isn't he https://t.co/ZL6YAJKVZC",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 10,
+  "likeCount": 145,
+  "quoteCount": 1,
+  "viewCount": 29278,
+  "createdAt": "Wed Aug 26 20:40:06 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 48,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2092713721227288629",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "",
+   "location": "Columbus, OH",
+   "followers": 231292,
+   "following": 1554,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 138387,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 18350,
+   "statusesCount": 82944,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2089730578723610929"
+   ],
+   "profile_bio": {
+    "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Greg Dortch WR1 | In Jalen Coker we trust | Great day to be great!",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "youtube.com/@ihartitz?si=H\u2026",
+        "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/sgF9v0Ib0b"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/ZL6YAJKVZC",
+     "expanded_url": "https://x.com/Ihartitz/status/2092713721227288629/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 82,
+         "w": 82,
+         "x": 30,
+         "y": 162
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 82,
+         "w": 82,
+         "x": 30,
+         "y": 162
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 82,
+         "w": 82,
+         "x": 30,
+         "y": 162
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 82,
+         "w": 82,
+         "x": 30,
+         "y": 162
+        }
+       ]
+      }
+     },
+     "id_str": "2092713527056150531",
+     "indices": [
+      168,
+      191
+     ],
+     "media_key": "3_2092713527056150531",
+     "media_results": {
+      "result": {
+       "media_key": "3_2092713527056150531"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HQrP3XzWMAMFny9.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 337,
+        "w": 602,
+        "x": 30,
+        "y": 0
+       },
+       {
+        "h": 337,
+        "w": 337,
+        "x": 257,
+        "y": 0
+       },
+       {
+        "h": 337,
+        "w": 296,
+        "x": 277,
+        "y": 0
+       },
+       {
+        "h": 337,
+        "w": 169,
+        "x": 341,
+        "y": 0
+       },
+       {
+        "h": 337,
+        "w": 632,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 337,
+      "width": 632
+     },
+     "sizes": {
+      "large": {
+       "h": 337,
+       "resize": "fit",
+       "w": 632
+      },
+      "medium": {
+       "h": 337,
+       "resize": "fit",
+       "w": 632
+      },
+      "small": {
+       "h": 337,
+       "resize": "fit",
+       "w": 632
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/ZL6YAJKVZC"
+    }
+   ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/ZL6YAJKVZC",
+     "expanded_url": "https://x.com/Ihartitz/status/2092713721227288629/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 82,
+         "w": 82,
+         "x": 30,
+         "y": 162
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 82,
+         "w": 82,
+         "x": 30,
+         "y": 162
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 82,
+         "w": 82,
+         "x": 30,
+         "y": 162
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 82,
+         "w": 82,
+         "x": 30,
+         "y": 162
+        }
+       ]
+      }
+     },
+     "id_str": "2092713527056150531",
+     "indices": [
+      168,
+      191
+     ],
+     "media_key": "3_2092713527056150531",
+     "media_results": {
+      "result": {
+       "media_key": "3_2092713527056150531"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HQrP3XzWMAMFny9.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 337,
+        "w": 602,
+        "x": 30,
+        "y": 0
+       },
+       {
+        "h": 337,
+        "w": 337,
+        "x": 257,
+        "y": 0
+       },
+       {
+        "h": 337,
+        "w": 296,
+        "x": 277,
+        "y": 0
+       },
+       {
+        "h": 337,
+        "w": 169,
+        "x": 341,
+        "y": 0
+       },
+       {
+        "h": 337,
+        "w": 632,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 337,
+      "width": 632
+     },
+     "sizes": {
+      "large": {
+       "h": 337,
+       "resize": "fit",
+       "w": 632
+      },
+      "medium": {
+       "h": 337,
+       "resize": "fit",
+       "w": 632
+      },
+      "small": {
+       "h": 337,
+       "resize": "fit",
+       "w": 632
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/ZL6YAJKVZC"
+    }
+   ]
+  },
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "searchTermIndex": 0
  }
 ]
