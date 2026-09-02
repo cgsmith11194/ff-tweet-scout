@@ -1,0 +1,117 @@
+{
+ "captured_at": "2026-09-02",
+ "games": [
+  {
+   "game": "NE @ SEA",
+   "date": "2026-09-10T00:20Z",
+   "spread": "SEA -3.5",
+   "over_under": 44.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "SF VS LAR",
+   "date": "2026-09-11T00:35Z",
+   "spread": "LAR -3.5",
+   "over_under": 48.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "TB @ CIN",
+   "date": "2026-09-13T17:00Z",
+   "spread": "CIN -3.5",
+   "over_under": 50.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "NO @ DET",
+   "date": "2026-09-13T17:00Z",
+   "spread": "DET -7",
+   "over_under": 49.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "NYJ @ TEN",
+   "date": "2026-09-13T17:00Z",
+   "spread": "TEN -1.5",
+   "over_under": 38.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "BAL @ IND",
+   "date": "2026-09-13T17:00Z",
+   "spread": "BAL -3.5",
+   "over_under": 48.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "ATL @ PIT",
+   "date": "2026-09-13T17:00Z",
+   "spread": "PIT -3.5",
+   "over_under": 42.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "CHI @ CAR",
+   "date": "2026-09-13T17:00Z",
+   "spread": "CHI -2.5",
+   "over_under": 47.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "CLE @ JAX",
+   "date": "2026-09-13T17:00Z",
+   "spread": "JAX -7.5",
+   "over_under": 40.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "BUF @ HOU",
+   "date": "2026-09-13T17:00Z",
+   "spread": "BUF -1.5",
+   "over_under": 44.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "MIA @ LV",
+   "date": "2026-09-13T20:25Z",
+   "spread": "LV -3.5",
+   "over_under": 40.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "GB @ MIN",
+   "date": "2026-09-13T20:25Z",
+   "spread": "MIN -1.5",
+   "over_under": 45.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "WSH @ PHI",
+   "date": "2026-09-13T20:25Z",
+   "spread": "PHI -5.5",
+   "over_under": 45.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "ARI @ LAC",
+   "date": "2026-09-13T20:25Z",
+   "spread": "LAC -10.5",
+   "over_under": 46.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "DAL @ NYG",
+   "date": "2026-09-14T00:20Z",
+   "spread": "DAL -2.5",
+   "over_under": 48.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "DEN @ KC",
+   "date": "2026-09-15T00:15Z",
+   "spread": "KC -3",
+   "over_under": 42.5,
+   "provider": "Draft Kings"
+  }
+ ]
+}
