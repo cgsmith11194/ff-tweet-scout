@@ -1,17 +1,18 @@
 {
- "generated_at": "2026-09-06T17:13:04.882185+00:00",
+ "generated_at": "2026-09-06T17:42:25.681443+00:00",
  "window": {
   "since": "2026-09-06",
   "until": "2026-09-07",
   "days": 0.292
  },
  "counts": {
-  "raw": 49,
-  "unique": 36,
-  "kept": 21,
+  "raw": 57,
+  "unique": 44,
+  "kept": 6,
   "kills": {
-   "low_score": 15,
-   "unparseable": 13
+   "low_score": 17,
+   "unparseable": 13,
+   "repeat_prev_run": 21
   }
  },
  "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
@@ -21,8 +22,8 @@
    "url": "https://x.com/GuruFantasyWrld/status/2096639821426921652",
    "handle": "GuruFantasyWrld",
    "reason": "low_score(analysis_hype)",
-   "score": 23.1,
-   "likes": 36,
+   "score": 24.5,
+   "likes": 81,
    "text": "FUCK WR\u2019S GET MONEY \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\n\nRD1 Christian McCaffrey\nRD2 Ashton Jeanty\nRD3 Trey McBride\nRD4 Emeka Egbuka\nRD5 Jaylen Waddle\nRD6 Lamar Jackson"
   },
   {
@@ -30,17 +31,26 @@
    "url": "https://x.com/UnderdogNFL/status/2096644025998623075",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 22.5,
-   "likes": 148,
+   "score": 23.7,
+   "likes": 303,
    "text": "Schefter: Roger Goodell to sign 4-year extension as commissioner of NFL."
+  },
+  {
+   "id": "2096641283389378610",
+   "url": "https://x.com/jagibbs_23/status/2096641283389378610",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.1,
+   "likes": 57,
+   "text": "This feels like it can't possibly be right, but Drake Maye is QB18 in my initial run at Week 1 rankings\n\nTake that as a note on just how close the margins are at QB this year... Late-Round QB wins again."
   },
   {
    "id": "2096584272463253876",
    "url": "https://x.com/YahooFantasy/status/2096584272463253876",
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
-   "score": 21.8,
-   "likes": 20,
+   "score": 21.9,
+   "likes": 22,
    "text": "29 Days of Fantasy: Day 28\n\nFantasy Football Live is back! And now 2.5 hours every Sunday \ud83c\udfc8\n\n\u23f0 More time for your questions\n\ud83c\udfc8 Last-minute pickups\n\ud83e\udde0 Analysis from @MattHarmon_BYB, @justinboone, @JoshNorris, and @HaydenWinks\n\ud83d\uddde\ufe0f News, injuries, and inactives\n\nFantasy Football Live streams every Sunday at 10:30am ET, Weeks 1 through 17.\n\nTune in next weekend and get your lineups set now: https://t.co/U1PxavKYxx"
   },
   {
@@ -49,17 +59,17 @@
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
    "score": 21.4,
-   "likes": 98,
+   "likes": 99,
    "text": "1 WEEK UNTIL FANTASY FOOTBALL SUNDAYS \ud83d\udd25"
   },
   {
-   "id": "2096641283389378610",
-   "url": "https://x.com/jagibbs_23/status/2096641283389378610",
-   "handle": "jagibbs_23",
+   "id": "2096654473586503993",
+   "url": "https://x.com/HaydenWinks/status/2096654473586503993",
+   "handle": "HaydenWinks",
    "reason": "low_score(analysis_hype)",
-   "score": 20.9,
-   "likes": 27,
-   "text": "This feels like it can't possibly be right, but Drake Maye is QB18 in my initial run at Week 1 rankings\n\nTake that as a note on just how close the margins are at QB this year... Late-Round QB wins again."
+   "score": 18.5,
+   "likes": 10,
+   "text": "Josh Jacobs back to roughly a 6th round pick https://t.co/J1XckkapdI"
   },
   {
    "id": "2096609814189072479",
@@ -67,7 +77,7 @@
    "handle": "GuruFantasyWrld",
    "reason": "low_score(analysis_hype)",
    "score": 17.8,
-   "likes": 23,
+   "likes": 29,
    "text": "The best picks are usually the least popular to make."
   },
   {
@@ -75,9 +85,18 @@
    "url": "https://x.com/jagibbs_23/status/2096600326790852967",
    "handle": "jagibbs_23",
    "reason": "low_score(analysis_hype)",
-   "score": 17.0,
-   "likes": 75,
+   "score": 17.2,
+   "likes": 84,
    "text": "Certified Elite Tier:\n\nPuka Nacua\nJaxon Smith-Njigba\nAmon-Ra St. Brown\nTrey McBride\nJa\u2019Marr Chase\nCeeDee Lamb\nNico Collins\nJustin Jefferson\n\nhttps://t.co/MB7fPKXRg6"
+  },
+  {
+   "id": "2096650022821532034",
+   "url": "https://x.com/CoopAFiasco/status/2096650022821532034",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.2,
+   "likes": 3,
+   "text": "It's always pretty funny doing my Week One rankings after all this draft speculation. My teams have so many speculative hypebeast hipster picks that are completely unstartable this week."
   },
   {
    "id": "2096644599536329196",
@@ -85,7 +104,7 @@
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
    "score": 16.1,
-   "likes": 2,
+   "likes": 20,
    "text": ".@MattHarmon_BYB reveals one player he's targeting per team in the NFC East and the NFC North \ud83d\udc40 https://t.co/7eVlBW3eaZ"
   },
   {
@@ -93,8 +112,8 @@
    "url": "https://x.com/GuruFantasyWrld/status/2096600208742199773",
    "handle": "GuruFantasyWrld",
    "reason": "low_score(analysis_hype)",
-   "score": 15.7,
-   "likes": 83,
+   "score": 15.9,
+   "likes": 89,
    "text": "Accidentally drafted James Cook instead of CMC &amp; yet\u2026\n\nShe\u2019s beautiful \ud83d\ude0d https://t.co/onPAvjqGJk"
   },
   {
@@ -102,9 +121,18 @@
    "url": "https://x.com/YahooFantasy/status/2096614410638811543",
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
-   "score": 15.5,
-   "likes": 66,
+   "score": 15.6,
+   "likes": 74,
    "text": "If you wanna go RB heavy early in your draft, @justinboone lets you know exactly what to do \ud83d\udc47 https://t.co/ipTzKb4a0m"
+  },
+  {
+   "id": "2096612133349859369",
+   "url": "https://x.com/FantasyPtsData/status/2096612133349859369",
+   "handle": "FantasyPtsData",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.7,
+   "likes": 45,
+   "text": "Is George Pickens or CeeDee Lamb a better WR?\n\nI ask because Pickens had a similar or better separation win rate than Lamb across most routes last year https://t.co/P8uti5xgMd"
   },
   {
    "id": "2096591469855559960",
@@ -112,17 +140,8 @@
    "handle": "HaydenWinks",
    "reason": "low_score(analysis_hype)",
    "score": 14.6,
-   "likes": 39,
-   "text": "Our Sunday morning show \ud83d\udcc8"
-  },
-  {
-   "id": "2096612133349859369",
-   "url": "https://x.com/FantasyPtsData/status/2096612133349859369",
-   "handle": "FantasyPtsData",
-   "reason": "low_score(analysis_hype)",
-   "score": 14.5,
    "likes": 40,
-   "text": "Is George Pickens or CeeDee Lamb a better WR?\n\nI ask because Pickens had a similar or better separation win rate than Lamb across most routes last year https://t.co/P8uti5xgMd"
+   "text": "Our Sunday morning show \ud83d\udcc8"
   },
   {
    "id": "2096603392269332657",
@@ -147,9 +166,198 @@
    "url": "https://x.com/adamlevitan/status/2096583081767604428",
    "handle": "adamlevitan",
    "reason": "low_score(cold_water)",
-   "score": 15.4,
-   "likes": 108,
+   "score": 15.5,
+   "likes": 115,
    "text": "TreVeyon Henderson is in serious doubt for Wednesday's opener. Hurt ankle on August 24, hasn't practiced since.\n\nGood look here from @MikeReiss on how the Patriots will play it if THendo can't go. https://t.co/g69zcB2kdv"
+  },
+  {
+   "id": "2096643830271426817",
+   "url": "https://x.com/AdamSchefter/status/2096643830271426817",
+   "handle": "AdamSchefter",
+   "reason": "repeat_prev_run",
+   "score": 43.1,
+   "likes": 2809,
+   "text": "NFL teams were notified today that commissioner Roger Goodell now has finalized a new four-season extension that runs through the 2030 league season. The contract expires March 31, 2031. https://t.co/1dPWgT6YXw"
+  },
+  {
+   "id": "2096575011813200166",
+   "url": "https://x.com/GuruFantasyWrld/status/2096575011813200166",
+   "handle": "GuruFantasyWrld",
+   "reason": "repeat_prev_run",
+   "score": 40.5,
+   "likes": 420,
+   "text": "Don\u2019t be surprised when Chris Godwin outscores:\n\n- Jameson Williams\n- Parker Washington\n- Rome Odunze\n- Carnell Tate https://t.co/hZojETjzU9"
+  },
+  {
+   "id": "2096644381738750202",
+   "url": "https://x.com/Dynasty_IM/status/2096644381738750202",
+   "handle": "Dynasty_IM",
+   "reason": "repeat_prev_run",
+   "score": 40.1,
+   "likes": 11,
+   "text": "Highest PPG by a Junior Wide Receiver (FBS)\n\n- Davante Adams: 34.4\n\nyesterday in the first game of his Junior season\n\n- Jeremiah Smith: 35.6 PPR https://t.co/iBFrVexKR2"
+  },
+  {
+   "id": "2096647516586385706",
+   "url": "https://x.com/AdamSchefter/status/2096647516586385706",
+   "handle": "AdamSchefter",
+   "reason": "repeat_prev_run",
+   "score": 39.3,
+   "likes": 452,
+   "text": "The NFL\u2019s current collective bargaining agreement (CBA) with the players expires March 2031. Roger Goodell\u2019s newest contract extension also expires in March 2031."
+  },
+  {
+   "id": "2096644006524387457",
+   "url": "https://x.com/jagibbs_23/status/2096644006524387457",
+   "handle": "jagibbs_23",
+   "reason": "repeat_prev_run",
+   "score": 36.0,
+   "likes": 15,
+   "text": "QBs facing a defense playing its first game under a new defensive coach in Week 1:\n\n(in order of Week 1 implied point total)\n\n26 - Matthew Stafford vs. SF\n25.5 - Dak Prescott at NYG\n25 - Jalen Hurts vs. WAS\n24 - Trevor Lawrence vs. CLE\n24 - Kyler Murray vs. GB (his former coach)\n23 - Jaxson Dart vs. DAL\n22 - Daniel Jones vs. BAL\n21.5 - C.J. Stroud vs. BUF\n21.5 - Kirk Cousins vs. MIA\n21 - Cam Ward vs. NYJ\n19 - ATL QB at PIT\n19 - Jacoby Brissett at LAC\n18.5 - Geno Smith at TEN\n18 - Malik Willis at LV"
+  },
+  {
+   "id": "2096647776914276790",
+   "url": "https://x.com/MikeGarafolo/status/2096647776914276790",
+   "handle": "MikeGarafolo",
+   "reason": "repeat_prev_run",
+   "score": 35.7,
+   "likes": 40,
+   "text": "From the NFL:\n\nNEW YORK \u2013 Sept. 6, 2026 \u2013 The Compensation Committee notified the full ownership today that an agreement has been reached on a four-season contract extension for NFL Commissioner Roger Goodell through the 2030 League season, ending on March 31, 2031. https://t.co/SqdnK0PEkW"
+  },
+  {
+   "id": "2096646480215908835",
+   "url": "https://x.com/AdamSchefter/status/2096646480215908835",
+   "handle": "AdamSchefter",
+   "reason": "repeat_prev_run",
+   "score": 35.6,
+   "likes": 2192,
+   "text": "At the end of his newest deal that owners were notified about today, Roger Goodell will be nearly 72 years old and will have served as NFL commissioner for 24 years. https://t.co/RCDTPrHhBP"
+  },
+  {
+   "id": "2096605609923657741",
+   "url": "https://x.com/AdamSchefter/status/2096605609923657741",
+   "handle": "AdamSchefter",
+   "reason": "repeat_prev_run",
+   "score": 34.8,
+   "likes": 762,
+   "text": "What will Patriots do if RB TreVeyon Henderson is out for Wednesday night\u2019s opener in Seattle vs. the Seahawks? @MikeReiss explains.\n\nhttps://t.co/FncjQFUlVW"
+  },
+  {
+   "id": "2096602650837926373",
+   "url": "https://x.com/MySportsUpdate/status/2096602650837926373",
+   "handle": "MySportsUpdate",
+   "reason": "repeat_prev_run",
+   "score": 34.4,
+   "likes": 8311,
+   "text": "This is it \u2014 today is the final Sunday without the NFL.\n\nTell your family.\nTell your friends.\nTell your spouse.\nLet whoever needs to know.\n\nStarting next week, Sundays are for football. \ud83e\udd79\ud83c\udfc8 https://t.co/iH9EVMq4xR"
+  },
+  {
+   "id": "2096644017182101942",
+   "url": "https://x.com/RapSheet/status/2096644017182101942",
+   "handle": "RapSheet",
+   "reason": "repeat_prev_run",
+   "score": 33.2,
+   "likes": 496,
+   "text": "A new deal for the Commissioner."
+  },
+  {
+   "id": "2096645409703698889",
+   "url": "https://x.com/AdamSchefter/status/2096645409703698889",
+   "handle": "AdamSchefter",
+   "reason": "repeat_prev_run",
+   "score": 31.0,
+   "likes": 352,
+   "text": "The below memorandum that was sent to the full membership this afternoon by Robert Kraft, chairman of the Compensation Committee:\n\u00a0\n\u201cSeptember 6, 2026\n\u00a0\n\u201cAs members of the Compensation Committee, we\u2019re pleased to announce that we have reached agreement with Roger to remain as Commissioner through the 2030 League Season, ending on March 31, 2031.\u00a0\n\u00a0\n\u201cThroughout the negotiation process, the Committee worked closely with an independent third-party compensation consultant and outside counsel to structure a deal that aligns Roger\u2019s compensation with the League\u2019s long-term interests and success.\u00a0 To that end, the agreement is heavily performance based, with more than 95% of the total compensation\u00a0tied to Roger\u2019s and the NFL\u2019s performance measured against various metrics and at the discretion of the Compensation Committee.\u00a0\n\u00a0\n\u201cWe believe we are very fortunate to have Roger at the helm for the next four years.\n\u00a0\nIf any of you has any questions, please reach out to any of us.\n\u00a0\nRobert Kraft (Chairman)\nJohn Mara\nShad Khan\nJimmy Haslam\nMichael Bidwill\nGreg Penner\u201d."
+  },
+  {
+   "id": "2096560007626039366",
+   "url": "https://x.com/RapSheet/status/2096560007626039366",
+   "handle": "RapSheet",
+   "reason": "repeat_prev_run",
+   "score": 30.0,
+   "likes": 2872,
+   "text": "Upon further review\u2026"
+  },
+  {
+   "id": "2096557670719205639",
+   "url": "https://x.com/AdamSchefter/status/2096557670719205639",
+   "handle": "AdamSchefter",
+   "reason": "repeat_prev_run",
+   "score": 29.9,
+   "likes": 2642,
+   "text": "Regarding Saturday night\u2019s controversy at the Big House:"
+  },
+  {
+   "id": "2096644819426660649",
+   "url": "https://x.com/MySportsUpdate/status/2096644819426660649",
+   "handle": "MySportsUpdate",
+   "reason": "repeat_prev_run",
+   "score": 26.4,
+   "likes": 267,
+   "text": "Roger Goodell\u2019s new contract extension will keep him as NFL commissioner through age-72 and take his tenure to 24 years. https://t.co/QnLE3jX4Mx"
+  },
+  {
+   "id": "2096557514657542485",
+   "url": "https://x.com/RapSheet/status/2096557514657542485",
+   "handle": "RapSheet",
+   "reason": "repeat_prev_run",
+   "score": 26.4,
+   "likes": 336,
+   "text": "Here is our full story on the dramatic return of #Vikings legend Harrison Smith, who agreed to terms last night: https://t.co/B3nAKVP4tc\n\nhttps://t.co/B3nAKVP4tc"
+  },
+  {
+   "id": "2096631349771690330",
+   "url": "https://x.com/GuruFantasyWrld/status/2096631349771690330",
+   "handle": "GuruFantasyWrld",
+   "reason": "repeat_prev_run",
+   "score": 26.2,
+   "likes": 25,
+   "text": "FANTASY GAME THEORY:\n\n\ud83c\udf93\ud83c\udf93\ud83c\udf93\n\nLet\u2019s talk about building a \u201cleague-winning\u201d roster.\n\nMost of the discussion around this topic centers around chasing \u201cUPSIDE.\u201d\n\nWhile I agree with this core principle \u2013 the principle is often used to hijack the entire conversation \u2013 to the point where players who \u201conly beat their ADP by a few spots\u201d are actually viewed as \u201cbad\u201d picks.\n\nEssentially \u2013 if a player isn\u2019t a \u201cleague-winning\u201d pick, they\u2019re a \u201cbad\u201d pick.\n\nThis notion is used to dismiss \u201cboring\u201d but productive veterans \u2013 all the time.\n\nI\u2019d like to challenge this notion of them being \u201cbad\u201d picks \u2013 as it simply is not supported by the data.\n\nVia @RyanJ_Heath\u2019s \u201cAnatomy of a League-Winner\u201d series\u2026\n\nWe know that:\n\nThere were 18 \u201cleague-winning\u201d players in 2024.\n\nThere were 18 \u201cleague-winning\u201d players in 2025.\n\nEssentially \u2013 we get 18 \u201cleague-winning\u201d players per season.\n\n(\u201cLeague-winner\u201d being defined as a player to make 55%+ of playoff rosters, using leagues where 4 out of 10 leagues make playoffs as the baseline)\n\nOut of the 18 \"league-winners\" in 2025 \u2013 13/18 (72.2%) were drafted within the first 5 rounds.\n\nOut of the 18 \u201cleague-winners\u201d in 2024 \u2013 17/18 (94.4%) were drafted inside the first 6 rounds; all of the QB's/RB's/WR's (15/15) inside the first 5 rounds.\n\nIn total \u2013 30/36 \u201cleague-winners\u201d (83.3%) over the last 2 seasons have been drafted inside the first 6 rounds.\n\nEssentially \u2013 you only need \u201cleague-winners\u201d with your first 5-6 picks.\n\n& your goal with your remaining 8-10 picks should quite literally be:\n\n\u201cTo draft players who slightly outperform their ADP\u2019s \u2013 while avoiding players who slightly underperform them.\u201d\n\nThis does not apply to the QB position \u2013 where you still have a 10%+ chance historically at drafting a league-winner in RD9-12; this is the one position you should still be targeting \u201cleague-winners\u201d outside of RD1-5.\n\nOtherwise \u2013 you simply want to beat ADP in RD6-12.\n\nOnce you get to your last 2-3 picks \u2013 you can shift back towards prioritizing only \u201cUPSIDE\u201d \u2013 "
+  },
+  {
+   "id": "2096597201958940844",
+   "url": "https://x.com/UnderdogNFL/status/2096597201958940844",
+   "handle": "UnderdogNFL",
+   "reason": "repeat_prev_run",
+   "score": 24.7,
+   "likes": 2423,
+   "text": "Giants CB Greg Newsome II on facing\u00a0George Pickens and CeeDee Lamb in Week 1:\n\n\"Definitely great players, but I like our chances.\" https://t.co/LxYHK4KGie"
+  },
+  {
+   "id": "2096588141389844540",
+   "url": "https://x.com/GuruFantasyWrld/status/2096588141389844540",
+   "handle": "GuruFantasyWrld",
+   "reason": "repeat_prev_run",
+   "score": 23.9,
+   "likes": 984,
+   "text": "\u201cBhayshul Tuten could be the next Bucky Irving.\u201d\n\nMeanwhile \u2013 you can just draft actual Bucky Irving. https://t.co/FiYJlpgCIC"
+  },
+  {
+   "id": "2096641677209297317",
+   "url": "https://x.com/GuruFantasyWrld/status/2096641677209297317",
+   "handle": "GuruFantasyWrld",
+   "reason": "repeat_prev_run",
+   "score": 19.0,
+   "likes": 130,
+   "text": "\u201cYou can literally start your draft with Jonathan Taylor, Derrick Henry, &amp; Trey McBride \u2013 &amp; still get Emeka Egbuka &amp; Davante Adams at WR in Round 4 &amp; 5\u201d https://t.co/hyBXeLXgv8"
+  },
+  {
+   "id": "2096606953631858727",
+   "url": "https://x.com/GuruFantasyWrld/status/2096606953631858727",
+   "handle": "GuruFantasyWrld",
+   "reason": "repeat_prev_run",
+   "score": 17.5,
+   "likes": 34,
+   "text": "I understand not wanting to take zeros\u2026\n\nBut do you remember last year when people refused to draft Quinshon Judkins in the double-digit rounds?\n\nBecause of the \u201csuspension risk.\u201d\n\nOnly for those who took that \u201crisk\u201d to end up with a high-volume starter in RD10+\n\nWell \u2013 that might just be Josh Jacobs this year (if he\u2019s suspended for only 6 games or less & comes back this season).\n\nI promise you \u2013 floor does not matter in the double-digit rounds.\n\nThese are the players who were being drafted outside the Top-125 picks last year\u2026 how many of them hit??\n\nYou should be shooting for UPSIDE only."
+  },
+  {
+   "id": "2096622766334095385",
+   "url": "https://x.com/theGLgrind/status/2096622766334095385",
+   "handle": "theGLgrind",
+   "reason": "repeat_prev_run",
+   "score": 8.6,
+   "likes": 90,
+   "text": "Patrick Mahomes has spent the offseason rehabbing the torn ACL and LCL he suffered in December.\n\nXavier Worthy told reporters, \"He's back.\"\n\nSean Payton has reportedly been preparing the Broncos for Week 1 assuming Mahomes will play. The Chiefs have been quiet about his status, but everything is pointing toward Mahomes being under center against Denver."
   }
  ]
 }

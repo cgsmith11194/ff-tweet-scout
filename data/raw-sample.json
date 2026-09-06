@@ -1,19 +1,995 @@
 [
  {
   "type": "tweet",
+  "id": "2096652781444628563",
+  "url": "https://x.com/jagibbs_23/status/2096652781444628563",
+  "twitterUrl": "https://twitter.com/jagibbs_23/status/2096652781444628563",
+  "text": "Early look at Week 1 QB ranks \ud83d\udc40\n\nComplete chaos. Baker Mayfield (QB18 ADP) above Jayden Daniels and Drake Maye.\n\nFantasy Football is back. https://t.co/GbkizrKXPR",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 1,
+  "likeCount": 16,
+  "quoteCount": 0,
+  "viewCount": 2731,
+  "createdAt": "Sun Sep 06 17:32:31 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2096652781444628563",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "jagibbs_23",
+   "url": "https://x.com/jagibbs_23",
+   "twitterUrl": "https://twitter.com/jagibbs_23",
+   "id": "3334410552",
+   "name": "Jacob Gibbs",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
+   "description": "",
+   "location": "Kansas City, MO",
+   "followers": 74674,
+   "following": 866,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 26536,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 8645,
+   "statusesCount": 41289,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2096600326790852967"
+   ],
+   "profile_bio": {
+    "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "cbssports.com/newsletters/fa\u2026",
+        "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/6MwuwHkH5N"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/GbkizrKXPR",
+     "expanded_url": "https://x.com/jagibbs_23/status/2096652781444628563/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 70,
+         "w": 70,
+         "x": 99,
+         "y": 349
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 572,
+         "y": 996
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 572,
+         "y": 1154
+        },
+        {
+         "h": 67,
+         "w": 67,
+         "x": 102,
+         "y": 680
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 572,
+         "y": 515
+        },
+        {
+         "h": 80,
+         "w": 80,
+         "x": 96,
+         "y": 519
+        },
+        {
+         "h": 72,
+         "w": 72,
+         "x": 569,
+         "y": 672
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 99,
+         "y": 835
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 101,
+         "y": 1160
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 572,
+         "y": 831
+        },
+        {
+         "h": 81,
+         "w": 81,
+         "x": 97,
+         "y": 979
+        },
+        {
+         "h": 91,
+         "w": 91,
+         "x": 559,
+         "y": 335
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 66,
+         "w": 66,
+         "x": 94,
+         "y": 331
+        },
+        {
+         "h": 62,
+         "w": 62,
+         "x": 543,
+         "y": 946
+        },
+        {
+         "h": 62,
+         "w": 62,
+         "x": 543,
+         "y": 1096
+        },
+        {
+         "h": 63,
+         "w": 63,
+         "x": 96,
+         "y": 646
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 543,
+         "y": 489
+        },
+        {
+         "h": 76,
+         "w": 76,
+         "x": 91,
+         "y": 493
+        },
+        {
+         "h": 68,
+         "w": 68,
+         "x": 540,
+         "y": 638
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 94,
+         "y": 793
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 96,
+         "y": 1102
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 543,
+         "y": 789
+        },
+        {
+         "h": 76,
+         "w": 76,
+         "x": 92,
+         "y": 930
+        },
+        {
+         "h": 86,
+         "w": 86,
+         "x": 531,
+         "y": 318
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 70,
+         "w": 70,
+         "x": 99,
+         "y": 349
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 572,
+         "y": 996
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 572,
+         "y": 1154
+        },
+        {
+         "h": 67,
+         "w": 67,
+         "x": 102,
+         "y": 680
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 572,
+         "y": 515
+        },
+        {
+         "h": 80,
+         "w": 80,
+         "x": 96,
+         "y": 519
+        },
+        {
+         "h": 72,
+         "w": 72,
+         "x": 569,
+         "y": 672
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 99,
+         "y": 835
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 101,
+         "y": 1160
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 572,
+         "y": 831
+        },
+        {
+         "h": 81,
+         "w": 81,
+         "x": 97,
+         "y": 979
+        },
+        {
+         "h": 91,
+         "w": 91,
+         "x": 559,
+         "y": 335
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 37,
+         "w": 37,
+         "x": 53,
+         "y": 187
+        },
+        {
+         "h": 35,
+         "w": 35,
+         "x": 308,
+         "y": 536
+        },
+        {
+         "h": 35,
+         "w": 35,
+         "x": 308,
+         "y": 621
+        },
+        {
+         "h": 36,
+         "w": 36,
+         "x": 54,
+         "y": 366
+        },
+        {
+         "h": 37,
+         "w": 37,
+         "x": 308,
+         "y": 277
+        },
+        {
+         "h": 43,
+         "w": 43,
+         "x": 51,
+         "y": 279
+        },
+        {
+         "h": 38,
+         "w": 38,
+         "x": 306,
+         "y": 361
+        },
+        {
+         "h": 37,
+         "w": 37,
+         "x": 53,
+         "y": 449
+        },
+        {
+         "h": 37,
+         "w": 37,
+         "x": 54,
+         "y": 624
+        },
+        {
+         "h": 37,
+         "w": 37,
+         "x": 308,
+         "y": 447
+        },
+        {
+         "h": 43,
+         "w": 43,
+         "x": 52,
+         "y": 527
+        },
+        {
+         "h": 49,
+         "w": 49,
+         "x": 301,
+         "y": 180
+        }
+       ]
+      }
+     },
+     "id_str": "2096652639110914049",
+     "indices": [
+      139,
+      162
+     ],
+     "media_key": "3_2096652639110914049",
+     "media_results": {
+      "result": {
+       "media_key": "3_2096652639110914049"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HRjOd3uXYAE8VYQ.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 566,
+        "w": 1010,
+        "x": 0,
+        "y": 127
+       },
+       {
+        "h": 1010,
+        "w": 1010,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1151,
+        "w": 1010,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1263,
+        "w": 632,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1263,
+        "w": 1010,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1263,
+      "width": 1010
+     },
+     "sizes": {
+      "large": {
+       "h": 1263,
+       "resize": "fit",
+       "w": 1010
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 960
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 544
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/GbkizrKXPR"
+    }
+   ]
+  },
+  "card": null,
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/GbkizrKXPR",
+     "expanded_url": "https://x.com/jagibbs_23/status/2096652781444628563/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 70,
+         "w": 70,
+         "x": 99,
+         "y": 349
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 572,
+         "y": 996
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 572,
+         "y": 1154
+        },
+        {
+         "h": 67,
+         "w": 67,
+         "x": 102,
+         "y": 680
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 572,
+         "y": 515
+        },
+        {
+         "h": 80,
+         "w": 80,
+         "x": 96,
+         "y": 519
+        },
+        {
+         "h": 72,
+         "w": 72,
+         "x": 569,
+         "y": 672
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 99,
+         "y": 835
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 101,
+         "y": 1160
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 572,
+         "y": 831
+        },
+        {
+         "h": 81,
+         "w": 81,
+         "x": 97,
+         "y": 979
+        },
+        {
+         "h": 91,
+         "w": 91,
+         "x": 559,
+         "y": 335
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 66,
+         "w": 66,
+         "x": 94,
+         "y": 331
+        },
+        {
+         "h": 62,
+         "w": 62,
+         "x": 543,
+         "y": 946
+        },
+        {
+         "h": 62,
+         "w": 62,
+         "x": 543,
+         "y": 1096
+        },
+        {
+         "h": 63,
+         "w": 63,
+         "x": 96,
+         "y": 646
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 543,
+         "y": 489
+        },
+        {
+         "h": 76,
+         "w": 76,
+         "x": 91,
+         "y": 493
+        },
+        {
+         "h": 68,
+         "w": 68,
+         "x": 540,
+         "y": 638
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 94,
+         "y": 793
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 96,
+         "y": 1102
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 543,
+         "y": 789
+        },
+        {
+         "h": 76,
+         "w": 76,
+         "x": 92,
+         "y": 930
+        },
+        {
+         "h": 86,
+         "w": 86,
+         "x": 531,
+         "y": 318
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 70,
+         "w": 70,
+         "x": 99,
+         "y": 349
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 572,
+         "y": 996
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 572,
+         "y": 1154
+        },
+        {
+         "h": 67,
+         "w": 67,
+         "x": 102,
+         "y": 680
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 572,
+         "y": 515
+        },
+        {
+         "h": 80,
+         "w": 80,
+         "x": 96,
+         "y": 519
+        },
+        {
+         "h": 72,
+         "w": 72,
+         "x": 569,
+         "y": 672
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 99,
+         "y": 835
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 101,
+         "y": 1160
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 572,
+         "y": 831
+        },
+        {
+         "h": 81,
+         "w": 81,
+         "x": 97,
+         "y": 979
+        },
+        {
+         "h": 91,
+         "w": 91,
+         "x": 559,
+         "y": 335
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 37,
+         "w": 37,
+         "x": 53,
+         "y": 187
+        },
+        {
+         "h": 35,
+         "w": 35,
+         "x": 308,
+         "y": 536
+        },
+        {
+         "h": 35,
+         "w": 35,
+         "x": 308,
+         "y": 621
+        },
+        {
+         "h": 36,
+         "w": 36,
+         "x": 54,
+         "y": 366
+        },
+        {
+         "h": 37,
+         "w": 37,
+         "x": 308,
+         "y": 277
+        },
+        {
+         "h": 43,
+         "w": 43,
+         "x": 51,
+         "y": 279
+        },
+        {
+         "h": 38,
+         "w": 38,
+         "x": 306,
+         "y": 361
+        },
+        {
+         "h": 37,
+         "w": 37,
+         "x": 53,
+         "y": 449
+        },
+        {
+         "h": 37,
+         "w": 37,
+         "x": 54,
+         "y": 624
+        },
+        {
+         "h": 37,
+         "w": 37,
+         "x": 308,
+         "y": 447
+        },
+        {
+         "h": 43,
+         "w": 43,
+         "x": 52,
+         "y": 527
+        },
+        {
+         "h": 49,
+         "w": 49,
+         "x": 301,
+         "y": 180
+        }
+       ]
+      }
+     },
+     "id_str": "2096652639110914049",
+     "indices": [
+      139,
+      162
+     ],
+     "media_key": "3_2096652639110914049",
+     "media_results": {
+      "result": {
+       "media_key": "3_2096652639110914049"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HRjOd3uXYAE8VYQ.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 566,
+        "w": 1010,
+        "x": 0,
+        "y": 127
+       },
+       {
+        "h": 1010,
+        "w": 1010,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1151,
+        "w": 1010,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1263,
+        "w": 632,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1263,
+        "w": 1010,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1263,
+      "width": 1010
+     },
+     "sizes": {
+      "large": {
+       "h": 1263,
+       "resize": "fit",
+       "w": 1010
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 960
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 544
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/GbkizrKXPR"
+    }
+   ]
+  },
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "searchTermIndex": 0
+ },
+ {
+  "type": "tweet",
+  "id": "2096651112749175187",
+  "url": "https://x.com/UnderdogNFL/status/2096651112749175187",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2096651112749175187",
+  "text": "Josh McDaniels reflecting on last year's Super Bowl loss, via @MikeReiss:\n\n\"I didn\u2019t do a good enough job. Point it at me. They out-everythinged us in the game.\"",
+  "source": "",
+  "retweetCount": 5,
+  "replyCount": 3,
+  "likeCount": 172,
+  "quoteCount": 1,
+  "viewCount": 36220,
+  "createdAt": "Sun Sep 06 17:25:53 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "inReplyToId": null,
+  "conversationId": "2096651112749175187",
+  "inReplyToUserId": null,
+  "inReplyToUsername": null,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "",
+   "location": "",
+   "followers": 390492,
+   "following": 12,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {
+     "urls": []
+    },
+    "url": {}
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 10,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 5160,
+   "statusesCount": 32781,
+   "withheldInCountries": [],
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2096384967068762546"
+   ],
+   "profile_bio": {
+    "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+        "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/3wHuxASkII"
+       }
+      ]
+     }
+    }
+   },
+   "isAutomated": false,
+   "automatedBy": null
+  },
+  "extendedEntities": {},
+  "card": null,
+  "place": {},
+  "entities": {
+   "user_mentions": [
+    {
+     "id_str": "35017255",
+     "indices": [
+      62,
+      72
+     ],
+     "name": "Mike Reiss",
+     "screen_name": "MikeReiss"
+    }
+   ]
+  },
+  "reply_to_user_results": null,
+  "quoted_tweet_results": null,
+  "quoted_tweet": null,
+  "retweeted_tweet": null,
+  "isConversationControlled": false,
+  "searchTermIndex": 0
+ },
+ {
+  "type": "tweet",
   "id": "2096644025998623075",
   "url": "https://x.com/UnderdogNFL/status/2096644025998623075",
   "twitterUrl": "https://twitter.com/UnderdogNFL/status/2096644025998623075",
   "text": "Schefter: Roger Goodell to sign 4-year extension as commissioner of NFL.",
   "source": "",
-  "retweetCount": 10,
-  "replyCount": 25,
-  "likeCount": 148,
-  "quoteCount": 12,
-  "viewCount": 35112,
+  "retweetCount": 16,
+  "replyCount": 30,
+  "likeCount": 303,
+  "quoteCount": 20,
+  "viewCount": 71582,
   "createdAt": "Sun Sep 06 16:57:44 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 7,
+  "bookmarkCount": 11,
   "isReply": false,
   "inReplyToId": null,
   "conversationId": "2096644025998623075",
@@ -33,7 +1009,7 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
    "description": "",
    "location": "",
-   "followers": 390489,
+   "followers": 390492,
    "following": 12,
    "status": "",
    "canDm": false,
@@ -50,7 +1026,7 @@
    "hasCustomTimelines": true,
    "isTranslator": false,
    "mediaCount": 5160,
-   "statusesCount": 32780,
+   "statusesCount": 32781,
    "withheldInCountries": [],
    "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
@@ -98,13 +1074,13 @@
   "text": "QBs facing a defense playing its first game under a new defensive coach in Week 1:\n\n(in order of Week 1 implied point total)\n\n26 - Matthew Stafford vs. SF\n25.5 - Dak Prescott at NYG\n25 - Jalen Hurts vs. WAS\n24 - Trevor Lawrence vs. CLE\n24 - Kyler Murray vs. GB (his former coach)\n23 - Jaxson Dart vs. DAL\n22 - Daniel Jones vs. BAL\n21.5 - C.J. Stroud vs. BUF\n21.5 - Kirk Cousins vs. MIA\n21 - Cam Ward vs. NYJ\n19 - ATL QB at PIT\n19 - Jacoby Brissett at LAC\n18.5 - Geno Smith at TEN\n18 - Malik Willis at LV",
   "source": "",
   "retweetCount": 0,
-  "replyCount": 1,
-  "likeCount": 8,
+  "replyCount": 2,
+  "likeCount": 15,
   "quoteCount": 0,
-  "viewCount": 2652,
+  "viewCount": 6021,
   "createdAt": "Sun Sep 06 16:57:39 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 2,
+  "bookmarkCount": 3,
   "isReply": false,
   "inReplyToId": null,
   "conversationId": "2096644006524387457",
@@ -124,7 +1100,7 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
    "description": "",
    "location": "Kansas City, MO",
-   "followers": 74669,
+   "followers": 74674,
    "following": 866,
    "status": "",
    "canDm": true,
@@ -140,8 +1116,8 @@
    "favouritesCount": 26536,
    "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 8644,
-   "statusesCount": 41288,
+   "mediaCount": 8645,
+   "statusesCount": 41289,
    "withheldInCountries": [],
    "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
@@ -194,14 +1170,14 @@
   "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2096641677209297317",
   "text": "\u201cYou can literally start your draft with Jonathan Taylor, Derrick Henry, &amp; Trey McBride \u2013 &amp; still get Emeka Egbuka &amp; Davante Adams at WR in Round 4 &amp; 5\u201d https://t.co/hyBXeLXgv8",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 2,
-  "likeCount": 42,
+  "retweetCount": 4,
+  "replyCount": 3,
+  "likeCount": 130,
   "quoteCount": 1,
-  "viewCount": 3872,
+  "viewCount": 8092,
   "createdAt": "Sun Sep 06 16:48:24 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 3,
+  "bookmarkCount": 5,
   "isReply": false,
   "inReplyToId": null,
   "conversationId": "2096641677209297317",
@@ -221,7 +1197,7 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
    "description": "",
    "location": "GuruFantasyWorld.com",
-   "followers": 50311,
+   "followers": 50312,
    "following": 1443,
    "status": "",
    "canDm": false,
@@ -587,11 +1563,11 @@
   "twitterUrl": "https://twitter.com/jagibbs_23/status/2096641283389378610",
   "text": "This feels like it can't possibly be right, but Drake Maye is QB18 in my initial run at Week 1 rankings\n\nTake that as a note on just how close the margins are at QB this year... Late-Round QB wins again.",
   "source": "",
-  "retweetCount": 2,
-  "replyCount": 8,
-  "likeCount": 27,
+  "retweetCount": 3,
+  "replyCount": 14,
+  "likeCount": 57,
   "quoteCount": 0,
-  "viewCount": 4877,
+  "viewCount": 8810,
   "createdAt": "Sun Sep 06 16:46:50 +0000 2026",
   "lang": "en",
   "bookmarkCount": 0,
@@ -614,7 +1590,7 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
    "description": "",
    "location": "Kansas City, MO",
-   "followers": 74669,
+   "followers": 74674,
    "following": 866,
    "status": "",
    "canDm": true,
@@ -630,8 +1606,8 @@
    "favouritesCount": 26536,
    "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 8644,
-   "statusesCount": 41288,
+   "mediaCount": 8645,
+   "statusesCount": 41289,
    "withheldInCountries": [],
    "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
@@ -680,9 +1656,9 @@
   "source": "",
   "retweetCount": 0,
   "replyCount": 1,
-  "likeCount": 36,
+  "likeCount": 81,
   "quoteCount": 0,
-  "viewCount": 4063,
+  "viewCount": 9355,
   "createdAt": "Sun Sep 06 16:41:01 +0000 2026",
   "lang": "en",
   "bookmarkCount": 3,
@@ -705,7 +1681,7 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
    "description": "",
    "location": "GuruFantasyWorld.com",
-   "followers": 50311,
+   "followers": 50312,
    "following": 1443,
    "status": "",
    "canDm": false,
@@ -771,12 +1747,12 @@
   "source": "",
   "retweetCount": 1,
   "replyCount": 3,
-  "likeCount": 18,
+  "likeCount": 25,
   "quoteCount": 0,
-  "viewCount": 6227,
+  "viewCount": 8563,
   "createdAt": "Sun Sep 06 16:07:21 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 20,
+  "bookmarkCount": 26,
   "isReply": false,
   "inReplyToId": null,
   "conversationId": "2096631349771690330",
@@ -796,7 +1772,7 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
    "description": "",
    "location": "GuruFantasyWorld.com",
-   "followers": 50311,
+   "followers": 50312,
    "following": 1443,
    "status": "",
    "canDm": false,
@@ -878,9 +1854,9 @@
   "source": "",
   "retweetCount": 0,
   "replyCount": 6,
-  "likeCount": 23,
+  "likeCount": 29,
   "quoteCount": 0,
-  "viewCount": 7361,
+  "viewCount": 7953,
   "createdAt": "Sun Sep 06 14:41:47 +0000 2026",
   "lang": "en",
   "bookmarkCount": 0,
@@ -903,7 +1879,7 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
    "description": "",
    "location": "GuruFantasyWorld.com",
-   "followers": 50311,
+   "followers": 50312,
    "following": 1443,
    "status": "",
    "canDm": false,
@@ -969,9 +1945,9 @@
   "source": "",
   "retweetCount": 0,
   "replyCount": 3,
-  "likeCount": 32,
+  "likeCount": 34,
   "quoteCount": 0,
-  "viewCount": 17744,
+  "viewCount": 19090,
   "createdAt": "Sun Sep 06 14:30:25 +0000 2026",
   "lang": "en",
   "bookmarkCount": 6,
@@ -994,7 +1970,7 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
    "description": "",
    "location": "GuruFantasyWorld.com",
-   "followers": 50311,
+   "followers": 50312,
    "following": 1443,
    "status": "",
    "canDm": false,
@@ -1346,1614 +2322,6 @@
   "quoted_tweet": null,
   "retweeted_tweet": null,
   "isConversationControlled": false,
-  "searchTermIndex": 0
- },
- {
-  "type": "tweet",
-  "id": "2096603392269332657",
-  "url": "https://x.com/jagibbs_23/status/2096603392269332657",
-  "twitterUrl": "https://twitter.com/jagibbs_23/status/2096603392269332657",
-  "text": "Sunday Beyond the Box Score! Start of a new series:\n\nhttps://t.co/AOvFpzX3FT",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 1,
-  "likeCount": 26,
-  "quoteCount": 0,
-  "viewCount": 10597,
-  "createdAt": "Sun Sep 06 14:16:16 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "inReplyToId": null,
-  "conversationId": "2096603392269332657",
-  "inReplyToUserId": null,
-  "inReplyToUsername": null,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "jagibbs_23",
-   "url": "https://x.com/jagibbs_23",
-   "twitterUrl": "https://twitter.com/jagibbs_23",
-   "id": "3334410552",
-   "name": "Jacob Gibbs",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
-   "description": "",
-   "location": "Kansas City, MO",
-   "followers": 74669,
-   "following": 866,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {}
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 26536,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 8644,
-   "statusesCount": 41288,
-   "withheldInCountries": [],
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2096600326790852967"
-   ],
-   "profile_bio": {
-    "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
-    "entities": {
-     "description": {},
-     "url": {
-      "urls": [
-       {
-        "display_url": "cbssports.com/newsletters/fa\u2026",
-        "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/6MwuwHkH5N"
-       }
-      ]
-     }
-    }
-   },
-   "isAutomated": false,
-   "automatedBy": null
-  },
-  "extendedEntities": {},
-  "card": {
-   "binding_values": [
-    {
-     "key": "player_url",
-     "value": {
-      "string_value": "https://www.youtube.com/embed/8gZpdbHn2vw",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_image_large",
-     "value": {
-      "image_value": {
-       "height": 320,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=jpg&name=800x320_1",
-       "width": 569
-      },
-      "type": "IMAGE"
-     }
-    },
-    {
-     "key": "player_image",
-     "value": {
-      "image_value": {
-       "height": 158,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=jpg&name=280x280",
-       "width": 280
-      },
-      "type": "IMAGE"
-     }
-    },
-    {
-     "key": "app_star_rating",
-     "value": {
-      "string_value": "4.66758",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "description",
-     "value": {
-      "string_value": "Who's got next? Jacob Gibbs shares the stat you need to know. #Fa...",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_width",
-     "value": {
-      "string_value": "1280",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "domain",
-     "value": {
-      "string_value": "www.youtube.com",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "app_is_free",
-     "value": {
-      "string_value": "true",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "site",
-     "value": {
-      "scribe_key": "publisher_id",
-      "type": "USER",
-      "user_value": {
-       "id_str": "10228272",
-       "path": []
-      }
-     }
-    },
-    {
-     "key": "player_image_original",
-     "value": {
-      "image_value": {
-       "height": 720,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=jpg&name=orig",
-       "width": 1280
-      },
-      "type": "IMAGE"
-     }
-    },
-    {
-     "key": "app_num_ratings",
-     "value": {
-      "string_value": "48,837,235",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "app_price_amount",
-     "value": {
-      "string_value": "0.0",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_height",
-     "value": {
-      "string_value": "720",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "vanity_url",
-     "value": {
-      "scribe_key": "vanity_url",
-      "string_value": "youtube.com",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "app_name",
-     "value": {
-      "string_value": "YouTube",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_image_small",
-     "value": {
-      "image_value": {
-       "height": 81,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=jpg&name=144x144",
-       "width": 144
-      },
-      "type": "IMAGE"
-     }
-    },
-    {
-     "key": "title",
-     "value": {
-      "string_value": "Certified ELITE Tier - This stat spotted Puka Nacua and Nico Collins...",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "app_price_currency",
-     "value": {
-      "string_value": "USD",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "card_url",
-     "value": {
-      "scribe_key": "card_url",
-      "string_value": "https://t.co/AOvFpzX3FT",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_image_color",
-     "value": {
-      "image_color_value": {
-       "palette": [
-        {
-         "percentage": 29.56,
-         "rgb": {
-          "blue": 32,
-          "green": 22,
-          "red": 5
-         }
-        },
-        {
-         "percentage": 24.4,
-         "rgb": {
-          "blue": 54,
-          "green": 238,
-          "red": 208
-         }
-        },
-        {
-         "percentage": 9.02,
-         "rgb": {
-          "blue": 55,
-          "green": 71,
-          "red": 121
-         }
-        },
-        {
-         "percentage": 8.53,
-         "rgb": {
-          "blue": 236,
-          "green": 235,
-          "red": 234
-         }
-        },
-        {
-         "percentage": 4.86,
-         "rgb": {
-          "blue": 247,
-          "green": 83,
-          "red": 31
-         }
-        }
-       ]
-      },
-      "type": "IMAGE_COLOR"
-     }
-    },
-    {
-     "key": "player_image_x_large",
-     "value": {
-      "image_value": {
-       "height": 720,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=png&name=2048x2048_2_exp",
-       "width": 1280
-      },
-      "type": "IMAGE"
-     }
-    }
-   ],
-   "card_platform": {
-    "platform": {
-     "audience": {
-      "name": "production"
-     },
-     "device": {
-      "name": "Swift",
-      "version": "12"
-     }
-    }
-   },
-   "name": "player",
-   "url": "https://t.co/AOvFpzX3FT",
-   "user_refs_results": [
-    {
-     "result": {
-      "__typename": "User",
-      "action_counts": {
-       "favorites_count": 6025
-      },
-      "affiliates_highlighted_label": {},
-      "avatar": {
-       "image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg"
-      },
-      "banner": {
-       "image_url": "https://pbs.twimg.com/profile_banners/10228272/1773248035"
-      },
-      "core": {
-       "created_at": "Tue Nov 13 21:43:46 +0000 2007",
-       "name": "YouTube",
-       "screen_name": "YouTube"
-      },
-      "dm_permissions": {
-       "can_dm": false
-      },
-      "follow_request_sent": false,
-      "grok_translated_bio_with_availability": {
-       "is_available": false
-      },
-      "has_graduated_access": true,
-      "id": "VXNlcjoxMDIyODI3Mg==",
-      "is_blue_verified": true,
-      "location": {
-       "location": "San Bruno, CA"
-      },
-      "media_permissions": {
-       "can_media_tag": true
-      },
-      "notifications_settings": {
-       "notifications_enabled": false
-      },
-      "parody_commentary_fan_label": "None",
-      "pinned_items": {
-       "tweet_ids_str": [
-        "2064694071537352925"
-       ]
-      },
-      "possibly_sensitive": false,
-      "privacy": {
-       "protected": false
-      },
-      "profile_bio": {
-       "description": "like & subscribe",
-       "entities": {
-        "description": {},
-        "url": {
-         "urls": [
-          {
-           "display_url": "youtube.com",
-           "expanded_url": "http://youtube.com/",
-           "indices": [
-            0,
-            23
-           ],
-           "url": "https://t.co/GIOK0JwagA"
-          }
-         ]
-        }
-       }
-      },
-      "profile_description_language": "en",
-      "profile_image_shape": "Square",
-      "profile_metadata": {
-       "profile_interstitial_type": ""
-      },
-      "profile_translation": {
-       "translator_type": "regular"
-      },
-      "relationship_counts": {
-       "followers": 68839885,
-       "following": 1142
-      },
-      "relationship_perspectives": {
-       "blocked_by": false,
-       "blocking": false,
-       "followed_by": false,
-       "following": false,
-       "live_following": false,
-       "muting": false
-      },
-      "rest_id": "10228272",
-      "super_follow_eligible": false,
-      "super_followed_by": false,
-      "super_following": false,
-      "tweet_counts": {
-       "media_tweets": 16186,
-       "tweets": 61470
-      },
-      "verification": {
-       "verified": false,
-       "verified_type": "Business"
-      },
-      "website": {
-       "url": "https://t.co/GIOK0JwagA"
-      }
-     }
-    }
-   ]
-  },
-  "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "youtu.be/8gZpdbHn2vw?is\u2026",
-     "expanded_url": "https://youtu.be/8gZpdbHn2vw?is=wWJZvkjAv3oiYFwC",
-     "indices": [
-      53,
-      76
-     ],
-     "url": "https://t.co/AOvFpzX3FT"
-    }
-   ]
-  },
-  "reply_to_user_results": null,
-  "quoted_tweet_results": null,
-  "quoted_tweet": null,
-  "retweeted_tweet": null,
-  "isConversationControlled": false,
-  "searchTermIndex": 0
- },
- {
-  "type": "tweet",
-  "id": "2096600326790852967",
-  "url": "https://x.com/jagibbs_23/status/2096600326790852967",
-  "twitterUrl": "https://twitter.com/jagibbs_23/status/2096600326790852967",
-  "text": "Certified Elite Tier:\n\nPuka Nacua\nJaxon Smith-Njigba\nAmon-Ra St. Brown\nTrey McBride\nJa\u2019Marr Chase\nCeeDee Lamb\nNico Collins\nJustin Jefferson\n\nhttps://t.co/MB7fPKXRg6",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 7,
-  "likeCount": 75,
-  "quoteCount": 0,
-  "viewCount": 49084,
-  "createdAt": "Sun Sep 06 14:04:05 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 21,
-  "isReply": false,
-  "inReplyToId": null,
-  "conversationId": "2096600326790852967",
-  "inReplyToUserId": null,
-  "inReplyToUsername": null,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "jagibbs_23",
-   "url": "https://x.com/jagibbs_23",
-   "twitterUrl": "https://twitter.com/jagibbs_23",
-   "id": "3334410552",
-   "name": "Jacob Gibbs",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
-   "description": "",
-   "location": "Kansas City, MO",
-   "followers": 74669,
-   "following": 866,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
-   "entities": {
-    "description": {
-     "urls": []
-    },
-    "url": {}
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 26536,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 8644,
-   "statusesCount": 41288,
-   "withheldInCountries": [],
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2096600326790852967"
-   ],
-   "profile_bio": {
-    "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
-    "entities": {
-     "description": {},
-     "url": {
-      "urls": [
-       {
-        "display_url": "cbssports.com/newsletters/fa\u2026",
-        "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/6MwuwHkH5N"
-       }
-      ]
-     }
-    }
-   },
-   "isAutomated": false,
-   "automatedBy": null
-  },
-  "extendedEntities": {},
-  "card": {
-   "binding_values": [
-    {
-     "key": "player_url",
-     "value": {
-      "string_value": "https://www.youtube.com/embed/8gZpdbHn2vw",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_image_large",
-     "value": {
-      "image_value": {
-       "height": 320,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=jpg&name=800x320_1",
-       "width": 569
-      },
-      "type": "IMAGE"
-     }
-    },
-    {
-     "key": "player_image",
-     "value": {
-      "image_value": {
-       "height": 158,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=jpg&name=280x280",
-       "width": 280
-      },
-      "type": "IMAGE"
-     }
-    },
-    {
-     "key": "app_star_rating",
-     "value": {
-      "string_value": "4.66758",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "description",
-     "value": {
-      "string_value": "Who's got next? Jacob Gibbs shares the stat you need to know. #Fa...",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_width",
-     "value": {
-      "string_value": "1280",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "domain",
-     "value": {
-      "string_value": "www.youtube.com",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "app_is_free",
-     "value": {
-      "string_value": "true",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "site",
-     "value": {
-      "scribe_key": "publisher_id",
-      "type": "USER",
-      "user_value": {
-       "id_str": "10228272",
-       "path": []
-      }
-     }
-    },
-    {
-     "key": "player_image_original",
-     "value": {
-      "image_value": {
-       "height": 720,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=jpg&name=orig",
-       "width": 1280
-      },
-      "type": "IMAGE"
-     }
-    },
-    {
-     "key": "app_num_ratings",
-     "value": {
-      "string_value": "48,837,235",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "app_price_amount",
-     "value": {
-      "string_value": "0.0",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_height",
-     "value": {
-      "string_value": "720",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "vanity_url",
-     "value": {
-      "scribe_key": "vanity_url",
-      "string_value": "youtube.com",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "app_name",
-     "value": {
-      "string_value": "YouTube",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_image_small",
-     "value": {
-      "image_value": {
-       "height": 81,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=jpg&name=144x144",
-       "width": 144
-      },
-      "type": "IMAGE"
-     }
-    },
-    {
-     "key": "title",
-     "value": {
-      "string_value": "Certified ELITE Tier - This stat spotted Puka Nacua and Nico Collins...",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "app_price_currency",
-     "value": {
-      "string_value": "USD",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "card_url",
-     "value": {
-      "scribe_key": "card_url",
-      "string_value": "https://t.co/MB7fPKXRg6",
-      "type": "STRING"
-     }
-    },
-    {
-     "key": "player_image_color",
-     "value": {
-      "image_color_value": {
-       "palette": [
-        {
-         "percentage": 29.56,
-         "rgb": {
-          "blue": 32,
-          "green": 22,
-          "red": 5
-         }
-        },
-        {
-         "percentage": 24.4,
-         "rgb": {
-          "blue": 54,
-          "green": 238,
-          "red": 208
-         }
-        },
-        {
-         "percentage": 9.02,
-         "rgb": {
-          "blue": 55,
-          "green": 71,
-          "red": 121
-         }
-        },
-        {
-         "percentage": 8.53,
-         "rgb": {
-          "blue": 236,
-          "green": 235,
-          "red": 234
-         }
-        },
-        {
-         "percentage": 4.86,
-         "rgb": {
-          "blue": 247,
-          "green": 83,
-          "red": 31
-         }
-        }
-       ]
-      },
-      "type": "IMAGE_COLOR"
-     }
-    },
-    {
-     "key": "player_image_x_large",
-     "value": {
-      "image_value": {
-       "height": 720,
-       "url": "https://pbs.twimg.com/card_img/2096600331438182400/XqMMy3fm?format=png&name=2048x2048_2_exp",
-       "width": 1280
-      },
-      "type": "IMAGE"
-     }
-    }
-   ],
-   "card_platform": {
-    "platform": {
-     "audience": {
-      "name": "production"
-     },
-     "device": {
-      "name": "Swift",
-      "version": "12"
-     }
-    }
-   },
-   "name": "player",
-   "url": "https://t.co/MB7fPKXRg6",
-   "user_refs_results": [
-    {
-     "result": {
-      "__typename": "User",
-      "action_counts": {
-       "favorites_count": 6025
-      },
-      "affiliates_highlighted_label": {},
-      "avatar": {
-       "image_url": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg"
-      },
-      "banner": {
-       "image_url": "https://pbs.twimg.com/profile_banners/10228272/1773248035"
-      },
-      "core": {
-       "created_at": "Tue Nov 13 21:43:46 +0000 2007",
-       "name": "YouTube",
-       "screen_name": "YouTube"
-      },
-      "dm_permissions": {
-       "can_dm": false
-      },
-      "follow_request_sent": false,
-      "grok_translated_bio_with_availability": {
-       "is_available": false
-      },
-      "has_graduated_access": true,
-      "id": "VXNlcjoxMDIyODI3Mg==",
-      "is_blue_verified": true,
-      "location": {
-       "location": "San Bruno, CA"
-      },
-      "media_permissions": {
-       "can_media_tag": true
-      },
-      "notifications_settings": {
-       "notifications_enabled": false
-      },
-      "parody_commentary_fan_label": "None",
-      "pinned_items": {
-       "tweet_ids_str": [
-        "2064694071537352925"
-       ]
-      },
-      "possibly_sensitive": false,
-      "privacy": {
-       "protected": false
-      },
-      "profile_bio": {
-       "description": "like & subscribe",
-       "entities": {
-        "description": {},
-        "url": {
-         "urls": [
-          {
-           "display_url": "youtube.com",
-           "expanded_url": "http://youtube.com/",
-           "indices": [
-            0,
-            23
-           ],
-           "url": "https://t.co/GIOK0JwagA"
-          }
-         ]
-        }
-       }
-      },
-      "profile_description_language": "en",
-      "profile_image_shape": "Square",
-      "profile_metadata": {
-       "profile_interstitial_type": ""
-      },
-      "profile_translation": {
-       "translator_type": "regular"
-      },
-      "relationship_counts": {
-       "followers": 68839885,
-       "following": 1142
-      },
-      "relationship_perspectives": {
-       "blocked_by": false,
-       "blocking": false,
-       "followed_by": false,
-       "following": false,
-       "live_following": false,
-       "muting": false
-      },
-      "rest_id": "10228272",
-      "super_follow_eligible": false,
-      "super_followed_by": false,
-      "super_following": false,
-      "tweet_counts": {
-       "media_tweets": 16186,
-       "tweets": 61470
-      },
-      "verification": {
-       "verified": false,
-       "verified_type": "Business"
-      },
-      "website": {
-       "url": "https://t.co/GIOK0JwagA"
-      }
-     }
-    }
-   ]
-  },
-  "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "youtu.be/8gZpdbHn2vw?is\u2026",
-     "expanded_url": "https://youtu.be/8gZpdbHn2vw?is=cfp45s8-2j4GkGuC",
-     "indices": [
-      141,
-      164
-     ],
-     "url": "https://t.co/MB7fPKXRg6"
-    }
-   ]
-  },
-  "reply_to_user_results": null,
-  "quoted_tweet_results": null,
-  "quoted_tweet": {
-   "type": "tweet",
-   "id": "2096296258923102592",
-   "url": "https://x.com/jagibbs_23/status/2096296258923102592",
-   "twitterUrl": "https://twitter.com/jagibbs_23/status/2096296258923102592",
-   "text": "I color-coded my WR rankings through the lens of per-route data\n\nPink = Certified Elite\nCyan = Ascending Superstar\nGreen = Stable profile\nBlue = Inconclusive / not enough data\nRed = Seemingly heading in the wrong direction https://t.co/eLaoqEmhD0",
-   "source": "",
-   "retweetCount": 4,
-   "replyCount": 26,
-   "likeCount": 252,
-   "quoteCount": 0,
-   "viewCount": 109153,
-   "createdAt": "Sat Sep 05 17:55:50 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 216,
-   "isReply": false,
-   "inReplyToId": null,
-   "conversationId": "2096296258923102592",
-   "inReplyToUserId": null,
-   "inReplyToUsername": null,
-   "isPinned": false,
-   "author": {
-    "type": "user",
-    "userName": "jagibbs_23",
-    "url": "https://x.com/jagibbs_23",
-    "twitterUrl": "https://twitter.com/jagibbs_23",
-    "id": "3334410552",
-    "name": "Jacob Gibbs",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/2057425893786542080/sKciLK-Z_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/3334410552/1770305123",
-    "description": "",
-    "location": "Kansas City, MO",
-    "followers": 74669,
-    "following": 866,
-    "status": "",
-    "canDm": true,
-    "canMediaTag": true,
-    "createdAt": "Tue Aug 25 06:23:33 +0000 2015",
-    "entities": {
-     "description": {
-      "urls": []
-     },
-     "url": {}
-    },
-    "fastFollowersCount": 0,
-    "favouritesCount": 26536,
-    "hasCustomTimelines": true,
-    "isTranslator": false,
-    "mediaCount": 8644,
-    "statusesCount": 41288,
-    "withheldInCountries": [],
-    "affiliatesHighlightedLabel": {},
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2096600326790852967"
-    ],
-    "profile_bio": {
-     "description": "Fantasy Football Today newsletter \u2b07\ufe0f (it's free!) Beyond the Box Score podcast! \ud83e\udef6\ud83c\udffc (check out our 2026 Fantasy draft content on YT!)",
-     "entities": {
-      "description": {},
-      "url": {
-       "urls": [
-        {
-         "display_url": "cbssports.com/newsletters/fa\u2026",
-         "expanded_url": "https://www.cbssports.com/newsletters/fantasy-football-today/",
-         "indices": [
-          0,
-          23
-         ],
-         "url": "https://t.co/6MwuwHkH5N"
-        }
-       ]
-      }
-     }
-    },
-    "isAutomated": false,
-    "automatedBy": null
-   },
-   "extendedEntities": {
-    "media": [
-     {
-      "allow_download_status": {
-       "allow_download": true
-      },
-      "display_url": "pic.x.com/eLaoqEmhD0",
-      "expanded_url": "https://x.com/jagibbs_23/status/2096296258923102592/photo/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "features": {
-       "large": {
-        "faces": [
-         {
-          "h": 77,
-          "w": 77,
-          "x": 91,
-          "y": 684
-         }
-        ]
-       },
-       "medium": {
-        "faces": [
-         {
-          "h": 77,
-          "w": 77,
-          "x": 91,
-          "y": 684
-         }
-        ]
-       },
-       "orig": {
-        "faces": [
-         {
-          "h": 77,
-          "w": 77,
-          "x": 91,
-          "y": 684
-         }
-        ]
-       },
-       "small": {
-        "faces": [
-         {
-          "h": 54,
-          "w": 54,
-          "x": 64,
-          "y": 487
-         }
-        ]
-       }
-      },
-      "id_str": "2096295623091998720",
-      "indices": [
-       223,
-       246
-      ],
-      "media_key": "3_2096295623091998720",
-      "media_results": {
-       "result": {
-        "media_key": "3_2096295623091998720"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/media/HReJwzaa0AAU6PH.jpg",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 502,
-         "w": 897,
-         "x": 0,
-         "y": 11
-        },
-        {
-         "h": 897,
-         "w": 897,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 838,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 478,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 897,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 955,
-       "width": 897
-      },
-      "sizes": {
-       "large": {
-        "h": 955,
-        "resize": "fit",
-        "w": 897
-       },
-       "medium": {
-        "h": 955,
-        "resize": "fit",
-        "w": 897
-       },
-       "small": {
-        "h": 680,
-        "resize": "fit",
-        "w": 639
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/eLaoqEmhD0"
-     },
-     {
-      "allow_download_status": {
-       "allow_download": true
-      },
-      "display_url": "pic.x.com/eLaoqEmhD0",
-      "expanded_url": "https://x.com/jagibbs_23/status/2096296258923102592/photo/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "features": {
-       "large": {
-        "faces": []
-       },
-       "medium": {
-        "faces": []
-       },
-       "orig": {
-        "faces": []
-       },
-       "small": {
-        "faces": []
-       }
-      },
-      "id_str": "2096295623033229312",
-      "indices": [
-       223,
-       246
-      ],
-      "media_key": "3_2096295623033229312",
-      "media_results": {
-       "result": {
-        "media_key": "3_2096295623033229312"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/media/HReJwzMaEAA7oMW.jpg",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 504,
-         "w": 900,
-         "x": 0,
-         "y": 451
-        },
-        {
-         "h": 900,
-         "w": 900,
-         "x": 0,
-         "y": 55
-        },
-        {
-         "h": 955,
-         "w": 838,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 478,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 900,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 955,
-       "width": 900
-      },
-      "sizes": {
-       "large": {
-        "h": 955,
-        "resize": "fit",
-        "w": 900
-       },
-       "medium": {
-        "h": 955,
-        "resize": "fit",
-        "w": 900
-       },
-       "small": {
-        "h": 680,
-        "resize": "fit",
-        "w": 641
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/eLaoqEmhD0"
-     },
-     {
-      "allow_download_status": {
-       "allow_download": true
-      },
-      "display_url": "pic.x.com/eLaoqEmhD0",
-      "expanded_url": "https://x.com/jagibbs_23/status/2096296258923102592/photo/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "features": {
-       "large": {
-        "faces": []
-       },
-       "medium": {
-        "faces": []
-       },
-       "orig": {
-        "faces": []
-       },
-       "small": {
-        "faces": []
-       }
-      },
-      "id_str": "2096295623058460672",
-      "indices": [
-       223,
-       246
-      ],
-      "media_key": "3_2096295623058460672",
-      "media_results": {
-       "result": {
-        "media_key": "3_2096295623058460672"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/media/HReJwzSbEAA4sBl.png",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 496,
-         "w": 885,
-         "x": 0,
-         "y": 127
-        },
-        {
-         "h": 851,
-         "w": 851,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 851,
-         "w": 746,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 851,
-         "w": 426,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 851,
-         "w": 885,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 851,
-       "width": 885
-      },
-      "sizes": {
-       "large": {
-        "h": 851,
-        "resize": "fit",
-        "w": 885
-       },
-       "medium": {
-        "h": 851,
-        "resize": "fit",
-        "w": 885
-       },
-       "small": {
-        "h": 654,
-        "resize": "fit",
-        "w": 680
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/eLaoqEmhD0"
-     }
-    ]
-   },
-   "card": null,
-   "place": {},
-   "entities": {
-    "media": [
-     {
-      "allow_download_status": {
-       "allow_download": true
-      },
-      "display_url": "pic.x.com/eLaoqEmhD0",
-      "expanded_url": "https://x.com/jagibbs_23/status/2096296258923102592/photo/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "features": {
-       "large": {
-        "faces": [
-         {
-          "h": 77,
-          "w": 77,
-          "x": 91,
-          "y": 684
-         }
-        ]
-       },
-       "medium": {
-        "faces": [
-         {
-          "h": 77,
-          "w": 77,
-          "x": 91,
-          "y": 684
-         }
-        ]
-       },
-       "orig": {
-        "faces": [
-         {
-          "h": 77,
-          "w": 77,
-          "x": 91,
-          "y": 684
-         }
-        ]
-       },
-       "small": {
-        "faces": [
-         {
-          "h": 54,
-          "w": 54,
-          "x": 64,
-          "y": 487
-         }
-        ]
-       }
-      },
-      "id_str": "2096295623091998720",
-      "indices": [
-       223,
-       246
-      ],
-      "media_key": "3_2096295623091998720",
-      "media_results": {
-       "result": {
-        "media_key": "3_2096295623091998720"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/media/HReJwzaa0AAU6PH.jpg",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 502,
-         "w": 897,
-         "x": 0,
-         "y": 11
-        },
-        {
-         "h": 897,
-         "w": 897,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 838,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 478,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 897,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 955,
-       "width": 897
-      },
-      "sizes": {
-       "large": {
-        "h": 955,
-        "resize": "fit",
-        "w": 897
-       },
-       "medium": {
-        "h": 955,
-        "resize": "fit",
-        "w": 897
-       },
-       "small": {
-        "h": 680,
-        "resize": "fit",
-        "w": 639
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/eLaoqEmhD0"
-     },
-     {
-      "allow_download_status": {
-       "allow_download": true
-      },
-      "display_url": "pic.x.com/eLaoqEmhD0",
-      "expanded_url": "https://x.com/jagibbs_23/status/2096296258923102592/photo/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "features": {
-       "large": {
-        "faces": []
-       },
-       "medium": {
-        "faces": []
-       },
-       "orig": {
-        "faces": []
-       },
-       "small": {
-        "faces": []
-       }
-      },
-      "id_str": "2096295623033229312",
-      "indices": [
-       223,
-       246
-      ],
-      "media_key": "3_2096295623033229312",
-      "media_results": {
-       "result": {
-        "media_key": "3_2096295623033229312"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/media/HReJwzMaEAA7oMW.jpg",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 504,
-         "w": 900,
-         "x": 0,
-         "y": 451
-        },
-        {
-         "h": 900,
-         "w": 900,
-         "x": 0,
-         "y": 55
-        },
-        {
-         "h": 955,
-         "w": 838,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 478,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 955,
-         "w": 900,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 955,
-       "width": 900
-      },
-      "sizes": {
-       "large": {
-        "h": 955,
-        "resize": "fit",
-        "w": 900
-       },
-       "medium": {
-        "h": 955,
-        "resize": "fit",
-        "w": 900
-       },
-       "small": {
-        "h": 680,
-        "resize": "fit",
-        "w": 641
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/eLaoqEmhD0"
-     },
-     {
-      "allow_download_status": {
-       "allow_download": true
-      },
-      "display_url": "pic.x.com/eLaoqEmhD0",
-      "expanded_url": "https://x.com/jagibbs_23/status/2096296258923102592/photo/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "features": {
-       "large": {
-        "faces": []
-       },
-       "medium": {
-        "faces": []
-       },
-       "orig": {
-        "faces": []
-       },
-       "small": {
-        "faces": []
-       }
-      },
-      "id_str": "2096295623058460672",
-      "indices": [
-       223,
-       246
-      ],
-      "media_key": "3_2096295623058460672",
-      "media_results": {
-       "result": {
-        "media_key": "3_2096295623058460672"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/media/HReJwzSbEAA4sBl.png",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 496,
-         "w": 885,
-         "x": 0,
-         "y": 127
-        },
-        {
-         "h": 851,
-         "w": 851,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 851,
-         "w": 746,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 851,
-         "w": 426,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 851,
-         "w": 885,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 851,
-       "width": 885
-      },
-      "sizes": {
-       "large": {
-        "h": 851,
-        "resize": "fit",
-        "w": 885
-       },
-       "medium": {
-        "h": 851,
-        "resize": "fit",
-        "w": 885
-       },
-       "small": {
-        "h": 654,
-        "resize": "fit",
-        "w": 680
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/eLaoqEmhD0"
-     }
-    ]
-   },
-   "reply_to_user_results": null,
-   "quoted_tweet_results": null,
-   "quoted_tweet": null,
-   "retweeted_tweet": null,
-   "isConversationControlled": false
-  },
-  "retweeted_tweet": null,
-  "isConversationControlled": false,
-  "isQuote": true,
   "searchTermIndex": 0
  }
 ]
