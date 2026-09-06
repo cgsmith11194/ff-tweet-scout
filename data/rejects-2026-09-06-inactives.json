@@ -1,0 +1,155 @@
+{
+ "generated_at": "2026-09-06T17:13:04.882185+00:00",
+ "window": {
+  "since": "2026-09-06",
+  "until": "2026-09-07",
+  "days": 0.292
+ },
+ "counts": {
+  "raw": 49,
+  "unique": 36,
+  "kept": 21,
+  "kills": {
+   "low_score": 15,
+   "unparseable": 13
+  }
+ },
+ "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
+ "rejects": [
+  {
+   "id": "2096639821426921652",
+   "url": "https://x.com/GuruFantasyWrld/status/2096639821426921652",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.1,
+   "likes": 36,
+   "text": "FUCK WR\u2019S GET MONEY \ud83d\udcb0\ud83d\udcb0\ud83d\udcb0\n\nRD1 Christian McCaffrey\nRD2 Ashton Jeanty\nRD3 Trey McBride\nRD4 Emeka Egbuka\nRD5 Jaylen Waddle\nRD6 Lamar Jackson"
+  },
+  {
+   "id": "2096644025998623075",
+   "url": "https://x.com/UnderdogNFL/status/2096644025998623075",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.5,
+   "likes": 148,
+   "text": "Schefter: Roger Goodell to sign 4-year extension as commissioner of NFL."
+  },
+  {
+   "id": "2096584272463253876",
+   "url": "https://x.com/YahooFantasy/status/2096584272463253876",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.8,
+   "likes": 20,
+   "text": "29 Days of Fantasy: Day 28\n\nFantasy Football Live is back! And now 2.5 hours every Sunday \ud83c\udfc8\n\n\u23f0 More time for your questions\n\ud83c\udfc8 Last-minute pickups\n\ud83e\udde0 Analysis from @MattHarmon_BYB, @justinboone, @JoshNorris, and @HaydenWinks\n\ud83d\uddde\ufe0f News, injuries, and inactives\n\nFantasy Football Live streams every Sunday at 10:30am ET, Weeks 1 through 17.\n\nTune in next weekend and get your lineups set now: https://t.co/U1PxavKYxx"
+  },
+  {
+   "id": "2096599369164210651",
+   "url": "https://x.com/YahooFantasy/status/2096599369164210651",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.4,
+   "likes": 98,
+   "text": "1 WEEK UNTIL FANTASY FOOTBALL SUNDAYS \ud83d\udd25"
+  },
+  {
+   "id": "2096641283389378610",
+   "url": "https://x.com/jagibbs_23/status/2096641283389378610",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.9,
+   "likes": 27,
+   "text": "This feels like it can't possibly be right, but Drake Maye is QB18 in my initial run at Week 1 rankings\n\nTake that as a note on just how close the margins are at QB this year... Late-Round QB wins again."
+  },
+  {
+   "id": "2096609814189072479",
+   "url": "https://x.com/GuruFantasyWrld/status/2096609814189072479",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.8,
+   "likes": 23,
+   "text": "The best picks are usually the least popular to make."
+  },
+  {
+   "id": "2096600326790852967",
+   "url": "https://x.com/jagibbs_23/status/2096600326790852967",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.0,
+   "likes": 75,
+   "text": "Certified Elite Tier:\n\nPuka Nacua\nJaxon Smith-Njigba\nAmon-Ra St. Brown\nTrey McBride\nJa\u2019Marr Chase\nCeeDee Lamb\nNico Collins\nJustin Jefferson\n\nhttps://t.co/MB7fPKXRg6"
+  },
+  {
+   "id": "2096644599536329196",
+   "url": "https://x.com/YahooFantasy/status/2096644599536329196",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.1,
+   "likes": 2,
+   "text": ".@MattHarmon_BYB reveals one player he's targeting per team in the NFC East and the NFC North \ud83d\udc40 https://t.co/7eVlBW3eaZ"
+  },
+  {
+   "id": "2096600208742199773",
+   "url": "https://x.com/GuruFantasyWrld/status/2096600208742199773",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.7,
+   "likes": 83,
+   "text": "Accidentally drafted James Cook instead of CMC &amp; yet\u2026\n\nShe\u2019s beautiful \ud83d\ude0d https://t.co/onPAvjqGJk"
+  },
+  {
+   "id": "2096614410638811543",
+   "url": "https://x.com/YahooFantasy/status/2096614410638811543",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.5,
+   "likes": 66,
+   "text": "If you wanna go RB heavy early in your draft, @justinboone lets you know exactly what to do \ud83d\udc47 https://t.co/ipTzKb4a0m"
+  },
+  {
+   "id": "2096591469855559960",
+   "url": "https://x.com/HaydenWinks/status/2096591469855559960",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.6,
+   "likes": 39,
+   "text": "Our Sunday morning show \ud83d\udcc8"
+  },
+  {
+   "id": "2096612133349859369",
+   "url": "https://x.com/FantasyPtsData/status/2096612133349859369",
+   "handle": "FantasyPtsData",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.5,
+   "likes": 40,
+   "text": "Is George Pickens or CeeDee Lamb a better WR?\n\nI ask because Pickens had a similar or better separation win rate than Lamb across most routes last year https://t.co/P8uti5xgMd"
+  },
+  {
+   "id": "2096603392269332657",
+   "url": "https://x.com/jagibbs_23/status/2096603392269332657",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 26,
+   "text": "Sunday Beyond the Box Score! Start of a new series:\n\nhttps://t.co/AOvFpzX3FT"
+  },
+  {
+   "id": "2096585620202180802",
+   "url": "https://x.com/GuruFantasyWrld/status/2096585620202180802",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 5,
+   "text": "https://t.co/Yzg1bn3fSL"
+  },
+  {
+   "id": "2096583081767604428",
+   "url": "https://x.com/adamlevitan/status/2096583081767604428",
+   "handle": "adamlevitan",
+   "reason": "low_score(cold_water)",
+   "score": 15.4,
+   "likes": 108,
+   "text": "TreVeyon Henderson is in serious doubt for Wednesday's opener. Hurt ankle on August 24, hasn't practiced since.\n\nGood look here from @MikeReiss on how the Patriots will play it if THendo can't go. https://t.co/g69zcB2kdv"
+  }
+ ]
+}
