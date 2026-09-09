@@ -1,0 +1,203 @@
+{
+ "generated_at": "2026-09-09T03:43:20.720350+00:00",
+ "actor": "kaitoeasyapi~twitter-x-data-tweet-scraper-pay-per-result-cheapest",
+ "probes": {
+  "1_verbatim_failing": {
+   "query": "(from:Ihartitz OR from:ffdataroma OR from:GuruFantasyWrld OR from:SmolaDS OR from:UnderdogNFL OR from:Underdog__NFL OR from:kyle_borg OR from:jagibbs_23 OR from:LateRoundQB) since_time:1788320600 -filter:nativeretweets -filter:replies",
+   "run_id": "hihbhTY8MUm8Y0wvk",
+   "status": "SUCCEEDED",
+   "items": 15,
+   "mock": 15,
+   "real": 0,
+   "sample": [
+    {
+     "type": "mock_tweet",
+     "id": "-1",
+     "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have ",
+     "createdAt": "None",
+     "created_at": "None",
+     "author": "None"
+    },
+    {
+     "type": "mock_tweet",
+     "id": "-1",
+     "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have ",
+     "createdAt": "None",
+     "created_at": "None",
+     "author": "None"
+    }
+   ]
+  },
+  "2_no_date_clause": {
+   "query": "(from:Ihartitz OR from:ffdataroma OR from:GuruFantasyWrld OR from:SmolaDS OR from:UnderdogNFL OR from:Underdog__NFL OR from:kyle_borg OR from:jagibbs_23 OR from:LateRoundQB) -filter:nativeretweets -filter:replies",
+   "run_id": "6YbjuG0ktyXkt0trH",
+   "status": "SUCCEEDED",
+   "items": 15,
+   "mock": 15,
+   "real": 0,
+   "sample": [
+    {
+     "type": "mock_tweet",
+     "id": "-1",
+     "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have ",
+     "createdAt": "None",
+     "created_at": "None",
+     "author": "None"
+    },
+    {
+     "type": "mock_tweet",
+     "id": "-1",
+     "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have ",
+     "createdAt": "None",
+     "created_at": "None",
+     "author": "None"
+    }
+   ]
+  },
+  "3_bare_handles": {
+   "query": "(from:Ihartitz OR from:ffdataroma OR from:GuruFantasyWrld OR from:SmolaDS OR from:UnderdogNFL OR from:Underdog__NFL OR from:kyle_borg OR from:jagibbs_23 OR from:LateRoundQB)",
+   "run_id": "ACOhGYVpZRCjLMshe",
+   "status": "SUCCEEDED",
+   "items": 15,
+   "mock": 15,
+   "real": 0,
+   "sample": [
+    {
+     "type": "mock_tweet",
+     "id": "-1",
+     "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have ",
+     "createdAt": "None",
+     "created_at": "None",
+     "author": "None"
+    },
+    {
+     "type": "mock_tweet",
+     "id": "-1",
+     "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have ",
+     "createdAt": "None",
+     "created_at": "None",
+     "author": "None"
+    }
+   ]
+  },
+  "4_keyword_control": {
+   "query": "NFL",
+   "run_id": "7l8X0HI9pVsvMSAXU",
+   "status": "SUCCEEDED",
+   "items": 15,
+   "mock": 15,
+   "real": 0,
+   "sample": [
+    {
+     "type": "mock_tweet",
+     "id": "-1",
+     "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have ",
+     "createdAt": "None",
+     "created_at": "None",
+     "author": "None"
+    },
+    {
+     "type": "mock_tweet",
+     "id": "-1",
+     "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have ",
+     "createdAt": "None",
+     "created_at": "None",
+     "author": "None"
+    }
+   ]
+  }
+ },
+ "recent_runs": [
+  {
+   "id": "7l8X0HI9pVsvMSAXU",
+   "actor": "CJdippxWmn9uRfooo",
+   "status": "SUCCEEDED",
+   "started": "2026-09-09T03:44:23.888Z",
+   "results": {}
+  },
+  {
+   "id": "ACOhGYVpZRCjLMshe",
+   "actor": "CJdippxWmn9uRfooo",
+   "status": "SUCCEEDED",
+   "started": "2026-09-09T03:44:02.979Z",
+   "results": {}
+  },
+  {
+   "id": "6YbjuG0ktyXkt0trH",
+   "actor": "CJdippxWmn9uRfooo",
+   "status": "SUCCEEDED",
+   "started": "2026-09-09T03:43:42.039Z",
+   "results": {}
+  },
+  {
+   "id": "hihbhTY8MUm8Y0wvk",
+   "actor": "CJdippxWmn9uRfooo",
+   "status": "SUCCEEDED",
+   "started": "2026-09-09T03:43:21.052Z",
+   "results": {}
+  },
+  {
+   "id": "3FXcI10YOn4ZYT7mB",
+   "actor": "CJdippxWmn9uRfooo",
+   "status": "SUCCEEDED",
+   "started": "2026-09-09T03:37:36.701Z",
+   "results": {}
+  },
+  {
+   "id": "6Bya8V5RIU3lwCJzM",
+   "actor": "CJdippxWmn9uRfooo",
+   "status": "SUCCEEDED",
+   "started": "2026-09-09T03:37:06.214Z",
+   "results": {}
+  },
+  {
+   "id": "IFOK36FrmaiVXBTUJ",
+   "actor": "CJdippxWmn9uRfooo",
+   "status": "SUCCEEDED",
+   "started": "2026-09-09T03:04:25.018Z",
+   "results": {}
+  },
+  {
+   "id": "U3PkpqocP2TwtH0WU",
+   "actor": "CJdippxWmn9uRfooo",
+   "status": "SUCCEEDED",
+   "started": "2026-09-09T03:03:53.607Z",
+   "results": {}
+  }
+ ],
+ "limits": {
+  "monthlyUsageCycle": {
+   "startAt": "2026-09-03T00:00:00.000Z",
+   "endAt": "2026-10-02T23:59:59.999Z"
+  },
+  "limits": {
+   "maxMonthlyUsageUsd": 19,
+   "maxMonthlyActorComputeUnits": 1999999,
+   "maxMonthlyExternalDataTransferGbytes": 999999,
+   "maxMonthlyProxySerps": 9999999,
+   "maxMonthlyUnblockerUnits": 99999990,
+   "maxMonthlyResidentialProxyGbytes": 49999,
+   "maxActorMemoryGbytes": 64,
+   "maxActorCount": 500,
+   "maxActorTaskCount": 5000,
+   "maxScheduleCount": 100,
+   "maxConcurrentActorJobs": 32,
+   "maxTeamAccountSeatCount": 999,
+   "dataRetentionDays": 31
+  },
+  "current": {
+   "monthlyUsageUsd": 0.04812950120221555,
+   "monthlyActorComputeUnits": 0,
+   "monthlyExternalDataTransferGbytes": 0.0002054935321211815,
+   "monthlyProxySerps": 0,
+   "monthlyUnblockerUnits": 0,
+   "monthlyResidentialProxyGbytes": 0,
+   "actorMemoryGbytes": 0,
+   "actorCount": 0,
+   "actorTaskCount": 0,
+   "scheduleCount": 0,
+   "activeActorJobCount": 0,
+   "teamAccountSeatCount": 1
+  }
+ }
+}
