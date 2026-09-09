@@ -1,0 +1,567 @@
+{
+ "generated_at": "2026-09-09T16:46:07.007506+00:00",
+ "actor": "apidojo~tweet-scraper",
+ "results": {
+  "weather_report_thread": {
+   "query": "\"Week 16 NFL Weather Report\"",
+   "items": [
+    {
+     "id": "2002726748614721569",
+     "url": "https://x.com/RuvenKotz/status/2002726748614721569",
+     "createdAt": "Sun Dec 21 13:04:00 +0000 2025",
+     "author": "RuvenKotz",
+     "likes": 4,
+     "text": "\ud83c\udf24\ufe0f Week 16 NFL Weather Report\n\n\u26a0\ufe0f GAMES TO WATCH:\n\n\ud83e\udd75 Bengals @ Dolphins\n82\u00b0F (feels 84\u00b0), hot conditions\nWind: 10 mph, moderate\n\n\ud83e\udd76 Bills @ Browns\n28\u00b0F (feels 17\u00b0), brutal cold\nWind: 14 mph, extreme\nGusts: 18 mph, moderate\n\n\ud83c\udf2c\ufe0f Vikings @ Giants\n41\u00b0F (feels 33\u00b0), cold and windy\nWind: 15 mph, extreme\nGusts: 26 mph, moderate\n\n\ud83c\udf2c\ufe0f Patriots @ Ravens\n40\u00b0F (feels 33\u00b0), cold with gusts up to 28 mph\n\n\u2601\ufe0f Cold but Manageable:\nChiefs @ Titans \u2013 55\u00b0F, normal wind\nBuccaneers @ Panthers \u2013 59\u00b0F, normal wind\nJaguar"
+    },
+    {
+     "id": "1870875436051525892",
+     "url": "https://x.com/RotoBallerNFL/status/1870875436051525892",
+     "createdAt": "Sun Dec 22 16:53:57 +0000 2024",
+     "author": "RotoBallerNFL",
+     "likes": 3,
+     "text": "Here is your Week 16 NFL Weather Report\n\n(via @AdamKoffler)\nhttps://t.co/HDsrfEwZwL"
+    },
+    {
+     "id": "1870108957944971535",
+     "url": "https://x.com/RotoBallerNFL/status/1870108957944971535",
+     "createdAt": "Fri Dec 20 14:08:15 +0000 2024",
+     "author": "RotoBallerNFL",
+     "likes": 13,
+     "text": "It\u2019s going to be COLD in some spots this weekend, but will the weather impact the play on the field?\n\nHere\u2019s @AdamKoffler with the Week 16 NFL Weather Report\nhttps://t.co/HDsrfEwrHd"
+    },
+    {
+     "id": "1602803838632996864",
+     "url": "https://x.com/Weather_Edge/status/1602803838632996864",
+     "createdAt": "Tue Dec 13 23:13:08 +0000 2022",
+     "author": "Weather_Edge",
+     "likes": 7,
+     "text": "WEEK 16 NFL WEATHER REPORT\ud83d\udea8:\n\n9 GAMES WITH FREEZING TEMPS!\ud83e\udd76\n\nJaguars (+2) @ Jets (-2), O/U 42: Temperatures below freezing\ud83e\udd76\n\nSeahawks (+10.5) @ Chiefs (-10.5), O/U 48.5: Temperatures below 20 degrees\ud83e\udd76\n\nBills (-7) @ Bears (+7), O/U 45.5: Temperatures in the 20s\ud83e\udd76\n\nCONT...."
+    }
+   ]
+  },
+  "kamara_wk16": {
+   "query": "Kamara out Saints Jets inactive",
+   "items": [
+    {
+     "id": "2092797460619886885",
+     "url": "https://x.com/DynastyAngleFF/status/2092797460619886885",
+     "createdAt": "Thu Aug 27 02:12:51 +0000 2026",
+     "author": "DynastyAngleFF",
+     "likes": 38,
+     "text": "\ud83d\udea8 NFL CAMP BUZZ  -  AUGUST 26th  RAPID FIRE \ud83d\udea8\n\n\ud83d\uddfd New York Giants\n\n\u2013 Calvin Austin III suffered a season-ending torn ACL. He had been positioned to replace Wan\u2019Dale Robinson. (Adam Schefter; Jordan Raanan)\n\n\u2013 Cam Skattebo\u2019s aggressive practice play caused a fight. Defensive teammates reportedly took exception after he slid close to multiple defenders\u2019 legs. (Pat Leonard)\n\n\u2013 Malik Nabers left practice early with a trainer after completing a full workload. There was no indication from the coaching "
+    },
+    {
+     "id": "2003473221148979523",
+     "url": "https://x.com/oneweekseason/status/2003473221148979523",
+     "createdAt": "Tue Dec 23 14:30:13 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 9,
+     "text": "Week 16 Cliff Notes    \n\nThe entire slate \u2014 simplified \ud83d\udc47\n\nRAMS (37) \ud83d\udc0f AT SEAHAWKS (38) \ud83d\udfe2\n\nThe Seahawks won an OT thriller on TNF to take control of the NFC West. \n\nSeattle\u2019s frustrating RB workload-split continued, but Kenneth Walker racked up 164 total yards and a score and Zach Charbonnet added 54 yards and a score of his own in the back-and-forth shootout.\n\nAJ Barner caught a vital 26-yard TD late in the fourth quarter and maintains one of the more reliable fantasy roles, outside of JSN, in S"
+    },
+    {
+     "id": "1998413739272335815",
+     "url": "https://x.com/oneweekseason/status/1998413739272335815",
+     "createdAt": "Tue Dec 09 15:25:38 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 15,
+     "text": "Week 14 Cliff Notes \n\nThe entire slate \u2014 simplified \ud83d\udc47\n\nCOWBOYS (30) \ud83e\udd20 AT LIONS (44) \ud83e\udd81\n\nJared Goff threw for 300+ in a high-scoring Detroit victory, tossing 25 of his 34 passes to Jameson Williams, Amon-Ra St. Brown, and Jahmyr Gibbs. \n\nARSB somewhat surprisingly started in this one but showed no ill effects from his ankle sprain suffered on Thanksgiving, which was great to see.\n\nCeeDee Lamb left with a concussion, putting his Week 15 status in doubt. It was Ryan Flournoy (9-115-1) and not George"
+    },
+    {
+     "id": "1996225425681359118",
+     "url": "https://x.com/oneweekseason/status/1996225425681359118",
+     "createdAt": "Wed Dec 03 14:30:04 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 92,
+     "text": "NFL DFS: WEEK 14 \n\nA first look at this weeks 11-game main slate through the lens of StatATL. \ud83d\udc40\n\nSEAHAWKS (25.75) \ud83d\udfe2 AT FALCONS (18.75) \ud83e\udeb6\n\n\ud83c\udfc8 Not a spot that stands out for either QB as both defenses have only allowed one 300 yard passer all season and Sam Darnold will likely be dealing with an ankle injury. \n\n\ud83d\udfe2 The matchup on the ground is less appealing than it would seem for Kenneth Walker and Zach Charbonnet. \n\n\ud83e\udeb6 While two elite, dynamic RBs torched the Falcons on the ground (286-3 for JT and "
+    },
+    {
+     "id": "1993312110181244978",
+     "url": "https://x.com/oneweekseason/status/1993312110181244978",
+     "createdAt": "Tue Nov 25 13:33:35 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 23,
+     "text": "Week 12 Cliff Notes     \n\nThe entire slate \u2014 simplified \ud83d\udc47\n\nBILLS (19) \ud83e\uddac AT TEXANS (23) \ud83d\udc02\n\nThe Houston defense dominated this one, sacking Josh Allen eight times and forcing three Bills turnovers. \n\nAllen peppered Khalil Shakir (8-110) with 10 targets. No other Bills\u2019 WR or TE had more than four targets or 26 receiving yards.\n\nWoody Marks maintained his hold on the Houston backfield and had 17 touches for 69 total yards to veteran Nick Chubb\u2019s seven touches for 15 yards.\n\nDavis Mills threw half o"
+    },
+    {
+     "id": "1965067715623919902",
+     "url": "https://x.com/oneweekseason/status/1965067715623919902",
+     "createdAt": "Mon Sep 08 15:00:27 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 16,
+     "text": "Everyone saw the highlights.\n\nFew know what actually mattered.\n\nHere's what to know from Week 1 \ud83d\udc47\n\nCOWBOYS \ud83e\udd20AT EAGLES \ud83e\udd85\n\n\ud83e\udd85Jahan Dotson led the Eagles in receiving (three catches, 59 yards) on a night that his WR teammates A.J. Brown (one catch, eight yards) and DeVonta Smith (3/16/0) were unusually quiet. TE Dallas Goedert caught all seven of his targets for 44 scoreless yards. \n\n\ud83e\udd20The Dallas defense played soft zone coverage and forced the Eagles to march the field. The Philly pass catchers shou"
+    },
+    {
+     "id": "1868695392298455174",
+     "url": "https://x.com/oneweekseason/status/1868695392298455174",
+     "createdAt": "Mon Dec 16 16:31:14 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 12,
+     "text": "Fantasy Fallout  \n\nEvery Monday, we go game by game looking for signal over noise to give you an edge.    \n\n\u2022 Injuries  \n\u2022 Usage Trends  \n\u2022 Fantasy Impact\n\nRAMS (12)\ud83d\udc0f AT 49ERS (6)\u26cf\ufe0f\n\nA week after winning the highest scoring game of the season, the Rams squeaked out a 12-6 victory in the only game of 2024 without a touchdown.\n\nKyren Williams completely dominated the backfield, turning 31 touches into 112 total yards. Blake Corum only saw 3 carries to go along with two receptions and remains stric"
+    },
+    {
+     "id": "1864302787460227164",
+     "url": "https://x.com/oneweekseason/status/1864302787460227164",
+     "createdAt": "Wed Dec 04 13:36:36 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 95,
+     "text": "NFL DFS: WEEK 14 \n\nA first look at the 10-game main slate through the lens of StatATL\n\nJETS (19.75) \u2708\ufe0fAT DOLPHINS (26.25)\ud83d\udc2c\n\n\ud83d\udc2cTua has played well since returning from concussion (his 4th), but no QB has thrown for 275 or more than 2 TDs against the Jets. \n\n\ud83d\udc2cThe Jets have also been a tougher matchup to opposing RBs, however, De\u2019Von Achane has 5 or more receptions in over half his healthy games this season, to go along with an average of 12 carries a game. \n\n\ud83d\udc2cAchane has surpassed 20 DK points in 7 "
+    },
+    {
+     "id": "1853864026083627160",
+     "url": "https://x.com/oneweekseason/status/1853864026083627160",
+     "createdAt": "Tue Nov 05 18:16:41 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 71,
+     "text": "NFL DFS: WEEK 10 \n\nA first look at the 10-game main slate through the lens of StatATL\n\nPATRIOTS (16.5) \ud83d\udfe6AT BEARS (23) \ud83d\udc3b\n\n\ud83d\udc3bD'Andre Swift has seen 17 or more opportunities in every game dating back to week 2 and the Pats have been gashed by RBs the past 6 weeks, allowing 118-2 to Tank Bigsby, 132-2 to Joe Mixon, 154-0 to Tony Pollard, 160-1 to Jordan Mason, 184-0 to the combo of Mostert/Wright, and 121-1 to the combo of Hall/Allen. \n\n\ud83d\udc3bI\u2019ll definitely have interest in Swift in this matchup at home."
+    },
+    {
+     "id": "1853479326789906697",
+     "url": "https://x.com/oneweekseason/status/1853479326789906697",
+     "createdAt": "Mon Nov 04 16:48:02 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 4,
+     "text": "Fantasy Fallout       \n\nEvery Monday, we go game by game looking for signal over noise to give you an edge.       \n\n\u2022 Injuries     \n\u2022 Usage Trends     \n\u2022 Fantasy Impact\n\nTEXANS (13) \ud83d\udc02AT JETS (21) \u2708\ufe0f\n\n\ud83d\udc02In the first game without both Stefon Diggs or Nico Collins, Tank Dell converted his team leading 9 targets to 6 catches for 126 yards. \n\n\ud83d\udc02Collins should return in the next week or two, but with Diggs done for the season, Dell should emerge as a weekly WR2 or WR3 for your fantasy team.\n\n\ud83d\udc02For the se"
+    },
+    {
+     "id": "1850904703745339492",
+     "url": "https://x.com/oneweekseason/status/1850904703745339492",
+     "createdAt": "Mon Oct 28 14:17:24 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 12,
+     "text": "Fantasy Fallout     \n\nEvery Monday, we go game by game looking for signal over noise to give you an edge.     \n\n\u2022 Injuries    \n\u2022 Usage Trends    \n\u2022 Fantasy Impact\n\nVIKINGS (20) \ud83e\ude93AT RAMS (30) \ud83d\udc11\n\n\ud83d\udc11Puka Nacua made his return to the field after aggravating a knee injury in Week 1 and looked like he hadn\u2019t missed a beat, producing 106 yards on 7 catches.\n\n\ud83d\udc11Cooper Kupp also returned from injury and had a positive impact with 51 yards and a TD. Like Nacua, he should be a weekly starter moving forward.\n"
+    },
+    {
+     "id": "1848377790862672053",
+     "url": "https://x.com/oneweekseason/status/1848377790862672053",
+     "createdAt": "Mon Oct 21 14:56:21 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 20,
+     "text": "Fantasy Fallout   \n\nEvery Monday, we go game by game looking for signal over noise to give you an edge.   \n\n\u2022 Injuries   \n\u2022 Usage Trends   \n\u2022 Fantasy Impact\n\nBRONCOS (33) \ud83d\udc0eAT SAINTS (10) \ud83d\udfe1\n\n\ud83d\udfe1Rookie WR Mason Tipton led the Saints with nine targets, turning the opportunity into 45 yards on six catches. \n\n\ud83d\udfe1With Rashid Shaheed (knee) out for the season and Chris Olave recently suffering his fourth career concussion, Tipton is an intriguing waiver pickup for those needing WR depth.\n\n\ud83d\udfe1Alvin Kamara str"
+    },
+    {
+     "id": "1744034414772769114",
+     "url": "https://x.com/RapSheet/status/1744034414772769114",
+     "createdAt": "Sun Jan 07 16:33:01 +0000 2024",
+     "author": "RapSheet",
+     "likes": 613,
+     "text": "Actives/inactives:\n-- #Jaguars QB Trevor Lawrence is playing, Christian Kirk is out.\n-- #Saints RB Alvin Kamara is out.\n-- #Bucs QB Baker Mayfield is up.\n-- #Jets WR Allen Lazard is a healthy scratch.\n-- #Falcons QB Taylor Heinicke is inactive after attempting to work out today."
+    },
+    {
+     "id": "1716970478923809249",
+     "url": "https://x.com/oneweekseason/status/1716970478923809249",
+     "createdAt": "Wed Oct 25 00:10:36 +0000 2023",
+     "author": "oneweekseason",
+     "likes": 98,
+     "text": "\ud83c\udfc8NFL WEEK 8 DFS PREVIEW!\n\nPATRIOTS at DOLPHINS:\n\n\ud83d\udd34Mac Jones is way more interesting than he\u2019s going to be given credit for here. \n\n\ud83d\udd34At WR, Kendrick Bourne is interesting, especially if playing Jones. He\u2019s not a sexy click but has 16 catches the past two weeks.\n\n\ud83d\udc2cOn the other side of the ball, Tua is less interesting. Despite facing several above-average QBs already this season (Hurts, Tua, Josh Allen, Dak) no QB has eclipsed 265 yards against NE. Can\u2019t get to Tua here at $7.7k. \n\n\ud83d\udc2cJeff Wilson wa"
+    }
+   ]
+  },
+  "coker_panthers": {
+   "query": "\"Jalen Coker\" Panthers Buccaneers start",
+   "items": [
+    {
+     "id": "2007252341372620857",
+     "url": "https://x.com/DDOGGSTACKS/status/2007252341372620857",
+     "createdAt": "Sat Jan 03 00:47:05 +0000 2026",
+     "author": "DDOGGSTACKS",
+     "likes": 15,
+     "text": "\ud83c\udfc8 NFL Play (1/3)\n\nJalen Coker o33.5 Receiving Yards\n(Sleeper)\n#KeepPounding \n\nCollab with @AllStarBetss \u2b50\ufe0f \n\n\u270d\ud83c\udffc @AllStarBetss \n\nLet\u2019s start with Coker's receiving chart on why we like this play. Coker gets 54% of his yards from 2 areas on the field, 10+ yards to the left of the LOS, and 20+ yards to the right of the LOS. The Buccaneers rank 21st and 24th respectively to yards against in those areas of the field, so Coker should feast when getting to his spots\n\nIn his last 5 games, Coker has seen"
+    },
+    {
+     "id": "1868695392298455174",
+     "url": "https://x.com/oneweekseason/status/1868695392298455174",
+     "createdAt": "Mon Dec 16 16:31:14 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 12,
+     "text": "Fantasy Fallout  \n\nEvery Monday, we go game by game looking for signal over noise to give you an edge.    \n\n\u2022 Injuries  \n\u2022 Usage Trends  \n\u2022 Fantasy Impact\n\nRAMS (12)\ud83d\udc0f AT 49ERS (6)\u26cf\ufe0f\n\nA week after winning the highest scoring game of the season, the Rams squeaked out a 12-6 victory in the only game of 2024 without a touchdown.\n\nKyren Williams completely dominated the backfield, turning 31 touches into 112 total yards. Blake Corum only saw 3 carries to go along with two receptions and remains stric"
+    },
+    {
+     "id": "2088804020877971654",
+     "url": "https://x.com/DynastyAngleFF/status/2088804020877971654",
+     "createdAt": "Sun Aug 16 01:44:21 +0000 2026",
+     "author": "DynastyAngleFF",
+     "likes": 43,
+     "text": "\ud83d\udea8 NFL CAMP BUZZ  -  August 15th  RAPID FIRE \ud83d\udea8\n\n\ud83c\udf35 Arizona Cardinals\n\n- Jeremiyah Love out at least a week\nLove\u2019s ankle was more sore than expected after Thursday\u2019s preseason game, and Mike LaFleur said he won\u2019t practice this week and will be reevaluated afterward. LaFleur did not commit to Love being available for Week 1. (Mike LaFleur / Josh Weinfuss)\n\n- High-ankle concern for Love\nJeff Mueller, PT, DPT noted the mechanism and delayed soreness are concerning for a possible left high-ankle sprain"
+    },
+    {
+     "id": "1978101067926614473",
+     "url": "https://x.com/oneweekseason/status/1978101067926614473",
+     "createdAt": "Tue Oct 14 14:10:20 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 13,
+     "text": "Week 6 Cliff Notes \n\nThe entire slate \u2014 simplified \ud83d\udc47\n\nEAGLES (17) \ud83e\udd85AT GIANTS (34) \ud83d\udd35\n\nGiants\u2019 rookie RB Cam Skattebo had a breakout performance with 110 scrimmage yards and three rushing TDs. He looks like a weekly starter for now.\n\nJaxson Dart passed for 198-1 and added a 58-1 rushing line. He\u2019s shown a fantasy-friendly skill set so far, rushing for 50+ yards and accounting for multiple TDs in each of his three career starts.\n\nDallas Goedert led the Eagles with a 9-110-1 receiving line and had a"
+    },
+    {
+     "id": "2007477034122088566",
+     "url": "https://x.com/ShaanS7_/status/2007477034122088566",
+     "createdAt": "Sat Jan 03 15:39:56 +0000 2026",
+     "author": "ShaanS7_",
+     "likes": 74,
+     "text": "NFL Saturday Full Preview \ud83c\udfc8\n\nSeahawks vs 49ers (8:00PM) - Battle For The #1 Seed \u2764\ufe0f\ud83d\udc9b\n\nMike Macdonald and the Seattle Seahawks travel to Levi\u2019s Stadium to take on the San Francisco 49ers in the battle for the number one seed. The Seahawks are a 2.5-point favorite in this game, with the total set at 48.5. This game features a fascinating matchup between the 49ers\u2019 offense and the Seahawks\u2019 defense. Since Week 12, the 49ers\u2019 offense ranks second in offensive passing success rate, while the Seahawks"
+    },
+    {
+     "id": "2092070552764658125",
+     "url": "https://x.com/JeremyHillsberg/status/2092070552764658125",
+     "createdAt": "Tue Aug 25 02:04:23 +0000 2026",
+     "author": "JeremyHillsberg",
+     "likes": 4,
+     "text": "2026 NFL Offense Report \ud83c\udfc8 Ranking every team\u2019s offensive line, running backs, and receiving corps heading into the season. See which NFL offenses are built to dominate in 2026. \n#NFL #FantasyFootball #NFLRankings https://t.co/IFSH4honQd"
+    },
+    {
+     "id": "1855986019868275138",
+     "url": "https://x.com/oneweekseason/status/1855986019868275138",
+     "createdAt": "Mon Nov 11 14:48:44 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 6,
+     "text": "Fantasy Fallout         \n\nEvery Monday, we go game by game looking for signal over noise to give you an edge.         \n\n\u2022 Injuries      \n\u2022 Usage Trends      \n\u2022 Fantasy Impact\n\nBENGALS (34) \ud83d\udc2fAT RAVENS (35) \ud83d\udc26\u200d\u2b1b\n\n\ud83d\udc2f Ja'Marr Chase exploded for 264 yards and 3 TDs on 17 targets. Through 10 games, the opposing WR1 has averaged 24 PPR fantasy points against BAL and it continues to be a spot to exploit.\n\n\ud83d\udc2fChase Brown saw 24 opportunities and amassed 94 total yards and a TD in a 35-34 loss to the Ravens. "
+    },
+    {
+     "id": "1963973118470291557",
+     "url": "https://x.com/oneweekseason/status/1963973118470291557",
+     "createdAt": "Fri Sep 05 14:30:54 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 32,
+     "text": "NFL DFS: WEEK 1   \n\nA first look at this weeks massive 12-game main slate through the lens of StatATL.\n\nRAIDERS (20.5) \u2620\ufe0fAT PATRIOTS (23) \ud83d\udfe6\n\n\u2620\ufe0fThe first game of the main slate features the Raiders first round rookie Ashton Jeanty as the most expensive player ($7,000) from this game. \n\n\u2620\ufe0fIn an environment that is highly unlikely to contend for one of the highest scoring game of the slate, $7k feels way too expensive for an unknown entity in Jeanty. \n\n\ud83d\udfe6At the QB position, Drake Maye is substantial"
+    },
+    {
+     "id": "2007252140813951393",
+     "url": "https://x.com/AllStarBetss/status/2007252140813951393",
+     "createdAt": "Sat Jan 03 00:46:17 +0000 2026",
+     "author": "AllStarBetss",
+     "likes": 15,
+     "text": "NFL Collab with @DDOGGSTACKS \ud83d\udd25\n\nJalen Coker Over 32.5 Rec Yards (-114) \u2b50\ufe0f\n\n- Lets start with Coker's receiving chart on why we like this play. Coker gets 54% of his yards from 2 areas on the field, 10+ yards to the left of the LOS, and 20+ yards to the right of the LOS. The Buccaneers rank 21st and 24th respectively to yards against in those areas of the field, so Coker should feast when getting to his spots\n\n- In his last 5 games, Coker has seen a slight uptick in targets to 4.2 per game, and h"
+    },
+    {
+     "id": "1850904703745339492",
+     "url": "https://x.com/oneweekseason/status/1850904703745339492",
+     "createdAt": "Mon Oct 28 14:17:24 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 12,
+     "text": "Fantasy Fallout     \n\nEvery Monday, we go game by game looking for signal over noise to give you an edge.     \n\n\u2022 Injuries    \n\u2022 Usage Trends    \n\u2022 Fantasy Impact\n\nVIKINGS (20) \ud83e\ude93AT RAMS (30) \ud83d\udc11\n\n\ud83d\udc11Puka Nacua made his return to the field after aggravating a knee injury in Week 1 and looked like he hadn\u2019t missed a beat, producing 106 yards on 7 catches.\n\n\ud83d\udc11Cooper Kupp also returned from injury and had a positive impact with 51 yards and a TD. Like Nacua, he should be a weekly starter moving forward.\n"
+    }
+   ]
+  },
+  "jefferson_wind": {
+   "query": "Justin Jefferson Giants wind \"Week 16\"",
+   "items": []
+  },
+  "saints_dst": {
+   "query": "Saints defense stream Jets \"Week 16\"",
+   "items": [
+    {
+     "id": "1854485950241353759",
+     "url": "https://x.com/RyanReynoldsNFL/status/1854485950241353759",
+     "createdAt": "Thu Nov 07 11:27:59 +0000 2024",
+     "author": "RyanReynoldsNFL",
+     "likes": 123,
+     "text": "Preparing for the Fantasy Football Playoffs: Defenses\n\nBest Fantasy Playoffs Schedules for Defenses (Weeks 15-17)\n\nLos Angeles Chargers: vs. TB, vs. Den, at NE\n\nThe Chargers have benefited from an advantageous schedule, but they are well coached and they\u2019ll face two rookie quarterbacks, with below average supporting casts, in the money making weeks of fantasy football.\n\nKansas City Chiefs: at Cle, vs. Hou (Saturday), at Pit (Wednesday)\n\nThe defending champs have a potential smash spot in Week 15"
+    }
+   ]
+  },
+  "watt_wk16": {
+   "query": "Watt out Steelers Lions \"Week 16\"",
+   "items": [
+    {
+     "id": "2002120260049383673",
+     "url": "https://x.com/Steelersdepot/status/2002120260049383673",
+     "createdAt": "Fri Dec 19 20:54:02 +0000 2025",
+     "author": "Steelersdepot",
+     "likes": 43,
+     "text": "Steelers Friday Injury Report Week 16 vs Lions:\n\nOUT:\n\n\u25aa\ufe0fOLB T.J. Watt (lung)\n\u25aa\ufe0fG Isaac Seumalo (triceps)\n\u25aa\ufe0fCB James Pierre (calf)\n\nDOUBTFUL:\n\n\u25aa\ufe0fOLB Nick Herbig (hamstring)\n\nQUESTIONABLE:\n\n\u25aa\ufe0fLS Christian Kuntz (knee)\n\n#Steelers #NFL"
+    },
+    {
+     "id": "1869055924880515511",
+     "url": "https://x.com/jack_sperry/status/1869055924880515511",
+     "createdAt": "Tue Dec 17 16:23:52 +0000 2024",
+     "author": "jack_sperry",
+     "likes": 3,
+     "text": "Sperry\u2019s NFL Top 10 (Week 16): \ud83c\udfc8\n\nPlease Note: This list is based on likelihood to win the Super Bowl, not necessarily how they have played so far this season (although that obviously plays a part).\n\n1. Eagles (+1)\n2. Bills (+1)\n3. Chiefs (-2)\n4. Steelers (+1)\n5. Ravens (+1)\n6. Vikings (+1)\n7. Packers (+2)\n8. Lions (-4)\n9. Rams (+1)\n10. Seahawks (-2)\n\nThoughts:\n\n- For the first time this season, a team not named the Chiefs rises to the top spot on my list, and it\u2019s the Philadelphia Eagles. It\u2019s "
+    },
+    {
+     "id": "2095270061896523910",
+     "url": "https://x.com/FiddlesPicks/status/2095270061896523910",
+     "createdAt": "Wed Sep 02 21:58:05 +0000 2026",
+     "author": "FiddlesPicks",
+     "likes": 214,
+     "text": "I asked 3 different AI platforms to map out an ideal path to winning @CircaSports Survivor Contest and here was the consensus answer I received.\n\nWeek 1: Jaguars vs Browns\nWeek 2: Chargers vs Raiders\nWeek 3: 49ers vs Cardinals\nWeek 4: Vikings vs Dolphins\nWeek 5: Bengals vs Dolphins\nWeek 6: Patriots vs Jets\nWeek 7: Texans vs Giants\nWeek 8: Cowboys vs Cardinals\nWeek 9: Saints vs Browns\nWeek 10: Colts vs Dolphins\nWeek 11: Chiefs vs Cardinals\nWeek 12 (double): Lions vs Bears + Buccaneers vs Panthers"
+    },
+    {
+     "id": "2001441030839877787",
+     "url": "https://x.com/JimmyLiaoMD/status/2001441030839877787",
+     "createdAt": "Wed Dec 17 23:55:01 +0000 2025",
+     "author": "JimmyLiaoMD",
+     "likes": 7,
+     "text": "Lions vs Steelers Week 16: Initial injury report #OnePride\n-Back from LA\n-Can Mahogany save the OL?\n-Good news with Amik\n-Harper should be back\n-Kerby trending out for season\n-TJ Watt pneumothorax\nhttps://t.co/KV6a180Fef"
+    },
+    {
+     "id": "2002128698812551397",
+     "url": "https://x.com/ASaunders_PGH/status/2002128698812551397",
+     "createdAt": "Fri Dec 19 21:27:34 +0000 2025",
+     "author": "ASaunders_PGH",
+     "likes": 27,
+     "text": "#Steelers Friday Injury Report & Week 16 Status vs. #Lions:\n\nDNP/OUT\nOLB T.J. Watt (lung)\nLG Isaac Seumalo (triceps)\nCB James Pierre (calf)\n\nLP/DBT\nOLB Nick Herbig (hamstring)\n\nLP/QST\nLS Christian Kuntz (knee)\n\nDNP/IN\nSS Kyle Dugger (personal)\n\nLP/IN\nC Zach Frazier (triceps)\nOL Andrus Peat (concussion)\n\nFP/IN\nQB Aaron Rodgers (left wrist)\nWR Ben Skowronek (hand)\nSS Jabrill Peppers (illness)\nDT Keeanu Benton (ankle)\nDT Derrick Harmon (knee)\n\nhttps://t.co/ymUTciWb6c"
+    },
+    {
+     "id": "2002121546085904402",
+     "url": "https://x.com/missi_matthews/status/2002121546085904402",
+     "createdAt": "Fri Dec 19 20:59:08 +0000 2025",
+     "author": "missi_matthews",
+     "likes": 16,
+     "text": "#Steelers Status Report for Week 16 @ Lions:\n\n- OUT: James Pierre (calf), Isaac Seumalo (triceps) &amp; T.J. Watt (lung)\n- DOUBTFUL: Nick Herbig (hamstring)\n- QUESTIONABLE: Christian Kuntz (knee)"
+    },
+    {
+     "id": "2004267805844332841",
+     "url": "https://x.com/Piggos_T_Desk/status/2004267805844332841",
+     "createdAt": "Thu Dec 25 19:07:37 +0000 2025",
+     "author": "Piggos_T_Desk",
+     "likes": 2,
+     "text": "NFL Week 17 2025 Predictions Using the Pythagoras Model and full Results from last 16 weeks :\n\nWeek 1 7-9\nWeek 2  11-5\nWeek 3 9-7\nWeek 4 7-8-1\nWeek 5 5-9\nWeek 6 6-8\nWeek 7 6-8\nWeek 8 8-5\nWeek 9 6-8\nWeek 10 worked on model\nWeek 11 11-4\nWeek 12 11-4\nWeek 13 9-7\nWeek 14 8-6\nWeek 15 10-6\nWeek 16 10-6          Results so far 124-100-1\n\nThursday, December 25, 2025 (Christmas)\nDallas @ Washington\nPredicted Winner: Dallas Cowboys\nThe Cowboys will win because their favorite boost and high player_avg from"
+    }
+   ]
+  },
+  "bills_kicker": {
+   "query": "Bills kicker Prater out Cleveland wind",
+   "items": [
+    {
+     "id": "2097721867364667585",
+     "url": "https://x.com/jasrifootball/status/2097721867364667585",
+     "createdAt": "Wed Sep 09 16:20:41 +0000 2026",
+     "author": "jasrifootball",
+     "likes": 131,
+     "text": "\ud835\udde5\ud835\udde8\ud835\udde0\ud835\udde2\ud835\udde5\ud835\udde6: The Bills reached out to Cleveland trying to trade for Myles Garrett on the same day they ended up trading him to the Rams, per @TomPelissero \n\nThe Rams\u2019 willingness to include Jared Verse in the deal gave Buffalo no chance to make a competitive offer. https://t.co/2hCaXZMKxI"
+    },
+    {
+     "id": "2096664075405029414",
+     "url": "https://x.com/StormChaseFam/status/2096664075405029414",
+     "createdAt": "Sun Sep 06 18:17:24 +0000 2026",
+     "author": "StormChaseFam",
+     "likes": 0,
+     "text": "WARNED AND CHARGING SOUTH \u2014 western North Carolina, this is NOT a drill! At 215PM a violent line of storms stretched from near Morganton to Marion to Spruce Pine, barreling south at 20mph with 60mph wind gusts and nickel size hail hammering McDowell, Rutherford, Cleveland, and Burke Counties. This warning runs until 300PM EDT and I'm tracking every mile of it. If you're in the path \u2014 get indoors NOW, stay away from windows, and do NOT be on the road when this hits. Trees down, power flickering, "
+    },
+    {
+     "id": "2095085741726441878",
+     "url": "https://x.com/_sawea/status/2095085741726441878",
+     "createdAt": "Wed Sep 02 09:45:40 +0000 2026",
+     "author": "_sawea",
+     "likes": 0,
+     "text": "Revised Electricity Pricing Policy out for comment: cost-reflective tariffs within 5 years, itemised bills, a rolling 5-year NERSA price forecast\n\nPrice visibility is what wind is financed on #WindEnergy\n\nhttps://t.co/UL1DWFL310 https://t.co/8pcMT2IVrl"
+    },
+    {
+     "id": "2097302183549259980",
+     "url": "https://x.com/RyanReynoldsNFL/status/2097302183549259980",
+     "createdAt": "Tue Sep 08 12:33:01 +0000 2026",
+     "author": "RyanReynoldsNFL",
+     "likes": 200,
+     "text": "NFL Predictions and Observations for Every AFC Team in 2026\n\nBaltimore Ravens\n- The combination of Jessie Minter and Declan Doyle gives Baltimore more strategic upside this season, especially on defense. Minter wildly elevated the Chargers\u2019 defense, and Baltimore has better raw materials on that side of the ball, I\u2019d argue in every position group.\n- I\u2019m particularly looking forward to what Minter does with Roquan Smith and Kyle Hamilton.\n- Lamar Jackson has missed multiple games in three of the "
+    },
+    {
+     "id": "2096266003986387054",
+     "url": "https://x.com/BSGsportsmedia/status/2096266003986387054",
+     "createdAt": "Sat Sep 05 15:55:36 +0000 2026",
+     "author": "BSGsportsmedia",
+     "likes": 2,
+     "text": "\ud83c\udfc8 NFL NEWS ROUNDUP \u2014 SEPT. 5\n\n\ud83d\udea8 Bills place K Tyler Bass on IR with a hip/groin injury. Veteran Matt Prater is expected to handle kicking duties Sunday \u2014 a notable fantasy/special-teams shift. \n\n\u26a0\ufe0f Darnell Mooney is questionable for Atlanta\u2019s opener with a shoulder injury, while Jack Nelson and DeMarcco Hellams have been ruled out. More opportunity could be on the way for the Falcons\u2019 healthy pass-catchers. \n\n\ud83d\udeab Ravens TE Isaiah Likely and FB Patrick Ricard are out against Buffalo. Baltimore\u2019s us"
+    },
+    {
+     "id": "2095061539472490770",
+     "url": "https://x.com/GeorgeOnTap/status/2095061539472490770",
+     "createdAt": "Wed Sep 02 08:09:30 +0000 2026",
+     "author": "GeorgeOnTap",
+     "likes": 43,
+     "text": "The Patriots finding an edge? Right on brand. Something was found buried in a decade of Patriots broadcasts. When an opposing kicker lined up at Gillette Stadium, there are claims the video board behind the uprights showed a reversed view of the kick, placing a second, offset set of yellow uprights right behind the real ones. In the wind, even the orange streamers on the screen appeared to point the opposite way from the real ones on top of the posts, scrambling a kicker's depth perception at th"
+    },
+    {
+     "id": "2095759010360111524",
+     "url": "https://x.com/WxYapper/status/2095759010360111524",
+     "createdAt": "Fri Sep 04 06:21:00 +0000 2026",
+     "author": "WxYapper",
+     "likes": 0,
+     "text": "A round of severe thunderstorms is expected this evening, with the main risk focused on damaging wind, and some areas may also see flooding. A Severe Thunderstorm Watch and a Flood Watch are in effect.\n\nMAIN CONCERN: Severe Thunderstorm Watch through 10 PM EDT; Flood Watch until midnight EDT (flooding/flash-flooding risk where rain already fell).\n\nSHORT-TERM: In and near CLEVELAND, scattered to numerous severe storms are expected this evening, moving southeast later and generally pushing out by "
+    },
+    {
+     "id": "2095699843524264341",
+     "url": "https://x.com/AlGeneRobi96834/status/2095699843524264341",
+     "createdAt": "Fri Sep 04 02:25:53 +0000 2026",
+     "author": "AlGeneRobi96834",
+     "likes": 33,
+     "text": "THIS is Buffalo.\n\nYesterday, torrential rain hammered Buffalo, streets flooded, water started rising, and somewhere in Western New York one man looked outside and apparently thought:\n\n\u201cPerfect day to take the kayak out.\u201d \ud83d\ude02\n\nSo there he goes, kayaking down a Buffalo street like this is completely normal.\n\nAnd somehow, if you\u2019re from Buffalo, it IS normal.\n\nThat\u2019s what I love about this city and especially Bills fans. We\u2019ve been buried under snow, blasted by wind, soaked by rain, knocked around an"
+    },
+    {
+     "id": "2097678077861986665",
+     "url": "https://x.com/Bradys_Locks/status/2097678077861986665",
+     "createdAt": "Wed Sep 09 13:26:41 +0000 2026",
+     "author": "Bradys_Locks",
+     "likes": 0,
+     "text": "Week 1 NFL: 16 games, one winner, one TD \u2014 and the 2025 numbers behind each lean. https://t.co/noT5P0vKF5"
+    },
+    {
+     "id": "2095268037599416493",
+     "url": "https://x.com/RichieAlpha/status/2095268037599416493",
+     "createdAt": "Wed Sep 02 21:50:03 +0000 2026",
+     "author": "RichieAlpha",
+     "likes": 0,
+     "text": "AN ADVANCED WHAT???? An advanced country that has 3 gas stations left and the most solar panels and wind turbines in the world. My bills came out to $109/month for everything."
+    },
+    {
+     "id": "2095925110494347621",
+     "url": "https://x.com/WxYapper/status/2095925110494347621",
+     "createdAt": "Fri Sep 04 17:21:01 +0000 2026",
+     "author": "WxYapper",
+     "likes": 0,
+     "text": "Strong to severe storms are possible late this morning through the afternoon, with the biggest threat being damaging wind gusts. After that, conditions turn mostly seasonable and dry for much of the weekend, before storm chances return mid-next week. \u26a1\n\nMAIN CONCERN: Damaging wind gusts possible from strong to severe storms late this morning into the afternoon.\n\nSHORT-TERM: Another round of strong to severe storms is possible late this morning into the afternoon in and near CLEVELAND. The best c"
+    },
+    {
+     "id": "2095121443621081303",
+     "url": "https://x.com/JosephDavid1066/status/2095121443621081303",
+     "createdAt": "Wed Sep 02 12:07:32 +0000 2026",
+     "author": "JosephDavid1066",
+     "likes": 0,
+     "text": "Never heard of her.  And for the record, off shore wind is not re-industrialisation. \nThe country\u2019s problem is this political class, who\u2019ve never run industry, never had to innovate, never pay the bills, and spend their entire careers in public service, dishing out our taxes."
+    },
+    {
+     "id": "2095683517988458588",
+     "url": "https://x.com/WxYapper/status/2095683517988458588",
+     "createdAt": "Fri Sep 04 01:21:01 +0000 2026",
+     "author": "WxYapper",
+     "likes": 0,
+     "text": "A round of severe thunderstorms is expected this evening, with the main risk focused on damaging wind, and some areas may also see flooding. A Severe Thunderstorm Watch and a Flood Watch are in effect.\n\nMAIN CONCERN: Severe Thunderstorm Watch through 10 PM EDT; Flood Watch until midnight EDT (flooding/flash-flooding risk where rain already fell).\n\nSHORT-TERM: In and near CLEVELAND, scattered to numerous severe storms are expected this evening, moving southeast later and generally pushing out by "
+    },
+    {
+     "id": "2095672189420802114",
+     "url": "https://x.com/DynastyAngleFF/status/2095672189420802114",
+     "createdAt": "Fri Sep 04 00:36:00 +0000 2026",
+     "author": "DynastyAngleFF",
+     "likes": 35,
+     "text": "\ud83d\udea8 NFL BUZZ  -  SEPTEMBER 3rd  RAPID FIRE \ud83d\udea8\n\n\ud83e\uddac Buffalo Bills\n\n- Dalton Kincaid still carries major upside. If Kincaid's playing time takes the expected step forward, the ceiling is substantial. \n\n\ud83d\udc26\u200d\u2b1b Baltimore Ravens\n\n- Zay Flowers is back at practice. Flowers returned Thursday after dealing with a quad injury, putting him back on track ahead of Week 1. (Cordell Woodland)\n\n- Lamar Jackson loves the versatility of Baltimore's new offense. Jackson praised the offense's ability to attack through pla"
+    },
+    {
+     "id": "2097348310583349450",
+     "url": "https://x.com/CtrlAltDel_user/status/2097348310583349450",
+     "createdAt": "Tue Sep 08 15:36:18 +0000 2026",
+     "author": "CtrlAltDel_user",
+     "likes": 0,
+     "text": "https://t.co/mgpygfAai1 - BREAKING NEWS ROUNDUP**\n**By Editor Troy T. | September 8, 2026 | 72-Hour Power Report**\n\nPower Players, it's been a historic last 72 hours across the nation. From Capitol Hill to the gridiron to the red carpet in Venice - here's your comprehensive 3-day briefing for America.\n\n#POLITICS: Midterm Firestorm - Trump, Mail-In Battle & Shutdown Averted\n\n**1. Trump's Unprecedented Midterm Convention in Dallas**\nPresident Donald Trump and the GOP are taking an unprecedented ga"
+    }
+   ]
+  },
+  "chase_miami": {
+   "query": "\"Ja'Marr Chase\" Dolphins matchup \"Week 16\"",
+   "items": [
+    {
+     "id": "2001306650284630445",
+     "url": "https://x.com/oneweekseason/status/2001306650284630445",
+     "createdAt": "Wed Dec 17 15:01:02 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 79,
+     "text": "NFL DFS: WEEK 16    \n\nA first look at this weeks 11-game main slate through the lens of StatATL. \ud83d\udc40\n\nBUCS (24.5) \u2620\ufe0f AT PANTHERS (21.5) \u26ab\ufe0f\n\n\ud83c\udfc8 The outcome of this game will likely be significant in determining which of these teams wins the NFC South and in-turn makes the playoffs. \n\n\u2620\ufe0f Not a spot that stands out for Baker Mayfield as no QB has thrown for 300 yards against the Panthers all season. \n\n\u26ab\ufe0f The other side of the ball is somewhat intriguing for Bryce Young facing a pass funnel defense as "
+    },
+    {
+     "id": "1998413739272335815",
+     "url": "https://x.com/oneweekseason/status/1998413739272335815",
+     "createdAt": "Tue Dec 09 15:25:38 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 15,
+     "text": "Week 14 Cliff Notes \n\nThe entire slate \u2014 simplified \ud83d\udc47\n\nCOWBOYS (30) \ud83e\udd20 AT LIONS (44) \ud83e\udd81\n\nJared Goff threw for 300+ in a high-scoring Detroit victory, tossing 25 of his 34 passes to Jameson Williams, Amon-Ra St. Brown, and Jahmyr Gibbs. \n\nARSB somewhat surprisingly started in this one but showed no ill effects from his ankle sprain suffered on Thanksgiving, which was great to see.\n\nCeeDee Lamb left with a concussion, putting his Week 15 status in doubt. It was Ryan Flournoy (9-115-1) and not George"
+    },
+    {
+     "id": "1869397287908118738",
+     "url": "https://x.com/oneweekseason/status/1869397287908118738",
+     "createdAt": "Wed Dec 18 15:00:19 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 58,
+     "text": "NFL DFS: WEEK 16   \n\nA first look at this weeks 11-game main slate through the lens of StatATL\n\nBROWNS (19.75) \ud83d\udfe4AT BENGALS (27.25)\ud83d\udc2f\n\n\ud83d\udc2fThe Bengals are still technically in the playoff hunt and have been on fire offensively the second half of the season, scoring 27 or more points in every game since week 8. \n\n\ud83d\udfe4The Browns haven\u2019t been an imposing defense this season and have only held an opponent under 20 points twice \u2013 week 2 against Jacksonville and the 24-19 snow game against the Steelers in wee"
+    }
+   ]
+  },
+  "chiefs_qb": {
+   "query": "Chiefs quarterback Titans \"Week 16\" Mahomes out",
+   "items": [
+    {
+     "id": "2000928979801235833",
+     "url": "https://x.com/oneweekseason/status/2000928979801235833",
+     "createdAt": "Tue Dec 16 14:00:18 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 22,
+     "text": "Week 15 Cliff Notes  \n\nThe entire slate \u2014 simplified \ud83d\udc47\n\nFALCONS (29) \ud83e\udeb6 AT BUCS (28) \u2620\ufe0f\n\nKyle Pitts had the game of his life, and one of the best games from a TE in a while, catching 11 of 12 targets for a massive 166-3 receiving line in the Falcons comeback win over the Bucs. \n\nPitts remains a strong weekly starting option, but these were just his second, third, and fourth TD grabs of the season.\n\nBoth Mike Evans (8-132) and Jalen McMillan (2-38) returned to the Tampa Bay lineup after extended i"
+    },
+    {
+     "id": "1998413739272335815",
+     "url": "https://x.com/oneweekseason/status/1998413739272335815",
+     "createdAt": "Tue Dec 09 15:25:38 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 15,
+     "text": "Week 14 Cliff Notes \n\nThe entire slate \u2014 simplified \ud83d\udc47\n\nCOWBOYS (30) \ud83e\udd20 AT LIONS (44) \ud83e\udd81\n\nJared Goff threw for 300+ in a high-scoring Detroit victory, tossing 25 of his 34 passes to Jameson Williams, Amon-Ra St. Brown, and Jahmyr Gibbs. \n\nARSB somewhat surprisingly started in this one but showed no ill effects from his ankle sprain suffered on Thanksgiving, which was great to see.\n\nCeeDee Lamb left with a concussion, putting his Week 15 status in doubt. It was Ryan Flournoy (9-115-1) and not George"
+    },
+    {
+     "id": "2002959915120218495",
+     "url": "https://x.com/RyanReynoldsNFL/status/2002959915120218495",
+     "createdAt": "Mon Dec 22 04:30:31 +0000 2025",
+     "author": "RyanReynoldsNFL",
+     "likes": 299,
+     "text": "NFL Week 16 Observations\n\n- The Ravens put up a good fight despite losing Lamar Jackson in the first half of this contest, so I\u2019ll stop short of calling this an impressive win for Drake Maye and the Patriots.\n\n- Mike Vrabel and Maye are going to make the Patriots a 10+ win team virtually every year going forward, and Maye had a good looking second half, but I really wanted to see New England, who has benefited from a very easy schedule, get pushed by even a semi dangerous team one more time.\n\n- "
+    },
+    {
+     "id": "2002730288678322522",
+     "url": "https://x.com/NealBradley/status/2002730288678322522",
+     "createdAt": "Sun Dec 21 13:18:04 +0000 2025",
+     "author": "NealBradley",
+     "likes": 2,
+     "text": "REGIONAL SPORTS ROUNDUP\nDecember 21, 2025\n\nCOLLEGE\n\nRACERS CRUSH LINDSEY WILSON\nHaven Ford poured in a game-high 23 points as Murray State rolled to a 101-44 win over Lindsey Wilson in women's basketball yesterday at the CFSB Center. The Racers took control early with a 31-12 first-quarter lead and cruised the rest of the way, shooting 49% from the field and knocking down a season-high 14 three-pointers. In pushing their winning streak to seven, five Racers scored in double figures, including do"
+    }
+   ]
+  },
+  "gibbs_wk16": {
+   "query": "Gibbs Lions Steelers \"Week 16\" start",
+   "items": [
+    {
+     "id": "1998413739272335815",
+     "url": "https://x.com/oneweekseason/status/1998413739272335815",
+     "createdAt": "Tue Dec 09 15:25:38 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 15,
+     "text": "Week 14 Cliff Notes \n\nThe entire slate \u2014 simplified \ud83d\udc47\n\nCOWBOYS (30) \ud83e\udd20 AT LIONS (44) \ud83e\udd81\n\nJared Goff threw for 300+ in a high-scoring Detroit victory, tossing 25 of his 34 passes to Jameson Williams, Amon-Ra St. Brown, and Jahmyr Gibbs. \n\nARSB somewhat surprisingly started in this one but showed no ill effects from his ankle sprain suffered on Thanksgiving, which was great to see.\n\nCeeDee Lamb left with a concussion, putting his Week 15 status in doubt. It was Ryan Flournoy (9-115-1) and not George"
+    },
+    {
+     "id": "2001306650284630445",
+     "url": "https://x.com/oneweekseason/status/2001306650284630445",
+     "createdAt": "Wed Dec 17 15:01:02 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 79,
+     "text": "NFL DFS: WEEK 16    \n\nA first look at this weeks 11-game main slate through the lens of StatATL. \ud83d\udc40\n\nBUCS (24.5) \u2620\ufe0f AT PANTHERS (21.5) \u26ab\ufe0f\n\n\ud83c\udfc8 The outcome of this game will likely be significant in determining which of these teams wins the NFC South and in-turn makes the playoffs. \n\n\u2620\ufe0f Not a spot that stands out for Baker Mayfield as no QB has thrown for 300 yards against the Panthers all season. \n\n\u26ab\ufe0f The other side of the ball is somewhat intriguing for Bryce Young facing a pass funnel defense as "
+    },
+    {
+     "id": "2003473221148979523",
+     "url": "https://x.com/oneweekseason/status/2003473221148979523",
+     "createdAt": "Tue Dec 23 14:30:13 +0000 2025",
+     "author": "oneweekseason",
+     "likes": 9,
+     "text": "Week 16 Cliff Notes    \n\nThe entire slate \u2014 simplified \ud83d\udc47\n\nRAMS (37) \ud83d\udc0f AT SEAHAWKS (38) \ud83d\udfe2\n\nThe Seahawks won an OT thriller on TNF to take control of the NFC West. \n\nSeattle\u2019s frustrating RB workload-split continued, but Kenneth Walker racked up 164 total yards and a score and Zach Charbonnet added 54 yards and a score of his own in the back-and-forth shootout.\n\nAJ Barner caught a vital 26-yard TD late in the fourth quarter and maintains one of the more reliable fantasy roles, outside of JSN, in S"
+    },
+    {
+     "id": "1737109971567865873",
+     "url": "https://x.com/DynastyDadFF/status/1737109971567865873",
+     "createdAt": "Tue Dec 19 13:57:45 +0000 2023",
+     "author": "DynastyDadFF",
+     "likes": 65,
+     "text": "\ud83c\udfc6#\ud835\udc03\ud835\udc32\ud835\udc27\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc32\ud835\udc03\ud835\udc1a\ud835\udc1d\ud835\udc00\ud835\udc29\ud835\udc29\ud835\udc2b\ud835\udc28\ud835\udc2f\ud835\udc1e\ud835\udc1d\ud83c\udfc6 EARLY\n\ud835\udc16\ud835\udc04\ud835\udc04\ud835\udc0a \ud835\udfcf\ud835\udfd4 RB \ud835\udc12\ud835\udc04\ud835\udc0c\ud835\udc08 \ud835\udc05\ud835\udc08\ud835\udc0d\ud835\udc00\ud835\udc0b \ud835\udc11\ud835\udc00\ud835\udc0d\ud835\udc0a\ud835\udc12\n\n\ud83d\udca5 \ud835\udde6\ud835\ude01\ud835\uddee\ud835\uddff\ud835\ude01/\ud835\udde6\ud835\uddf6\ud835\ude01/\ud835\udde7\ud835\uddff\ud835\uddee\ud835\uddf1\ud835\uddf2 \ud835\udde4\ud835\ude02\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00\u2b07\ufe0f \nTime to Make the \ud83d\udcb5 Round Picks\n\n\ud83c\udf7f\ud835\udde6\ud835\udde0\ud835\uddd4\ud835\udde6\ud835\udddb \ud835\udde6\ud835\udde7\ud835\uddd4\ud835\udde5\ud835\udde7\ud835\udde6\ud83c\udf7f\n1. Christian McCaffrey vs. Ravens\u20282. Jahmyr Gibbs @ Vikings\n3. Alvin Kamara @ Rams\n4. Kyren Williams vs. Saints\u20285. Raheem Mostert vs. Cowboys\n6. James Cook @ Chargers\n#BillsMafia 362 total yards w 3 TDs over his last 2 g is hottest RB in #nfl \n7. Rachaad White vs. Jaguars\n\n\ud83d\udd25RB1 Upside \u20288. Travis Etienne @ Buccaneers\n9. Tony Pollard @ Dolphins\n10. Jonathan Taylor "
+    },
+    {
+     "id": "1870477339949490415",
+     "url": "https://x.com/oneweekseason/status/1870477339949490415",
+     "createdAt": "Sat Dec 21 14:32:04 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 29,
+     "text": "DFS + CHESS                      \n\nIn Chess, we position pieces with strategic intent and leverage their strengths to gain an advantage.                          \n\nIn DFS we do the same.                          \n\nHere's 6 Chess pieces Papy will be using in Week 16:\n\nPAWN - QB MICHAEL PENIX JR. ($4,500)\n\nPenix is set to make his NFL debut after being a surprise top 10 pick in the draft. I\u2019d be lying if I said this play was anything but speculative. \n\nI have no idea how Penix is going to look and"
+    },
+    {
+     "id": "1871238808206782773",
+     "url": "https://x.com/oneweekseason/status/1871238808206782773",
+     "createdAt": "Mon Dec 23 16:57:52 +0000 2024",
+     "author": "oneweekseason",
+     "likes": 6,
+     "text": "Fantasy Fallout    \n\nEvery Monday, we go game by game looking for signal over noise to give you an edge.      \n\n\u2022 Injuries   \n\u2022 Usage Trends   \n\u2022 Fantasy Impact\n\nBRONCOS (27) \ud83d\udc0eAT CHARGERS (34)\u26a1\ufe0f\n\n\u26a1\ufe0fJustin Herbert threw for 284 yards and two TDs as the Chargers rallied back to beat Denver, 34-27.\n\n\u26a1\ufe0fGus Edwards rushed for 68 yards and two TDs, his best performance of the season. The Chargers face the Patriots next week, and Edwards will be in fantasy consideration against a weak NE run D.\n\n\ud83d\udc0eCourt"
+    }
+   ]
+  }
+ }
+}
