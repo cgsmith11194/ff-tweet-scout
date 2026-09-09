@@ -234,7 +234,11 @@ def build_queries(since, until, mode="weekly", date_clause=None):
         if mode == "sunday":
             searches += CONFIG.get("sunday", {}).get("searches", [])
     for s in searches:
-        q = f'{s["query"]} min_faves:{s["min_faves"]} {date_clause} {base_filters}'
+        # 9/9: apidojo search returns 0 items for operator-heavy queries
+        # (probed: from:-batch + since_time + -filter => 0; plain keyword => OK).
+        # Keep min_faves (worked on 8/20-era apidojo searches); drop date and
+        # -filter operators — the window and RT/reply kills apply post-hoc.
+        q = f'{s["query"]} min_faves:{s["min_faves"]}'
         queries.append({"q": q, "max_items": s["max_items"], "name": s["name"]})
 
     return account_queries, queries
@@ -272,14 +276,32 @@ def snapshot_odds(stamp):
         print(f"WARNING: odds snapshot failed ({e}) — continuing without it")
 
 
+def run_actor_handles(token, handles, max_items):
+    """Profile-timeline scrape via apidojo's twitterHandles input (ported from
+    9e86c19; re-adopted 9/9 after kaito went all-mock for every query —
+    timelines are a separate endpoint from X search and still work)."""
+    actor = CONFIG["apify"]["actor"]
+    payload = {
+        "twitterHandles": handles,
+        "maxItems": max_items,
+        "sort": "Latest",
+        "tweetLanguage": "en",
+    }
+    return _run_actor_payload(token, actor, payload)
+
+
 def run_actor(token, search_terms, max_items):
     actor = CONFIG["apify"]["actor"]
     payload = {
         "searchTerms": search_terms,
         "maxItems": max_items,
-        "queryType": CONFIG["apify"].get("query_type", "Latest"),
-        "lang": "en",
+        "sort": CONFIG["apify"].get("query_type", "Latest"),
+        "tweetLanguage": "en",
     }
+    return _run_actor_payload(token, actor, payload)
+
+
+def _run_actor_payload(token, actor, payload):
     params = {"token": token}
     # Optional escape hatch: pin an actor build (tag or number, e.g. "1.0.507")
     # via config key apify.build when an actor release misbehaves.
@@ -423,7 +445,7 @@ def fetch_reply_samples(token, candidates, mode):
     targets = [t for t in candidates[:top_n]]
     if not targets:
         return
-    queries = [f"conversation_id:{t['id']} filter:replies" for t in targets]
+    queries = [f"conversation_id:{t['id']}" for t in targets]  # 9/9: -filter ops zero out apidojo
     print(f"Run 3: reply samples for top {len(targets)} candidates")
     try:
         items = run_actor(token, queries, top_n * per)
@@ -507,10 +529,18 @@ def main():
 
     account_queries, search_queries = build_queries(since, until, mode, date_clause)
 
-    print(f"Run 1: {len(account_queries)} account-batch queries")
+    acc = CONFIG["accounts"]
+    if mode == "inactives":
+        handles = acc["tier1"] + acc.get("news", [])
+    else:
+        handles = acc["tier1"] + acc["tier2"] + acc["fun"]
+        if mode == "sunday":
+            handles = handles + acc.get("news", [])
+    print(f"Run 1: timeline scrape of {len(handles)} handles "
+          f"(apidojo twitterHandles; window enforced post-hoc)")
     raw = [
         (it, "accounts")
-        for it in run_actor(token, account_queries, CONFIG["account_query"]["max_items"])
+        for it in run_actor_handles(token, handles, CONFIG["account_query"]["max_items"])
     ]
     print(f"  got {len(raw)} items")
 
@@ -642,6 +672,16 @@ def main():
     stamp = until_dt.strftime("%Y-%m-%d")
     suffix = "-inactives" if mode == "inactives" else ""
     latest_name = "inactives-latest.json" if mode == "inactives" else "latest.json"
+    # 9/9 guard: a collection that parsed nothing real must fail LOUDLY instead
+    # of committing an empty latest.json that masquerades as fresh data (the
+    # 9/6 and 9/9 kaito all-mock runs shipped exactly that way).
+    total_raw = len(raw)
+    if total_raw and not candidates and kills.get("unparseable", 0) >= 0.9 * total_raw:
+        sys.exit(
+            f"FATAL: {kills.get('unparseable', 0)}/{total_raw} raw items unparseable "
+            "and zero candidates — actor likely returned mock/no-result filler. "
+            "Refusing to overwrite latest.json."
+        )
     (data_dir / f"candidates-{stamp}{suffix}.json").write_text(json.dumps(out, indent=1))
     (data_dir / latest_name).write_text(json.dumps(out, indent=1))
     rejects.sort(key=lambda r: (r["reason"], -(r["score"] or 0)))

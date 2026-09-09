@@ -6,7 +6,7 @@ window_days: 7
 apify:
   # kaitoeasyapi = $0.25 per 1,000 tweets, pay-per-result
   # (swap for apidojo~tweet-scraper if you prefer; collector normalizes both)
-  actor: kaitoeasyapi~twitter-x-data-tweet-scraper-pay-per-result-cheapest
+  actor: apidojo~tweet-scraper   # 9/9: kaito all-mock for every query; apidojo timelines+keyword search verified live
   query_type: Latest        # Latest | Top
   poll_seconds: 15
   timeout_minutes: 20
