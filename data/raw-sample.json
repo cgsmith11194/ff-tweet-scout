@@ -1,52 +1,1655 @@
 [
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "noResults": true,
+  "error": true,
+  "code": "C017",
+  "message": "User: Underdog__NFL not found"
  },
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "type": "tweet",
+  "id": "1751305543136772591",
+  "url": "https://x.com/GuruFantasyWrld/status/1751305543136772591",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/1751305543136772591",
+  "text": "Dynasty Fantasy Football Principles:\n\n\u2043 Build around elite QB\u2019s, WR\u2019s\n\u2043 RB\u2019s are a luxury\n\u2043 Future 1sts = Gold\n\u2043 No \u201cNeeds\u201d in the Offseason \n\u2043 BPA in rookie drafts\n\u2043 Trade down within tiers\n\u2043 Young \u2260 Good\n\u2043 Play in 2-3 year windows\n\u2043 Think in terms of startup value",
+  "fullText": "Dynasty Fantasy Football Principles:\n\n\u2043 Build around elite QB\u2019s, WR\u2019s\n\u2043 RB\u2019s are a luxury\n\u2043 Future 1sts = Gold\n\u2043 No \u201cNeeds\u201d in the Offseason \n\u2043 BPA in rookie drafts\n\u2043 Trade down within tiers\n\u2043 Young \u2260 Good\n\u2043 Play in 2-3 year windows\n\u2043 Think in terms of startup value",
+  "source": "",
+  "retweetCount": 53,
+  "replyCount": 57,
+  "likeCount": 1400,
+  "quoteCount": 5,
+  "viewCount": 781656,
+  "createdAt": "Sat Jan 27 18:05:53 +0000 2024",
+  "lang": "en",
+  "bookmarkCount": 685,
+  "isReply": false,
+  "conversationId": "1751305543136772591",
+  "isPinned": true,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50398,
+   "following": 1431,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        117,
+        128
+       ],
+       "name": "",
+       "screen_name": "GuruFFWrld"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 83282,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 4144,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 44818,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
  },
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "type": "tweet",
+  "id": "2097493266132308395",
+  "url": "https://x.com/GuruFantasyWrld/status/2097493266132308395",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2097493266132308395",
+  "text": "We ride at dawn \ud83d\ude24\ud83d\ude24\ud83d\ude24 https://t.co/TK4jtH46dA",
+  "fullText": "We ride at dawn \ud83d\ude24\ud83d\ude24\ud83d\ude24 https://t.co/TK4jtH46dA",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 13,
+  "quoteCount": 0,
+  "viewCount": 5974,
+  "createdAt": "Wed Sep 09 01:12:18 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2097493266132308395",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50398,
+   "following": 1431,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        117,
+        128
+       ],
+       "name": "",
+       "screen_name": "GuruFFWrld"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 83282,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 4144,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 44818,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ]
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/TK4jtH46dA",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2097493266132308395/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 70,
+         "w": 70,
+         "x": 36,
+         "y": 352
+        },
+        {
+         "h": 74,
+         "w": 74,
+         "x": 34,
+         "y": 494
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 36,
+         "y": 1230
+        },
+        {
+         "h": 78,
+         "w": 78,
+         "x": 30,
+         "y": 1372
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 36,
+         "y": 1528
+        },
+        {
+         "h": 80,
+         "w": 80,
+         "x": 30,
+         "y": 1666
+        },
+        {
+         "h": 76,
+         "w": 76,
+         "x": 32,
+         "y": 1814
+        },
+        {
+         "h": 98,
+         "w": 98,
+         "x": 30,
+         "y": 1078
+        }
+       ]
+      }
+     },
+     "id_str": "2097493249975865344",
+     "indices": [
+      20,
+      43
+     ],
+     "media_key": "3_2097493249975865344",
+     "media_url_https": "https://pbs.twimg.com/media/HRvK_3OXUAA19tR.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 562,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1003,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1143,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 2006,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 2048,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 2048,
+      "width": 1003
+     },
+     "sizes": {
+      "large": {
+       "h": 2048,
+       "w": 1003
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/TK4jtH46dA"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/TK4jtH46dA",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2097493266132308395/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 70,
+         "w": 70,
+         "x": 36,
+         "y": 498
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 36,
+         "y": 638
+        },
+        {
+         "h": 68,
+         "w": 68,
+         "x": 38,
+         "y": 796
+        },
+        {
+         "h": 74,
+         "w": 74,
+         "x": 34,
+         "y": 942
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 36,
+         "y": 1368
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 40,
+         "y": 1520
+        },
+        {
+         "h": 68,
+         "w": 68,
+         "x": 36,
+         "y": 1664
+        },
+        {
+         "h": 68,
+         "w": 68,
+         "x": 38,
+         "y": 1808
+        },
+        {
+         "h": 68,
+         "w": 68,
+         "x": 38,
+         "y": 1958
+        }
+       ]
+      }
+     },
+     "id_str": "2097493249946501121",
+     "indices": [
+      20,
+      43
+     ],
+     "media_key": "3_2097493249946501121",
+     "media_url_https": "https://pbs.twimg.com/media/HRvK_3HXQAEZVuN.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 562,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1003,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1143,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 2006,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 2048,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 2048,
+      "width": 1003
+     },
+     "sizes": {
+      "large": {
+       "h": 2048,
+       "w": 1003
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/TK4jtH46dA"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/TK4jtH46dA",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2097493266132308395/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 70,
+         "w": 70,
+         "x": 36,
+         "y": 788
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 36,
+         "y": 938
+        },
+        {
+         "h": 80,
+         "w": 80,
+         "x": 32,
+         "y": 1370
+        },
+        {
+         "h": 72,
+         "w": 72,
+         "x": 36,
+         "y": 1518
+        },
+        {
+         "h": 80,
+         "w": 80,
+         "x": 32,
+         "y": 1662
+        },
+        {
+         "h": 66,
+         "w": 66,
+         "x": 38,
+         "y": 1964
+        }
+       ]
+      }
+     },
+     "id_str": "2097493249933918209",
+     "indices": [
+      20,
+      43
+     ],
+     "media_key": "3_2097493249933918209",
+     "media_url_https": "https://pbs.twimg.com/media/HRvK_3EXQAEA-nJ.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 562,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1003,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1143,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 2006,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 2048,
+        "w": 1003,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 2048,
+      "width": 1003
+     },
+     "sizes": {
+      "large": {
+       "h": 2048,
+       "w": 1003
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/TK4jtH46dA"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/TK4jtH46dA",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2097493266132308395/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 78,
+         "w": 78,
+         "x": 34,
+         "y": 366
+        },
+        {
+         "h": 80,
+         "w": 80,
+         "x": 32,
+         "y": 504
+        },
+        {
+         "h": 64,
+         "w": 64,
+         "x": 40,
+         "y": 654
+        },
+        {
+         "h": 68,
+         "w": 68,
+         "x": 38,
+         "y": 794
+        },
+        {
+         "h": 70,
+         "w": 70,
+         "x": 34,
+         "y": 944
+        },
+        {
+         "h": 78,
+         "w": 78,
+         "x": 34,
+         "y": 1082
+        },
+        {
+         "h": 80,
+         "w": 80,
+         "x": 32,
+         "y": 1372
+        },
+        {
+         "h": 68,
+         "w": 68,
+         "x": 36,
+         "y": 1532
+        },
+        {
+         "h": 64,
+         "w": 64,
+         "x": 42,
+         "y": 1674
+        }
+       ]
+      }
+     },
+     "id_str": "2097493250164858880",
+     "indices": [
+      20,
+      43
+     ],
+     "media_key": "3_2097493250164858880",
+     "media_url_https": "https://pbs.twimg.com/media/HRvK_37bIAALANR.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 557,
+        "w": 994,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 994,
+        "w": 994,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1133,
+        "w": 994,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1988,
+        "w": 994,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 2048,
+        "w": 994,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 2048,
+      "width": 994
+     },
+     "sizes": {
+      "large": {
+       "h": 2048,
+       "w": 994
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/TK4jtH46dA"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HRvK_3OXUAA19tR.jpg",
+   "https://pbs.twimg.com/media/HRvK_3HXQAEZVuN.jpg",
+   "https://pbs.twimg.com/media/HRvK_3EXQAEA-nJ.jpg",
+   "https://pbs.twimg.com/media/HRvK_37bIAALANR.jpg"
+  ],
+  "isConversationControlled": false
  },
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "type": "tweet",
+  "id": "2097352644524154898",
+  "url": "https://x.com/GuruFantasyWrld/status/2097352644524154898",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2097352644524154898",
+  "text": "Drafting your own handcuffs is something you do if you don\u2019t want to finish last.\n\nIt\u2019s not something you do if you want to finish first.",
+  "fullText": "Drafting your own handcuffs is something you do if you don\u2019t want to finish last.\n\nIt\u2019s not something you do if you want to finish first.",
+  "source": "",
+  "retweetCount": 20,
+  "replyCount": 102,
+  "likeCount": 1259,
+  "quoteCount": 4,
+  "viewCount": 290236,
+  "createdAt": "Tue Sep 08 15:53:32 +0000 2026",
+  "lang": "en",
+  "quoteId": "2097341090349392290",
+  "bookmarkCount": 52,
+  "isReply": false,
+  "conversationId": "2097352644524154898",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50398,
+   "following": 1431,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        117,
+        128
+       ],
+       "name": "",
+       "screen_name": "GuruFFWrld"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 83282,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 4144,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 44818,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "2097341090349392290",
+   "text": "If you drafted Jeremiyah Love and didn\u2019t get Tyler Allgeier as well, you messed up.\n\nIf you drafted Ashton Jeanty and didn\u2019t get Mike Washington Jr as well, you messed up.\n\nIf you drafted Christian McCaffrey and didn\u2019t get either Kealon Black or Jordan James as well, you messed up.\n\nIf you drafted MarShawn Lloyd and didn\u2019t get Josh Jacobs as well, you messed up.",
+   "source": "",
+   "retweetCount": 13,
+   "replyCount": 181,
+   "likeCount": 871,
+   "quoteCount": 13,
+   "viewCount": 828137,
+   "createdAt": "Tue Sep 08 15:07:37 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 182,
+   "author": {
+    "type": "user",
+    "userName": "PPRFantasyTips",
+    "url": "https://x.com/PPRFantasyTips",
+    "twitterUrl": "https://twitter.com/PPRFantasyTips",
+    "id": "1448328221695651846",
+    "name": "PPRFantasyTips",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1517623253602344965/qjJwmwwi_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1448328221695651846/1728323591",
+    "description": "Fantasy Football Advice. Start V Sit. Trade Analysis. DeVonta Smith SZN. Kyren Williams Truther\ud83d\udcc8 I prefer PPR Redraft Leagues. Let\u2019s get some W\u2019s\ud83c\udfc6 #RollTide",
+    "location": "Dallas, TX",
+    "followers": 42720,
+    "following": 850,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "disabled",
+    "createdAt": "Wed Oct 13 16:42:46 +0000 2021",
+    "entities": {
+     "description": {
+      "hashtags": [
+       {
+        "indices": [
+         147,
+         156
+        ],
+        "text": "RollTide"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 198998,
+    "geoEnabled": false,
+    "hasCustomTimelines": true,
+    "hasExtendedProfile": true,
+    "isTranslator": false,
+    "mediaCount": 7444,
+    "profileBackgroundColor": "F5F8FA",
+    "statusesCount": 152580,
+    "translatorTypeEnum": "None",
+    "affiliatesHighlightedLabel": {}
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+   }
+  },
+  "media": [],
+  "isConversationControlled": false
  },
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "type": "tweet",
+  "id": "2097310885949714752",
+  "url": "https://x.com/GuruFantasyWrld/status/2097310885949714752",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2097310885949714752",
+  "text": "I don\u2019t even care if I lose all of my matchups 200-50 in Week 1.\n\nI\u2019m so stoked for football to be back.",
+  "fullText": "I don\u2019t even care if I lose all of my matchups 200-50 in Week 1.\n\nI\u2019m so stoked for football to be back.",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 5,
+  "likeCount": 112,
+  "quoteCount": 0,
+  "viewCount": 24026,
+  "createdAt": "Tue Sep 08 13:07:36 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2097310885949714752",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50398,
+   "following": 1431,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        117,
+        128
+       ],
+       "name": "",
+       "screen_name": "GuruFFWrld"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 83282,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 4144,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 44818,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
  },
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "type": "tweet",
+  "id": "2097299245455786145",
+  "url": "https://x.com/GuruFantasyWrld/status/2097299245455786145",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2097299245455786145",
+  "text": "Ashton Jeanty is this year\u2019s Jonathan Taylor.\n\nMalik Nabers is this year\u2019s Jaxon Smith-Njigba.\n\nJaylen Waddle is this year\u2019s George Pickens.\n\nDalton Kincaid is this year\u2019s Tucker Kraft.\n\nJaxson Dart is this year\u2019s Drake Maye.",
+  "fullText": "Ashton Jeanty is this year\u2019s Jonathan Taylor.\n\nMalik Nabers is this year\u2019s Jaxon Smith-Njigba.\n\nJaylen Waddle is this year\u2019s George Pickens.\n\nDalton Kincaid is this year\u2019s Tucker Kraft.\n\nJaxson Dart is this year\u2019s Drake Maye.",
+  "source": "",
+  "retweetCount": 17,
+  "replyCount": 103,
+  "likeCount": 2355,
+  "quoteCount": 10,
+  "viewCount": 334395,
+  "createdAt": "Tue Sep 08 12:21:20 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 246,
+  "isReply": false,
+  "conversationId": "2097299245455786145",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50398,
+   "following": 1431,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        117,
+        128
+       ],
+       "name": "",
+       "screen_name": "GuruFFWrld"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 83282,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 4144,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 44818,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
  },
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "type": "tweet",
+  "id": "2097292941232373772",
+  "url": "https://x.com/GuruFantasyWrld/status/2097292941232373772",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2097292941232373772",
+  "text": "DYNASTY\n\nChoose your fighter.",
+  "fullText": "DYNASTY\n\nChoose your fighter.",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 8,
+  "likeCount": 13,
+  "quoteCount": 3,
+  "viewCount": 13153,
+  "createdAt": "Tue Sep 08 11:56:17 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2097292941232373772",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50398,
+   "following": 1431,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        117,
+        128
+       ],
+       "name": "",
+       "screen_name": "GuruFFWrld"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 83282,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 4144,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 44818,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
  },
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "type": "tweet",
+  "id": "2097288729664598351",
+  "url": "https://x.com/GuruFantasyWrld/status/2097288729664598351",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2097288729664598351",
+  "text": "Malik Nabers &amp; Jeremiyah Love will be 1st round redraft picks this time next year.",
+  "fullText": "Malik Nabers &amp; Jeremiyah Love will be 1st round redraft picks this time next year.",
+  "source": "",
+  "retweetCount": 5,
+  "replyCount": 18,
+  "likeCount": 988,
+  "quoteCount": 2,
+  "viewCount": 83913,
+  "createdAt": "Tue Sep 08 11:39:33 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 23,
+  "isReply": false,
+  "conversationId": "2097288729664598351",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50398,
+   "following": 1431,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        117,
+        128
+       ],
+       "name": "",
+       "screen_name": "GuruFFWrld"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 83282,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 4144,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 44818,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
  },
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "type": "tweet",
+  "id": "2097276273613566236",
+  "url": "https://x.com/GuruFantasyWrld/status/2097276273613566236",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2097276273613566236",
+  "text": "Good luck to everyone who drafted Brock Bowers this season.\n\nYou won\u2019t need it \u2013 because he\u2019s going to go scorched Earth this year.\n\nBut good luck anyways. https://t.co/SBNCxzMFKR",
+  "fullText": "Good luck to everyone who drafted Brock Bowers this season.\n\nYou won\u2019t need it \u2013 because he\u2019s going to go scorched Earth this year.\n\nBut good luck anyways. https://t.co/SBNCxzMFKR",
+  "source": "",
+  "retweetCount": 15,
+  "replyCount": 18,
+  "likeCount": 1087,
+  "quoteCount": 1,
+  "viewCount": 129414,
+  "createdAt": "Tue Sep 08 10:50:03 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 22,
+  "isReply": false,
+  "conversationId": "2097276273613566236",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50398,
+   "following": 1431,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        117,
+        128
+       ],
+       "name": "",
+       "screen_name": "GuruFFWrld"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 83282,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 4144,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 44818,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ]
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/SBNCxzMFKR",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2097276273613566236/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": []
+      }
+     },
+     "id_str": "2097276175152447488",
+     "indices": [
+      156,
+      179
+     ],
+     "media_key": "3_2097276175152447488",
+     "media_url_https": "https://pbs.twimg.com/media/HRsFkcfaAAA1ERN.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 235,
+        "w": 420,
+        "x": 0,
+        "y": 1
+       },
+       {
+        "h": 236,
+        "w": 236,
+        "x": 123,
+        "y": 0
+       },
+       {
+        "h": 236,
+        "w": 207,
+        "x": 138,
+        "y": 0
+       },
+       {
+        "h": 236,
+        "w": 118,
+        "x": 182,
+        "y": 0
+       },
+       {
+        "h": 236,
+        "w": 420,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 236,
+      "width": 420
+     },
+     "sizes": {
+      "large": {
+       "h": 236,
+       "w": 420
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/SBNCxzMFKR"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HRsFkcfaAAA1ERN.jpg"
+  ],
+  "isConversationControlled": false
  },
  {
-  "type": "mock_tweet",
-  "id": -1,
-  "text": "From KaitoEasyAPI, a reminder:Our API pricing is based on the volume of data returned. However, to ensure we can cover our costs on the Apify platform, we have a minimum charge of $X per API call,even if the response contains no results.Thus, we returned N pieces of mock data. We will monitor and adjust the size of N based on the infrastructure costs incurred by Apify.This helps offset the infrastructure costs we incur for each API request, regardless of the data returned. We want to be upfront about this policy so you understand the pricing structure when using our service.Despite adding mock data when no results are found, we're still barely breaking even. Our prices are already very reasonable, but we're committed to maintaining this service to support the growth of your project.Please let us know if you have any other questions!"
+  "type": "tweet",
+  "id": "2097274834539425954",
+  "url": "https://x.com/GuruFantasyWrld/status/2097274834539425954",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2097274834539425954",
+  "text": "RT @DynastyZack: My girlfriend when i open my phone at 3AM on Wednesday to see who cleared waivers in all of my leagues https://t.co/oBdhgr\u2026",
+  "fullText": "RT @DynastyZack: My girlfriend when i open my phone at 3AM on Wednesday to see who cleared waivers in all of my leagues https://t.co/oBdhgr\u2026",
+  "source": "",
+  "retweetCount": 944,
+  "replyCount": 41,
+  "likeCount": 17470,
+  "quoteCount": 41,
+  "viewCount": 457173,
+  "createdAt": "Tue Sep 08 10:44:20 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 558,
+  "isReply": false,
+  "conversationId": "2097274834539425954",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50398,
+   "following": 1431,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        117,
+        128
+       ],
+       "name": "",
+       "screen_name": "GuruFFWrld"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 83282,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 4144,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 44818,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "t.co/oBdhgr",
+     "indices": [
+      120,
+      139
+     ],
+     "url": "https://t.co/oBdhgr"
+    }
+   ],
+   "user_mentions": [
+    {
+     "id_str": "1178485244091084800",
+     "indices": [
+      3,
+      15
+     ],
+     "name": "Dynasty Zack",
+     "screen_name": "DynastyZack"
+    }
+   ]
+  },
+  "isRetweet": true,
+  "retweet": {
+   "type": "tweet",
+   "id": "2097063995228229778",
+   "text": "My girlfriend when i open my phone at 3AM on Wednesday to see who cleared waivers in all of my leagues https://t.co/oBdhgroYw3",
+   "source": "",
+   "retweetCount": 944,
+   "replyCount": 41,
+   "likeCount": 17470,
+   "quoteCount": 41,
+   "viewCount": 457173,
+   "createdAt": "Mon Sep 07 20:46:32 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 558,
+   "possiblySensitive": false,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "DynastyZack",
+    "url": "https://x.com/DynastyZack",
+    "twitterUrl": "https://twitter.com/DynastyZack",
+    "id": "1178485244091084800",
+    "name": "Dynasty Zack",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2079226292197851136/190HGsYe_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1178485244091084800/1779825260",
+    "description": "i am Zack and i love dynasty fantasy football | Expert @DynatyzeFF and @PlayForKeepsFF\n\nKyren Williams Truther | Caleb Douglas Believer | Matthew Golden Hater",
+    "location": "",
+    "followers": 2321,
+    "following": 562,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "disabled",
+    "createdAt": "Mon Sep 30 01:43:00 +0000 2019",
+    "entities": {
+     "description": {
+      "user_mentions": [
+       {
+        "id_str": "",
+        "indices": [
+         55,
+         66
+        ],
+        "name": "",
+        "screen_name": "DynatyzeFF"
+       },
+       {
+        "id_str": "",
+        "indices": [
+         71,
+         86
+        ],
+        "name": "",
+        "screen_name": "PlayForKeepsFF"
+       }
+      ]
+     },
+     "url": {
+      "urls": [
+       {
+        "display_url": "substack.com/@dynastyzack",
+        "expanded_url": "https://substack.com/@dynastyzack",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/dzQuBh78oy"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15038,
+    "geoEnabled": false,
+    "hasCustomTimelines": true,
+    "hasExtendedProfile": true,
+    "isTranslator": false,
+    "mediaCount": 1047,
+    "profileBackgroundColor": "F5F8FA",
+    "statusesCount": 11297,
+    "translatorTypeEnum": "None",
+    "affiliatesHighlightedLabel": {},
+    "pinnedTweetIds": [
+     "2085721022393934084"
+    ]
+   },
+   "extendedEntities": {
+    "media": [
+     {
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/oBdhgroYw3",
+      "expanded_url": "https://x.com/DynastyZack/status/2097063995228229778/photo/1",
+      "ext_master_playlist_only": [],
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "ext_playlists": [],
+      "features": {
+       "large": {
+        "faces": []
+       }
+      },
+      "id_str": "2097063989129994240",
+      "indices": [
+       103,
+       126
+      ],
+      "media_key": "3_2097063989129994240",
+      "media_url_https": "https://pbs.twimg.com/media/HRpEll9bYAAwcib.jpg",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 279,
+         "w": 498,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 281,
+         "w": 281,
+         "x": 95,
+         "y": 0
+        },
+        {
+         "h": 281,
+         "w": 246,
+         "x": 112,
+         "y": 0
+        },
+        {
+         "h": 281,
+         "w": 141,
+         "x": 165,
+         "y": 0
+        },
+        {
+         "h": 281,
+         "w": 498,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 281,
+       "width": 498
+      },
+      "sizes": {
+       "large": {
+        "h": 281,
+        "w": 498
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/oBdhgroYw3"
+     }
+    ]
+   },
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
  }
 ]
