@@ -57,6 +57,17 @@ jobs:
           MODE: ${{ steps.mode.outputs.mode }}
         run: python collector.py
 
+      - name: Preserve failure evidence
+        if: failure()
+        run: |
+          git config user.name "ff-scout-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p data/diag
+          TS=$(date -u +%Y%m%dT%H%M)
+          cp data/raw-sample.json "data/diag/failure-raw-sample-$TS.json" 2>/dev/null || true
+          echo "collect job FAILED at $(date -u) — see failure-raw-sample-$TS.json (all-mock guard or earlier error)" > "data/diag/FAILED-$TS.txt"
+          git add data/diag && git commit -m "collect FAILED — evidence [skip ci]" && git push || true
+
       - name: Render fallback digest
         run: python render_digest.py
 

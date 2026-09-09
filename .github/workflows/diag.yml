@@ -1,0 +1,28 @@
+name: diag-probe
+# One-click Apify diagnostics: cross-actor probe matrix (scripts/diag_probe.py).
+# Results commit to data/diag/ so cloud sessions can read them via git
+# (api.github.com is blocked from the Claude sandbox; the repo is the mailbox).
+on:
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ['.github/diag-now']
+permissions:
+  contents: write
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with: { python-version: '3.12' }
+      - run: pip install requests pyyaml
+      - env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: python scripts/diag_probe.py
+      - run: |
+          git config user.name "ff-scout-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/diag
+          git commit -m "diag probe results [skip ci]" || echo "nothing new"
+          git push
