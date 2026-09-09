@@ -458,6 +458,16 @@ def main():
     if not token:
         sys.exit("APIFY_TOKEN env var is required")
 
+    # DIAG MODE (2026-09-09): when .diag-request exists at repo root, run the
+    # Apify probe matrix (scripts/diag_probe.py) instead of a collection and
+    # exit. Results land in data/diag/ via the workflow's commit step.
+    if (ROOT / ".diag-request").exists():
+        print("DIAG MODE: .diag-request present -> probe matrix, no collection")
+        import subprocess
+        subprocess.run([sys.executable, str(ROOT / "scripts" / "diag_probe.py")],
+                       check=True)
+        return
+
     mode = os.environ.get("MODE", "weekly").lower()
     until_dt = datetime.now(timezone.utc)
     date_clause = None
