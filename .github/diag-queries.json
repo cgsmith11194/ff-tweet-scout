@@ -1,62 +1,62 @@
 [
  {
-  "name": "weather_buf_cle",
-  "query": "\"Week 16\" Bills Browns wind weather",
-  "sort": "Top"
+  "name": "weather_report_thread",
+  "query": "\"Week 16 NFL Weather Report\"",
+  "sort": "Top",
+  "max_items": 15
  },
  {
-  "name": "weather_roth",
-  "query": "Kevin Roth \"Week 16\" weather NFL 2025",
-  "sort": "Top"
+  "name": "kamara_wk16",
+  "query": "Kamara out Saints Jets inactive",
+  "sort": "Latest",
+  "max_items": 20
  },
  {
-  "name": "kamara_out",
-  "query": "Kamara inactive Saints Jets",
-  "sort": "Top"
+  "name": "coker_panthers",
+  "query": "\"Jalen Coker\" Panthers Buccaneers start",
+  "sort": "Top",
+  "max_items": 15
  },
  {
-  "name": "rice_out",
-  "query": "\"Rashee Rice\" ruled out Titans",
-  "sort": "Top"
+  "name": "jefferson_wind",
+  "query": "Justin Jefferson Giants wind \"Week 16\"",
+  "sort": "Top",
+  "max_items": 15
  },
  {
-  "name": "tua_qb3",
-  "query": "Tua emergency third quarterback Dolphins Bengals",
-  "sort": "Top"
+  "name": "saints_dst",
+  "query": "Saints defense stream Jets \"Week 16\"",
+  "sort": "Top",
+  "max_items": 15
  },
  {
-  "name": "chase_matchup",
-  "query": "Chase \"Jack Jones\" \"Rasul Douglas\"",
-  "sort": "Top"
+  "name": "watt_wk16",
+  "query": "Watt out Steelers Lions \"Week 16\"",
+  "sort": "Top",
+  "max_items": 15
  },
  {
-  "name": "prater_out",
-  "query": "Prater ruled out Bills kicker Cleveland",
-  "sort": "Top"
+  "name": "bills_kicker",
+  "query": "Bills kicker Prater out Cleveland wind",
+  "sort": "Top",
+  "max_items": 15
  },
  {
-  "name": "watt_out",
-  "query": "\"T.J. Watt\" collapsed lung out Lions",
-  "sort": "Top"
+  "name": "chase_miami",
+  "query": "\"Ja'Marr Chase\" Dolphins matchup \"Week 16\"",
+  "sort": "Top",
+  "max_items": 15
  },
  {
-  "name": "mahomes_acl",
-  "query": "Mahomes ACL surgery out for season December",
-  "sort": "Top"
+  "name": "chiefs_qb",
+  "query": "Chiefs quarterback Titans \"Week 16\" Mahomes out",
+  "sort": "Top",
+  "max_items": 15
  },
  {
-  "name": "wk16_inactives",
-  "query": "\"Week 16\" inactives 2025 fantasy",
-  "sort": "Top"
- },
- {
-  "name": "coker_start",
-  "query": "Jalen Coker start Buccaneers \"Week 16\"",
-  "sort": "Top"
- },
- {
-  "name": "evans_horn",
-  "query": "\"Mike Evans\" \"Jaycee Horn\" shadow",
-  "sort": "Top"
+  "name": "gibbs_wk16",
+  "query": "Gibbs Lions Steelers \"Week 16\" start",
+  "sort": "Top",
+  "max_items": 15
  }
 ]
