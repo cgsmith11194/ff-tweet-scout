@@ -71,6 +71,7 @@ accounts:
     - PFF_RyanSmith
   # National insiders — collected ONLY in Sunday mode (news lens)
   news:
+    - KevinRothWx     # 9/9: fantasy weather creator — Sunday Special weather section
     - AdamSchefter
     - RapSheet
     - TomPelissero
@@ -147,7 +148,19 @@ sunday:
       query: '("did not practice" OR "limited practice" OR "full practice" OR "injury report" OR DNP) NFL lang:en'
       min_faves: 150
       max_items: 80
-    - name: line_moves
+    - name: weather
+    query: '(wind OR gusts OR "mph" OR rain OR snow OR forecast) (NFL OR fantasy OR stadium) lang:en'
+    min_faves: 50
+    max_items: 60
+  - name: matchups
+    query: '(shadow OR "WR/CB" OR "cornerback matchup" OR "run funnel" OR "pass funnel" OR "coverage matchup") lang:en'
+    min_faves: 30
+    max_items: 60
+  - name: streamers
+    query: '(streamer OR streaming OR rostered OR waiver) (DST OR defense OR kicker OR "tight end") lang:en'
+    min_faves: 30
+    max_items: 50
+  - name: line_moves
       query: '("opened at" OR "moved to" OR "now favored" OR "line move" OR "total dropped" OR "total moved") (NFL OR spread OR total) lang:en'
       min_faves: 100
       max_items: 60
