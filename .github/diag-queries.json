@@ -1,0 +1,62 @@
+[
+ {
+  "name": "weather_buf_cle",
+  "query": "\"Week 16\" Bills Browns wind weather",
+  "sort": "Top"
+ },
+ {
+  "name": "weather_roth",
+  "query": "Kevin Roth \"Week 16\" weather NFL 2025",
+  "sort": "Top"
+ },
+ {
+  "name": "kamara_out",
+  "query": "Kamara inactive Saints Jets",
+  "sort": "Top"
+ },
+ {
+  "name": "rice_out",
+  "query": "\"Rashee Rice\" ruled out Titans",
+  "sort": "Top"
+ },
+ {
+  "name": "tua_qb3",
+  "query": "Tua emergency third quarterback Dolphins Bengals",
+  "sort": "Top"
+ },
+ {
+  "name": "chase_matchup",
+  "query": "Chase \"Jack Jones\" \"Rasul Douglas\"",
+  "sort": "Top"
+ },
+ {
+  "name": "prater_out",
+  "query": "Prater ruled out Bills kicker Cleveland",
+  "sort": "Top"
+ },
+ {
+  "name": "watt_out",
+  "query": "\"T.J. Watt\" collapsed lung out Lions",
+  "sort": "Top"
+ },
+ {
+  "name": "mahomes_acl",
+  "query": "Mahomes ACL surgery out for season December",
+  "sort": "Top"
+ },
+ {
+  "name": "wk16_inactives",
+  "query": "\"Week 16\" inactives 2025 fantasy",
+  "sort": "Top"
+ },
+ {
+  "name": "coker_start",
+  "query": "Jalen Coker start Buccaneers \"Week 16\"",
+  "sort": "Top"
+ },
+ {
+  "name": "evans_horn",
+  "query": "\"Mike Evans\" \"Jaycee Horn\" shadow",
+  "sort": "Top"
+ }
+]
