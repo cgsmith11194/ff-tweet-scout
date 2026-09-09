@@ -71,7 +71,8 @@ accounts:
     - PFF_RyanSmith
   # National insiders — collected ONLY in Sunday mode (news lens)
   news:
-    - KevinRothWx     # 9/9: fantasy weather creator — Sunday Special weather section
+    - RuvenKotz       # 9/9: THE weather-report creator (verified via Week 16 archaeology)
+    - KevinRothWx     # 9/9: weather placeholder; returned no hits — prune if still empty in October
     - AdamSchefter
     - RapSheet
     - TomPelissero
