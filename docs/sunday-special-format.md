@@ -22,6 +22,14 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
    item's one link. Mark nothing; it should read seamlessly.
 3. Never skip a section because the tweet pull was thin.
 
+## Writing rules
+
+- Every section opens with ONE plain line saying what it is / how to use it
+  (Matchup Lab's notes that WR/DB edges are more predictive than RB/DL ones).
+- Useful over clever: no coined shorthand ("fence case"), no vague callbacks.
+  Every line should tell the reader something they can act on.
+- Tier and matchup content renders as bulleted lists, never prose blobs.
+
 ## Sections, in order
 
 1. **Intro** — two sentences, kickoff countdown.
@@ -30,16 +38,17 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
 3. **🌡️ Game Environment** — totals/game-script tweets + tier lines, every game.
 4. **🔬 Matchup Lab** — WR/CB + RB/DL tweets (web fallback common here),
    Best / Not notable / Worst.
-5. **🧾 Receipts** — grade last Sunday's calls (and any Thursday call that
-   resolved): one line each, hit or miss, no hiding. Tweet-archaeology or the
-   box score supplies the evidence.
-6. **🧵 Still Open from Thursday** — ONLY live decisions/warnings, each closed
-   by a fresh tweet where one exists.
-7. **🚑 Injury Wire (11:30 ET)** — bullet lines (no tables; they don't survive
-   the Substack paste): `Name, POS TEAM – STATUS (injury) – prognosis/snap
-   note`, sorted by fantasy relevance; offense only; skip pre-existing
-   season-enders. **Pending** sub-list names every fantasy-relevant GTD by
-   window (4:05 / 4:25 / SNF / MNF) with when their actives drop — never a bare
+5. **🧾 Receipts** — LAST SUNDAY'S calls only (never Thursday content): one
+   line each, what we called, what happened, hit or miss.
+6. **🧵 Designations We Were Waiting On** — items that were genuinely pending
+   as of Thursday (a status, a role decision, a starter announcement) and how
+   each resolved, with the resolving tweet. Not a place to re-reference stats
+   that already appear elsewhere in the issue.
+7. **🚑 Injury Wire (11:30 ET)** — a TABLE: Player | Status | Injury |
+   Prognosis, sorted by fantasy relevance; offense only; skip pre-existing
+   season-enders. (Recreate in Substack's editor if the paste mangles it.)
+   **Pending** sub-list names every fantasy-relevant GTD by window
+   (4:05 / 4:25 / SNF / MNF) with when their actives drop — never a bare
    "check later" row. Beat-tweet receipts embedded beneath.
 8. **📺 Streamers + Stat Watch** — streamer recs gated <50% rostered in
    standard redraft, % cited; kicker/DST weather overlay; one stat-watch line.
