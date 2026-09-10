@@ -19,7 +19,14 @@
 
 ## Rewriting rules (Analysis & Hype / Cold Water)
 
-- Light declarative rewording — read like the newsletter wrote it, not like a screenshot.
+- **Items are the tweet's own words, simplified for formatting only** (Chris,
+  9/10). No added framing, no editorial lead-ins ("X, meet reality", "the other
+  side of the coin"), no coined phrases, no voice. If a sentence in an item
+  didn't come from the tweet, delete it. Wordplay belongs to the title and
+  intro ONLY — and those are Chris/Cam's to write; the session drafts them as
+  skeletons.
+- Light declarative rewording — read like the tweet, cleaned up, not like the
+  newsletter composed it.
 - **Strip:** emojis, hashtags, trailing t.co links, ALL-CAPS names (→ proper case), engagement-bait closers ("Thoughts? 🤔", "agree/disagree?", "BUYER-BEWARE"), @-handle noise, tweet-thread artifacts.
 - **Market-price context goes in a lead parenthetical** after the player's name — "(currently valued outside top 10 WRs in redraft and top 20 in dynasty)" — never a trailing "yet he's valued…" line (8/6: Rice, Concepcion).
 - **Trim lead-ins:** player-name + colon beats framed lead-ins ("Luther Burden III:", not "The Luther Burden III prospect file:").
