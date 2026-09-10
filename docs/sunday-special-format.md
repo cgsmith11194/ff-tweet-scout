@@ -46,7 +46,13 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
    that already appear elsewhere in the issue.
 7. **🚑 Injury Wire (11:30 ET)** — a TABLE: Player | Status | Injury |
    Prognosis, sorted by fantasy relevance; offense only; skip pre-existing
-   season-enders. (Recreate in Substack's editor if the paste mangles it.)
+   season-enders. **Rendering:** Substack has no native tables and its LaTeX
+   block is single-line MathJax, so the wire ships as an image. Source of
+   truth is `data/sunday/injury-wire.md` (a markdown table anyone can edit in
+   the GitHub web editor); the `render-wire` Action re-renders
+   `assets/sunday/injury-wire.png` (+ a dated copy) within ~2 min of any
+   commit to it. The paste doc embeds the raw.githubusercontent URL with the
+   full table content in the alt text (screen readers / image-blocked email).
    **Pending** sub-list names every fantasy-relevant GTD by window
    (4:05 / 4:25 / SNF / MNF) with when their actives drop — never a bare
    "check later" row. Beat-tweet receipts embedded beneath.

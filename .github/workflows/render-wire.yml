@@ -1,0 +1,45 @@
+name: render-wire
+# Re-renders the injury-wire PNG whenever its markdown source is edited.
+# Edit data/sunday/injury-wire.md (web editor is fine) -> this commits a fresh
+# assets/sunday/injury-wire.png (plus a dated copy) within ~2 minutes.
+
+on:
+  push:
+    paths:
+      - data/sunday/injury-wire.md
+      - scripts/render_wire.js
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: render-wire
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install playwright chromium
+        run: |
+          npm init -y >/dev/null
+          npm install playwright@1.49.1 >/dev/null
+          npx playwright install --with-deps chromium
+      - name: Render table
+        run: |
+          node scripts/render_wire.js
+          cp assets/sunday/injury-wire.png "assets/sunday/injury-wire-$(date -u +%F).png"
+      - name: Commit PNG
+        run: |
+          git config user.name "render-wire bot"
+          git config user.email "actions@github.com"
+          git add assets/sunday/
+          git diff --cached --quiet && echo "no visual change" && exit 0
+          git commit -m "render: injury-wire.png from $(git rev-parse --short HEAD)"
+          git pull --rebase origin main
+          git push
