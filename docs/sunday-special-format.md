@@ -67,6 +67,12 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
 - Dedupe vs. Wednesday's issue (exact tweet id + same-stat fuzzy).
 - Comment check via reply_sample on every near-pick.
 - Numbers sanity-check vs. known magnitudes.
+- **Wire exhaustiveness:** before send, cross-check the injury wire against
+  every team's official inactives post (1:00 games) and the Friday OUT/doubtful
+  designations (late-window + island games). Every fantasy-relevant offensive
+  player appears — including healthy scratches and benchings, which cost a
+  reader's lineup exactly like injuries do. Late-window and MNF question marks
+  get named in their PENDING rows, never summarized away.
 
 ## Discord addendum
 
