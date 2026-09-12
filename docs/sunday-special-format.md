@@ -35,7 +35,13 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
 1. **Intro** — two sentences, kickoff countdown.
 2. **☔ Weather** — anchor embed: the RuvenKotz slate report; then Worst / Not
    notable / Best tier lines covering EVERY game incl. SNF/MNF.
-3. **🌡️ Game Environment** — totals/game-script tweets + tier lines, every game.
+3. **🌡️ Game Environment** — totals/game-script tweets + tier lines, every
+   game, each line carrying its **total and spread**. Make shootouts and
+   one-sidedness pronounced (member request, Trophy Room 9/12): a high total
+   with a tight spread is the shootout profile (bump everything in it); a big
+   spread means the favorite's early-down RB gains the closing script while
+   the dog's RBs and the favorite's secondary pass-catchers lose late-game
+   work — say which players that touches, one clause, no essay.
 4. **🔬 Matchup Lab** — WR/CB + RB/DL tweets (web fallback common here),
    Best / Not notable / Worst.
 5. **🧾 Receipts** — LAST SUNDAY'S calls only (never Thursday content): one
@@ -67,12 +73,17 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
 - Dedupe vs. Wednesday's issue (exact tweet id + same-stat fuzzy).
 - Comment check via reply_sample on every near-pick.
 - Numbers sanity-check vs. known magnitudes.
-- **Wire exhaustiveness:** before send, cross-check the injury wire against
-  every team's official inactives post (1:00 games) and the Friday OUT/doubtful
-  designations (late-window + island games). Every fantasy-relevant offensive
-  player appears — including healthy scratches and benchings, which cost a
-  reader's lineup exactly like injuries do. Late-window and MNF question marks
-  get named in their PENDING rows, never summarized away.
+- **Wire exhaustiveness + two-tier sourcing:** the wire is built efficiently in
+  two passes. (1) **1:00 games — official only:** statuses come from each
+  team's official inactives post (~11:30 ET, via the inactives sweep); these
+  are LOCKED and render IN/OUT. No Twitter-sniffing needed where an official
+  list exists. (2) **Late windows + SNF/MNF — latest reporting:** Friday
+  ruled-out/IR designations are official (OUT); everything else is the most
+  recent beat read, rendered EXP IN / EXP OUT (hollow badge = not locked),
+  with the lock time in the prognosis. Every fantasy-relevant offensive player
+  appears — including healthy scratches and benchings, which cost a reader's
+  lineup exactly like injuries do. Late-window and MNF question marks get
+  named, never summarized away.
 
 ## Discord addendum
 

@@ -30,15 +30,21 @@ function parseTable(md) {
 
 function badgeClass(status) {
   const s = status.toUpperCase();
-  return s === 'IN' ? 'in' : s === 'OUT' ? 'out' : s === 'PENDING' ? 'pend' : 'other';
+  if (s === 'IN') return 'in';
+  if (s === 'OUT') return 'out';
+  if (s === 'PENDING') return 'pend';
+  if (s === 'EXP IN') return 'expin';   // reported/expected, NOT locked (late windows)
+  if (s === 'EXP OUT') return 'expout'; // reported/expected, NOT locked (late windows)
+  return 'other';
 }
 
 function buildHtml(rows) {
   let sepDone = false;
   const body = rows.map(([player, pos, status, injury, prog]) => {
-    const isPend = status.toUpperCase() === 'PENDING';
-    const sep = isPend && !sepDone ? ' class="sep"' : '';
-    if (isPend) sepDone = true;
+    const s = status.toUpperCase();
+    const notLocked = s === 'PENDING' || s.startsWith('EXP');
+    const sep = notLocked && !sepDone ? ' class="sep"' : '';
+    if (notLocked) sepDone = true;
     const posHtml = pos ? ` <span class="pos">${esc(pos)}</span>` : '';
     return `<tr${sep}><td class="player">${esc(player)}${posHtml}</td>` +
       `<td><span class="badge ${badgeClass(status)}">${esc(status.toUpperCase())}</span></td>` +
@@ -64,6 +70,8 @@ function buildHtml(rows) {
   .in    { background: #e7f5ee; color: #0e7a4f; }
   .out   { background: #fbebeb; color: #a02020; }
   .pend  { background: #fdf3e0; color: #8a5a00; }
+  .expin  { background: #fff; color: #0e7a4f; box-shadow: inset 0 0 0 1.5px #9fd4bc; }
+  .expout { background: #fff; color: #a02020; box-shadow: inset 0 0 0 1.5px #e5b3b3; }
   .other { background: #eeeeee; color: #444444; }
   .sep td { border-top: 2px solid #d8d8d8; }
   .inj { color: #444; }
