@@ -10,31 +10,27 @@
 #       EXP IN / EXP OUT = latest beat reporting for late-window + island games —
 #                     NOT locked (hollow badge); prognosis must say when it locks
 #       PENDING     = no read at all yet; prognosis says when the answer lands
-#   - Keep rows sorted by fantasy relevance; PENDING rows go last (the renderer
-#     draws the section divider automatically before the first PENDING row)
-#   - Leave Pos/Team empty for game-level rows (e.g. "JAX@DEN · LV@HOU")
+#   - Keep rows sorted by fantasy relevance; not-locked rows go last (the renderer
+#     draws the section divider automatically before the first EXP/PENDING row)
+#   - Leave Pos/Team empty for game-level rows (e.g. "GB@MIN · MIA@LV")
 #   - Pipes (|) can't appear inside cell text; commas and dashes are fine
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
-| Tee Higgins | WR · CIN | IN | — | Questionable during the week — active for the 1:00 |
-| Lamar Jackson | QB · BAL | IN | Illness | Full practice Thursday — full go (SNF) |
-| CeeDee Lamb | WR · DAL | IN | Illness | Returned Friday — full go |
-| Alvin Kamara | RB · NO | OUT | Ankle/knee | Inactive; committee behind him, no announced lead |
-| Rashee Rice | WR · KC | OUT | — | Ruled out Friday (tweet above) |
-| David Njoku | TE · CLE | OUT | — | Inactive |
-| Keon Coleman | WR · BUF | OUT | Healthy scratch | Coach's decision; Gabe Davis also out |
-| Woody Marks | RB · HOU | OUT | — | Ruled out; 4:25 window |
-| Justin Fields | QB · NYJ | OUT | — | Inactive; downgrades the whole Jets offense |
-| Dalton Kincaid | TE · BUF | IN | Knee | Full participant Friday |
-| Javonte Williams | RB · DAL | IN | Stinger/neck | Expected to play; no snap-count reporting |
-| Tua Tagovailoa | QB · MIA | OUT | — | Emergency third QB only |
-| Sterling Shepard | WR · TB | OUT | — | Inactive |
-| Noah Fant | TE · CIN | OUT | — | Inactive |
-| Dylan Sampson | RB · CLE | OUT | — | Inactive |
-| Mason Taylor | TE · NYJ | OUT | — | Inactive |
-| Matt Prater | K · BUF | OUT | — | Replacement kicker in 14 mph wind |
-| Drake London | WR · ATL | EXP IN | PCL sprain | Beat reports say plays, no cap — locks at ~2:35 ET actives |
-| Marvin Harrison Jr. | WR · ARI | EXP IN | — | Expected back per reporting — locks at ~2:35 ET actives |
-| JAX@DEN · LV@HOU · PIT@DET |  | PENDING | — | Remaining GTDs minor; actives ~2:55 ET |
-| SF@IND | MNF | PENDING | — | Statuses Monday — watch Pearsall, Guerendo, Giddens; posted to the Discord |
+| Alvin Kamara | RB · NO | OUT | Knee (MCL) | Inactive; full participant late in the week but not ready |
+| Brock Bowers | TE · LV | OUT | Knee (meniscus) | Ruled out; real chance he returns Week 2 — Mayer inherits |
+| A.J. Brown | WR · NE | OUT | Ankle | IR — out about six weeks; Kyle Williams is the beneficiary |
+| Tua Tagovailoa | QB · ATL | OUT | Oblique | Inactive along with Penix; Rush starts, Zaccheaus is emergency QB and RB3 |
+| Josh Jacobs | RB · GB | OUT | — | Commissioner Exempt list; not with the team (4:25) |
+| Emeka Egbuka | WR · TB | IN | — | Not among Tampa's inactives — active after a questionable week |
+| Rome Odunze | WR · CHI | IN | Calf | Officially active |
+| Alec Pierce | WR · IND | IN | Heel | Plays but not a full go — roughly 20-30 plays with in-game spells |
+| Cooper Rush | QB · ATL | IN | Back spasms | Active; felt better Sunday morning |
+| Jalen McMillan | WR · TB | OUT | Knee | Inactive |
+| Sean Tucker | RB · TB | OUT | Hamstring | Out; goal-line work consolidates behind Irving and Gainwell |
+| Tim Patrick | WR · TEN | OUT | Groin | Ruled out Friday |
+| Ty Johnson | RB · BUF | OUT | Hamstring | Inactive; small receptions bump to James Cook |
+| Jeremiyah Love | RB · ARI | EXP IN | Ankle sprain | Expected to play per Rapoport — locks at ~3:55 ET actives |
+| Malik Nabers | WR · NYG | PENDING | Knee | True game-time decision, "murky at best" — SNF actives ~6:50 ET |
+| GB@MIN · MIA@LV · WAS@PHI |  | PENDING | — | No other fantasy-relevant GTDs reported; actives ~3:55 ET |
+| DEN@KC | MNF | PENDING | — | Statuses Monday; Mahomes is back from the ACL and off the report |
