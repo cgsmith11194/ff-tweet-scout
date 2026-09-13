@@ -4,58 +4,58 @@
   {
    "game": "TB @ CIN",
    "date": "2026-09-13T17:00Z",
-   "spread": "CIN -3.5",
-   "over_under": 50.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "NO @ DET",
    "date": "2026-09-13T17:00Z",
-   "spread": "DET -7",
-   "over_under": 49.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "NYJ @ TEN",
    "date": "2026-09-13T17:00Z",
-   "spread": "TEN -1.5",
-   "over_under": 38.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "BAL @ IND",
    "date": "2026-09-13T17:00Z",
-   "spread": "BAL -3.5",
-   "over_under": 48.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "ATL @ PIT",
    "date": "2026-09-13T17:00Z",
-   "spread": "PIT -6.5",
-   "over_under": 40.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "CHI @ CAR",
    "date": "2026-09-13T17:00Z",
-   "spread": "CHI -3",
-   "over_under": 47.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "CLE @ JAX",
    "date": "2026-09-13T17:00Z",
-   "spread": "JAX -8.5",
-   "over_under": 40.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "BUF @ HOU",
    "date": "2026-09-13T17:00Z",
-   "spread": "BUF -1.5",
-   "over_under": 44.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "MIA @ LV",
