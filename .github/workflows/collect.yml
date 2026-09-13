@@ -44,13 +44,31 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Determine mode (Sun AM = sunday, Sun midday = inactives)
+      - name: Determine mode (by triggering cron, poke-file override, else clock)
         id: mode
         run: |
-          if [ "$(date -u +%u)" = "7" ]; then
-            if [ "$(date -u +%H)" -ge 15 ]; then MODE=inactives; else MODE=sunday; fi
+          MODE=""
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            # Derive mode from WHICH cron fired, not the clock — a delayed
+            # Sunday-AM run must still collect in sunday mode (bug hit 9/13).
+            case "${{ github.event.schedule }}" in
+              '30 14 * 9-12 0') MODE=sunday ;;
+              '30 15 * 9,10 0'|'45 15 * 9,10 0'|'30 16 * 11,12 0'|'45 16 * 11,12 0') MODE=inactives ;;
+              '23 21 * * 3') MODE=weekly ;;
+            esac
           else
-            MODE=weekly
+            # push poke / manual dispatch: .github/collect-now may name a mode
+            REQ=$(tr -d '[:space:]' < .github/collect-now 2>/dev/null || true)
+            case "$REQ" in
+              sunday|inactives|weekly) MODE=$REQ ;;
+            esac
+          fi
+          if [ -z "$MODE" ]; then
+            if [ "$(date -u +%u)" = "7" ]; then
+              if [ "$(date -u +%H)" -ge 15 ]; then MODE=inactives; else MODE=sunday; fi
+            else
+              MODE=weekly
+            fi
           fi
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           echo "Running in $MODE mode"
