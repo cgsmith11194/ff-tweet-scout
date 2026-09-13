@@ -1,0 +1,681 @@
+{
+ "generated_at": "2026-09-13T15:49:36.751762+00:00",
+ "window": {
+  "since": "2026-09-13",
+  "until": "2026-09-14",
+  "days": 0.292
+ },
+ "counts": {
+  "raw": 2870,
+  "unique": 166,
+  "kept": 80,
+  "kills": {
+   "unparseable": 1,
+   "out_of_window": 2692,
+   "low_score": 41,
+   "retweet": 27,
+   "reply": 3,
+   "pure_link": 2
+  }
+ },
+ "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
+ "rejects": [
+  {
+   "id": "2099125402681618466",
+   "url": "https://x.com/jagibbs_23/status/2099125402681618466",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.6,
+   "likes": 42,
+   "text": "Week 1 Rankings - WR https://t.co/0TIcgkHPMq"
+  },
+  {
+   "id": "2099148344409153891",
+   "url": "https://x.com/jagibbs_23/status/2099148344409153891",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.0,
+   "likes": 15,
+   "text": "Week 1 Rankings - RB https://t.co/fW1qeQhAvD"
+  },
+  {
+   "id": "2099146331038404880",
+   "url": "https://x.com/jagibbs_23/status/2099146331038404880",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.0,
+   "likes": 17,
+   "text": "Week 1 rankings - TE https://t.co/VuzShIeZzu"
+  },
+  {
+   "id": "2099129711498523133",
+   "url": "https://x.com/UnderdogNFL/status/2099129711498523133",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.5,
+   "likes": 527,
+   "text": "Rap: De'Zhaun Stribling will miss \"at least\" 1 month with deltoid sprain in ankle.\n\nSurgery not currently planned but still possible. https://t.co/TV13kvn3Lq"
+  },
+  {
+   "id": "2099142777431056635",
+   "url": "https://x.com/HaydenWinks/status/2099142777431056635",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.1,
+   "likes": 114,
+   "text": "Quiet Week 1 injury reports to know for fantasy:\n+ NO: Kamara, Delp, Estime all out\n+ KC: LT Josh Simmons out vs. Bonitto\n+ ARI: RG and backup RG are out\n+ ATL: Steelers CB1 Porter is out\n+ IND: Ravens DT Madubuike is out\n+ DAL: RB2 Malik Davis goes to IR\n+ GB: Zach (Tom) Bako-Bewele, LG Banks are Q"
+  },
+  {
+   "id": "2099100781592883256",
+   "url": "https://x.com/GuruFantasyWrld/status/2099100781592883256",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.4,
+   "likes": 156,
+   "text": "Good morning to everyone who drafted Trey McBride.\n\nLet\u2019s fuck shit up. https://t.co/LBawsDAUBc"
+  },
+  {
+   "id": "2099147402586316958",
+   "url": "https://x.com/Ihartitz/status/2099147402586316958",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.3,
+   "likes": 19,
+   "text": "Week 1 @betr picks:\n\n-Jordan Mason rushing over in improved MIN run game\n-D'Andre Swift 3+ screens/checkdowns vs. zone-heavy CAR\n-Rico Dowdle rushing over as lead early-down RB + positive game-script vs. weak ATL front-seven\n-Devaughn Vele 4+ catches vs. banged-up DET secondary https://t.co/oB5Qfjhdhb"
+  },
+  {
+   "id": "2099147590847582408",
+   "url": "https://x.com/UnderdogNFL/status/2099147590847582408",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.2,
+   "likes": 683,
+   "text": "Schefter: NFL could count time spent on commissioner's exempt list for any potential suspension for Josh Jacobs."
+  },
+  {
+   "id": "2099144383597793474",
+   "url": "https://x.com/HaydenWinks/status/2099144383597793474",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.2,
+   "likes": 39,
+   "text": "I think Yahoo will have the best morning fantasy show in the industry now. Starts an hour earlier. Tons of sit/start Qs to close the show. Matt Harmon &amp; Justin Boone joining the channel for the first hour.\n\nGoing now until kickoff. Go. Go. Go.\nhttps://t.co/50UVyysAod"
+  },
+  {
+   "id": "2099134755291734295",
+   "url": "https://x.com/HaydenWinks/status/2099134755291734295",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.3,
+   "likes": 65,
+   "text": "A De'Von Achane chart\n\nI have him as RB5: https://t.co/Q6NzfJPKxH https://t.co/Zr8xsIRQtg"
+  },
+  {
+   "id": "2099128438741410031",
+   "url": "https://x.com/HaydenWinks/status/2099128438741410031",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.3,
+   "likes": 33,
+   "text": "Here is the advanced stats in games without Brock Bowers last year. Michael Mayer was involved underneath, Tre Tucker slight uptick, and Ashton Jeanty's receiving work stayed the same. https://t.co/mhCGpyPHYL"
+  },
+  {
+   "id": "2099145889734353211",
+   "url": "https://x.com/CoopAFiasco/status/2099145889734353211",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.6,
+   "likes": 1,
+   "text": "My guy @jimpemba777 and I are going LIVE on YouTube to answer all of your fantasy football start/sits right after the SXM show ends at 11 AM ET - crush your friends and foes today"
+  },
+  {
+   "id": "2099151119435919515",
+   "url": "https://x.com/YahooFantasy/status/2099151119435919515",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.3,
+   "likes": 162,
+   "text": "Hearing Scott Hanson say \"7 hours of RedZone football starts now\" for the first time this year\nhttps://t.co/6yGne69ipU"
+  },
+  {
+   "id": "2099134851215458730",
+   "url": "https://x.com/ffdataroma/status/2099134851215458730",
+   "handle": "ffdataroma",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.2,
+   "likes": 35,
+   "text": "Week 1: Players that you should FADE\n\n\u2b07\ufe0f\ud83e\uddf5"
+  },
+  {
+   "id": "2099152481833939120",
+   "url": "https://x.com/Ihartitz/status/2099152481833939120",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.2,
+   "likes": 139,
+   "text": "4 late-afternoon games and they all start at the same time??? WELL DONE NFL!"
+  },
+  {
+   "id": "2099157369628319878",
+   "url": "https://x.com/Ihartitz/status/2099157369628319878",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.4,
+   "likes": 365,
+   "text": "Aaron Donald: https://t.co/KPEPluf0kq"
+  },
+  {
+   "id": "2099139942312198414",
+   "url": "https://x.com/HaydenWinks/status/2099139942312198414",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.0,
+   "likes": 76,
+   "text": "I don't agree with every one on here, but here is what the betting markets project for the fantasy FLEX options out there.\n\nWe'll be answering sit/start Qs on YouTube soon. https://t.co/v7zWEzHdgM"
+  },
+  {
+   "id": "2099132098380485108",
+   "url": "https://x.com/jagibbs_23/status/2099132098380485108",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.8,
+   "likes": 36,
+   "text": "My favorite Week 1 streamer at TE:\n\nJuwan Johnson\n\nI have him ranked at TE9 - ahead of Kyle Pitts and Travis Kelce"
+  },
+  {
+   "id": "2099155710240002289",
+   "url": "https://x.com/SmolaDS/status/2099155710240002289",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.6,
+   "likes": 23,
+   "text": "The vibes feel like Malik Nabers is not playing tonight."
+  },
+  {
+   "id": "2099146633762226637",
+   "url": "https://x.com/HaydenWinks/status/2099146633762226637",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.3,
+   "likes": 209,
+   "text": "what can go wrong?"
+  },
+  {
+   "id": "2099152071849136492",
+   "url": "https://x.com/danorlovsky7/status/2099152071849136492",
+   "handle": "danorlovsky7",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.2,
+   "likes": 175,
+   "text": "Bigtime https://t.co/eG0u6l0mRs"
+  },
+  {
+   "id": "2099131986895892588",
+   "url": "https://x.com/jagibbs_23/status/2099131986895892588",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.9,
+   "likes": 26,
+   "text": "If your Fantasy Football team is stacked:\n\nElite FLEX options - Week 1 https://t.co/qcZ7I50J9j"
+  },
+  {
+   "id": "2099146895595606389",
+   "url": "https://x.com/LateRoundQB/status/2099146895595606389",
+   "handle": "LateRoundQB",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.6,
+   "likes": 138,
+   "text": "Hang it in the Louvre https://t.co/K3n5oWvzyq"
+  },
+  {
+   "id": "2099122077793997011",
+   "url": "https://x.com/jagibbs_23/status/2099122077793997011",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.7,
+   "likes": 49,
+   "text": "Flex options I am significantly higher than consensus on in Week 1:\n\nBucky Irving\nTee Higgins\nLadd McConkey\nLuther Burden\nMalik Nabers\nChris Godwin\nJordan Mason\nAaron Jones\nQuentin Johnston\nJayden Reed\nJordan Adison\nJalen Coker"
+  },
+  {
+   "id": "2099102096033288504",
+   "url": "https://x.com/SmolaDS/status/2099102096033288504",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.3,
+   "likes": 37,
+   "text": "Nice boost for Drake London (who needs it!)"
+  },
+  {
+   "id": "2099141298821247431",
+   "url": "https://x.com/SmolaDS/status/2099141298821247431",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 6,
+   "text": "The place to be on Sunday mornings \ud83d\udc47"
+  },
+  {
+   "id": "2099149514128974128",
+   "url": "https://x.com/CoopAFiasco/status/2099149514128974128",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 15,
+   "text": "Any time you can start an injured Cooper Rush, you gotta do it"
+  },
+  {
+   "id": "2099143566652031385",
+   "url": "https://x.com/YahooFantasy/status/2099143566652031385",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 10,
+   "text": "Yahoo Sports' Fantasy Football Live is here \u203c\ufe0f\n\nFrom breaking news to tough roster questions, the FFL crew is here to help fantasy managers optimize their lineups every week of the NFL season \ud83d\udd25\n\nhttps://t.co/qTLfMKH763"
+  },
+  {
+   "id": "2099160162187546738",
+   "url": "https://x.com/Panthers/status/2099160162187546738",
+   "handle": "Panthers",
+   "reason": "low_score(analysis_hype)",
+   "score": 12.3,
+   "likes": 85,
+   "text": "Week 1 Inactives vs. Chicago: Ja'Tavion Sanders out for Bears game\n\nhttps://t.co/SsmXDVPMTs"
+  },
+  {
+   "id": "2099158843250893265",
+   "url": "https://x.com/BuffaloBills/status/2099158843250893265",
+   "handle": "BuffaloBills",
+   "reason": "low_score(analysis_hype)",
+   "score": 12.2,
+   "likes": 435,
+   "text": "Today's inactives. #BUFvsHOU https://t.co/yxPI1OLpgf"
+  },
+  {
+   "id": "2099159596346576953",
+   "url": "https://x.com/jeffzrebiec/status/2099159596346576953",
+   "handle": "jeffzrebiec",
+   "reason": "low_score(analysis_hype)",
+   "score": 6.6,
+   "likes": 197,
+   "text": "Ravens inactives\nQB Joe Fagnano (emergency No. 3)\nWR Devontez Walker (groin)\nWR Elijah Sarratt \nOL Emery Jones Jr. \nDL Nnamdi Madubuike (neck)\nILB Teddye Buchanan (knee)\nCB Chandler Rivers"
+  },
+  {
+   "id": "2099159176798674957",
+   "url": "https://x.com/ChicagoBears/status/2099159176798674957",
+   "handle": "ChicagoBears",
+   "reason": "low_score(analysis_hype)",
+   "score": 5.4,
+   "likes": 570,
+   "text": "Inactives for #CHIvsCAR: https://t.co/ccPqYxvIeh"
+  },
+  {
+   "id": "2099158719531540549",
+   "url": "https://x.com/Lions/status/2099158719531540549",
+   "handle": "Lions",
+   "reason": "low_score(analysis_hype)",
+   "score": 4.2,
+   "likes": 299,
+   "text": "#NOvsDET inactives https://t.co/GYpK7giflH"
+  },
+  {
+   "id": "2099132830215176465",
+   "url": "https://x.com/Steelersdepot/status/2099132830215176465",
+   "handle": "Steelersdepot",
+   "reason": "low_score(analysis_hype)",
+   "score": 4.1,
+   "likes": 81,
+   "text": "Report: Some Within Steelers Believe Joey Porter Jr. Will Play Today #Steelers #NFL #Pittsburgh https://t.co/ndHsJE2CHb"
+  },
+  {
+   "id": "2099160600555180075",
+   "url": "https://x.com/steelers/status/2099160600555180075",
+   "handle": "steelers",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.8,
+   "likes": 212,
+   "text": "Inactives for #ATLvsPIT \u2935\ufe0f @UPMC \n\n\ud83d\udcdd: https://t.co/kMFvtwAhs4 https://t.co/Q91FMtuW0Q"
+  },
+  {
+   "id": "2099158757519278414",
+   "url": "https://x.com/ttwentyman/status/2099158757519278414",
+   "handle": "ttwentyman",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.7,
+   "likes": 77,
+   "text": "Detroit Lions inactives:\nDB Christian Izien\nCB Ennis Rakestraw Jr.\nLB Jimmy Rolder\nDL Mekhi Wingo\nEdge Ahmed Hassanein"
+  },
+  {
+   "id": "2099159492503990418",
+   "url": "https://x.com/AtlantaFalcons/status/2099159492503990418",
+   "handle": "AtlantaFalcons",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.3,
+   "likes": 153,
+   "text": "Full list of today's inactives\n\nhttps://t.co/9c9OpQ6Ef7 https://t.co/WbZVCGmmWf"
+  },
+  {
+   "id": "2099158714292814105",
+   "url": "https://x.com/nyjets/status/2099158714292814105",
+   "handle": "nyjets",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.0,
+   "likes": 128,
+   "text": "Inactives for #NYJvsTEN"
+  },
+  {
+   "id": "2099160412868448487",
+   "url": "https://x.com/Saints/status/2099160412868448487",
+   "handle": "Saints",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.9,
+   "likes": 60,
+   "text": "Saints Week 1 Inactives:\n\nTE Oscar Delp\nRB Alvin Kamara\nOL Mason Murphy\nEDGE Cam Jordan\nDL John Ridgeway III\nDL Khristian Boyd\nQB Zach Wilson (designated third QB)\n\n#Saints | @LaMachinery \n\nhttps://t.co/XBp56H9UeH"
+  },
+  {
+   "id": "2099158669191471241",
+   "url": "https://x.com/HoustonTexans/status/2099158669191471241",
+   "handle": "HoustonTexans",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.9,
+   "likes": 123,
+   "text": "Our inactives for #BUFvsHOU \u2b07\ufe0f https://t.co/PExgSUgzn3"
+  },
+  {
+   "id": "2099158673129959718",
+   "url": "https://x.com/Jaguars/status/2099158673129959718",
+   "handle": "Jaguars",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.8,
+   "likes": 118,
+   "text": "#CLEvsJAX Inactives https://t.co/E6vz7yDq2C"
+  },
+  {
+   "id": "2099131156247499059",
+   "url": "https://x.com/CoopAFiasco/status/2099131156247499059",
+   "handle": "CoopAFiasco",
+   "reason": "pure_link",
+   "score": null,
+   "likes": 3,
+   "text": "https://t.co/YSdI0L8HRm"
+  },
+  {
+   "id": "2099159171040174579",
+   "url": "https://x.com/HaydenWinks/status/2099159171040174579",
+   "handle": "HaydenWinks",
+   "reason": "pure_link",
+   "score": null,
+   "likes": 2,
+   "text": "Answering Qs now. \nhttps://t.co/50UVyysAod"
+  },
+  {
+   "id": "2099134855929897291",
+   "url": "https://x.com/ffdataroma/status/2099134855929897291",
+   "handle": "ffdataroma",
+   "reason": "reply",
+   "score": null,
+   "likes": 10,
+   "text": "Tucker Kraft\n\nMatchup concerns aside, it\u2019s hard to not also be worried about Kraft\u2019s potential role/snap count in his 1st game coming off the injury. There\u2019s been talks about a snap count, and there\u2019s a very real world where he\u2019s a step slower early in the year.\n\nOn top of this, Kraft does have a really tough matchup in this one. The Brian Flores-led Vikings defense was 2nd in the NFL in EPA/DB, and they're generally a really tough matchup for opposing offenses.\n\nIn terms of coverages, Kraft gets absolutely nuked against both two-high (MIN led NFL in 2 high %) and zone (MIN ran at 7th highest %). Against 2-high looks, he saw his TPRR dip 36% (0.22\u21920.14) and his YPRR 39% (2.57\u21921.56). Similar story for zone, where he sees dips north of 30% in both TPRR (down to 0.15) and YPRR (down to 1.75).\n\nThe Vikings were also tough against inline/slot aligned players last year (where Kraft ran over 80% of his routes), as they were top 10 in YPG allowed to both, and top 5 in EPA/DB. \n\nAnd when GB is pressured (MIN was 8th in pressure rate, Flores is known for getting pressure in creative ways), like with Watson, Kraft\u2019s efficiency plummets. His TPRR dropped down to 0.15, and his YPRR got cut by more than 50% (2.57\u21921.20) per @FantasyPtsData.\n\nGiven all this and the injury, it feels like there\u2019s a ton working against Kraft in Week 1. I like the under on 46.5 receiving yards, and avoiding in DFS formats."
+  },
+  {
+   "id": "2099134858064736619",
+   "url": "https://x.com/ffdataroma/status/2099134858064736619",
+   "handle": "ffdataroma",
+   "reason": "reply",
+   "score": null,
+   "likes": 0,
+   "text": "If you want to read through the rest of the \"fades\" for Week 1 (guys who I expect to underperform expectations), click here:\nhttps://t.co/4V1T7Mf31a\n\nIf you want these articles consistently sent to your email, subscribe to my Substack here: https://t.co/uynfPbFQIj"
+  },
+  {
+   "id": "2099152125855252579",
+   "url": "https://x.com/HaydenWinks/status/2099152125855252579",
+   "handle": "HaydenWinks",
+   "reason": "reply",
+   "score": null,
+   "likes": 4,
+   "text": "90 minutes of pure sit/start at 11:30EST.\nhttps://t.co/NgqAI6K7fS"
+  },
+  {
+   "id": "2099159548611137959",
+   "url": "https://x.com/LateRoundQB/status/2099159548611137959",
+   "handle": "LateRoundQB",
+   "reason": "retweet",
+   "score": null,
+   "likes": 105,
+   "text": "RT @Sherman_FFB: I believe in the future of Best Ball\n\nNot Best Ball as a funnel to gambling \n\nNot Best Ball as a funnel to prediction mark\u2026"
+  },
+  {
+   "id": "2099162328570675395",
+   "url": "https://x.com/SmolaDS/status/2099162328570675395",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 3,
+   "text": "RT @DraftSharks: ACTIVE:\n\nLeQuint Allen\nRome Odunze\n\nINACTIVE:\n\nAlvin Kamara\nSean Tucker\nTy Johnson\nJalen McMillan\nSkyler Bell\nTanner Koziol"
+  },
+  {
+   "id": "2099139072325267464",
+   "url": "https://x.com/SmolaDS/status/2099139072325267464",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 1,
+   "text": "RT @DraftSharks: Most and fewest projected plays this week.\n\nMore in Week 1 Matchups That Matter: https://t.co/IVlLLKcNoV https://t.co/Ojs7\u2026"
+  },
+  {
+   "id": "2099155630334284168",
+   "url": "https://x.com/ffdataroma/status/2099155630334284168",
+   "handle": "ffdataroma",
+   "reason": "retweet",
+   "score": null,
+   "likes": 160,
+   "text": "RT @ffdataroma: Week 1: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5"
+  },
+  {
+   "id": "2099132594113630320",
+   "url": "https://x.com/CoopAFiasco/status/2099132594113630320",
+   "handle": "CoopAFiasco",
+   "reason": "retweet",
+   "score": null,
+   "likes": 11,
+   "text": "RT @rotobuzzguy: Happy #NFL Week 1!!\n\nAre we starting Rome Odunze or Malik Nabers in #fantasyfootball today?\n\nFind out on @FantasyAlarm Gam\u2026"
+  },
+  {
+   "id": "2099158176876671477",
+   "url": "https://x.com/danorlovsky7/status/2099158176876671477",
+   "handle": "danorlovsky7",
+   "reason": "retweet",
+   "score": null,
+   "likes": 6,
+   "text": "RT @sikhano: @danorlovsky7 @AdamSchefter @TomPelissero you called it on get up, with his statement after the game."
+  },
+  {
+   "id": "2099124890452529543",
+   "url": "https://x.com/HaydenWinks/status/2099124890452529543",
+   "handle": "HaydenWinks",
+   "reason": "retweet",
+   "score": null,
+   "likes": 1887,
+   "text": "RT @RapSheet: #Saints RB Alvin Kamara, who is questionable with a knee injury because of an MCL sprain, is not expected to play today again\u2026"
+  },
+  {
+   "id": "2099135798398288073",
+   "url": "https://x.com/FantasyPtsData/status/2099135798398288073",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 5,
+   "text": "RT @mcshyguy8: NYJ/TEN - I don't believe in Dabs against Aaron Glenn. Cover 1 and Blitzes are a weakness\n\nPlus in 2025 Cam was 4th worst in\u2026"
+  },
+  {
+   "id": "2099135756279181563",
+   "url": "https://x.com/FantasyPtsData/status/2099135756279181563",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 4,
+   "text": "RT @BigRed_Ed: Caleb Williams' matchup tomorrow against CAR had me thinking. CAR had the highest disguised coverage rate in 2025, so how do\u2026"
+  },
+  {
+   "id": "2099135708480811023",
+   "url": "https://x.com/FantasyPtsData/status/2099135708480811023",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 75,
+   "text": "RT @BlackMambaDFS: Saquon Barkley looks like he could come out and dominate Washington \ud83e\udd85\ud83d\udcc8\n\nSaquon has owned the Commanders since 2021, aver\u2026"
+  },
+  {
+   "id": "2099135673135472835",
+   "url": "https://x.com/FantasyPtsData/status/2099135673135472835",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 9,
+   "text": "RT @FantasyFFData: NFL Week 1 \"Data Dump\" \n\ndata via @FantasyPtsData \n\n+ Since 2023, Jared Goff has played in 20 home games where Detroit w\u2026"
+  },
+  {
+   "id": "2099157084424077742",
+   "url": "https://x.com/AdamSchefter/status/2099157084424077742",
+   "handle": "AdamSchefter",
+   "reason": "retweet",
+   "score": null,
+   "likes": 1839,
+   "text": "RT @FieldYates: The two biggest trades of the offseason were Myles Garrett to the Rams and AJ Brown to the Patriots.\n\nBoth players have bee\u2026"
+  },
+  {
+   "id": "2099141876972462525",
+   "url": "https://x.com/AdamSchefter/status/2099141876972462525",
+   "handle": "AdamSchefter",
+   "reason": "retweet",
+   "score": null,
+   "likes": 2595,
+   "text": "RT @NFL: .@Lions LB Derrick Barnes showed up in matching Spider-Man suits with his son \ud83e\udd79 https://t.co/7LvoddWMj5"
+  },
+  {
+   "id": "2099129492065198292",
+   "url": "https://x.com/AdamSchefter/status/2099129492065198292",
+   "handle": "AdamSchefter",
+   "reason": "retweet",
+   "score": null,
+   "likes": 2404,
+   "text": "RT @RapSheet: #49ers rookie WR De'Zhaun Stribling, who left the opener early with an injury, is out at least a month with a deltoid sprain\u2026"
+  },
+  {
+   "id": "2099152987507892231",
+   "url": "https://x.com/RapSheet/status/2099152987507892231",
+   "handle": "RapSheet",
+   "reason": "retweet",
+   "score": null,
+   "likes": 149,
+   "text": "RT @StaceyDales: Chase Young, coming off a career best 10-sack season, joined us pregame!\n\n\u2705Freedom in the scheme\n\u2705Keys hunting Jared Goff\u2026"
+  },
+  {
+   "id": "2099146146539258107",
+   "url": "https://x.com/RapSheet/status/2099146146539258107",
+   "handle": "RapSheet",
+   "reason": "retweet",
+   "score": null,
+   "likes": 238,
+   "text": "RT @MikeGarafolo: From @NFLGameDay Morning: #Colts QB Daniel Jones returns to action nine months after tearing his Achilles while WR Alec P\u2026"
+  },
+  {
+   "id": "2099140686574665757",
+   "url": "https://x.com/RapSheet/status/2099140686574665757",
+   "handle": "RapSheet",
+   "reason": "retweet",
+   "score": null,
+   "likes": 6483,
+   "text": "RT @AdamSchefter: Cooper Rush will be Atlanta\u2019s starting quarterback today, undrafted free agent Jack Strand will be the backup, and with T\u2026"
+  },
+  {
+   "id": "2099138567658201156",
+   "url": "https://x.com/MikeGarafolo/status/2099138567658201156",
+   "handle": "MikeGarafolo",
+   "reason": "retweet",
+   "score": null,
+   "likes": 50,
+   "text": "RT @ESPNPR: NFL Network reporters are on-location with the latest news as the season\u2019s first Sunday begins \ud83c\udfc8\n\n\ud83d\udccd Detroit \u2014 @StaceyDales \n\ud83d\udccd I\u2026"
+  },
+  {
+   "id": "2099160416332980410",
+   "url": "https://x.com/JFowlerESPN/status/2099160416332980410",
+   "handle": "JFowlerESPN",
+   "reason": "retweet",
+   "score": null,
+   "likes": 4659,
+   "text": "RT @AdamSchefter: Rams standout Myles Garrett will undergo arthroscopic surgery on his knee and will be placed on injured reserve sidelinin\u2026"
+  },
+  {
+   "id": "2099104315612737922",
+   "url": "https://x.com/JFowlerESPN/status/2099104315612737922",
+   "handle": "JFowlerESPN",
+   "reason": "retweet",
+   "score": null,
+   "likes": 6559,
+   "text": "RT @AdamSchefter: Steelers CB Joey Porter Jr., who has been embroiled in a contract dispute all summer, is unlikely to play Sunday against\u2026"
+  },
+  {
+   "id": "2099145661497167876",
+   "url": "https://x.com/FieldYates/status/2099145661497167876",
+   "handle": "FieldYates",
+   "reason": "retweet",
+   "score": null,
+   "likes": 3392,
+   "text": "RT @AdamSchefter: After undergoing a meniscus trim Tuesday, the Raiders believe there\u2019s a realistic chance Brock Bowers will miss only one\u2026"
+  },
+  {
+   "id": "2099155949474685030",
+   "url": "https://x.com/CameronWolfe/status/2099155949474685030",
+   "handle": "CameronWolfe",
+   "reason": "retweet",
+   "score": null,
+   "likes": 4596,
+   "text": "RT @TomPelissero: Rams star Myles Garrett will undergo arthroscopic surgery on his ailing knee and is headed to injured reserve, sources te\u2026"
+  },
+  {
+   "id": "2099132900755005669",
+   "url": "https://x.com/CameronWolfe/status/2099132900755005669",
+   "handle": "CameronWolfe",
+   "reason": "retweet",
+   "score": null,
+   "likes": 116,
+   "text": "RT @CameronWolfe: Pressure is high for Bills &amp; new HC Joe Brady kicking off vs Texans team that\u2019s dominated them.\n\nCool insight from player\u2026"
+  },
+  {
+   "id": "2099132880970465396",
+   "url": "https://x.com/CameronWolfe/status/2099132880970465396",
+   "handle": "CameronWolfe",
+   "reason": "retweet",
+   "score": null,
+   "likes": 187,
+   "text": "RT @CameronWolfe: It\u2019s prove it season for Bryce Young to secure a new contract in 2027. Panthers believe in him but Bryce needs more consi\u2026"
+  },
+  {
+   "id": "2099132871315243491",
+   "url": "https://x.com/CameronWolfe/status/2099132871315243491",
+   "handle": "CameronWolfe",
+   "reason": "retweet",
+   "score": null,
+   "likes": 264,
+   "text": "RT @CameronWolfe: Sunday is Travis Hunter Bowl \u2014 return from injury vs. Browns who traded away right to draft him\n\nI\u2019m told Jags would \u201c100\u2026"
+  },
+  {
+   "id": "2099132857805312265",
+   "url": "https://x.com/CameronWolfe/status/2099132857805312265",
+   "handle": "CameronWolfe",
+   "reason": "retweet",
+   "score": null,
+   "likes": 687,
+   "text": "RT @CameronWolfe: It\u2019s \u201cunlikely\u201d Jaguars &amp; WR Parker Washington agree to a contract extension by start of season, per source.\n\nI\u2019m told Ja\u2026"
+  },
+  {
+   "id": "2099100501769924867",
+   "url": "https://x.com/CameronWolfe/status/2099100501769924867",
+   "handle": "CameronWolfe",
+   "reason": "retweet",
+   "score": null,
+   "likes": 6561,
+   "text": "RT @AdamSchefter: Steelers CB Joey Porter Jr., who has been embroiled in a contract dispute all summer, is unlikely to play Sunday against\u2026"
+  }
+ ]
+}
