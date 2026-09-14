@@ -1,0 +1,34 @@
+name: usage-report
+# Read-only Apify usage snapshot -> data/diag/. Costs nothing to run.
+# Fire by pushing .github/usage-now (the sandbox can't reach api.apify.com).
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/usage-now']
+
+permissions:
+  contents: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch usage
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          mkdir -p data/diag
+          TS=$(date -u +%Y%m%dT%H%M)
+          curl -sf "https://api.apify.com/v2/users/me/usage/monthly?token=$APIFY_TOKEN" > "data/diag/usage-monthly-$TS.json" || echo '{"error":"monthly fetch failed"}' > "data/diag/usage-monthly-$TS.json"
+          curl -sf "https://api.apify.com/v2/users/me/limits?token=$APIFY_TOKEN" > "data/diag/usage-limits-$TS.json" || echo '{"error":"limits fetch failed"}' > "data/diag/usage-limits-$TS.json"
+          curl -sf "https://api.apify.com/v2/actor-runs?token=$APIFY_TOKEN&limit=60&desc=true" > "data/diag/usage-runs-$TS.json" || echo '{"error":"runs fetch failed"}' > "data/diag/usage-runs-$TS.json"
+      - name: Commit
+        run: |
+          git config user.name "ff-scout-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/diag
+          git commit -m "apify usage report [skip ci]" || echo "nothing new"
+          git push
