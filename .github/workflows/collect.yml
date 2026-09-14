@@ -73,7 +73,23 @@ jobs:
           echo "mode=$MODE" >> "$GITHUB_OUTPUT"
           echo "Running in $MODE mode"
 
+      - name: Freshness gate (delayed crons re-ran everything on 9/13 — $4.25 of dupes)
+        id: fresh
+        run: |
+          MODE="${{ steps.mode.outputs.mode }}"
+          FILE=data/latest.json; [ "$MODE" = "inactives" ] && FILE=data/inactives-latest.json
+          SKIP=false
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "$FILE" ]; then
+            AGE=$(python3 -c "import json,sys;from datetime import datetime,timezone;g=json.load(open(sys.argv[1])).get('generated_at');print(int((datetime.now(timezone.utc)-datetime.fromisoformat(g)).total_seconds()))" "$FILE" 2>/dev/null || echo 999999)
+            if [ "$AGE" -lt 3600 ]; then
+              SKIP=true
+              echo "Same-mode data is only ${AGE}s old — skipping duplicate scheduled run."
+            fi
+          fi
+          echo "skip=$SKIP" >> "$GITHUB_OUTPUT"
+
       - name: Collect + score tweets
+        if: steps.fresh.outputs.skip != 'true'
         env:
           APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
           MODE: ${{ steps.mode.outputs.mode }}

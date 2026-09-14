@@ -538,9 +538,14 @@ def main():
             handles = handles + acc.get("news", [])
     print(f"Run 1: timeline scrape of {len(handles)} handles "
           f"(apidojo twitterHandles; window enforced post-hoc)")
+    timeline_cap = CONFIG["account_query"]["max_items"]
+    if mode == "inactives":
+        timeline_cap = (
+            CONFIG.get("sunday", {}).get("inactives", {}).get("timeline_max_items", timeline_cap)
+        )
     raw = [
         (it, "accounts")
-        for it in run_actor_handles(token, handles, CONFIG["account_query"]["max_items"])
+        for it in run_actor_handles(token, handles, timeline_cap)
     ]
     print(f"  got {len(raw)} items")
 
