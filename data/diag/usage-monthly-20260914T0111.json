@@ -1,0 +1,279 @@
+{
+  "data": {
+    "usageCycle": {
+      "startAt": "2026-09-03T00:00:00.000Z",
+      "endAt": "2026-10-02T23:59:59.999Z"
+    },
+    "monthlyServiceUsage": {
+      "DATASET_READS": {
+        "quantity": 26460,
+        "baseAmountUsd": 0.010584,
+        "baseUnitPriceUsd": 4e-7,
+        "amountAfterVolumeDiscountUsd": 0.010584,
+        "priceTiers": [
+          {
+            "quantityAbove": 0,
+            "discountPercent": 0,
+            "tierQuantity": 26460,
+            "unitPriceUsd": 4e-7,
+            "priceUsd": 0.010584
+          }
+        ]
+      },
+      "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+        "quantity": 3.548259894295785,
+        "baseAmountUsd": 0.003548259894295785,
+        "baseUnitPriceUsd": 0.001,
+        "amountAfterVolumeDiscountUsd": 0.003548259894295785,
+        "priceTiers": [
+          {
+            "quantityAbove": 0,
+            "discountPercent": 0,
+            "tierQuantity": 3.548259894295785,
+            "unitPriceUsd": 0.001,
+            "priceUsd": 0.003548259894295785
+          }
+        ]
+      },
+      "DATA_TRANSFER_EXTERNAL_GBYTES": {
+        "quantity": 0.020018880255520344,
+        "baseAmountUsd": 0.004003776051104069,
+        "baseUnitPriceUsd": 0.19999999999999998,
+        "amountAfterVolumeDiscountUsd": 0.004003776051104069,
+        "priceTiers": [
+          {
+            "quantityAbove": 0,
+            "discountPercent": 0,
+            "tierQuantity": 0.020018880255520344,
+            "unitPriceUsd": 0.19999999999999998,
+            "priceUsd": 0.004003776051104069
+          }
+        ]
+      },
+      "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+        "quantity": 0.014883267359201667,
+        "baseAmountUsd": 0.000014883267359201669,
+        "baseUnitPriceUsd": 0.001,
+        "amountAfterVolumeDiscountUsd": 0.000014883267359201667,
+        "priceTiers": [
+          {
+            "quantityAbove": 0,
+            "discountPercent": 0,
+            "tierQuantity": 0.014883267359201667,
+            "unitPriceUsd": 0.001,
+            "priceUsd": 0.000014883267359201667
+          }
+        ]
+      },
+      "PAID_ACTORS_PER_EVENT": {
+        "quantity": 10.534620000000002,
+        "baseAmountUsd": 10.534620000000002,
+        "baseUnitPriceUsd": 1,
+        "amountAfterVolumeDiscountUsd": 10.534620000000002,
+        "priceTiers": [
+          {
+            "quantityAbove": 0,
+            "discountPercent": 0,
+            "tierQuantity": 10.534620000000002,
+            "unitPriceUsd": 1,
+            "priceUsd": 10.534620000000002
+          }
+        ]
+      }
+    },
+    "dailyServiceUsages": [
+      {
+        "date": "2026-09-03T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.24426056739192775,
+            "baseAmountUsd": 0.00024426056739192776
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0009211686513644446,
+            "baseAmountUsd": 9.211686513644446e-7
+          }
+        },
+        "totalUsageCreditsUsd": 0.0002451817360432922
+      },
+      {
+        "date": "2026-09-04T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.2676149178813611,
+            "baseAmountUsd": 0.0002676149178813611
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0010092438399777778,
+            "baseAmountUsd": 0.0000010092438399777779
+          }
+        },
+        "totalUsageCreditsUsd": 0.00026862416172133887
+      },
+      {
+        "date": "2026-09-05T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.24852993422700972,
+            "baseAmountUsd": 0.0002485299342270097
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0009372695182855557,
+            "baseAmountUsd": 9.372695182855556e-7
+          }
+        },
+        "totalUsageCreditsUsd": 0.0002494672037452953
+      },
+      {
+        "date": "2026-09-06T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.2625342958455589,
+            "baseAmountUsd": 0.00026253429584555886
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0010236359124711112,
+            "baseAmountUsd": 0.0000010236359124711113
+          },
+          "PAID_ACTORS_PER_EVENT": {
+            "quantity": 0.023320000000000004,
+            "baseAmountUsd": 0.023320000000000004
+          },
+          "DATA_TRANSFER_EXTERNAL_GBYTES": {
+            "quantity": 0.00011012423783540726,
+            "baseAmountUsd": 0.00002202484756708145
+          },
+          "DATASET_READS": {
+            "quantity": 106,
+            "baseAmountUsd": 0.0000424
+          }
+        },
+        "totalUsageCreditsUsd": 0.023647982779325116
+      },
+      {
+        "date": "2026-09-07T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.25074424743777246,
+            "baseAmountUsd": 0.0002507442474377725
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0010609195475183332,
+            "baseAmountUsd": 0.0000010609195475183333
+          }
+        },
+        "totalUsageCreditsUsd": 0.0002518051669852908
+      },
+      {
+        "date": "2026-09-08T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.26296916646323504,
+            "baseAmountUsd": 0.00026296916646323506
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0011126441860433336,
+            "baseAmountUsd": 0.0000011126441860433337
+          }
+        },
+        "totalUsageCreditsUsd": 0.0002640818106492784
+      },
+      {
+        "date": "2026-09-09T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.30420808222102674,
+            "baseAmountUsd": 0.00030420808222102674
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.001493930307494722,
+            "baseAmountUsd": 0.000001493930307494722
+          },
+          "DATA_TRANSFER_EXTERNAL_GBYTES": {
+            "quantity": 0.006505152210593224,
+            "baseAmountUsd": 0.0013010304421186448
+          },
+          "PAID_ACTORS_PER_EVENT": {
+            "quantity": 3.1633,
+            "baseAmountUsd": 3.1633
+          },
+          "DATASET_READS": {
+            "quantity": 7984,
+            "baseAmountUsd": 0.0031936
+          }
+        },
+        "totalUsageCreditsUsd": 3.1681003324546473
+      },
+      {
+        "date": "2026-09-10T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.4089126442670147,
+            "baseAmountUsd": 0.0004089126442670147
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0018205100177161116,
+            "baseAmountUsd": 0.0000018205100177161115
+          }
+        },
+        "totalUsageCreditsUsd": 0.0004107331542847308
+      },
+      {
+        "date": "2026-09-11T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.39248767598154033,
+            "baseAmountUsd": 0.00039248767598154034
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0017473848167138886,
+            "baseAmountUsd": 0.0000017473848167138887
+          }
+        },
+        "totalUsageCreditsUsd": 0.00039423506079825423
+      },
+      {
+        "date": "2026-09-12T00:00:00.000Z",
+        "serviceUsage": {
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0018023965280116669,
+            "baseAmountUsd": 0.000001802396528011667
+          },
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.4048440948496158,
+            "baseAmountUsd": 0.0004048440948496158
+          }
+        },
+        "totalUsageCreditsUsd": 0.0004066464913776275
+      },
+      {
+        "date": "2026-09-13T00:00:00.000Z",
+        "serviceUsage": {
+          "DATASET_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.5011542677297222,
+            "baseAmountUsd": 0.0005011542677297221
+          },
+          "KEY_VALUE_STORE_TIMED_STORAGE_GBYTE_HOURS": {
+            "quantity": 0.0019541640336047223,
+            "baseAmountUsd": 0.0000019541640336047224
+          },
+          "DATA_TRANSFER_EXTERNAL_GBYTES": {
+            "quantity": 0.013403603807091713,
+            "baseAmountUsd": 0.0026807207614183426
+          },
+          "PAID_ACTORS_PER_EVENT": {
+            "quantity": 7.348000000000002,
+            "baseAmountUsd": 7.348000000000002
+          },
+          "DATASET_READS": {
+            "quantity": 18370,
+            "baseAmountUsd": 0.0073479999999999995
+          }
+        },
+        "totalUsageCreditsUsd": 7.358531829193184
+      }
+    ],
+    "totalUsageCreditsUsdBeforeVolumeDiscount": 10.552770919212762,
+    "totalUsageCreditsUsdAfterVolumeDiscount": 10.552770919212762
+  }
+}
