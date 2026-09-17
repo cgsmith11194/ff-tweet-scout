@@ -2,10 +2,11 @@ name: weekly-collect
 
 on:
   schedule:
-    # Wed 21:23 UTC = 2:23pm PDT / 1:23pm PST. Off-hour minute dodges the :00
-    # scheduled-workflow stampede (runs at '0 22' started ~50min late on 7/29 and
-    # 8/5); even a worst-case delay lands well before the Wednesday digest session.
-    - cron: '23 21 * * 3'
+    # Wed 19:23 UTC = 12:23pm PDT / 11:23am PST. Moved from 21:23 on 9/17: GH ran
+    # the 9/16 collection 2h20m late (committed 23:43), so the 23:00 UTC digest
+    # session raced it and built against stale data. 19:23 leaves ~3.5h of
+    # delay headroom before the digest fires.
+    - cron: '23 19 * * 3'
     # In-season Sundays (Sep–Dec) 14:30 UTC = 7:30am PDT / 6:30am PST —
     # news-mode collection (Thu→Sun window) for the 8:30am PT Sunday Brief.
     - cron: '30 14 * 9-12 0'
