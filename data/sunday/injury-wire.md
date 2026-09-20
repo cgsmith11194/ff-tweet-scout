@@ -17,20 +17,20 @@
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
-| Alvin Kamara | RB · NO | OUT | Knee (MCL) | Inactive; full participant late in the week but not ready |
-| Brock Bowers | TE · LV | OUT | Knee (meniscus) | Ruled out; real chance he returns Week 2 — Mayer inherits |
-| A.J. Brown | WR · NE | OUT | Ankle | IR — out about six weeks; Kyle Williams is the beneficiary |
-| Tua Tagovailoa | QB · ATL | OUT | Oblique | Inactive along with Penix; Rush starts, Zaccheaus is emergency QB and RB3 |
-| Josh Jacobs | RB · GB | OUT | — | Commissioner Exempt list; not with the team (4:25) |
-| Emeka Egbuka | WR · TB | IN | — | Not among Tampa's inactives — active after a questionable week |
-| Rome Odunze | WR · CHI | IN | Calf | Officially active |
-| Alec Pierce | WR · IND | IN | Heel | Plays but not a full go — roughly 20-30 plays with in-game spells |
-| Cooper Rush | QB · ATL | IN | Back spasms | Active; felt better Sunday morning |
-| Jalen McMillan | WR · TB | OUT | Knee | Inactive |
-| Sean Tucker | RB · TB | OUT | Hamstring | Out; goal-line work consolidates behind Irving and Gainwell |
-| Tim Patrick | WR · TEN | OUT | Groin | Ruled out Friday |
-| Ty Johnson | RB · BUF | OUT | Hamstring | Inactive; small receptions bump to James Cook |
-| Jeremiyah Love | RB · ARI | EXP IN | Ankle sprain | Expected to play per Rapoport — locks at ~3:55 ET actives |
-| Malik Nabers | WR · NYG | PENDING | Knee | True game-time decision, "murky at best" — SNF actives ~6:50 ET |
-| GB@MIN · MIA@LV · WAS@PHI |  | PENDING | — | No other fantasy-relevant GTDs reported; actives ~3:55 ET |
-| DEN@KC | MNF | PENDING | — | Statuses Monday; Mahomes is back from the ACL and off the report |
+| Zay Flowers | WR · BAL | OUT | Hamstring | Downgraded Saturday; the room behind him is Bateman-Walker-Wester |
+| Nico Collins | WR · HOU | OUT | Hamstring | Ruled out Friday |
+| Joe Burrow | QB · CIN | IN | Back | Officially active with no limitations — "totally good," per Burrow himself |
+| Tua Tagovailoa | QB · ATL | OUT | Oblique | Inactive again; Rush starts vs CAR — Penix is out but nearing a return |
+| Chris Olave | WR · NO | IN | Hamstring | Officially active |
+| Alvin Kamara | RB · NO | IN | Knee | Off the report entirely — season debut |
+| Jalen McMillan | WR · TB | IN | Knee | Active, but not a full-time role yet |
+| Kyler Murray | QB · ARI | OUT | Concussion | Ruled out (4:25) |
+| Chig Okonkwo | TE · TEN | OUT | Hamstring | Ruled out |
+| Jauan Jennings | WR · SF | OUT | Personal | Ruled out (4:25) |
+| Bears, entire roster | CHI | IN | — | Zero designations — first fully clean Bears report since Week 7, 2022 |
+| Ladd McConkey | WR · LAC | EXP IN | Ribs | Trending the right way, flak jacket if he goes — locks ~2:35 ET actives |
+| RJ Harvey | RB · DEN | EXP OUT | Hamstring | Unlikely per Schefter — locks ~2:35 ET actives |
+| Brock Bowers | TE · LV | EXP OUT | Knee | Doubtful, expected back Week 3 — locks ~2:35 ET |
+| Kaelon Black | RB · SF | EXP IN | Groin | Expected to play — locks ~2:55 ET |
+| Michael Pittman Jr. | WR · IND | PENDING | Foot | Questionable for SNF — actives ~6:50 ET |
+| Puka Nacua | WR · LAR | EXP OUT | Hip | Trending the "wrong way" per Schefter; true game-time call Monday — Whittington also doubtful |
