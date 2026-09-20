@@ -1,0 +1,284 @@
+{
+ "generated_at": "2026-09-20T15:42:48.281170+00:00",
+ "window": {
+  "since": "2026-09-20",
+  "until": "2026-09-21",
+  "days": 0.292
+ },
+ "counts": {
+  "raw": 570,
+  "unique": 62,
+  "kept": 33,
+  "kills": {
+   "unparseable": 1,
+   "out_of_window": 505,
+   "low_score": 23,
+   "pure_link": 1,
+   "retweet": 5
+  }
+ },
+ "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
+ "rejects": [
+  {
+   "id": "2101631056436768978",
+   "url": "https://x.com/UnderdogNFL/status/2101631056436768978",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.9,
+   "likes": 242,
+   "text": "Schefter: RJ Harvey (hamstring) unlikely to play Week 2."
+  },
+  {
+   "id": "2101695963102351647",
+   "url": "https://x.com/UnderdogNFL/status/2101695963102351647",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.8,
+   "likes": 38,
+   "text": "Jalen McMillan (knee) active for Week 2."
+  },
+  {
+   "id": "2101695472700182959",
+   "url": "https://x.com/UnderdogNFL/status/2101695472700182959",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.8,
+   "likes": 112,
+   "text": "Joe Burrow (back) officially active for Week 2."
+  },
+  {
+   "id": "2101633886446870969",
+   "url": "https://x.com/UnderdogNFL/status/2101633886446870969",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.7,
+   "likes": 283,
+   "text": "Rap: Michael Penix Jr. (knee) could make season debut on Thursday Night Football in Week 3."
+  },
+  {
+   "id": "2101662661691748742",
+   "url": "https://x.com/UnderdogNFL/status/2101662661691748742",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.2,
+   "likes": 840,
+   "text": "Cam Jurgens moving to LG, Drew Kendall starting at C for Eagles in Week 2, per @CameronWolfe."
+  },
+  {
+   "id": "2101665174876807386",
+   "url": "https://x.com/jagibbs_23/status/2101665174876807386",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.1,
+   "likes": 32,
+   "text": "Week 2 rankings - QB https://t.co/woAiuv6QS8"
+  },
+  {
+   "id": "2101670213594812829",
+   "url": "https://x.com/jagibbs_23/status/2101670213594812829",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.0,
+   "likes": 15,
+   "text": "Week 2 rankings - TE https://t.co/Xz5jsVc1Rw"
+  },
+  {
+   "id": "2101636806802325529",
+   "url": "https://x.com/UnderdogNFL/status/2101636806802325529",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.8,
+   "likes": 460,
+   "text": "Schefter: Steelers plan for Joey Porter Jr. to make season debut in Week 3 but will depend on status of his back injury, conditioning level.\n\nPorter's back has flared up when trying to go full speed. He's considering getting a second opinion on the injury."
+  },
+  {
+   "id": "2101682534224470139",
+   "url": "https://x.com/SmolaDS/status/2101682534224470139",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.3,
+   "likes": 53,
+   "text": "Our research shows pass rate dropping by an average of 2.2% in weather conditions like we'll see for Vikings-Bears and Packers-Jets today."
+  },
+  {
+   "id": "2101695976037650660",
+   "url": "https://x.com/Patriots/status/2101695976037650660",
+   "handle": "Patriots",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.4,
+   "likes": 194,
+   "text": "Patriots inactives for PIT vs. NE. https://t.co/nmXhk13vxz"
+  },
+  {
+   "id": "2101696012402180178",
+   "url": "https://x.com/Ravens/status/2101696012402180178",
+   "handle": "Ravens",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.7,
+   "likes": 380,
+   "text": "Inactives vs. Saints https://t.co/umpoRmwMH5"
+  },
+  {
+   "id": "2101627606088999332",
+   "url": "https://x.com/jagibbs_23/status/2101627606088999332",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.1,
+   "likes": 183,
+   "text": "Really feels like Bhayshul Tuten week to me (I wake up and say this every Sunday fwiw)"
+  },
+  {
+   "id": "2101638704699789696",
+   "url": "https://x.com/jagibbs_23/status/2101638704699789696",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.5,
+   "likes": 125,
+   "text": "Let's get nuts, it's also Terrance Ferguson week"
+  },
+  {
+   "id": "2101688224993145102",
+   "url": "https://x.com/Ihartitz/status/2101688224993145102",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.5,
+   "likes": 127,
+   "text": "Bears-Vikings looking ROUGH https://t.co/QxmRUdmEwV"
+  },
+  {
+   "id": "2101681487548407927",
+   "url": "https://x.com/YahooFantasy/status/2101681487548407927",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.8,
+   "likes": 5,
+   "text": "Fantasy Football Live is back for Week 2 \ud83c\udfc8\n\n@MattHarmon_BYB, @justinboone, @JoshNorris &amp; @HaydenWinks break down the latest injury news, burning fantasy questions and last-minute pickups to help you make those tough lineup decisions \ud83d\udc40\n\nWatch:\n\nhttps://t.co/0CUACOTyEG"
+  },
+  {
+   "id": "2101695379691712623",
+   "url": "https://x.com/Vikings/status/2101695379691712623",
+   "handle": "Vikings",
+   "reason": "low_score(analysis_hype)",
+   "score": 10.7,
+   "likes": 112,
+   "text": "#Vikings Week 2 inactives https://t.co/GRNwIlu5DS"
+  },
+  {
+   "id": "2101695492594049349",
+   "url": "https://x.com/packers/status/2101695492594049349",
+   "handle": "packers",
+   "reason": "low_score(analysis_hype)",
+   "score": 6.0,
+   "likes": 94,
+   "text": "The inactives for today's Week 2 game against the Jets"
+  },
+  {
+   "id": "2101695538101993518",
+   "url": "https://x.com/vikingzfanpage/status/2101695538101993518",
+   "handle": "vikingzfanpage",
+   "reason": "low_score(analysis_hype)",
+   "score": 4.4,
+   "likes": 63,
+   "text": "#Vikings T Brian O\u2019Neill (knee) will play today against the #Bears. https://t.co/1hPdVZsWH9"
+  },
+  {
+   "id": "2101695692213309672",
+   "url": "https://x.com/Bengals/status/2101695692213309672",
+   "handle": "Bengals",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.7,
+   "likes": 220,
+   "text": "Inactives for #CINatHOU https://t.co/bsabqqZ0tJ"
+  },
+  {
+   "id": "2101695434628694144",
+   "url": "https://x.com/nyjets/status/2101695434628694144",
+   "handle": "nyjets",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.8,
+   "likes": 129,
+   "text": "Inactives for #GBvsNYJ"
+  },
+  {
+   "id": "2101695876443877554",
+   "url": "https://x.com/AtlantaFalcons/status/2101695876443877554",
+   "handle": "AtlantaFalcons",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.1,
+   "likes": 77,
+   "text": "Full list of today's inactives\n\nhttps://t.co/LrkRAUvJvf https://t.co/C97YzHbZoB"
+  },
+  {
+   "id": "2101695423463182611",
+   "url": "https://x.com/HoustonTexans/status/2101695423463182611",
+   "handle": "HoustonTexans",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.1,
+   "likes": 66,
+   "text": "Our inactives for #CINvsHOU \u2b07\ufe0f https://t.co/fpaX21fVcJ"
+  },
+  {
+   "id": "2101695921662623867",
+   "url": "https://x.com/Buccaneers/status/2101695921662623867",
+   "handle": "Buccaneers",
+   "reason": "low_score(analysis_hype)",
+   "score": 1.5,
+   "likes": 57,
+   "text": "Inactives for #CLEvsTB \u2b07\ufe0f https://t.co/etZfZ2DNua"
+  },
+  {
+   "id": "2101688593437556863",
+   "url": "https://x.com/CoopAFiasco/status/2101688593437556863",
+   "handle": "CoopAFiasco",
+   "reason": "pure_link",
+   "score": null,
+   "likes": 1,
+   "text": "https://t.co/HRvQUgX6k3"
+  },
+  {
+   "id": "2101671183968010368",
+   "url": "https://x.com/CoopAFiasco/status/2101671183968010368",
+   "handle": "CoopAFiasco",
+   "reason": "retweet",
+   "score": null,
+   "likes": 2,
+   "text": "RT @FantasyAlarm: Happy Football Day in America! Start your day out with our AWARD-WINNING @SiriusXMFantasy radio show on Channel 87 from 1\u2026"
+  },
+  {
+   "id": "2101681707376144531",
+   "url": "https://x.com/Ihartitz/status/2101681707376144531",
+   "handle": "Ihartitz",
+   "reason": "retweet",
+   "score": null,
+   "likes": 654,
+   "text": "RT @KevinRothWx: \ud83c\udfc8\u2614\ufe0f A very, very busy day in NFL Weather.\n\nI\u2019ve just updated the NFL Weather forecast on MySportsWeather: https://t.co/vHg\u2026"
+  },
+  {
+   "id": "2101695271834914900",
+   "url": "https://x.com/SmolaDS/status/2101695271834914900",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 2,
+   "text": "RT @DraftSharks: Updated Week 2 Rankings: https://t.co/od8pZdcUQD https://t.co/kwyJz9MGVZ"
+  },
+  {
+   "id": "2101667918320726050",
+   "url": "https://x.com/SmolaDS/status/2101667918320726050",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 2,
+   "text": "RT @DraftSharks: More in Week 2 Matchups That Matter: https://t.co/ua9liBKc9a https://t.co/QQmyi1aluK"
+  },
+  {
+   "id": "2101668132012143062",
+   "url": "https://x.com/MikeClayNFL/status/2101668132012143062",
+   "handle": "MikeClayNFL",
+   "reason": "retweet",
+   "score": null,
+   "likes": 32,
+   "text": "RT @FieldYates: A reminder that Fantasy Focus Countdown will begin on ESPNews and move over to ESPN2 at 12:15 PM ET.\n\nSee you all soon: htt\u2026"
+  }
+ ]
+}
