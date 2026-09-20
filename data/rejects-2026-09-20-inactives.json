@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T15:42:48.281170+00:00",
+ "generated_at": "2026-09-20T18:15:48.075869+00:00",
  "window": {
   "since": "2026-09-20",
   "until": "2026-09-21",
@@ -7,70 +7,36 @@
  },
  "counts": {
   "raw": 570,
-  "unique": 62,
-  "kept": 33,
+  "unique": 132,
+  "kept": 47,
   "kills": {
    "unparseable": 1,
-   "out_of_window": 505,
-   "low_score": 23,
+   "low_score": 61,
+   "retweet": 9,
+   "out_of_window": 435,
+   "reply": 4,
    "pure_link": 1,
-   "retweet": 5
+   "repeat_prev_run": 10
   }
  },
  "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
  "rejects": [
   {
-   "id": "2101631056436768978",
-   "url": "https://x.com/UnderdogNFL/status/2101631056436768978",
+   "id": "2101735590894940510",
+   "url": "https://x.com/UnderdogNFL/status/2101735590894940510",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
    "score": 24.9,
-   "likes": 242,
-   "text": "Schefter: RJ Harvey (hamstring) unlikely to play Week 2."
-  },
-  {
-   "id": "2101695963102351647",
-   "url": "https://x.com/UnderdogNFL/status/2101695963102351647",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 24.8,
-   "likes": 38,
-   "text": "Jalen McMillan (knee) active for Week 2."
-  },
-  {
-   "id": "2101695472700182959",
-   "url": "https://x.com/UnderdogNFL/status/2101695472700182959",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 24.8,
-   "likes": 112,
-   "text": "Joe Burrow (back) officially active for Week 2."
-  },
-  {
-   "id": "2101633886446870969",
-   "url": "https://x.com/UnderdogNFL/status/2101633886446870969",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 24.7,
-   "likes": 283,
-   "text": "Rap: Michael Penix Jr. (knee) could make season debut on Thursday Night Football in Week 3."
-  },
-  {
-   "id": "2101662661691748742",
-   "url": "https://x.com/UnderdogNFL/status/2101662661691748742",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 24.2,
-   "likes": 840,
-   "text": "Cam Jurgens moving to LG, Drew Kendall starting at C for Eagles in Week 2, per @CameronWolfe."
+   "likes": 946,
+   "text": "JA'MARR CHASE HAS ARRIVED\n\nWHAT A CATCH FOR 6\n\nhttps://t.co/E0NFrOGNPy"
   },
   {
    "id": "2101665174876807386",
    "url": "https://x.com/jagibbs_23/status/2101665174876807386",
    "handle": "jagibbs_23",
    "reason": "low_score(analysis_hype)",
-   "score": 24.1,
-   "likes": 32,
+   "score": 24.5,
+   "likes": 40,
    "text": "Week 2 rankings - QB https://t.co/woAiuv6QS8"
   },
   {
@@ -79,71 +45,314 @@
    "handle": "jagibbs_23",
    "reason": "low_score(analysis_hype)",
    "score": 24.0,
-   "likes": 15,
+   "likes": 22,
    "text": "Week 2 rankings - TE https://t.co/Xz5jsVc1Rw"
   },
   {
-   "id": "2101636806802325529",
-   "url": "https://x.com/UnderdogNFL/status/2101636806802325529",
+   "id": "2101727491324878978",
+   "url": "https://x.com/UnderdogNFL/status/2101727491324878978",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 22.8,
-   "likes": 460,
-   "text": "Schefter: Steelers plan for Joey Porter Jr. to make season debut in Week 3 but will depend on status of his back injury, conditioning level.\n\nPorter's back has flared up when trying to go full speed. He's considering getting a second opinion on the injury."
+   "score": 23.2,
+   "likes": 819,
+   "text": "Status alert: Dallas Goedert headed to medical tent Sunday."
+  },
+  {
+   "id": "2101725019558518943",
+   "url": "https://x.com/UnderdogNFL/status/2101725019558518943",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.9,
+   "likes": 1140,
+   "text": "Status alert: Saquon Barkley (stinger) back on sideline with helmet on Sunday."
+  },
+  {
+   "id": "2101719918471262346",
+   "url": "https://x.com/UnderdogNFL/status/2101719918471262346",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.9,
+   "likes": 898,
+   "text": "Status alert: Saquon Barkley (left arm) headed to medical tent Sunday."
   },
   {
    "id": "2101682534224470139",
    "url": "https://x.com/SmolaDS/status/2101682534224470139",
    "handle": "SmolaDS",
    "reason": "low_score(analysis_hype)",
-   "score": 22.3,
-   "likes": 53,
+   "score": 22.9,
+   "likes": 78,
    "text": "Our research shows pass rate dropping by an average of 2.2% in weather conditions like we'll see for Vikings-Bears and Packers-Jets today."
+  },
+  {
+   "id": "2101734010271437071",
+   "url": "https://x.com/BenjaminSolak/status/2101734010271437071",
+   "handle": "BenjaminSolak",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.9,
+   "likes": 266,
+   "text": "Jalen Hurts having an effortless day against this Titans defense. Was late on the pick. Everything else is nails. Seeing it well and managing imperfect pockets."
+  },
+  {
+   "id": "2101731067698815305",
+   "url": "https://x.com/Ihartitz/status/2101731067698815305",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.8,
+   "likes": 62,
+   "text": "Every Steelers tush push is basically Darnell Washington pushing whoever against 11 defenders ... and Darnell Washington always wins"
+  },
+  {
+   "id": "2101729700276249029",
+   "url": "https://x.com/YahooFantasy/status/2101729700276249029",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.6,
+   "likes": 61,
+   "text": "Colston Loveland through the first 5 quarters of the season:\n\n1 catch for 3 yards https://t.co/YK6veAc4WV"
+  },
+  {
+   "id": "2101704198911861071",
+   "url": "https://x.com/danorlovsky7/status/2101704198911861071",
+   "handle": "danorlovsky7",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.4,
+   "likes": 2100,
+   "text": "If you\u2019re an owner in the NFL with a young QB and you just heard Caleb Williams talk about Ben Johnson and the impact he has had on him and how, and you don\u2019t have that for your young QB\u2014-you\u2019re so far behind."
+  },
+  {
+   "id": "2101721329812525422",
+   "url": "https://x.com/UnderdogNFL/status/2101721329812525422",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.3,
+   "likes": 656,
+   "text": "Status alert: Saquon Barkley (left arm) headed to locker room Sunday."
+  },
+  {
+   "id": "2101720232767213986",
+   "url": "https://x.com/UnderdogNFL/status/2101720232767213986",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.1,
+   "likes": 539,
+   "text": "Status alert: Jayden Reed (head) stretchered off the field Sunday."
+  },
+  {
+   "id": "2101721735313649988",
+   "url": "https://x.com/BenjaminSolak/status/2101721735313649988",
+   "handle": "BenjaminSolak",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.8,
+   "likes": 80,
+   "text": "Packers with big injures to Jayden Reed and Zach Bako-Bewele in the first 1:30 of the first quarter"
+  },
+  {
+   "id": "2101724137941012928",
+   "url": "https://x.com/UnderdogNFL/status/2101724137941012928",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.2,
+   "likes": 1827,
+   "text": "Caleb Williams filthy juke\n\nhttps://t.co/laq4pY3jWA"
   },
   {
    "id": "2101695976037650660",
    "url": "https://x.com/Patriots/status/2101695976037650660",
    "handle": "Patriots",
    "reason": "low_score(analysis_hype)",
-   "score": 19.4,
-   "likes": 194,
+   "score": 21.0,
+   "likes": 477,
    "text": "Patriots inactives for PIT vs. NE. https://t.co/nmXhk13vxz"
   },
   {
-   "id": "2101696012402180178",
-   "url": "https://x.com/Ravens/status/2101696012402180178",
-   "handle": "Ravens",
+   "id": "2101723633110651060",
+   "url": "https://x.com/YahooFantasy/status/2101723633110651060",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.6,
+   "likes": 132,
+   "text": "Everyone who drafted Rhamondre seeing TreVeyon Henderson score a 40-yard TD after Rhamondre fumbled https://t.co/Ycr6FToOav"
+  },
+  {
+   "id": "2101706321170931933",
+   "url": "https://x.com/Ihartitz/status/2101706321170931933",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.3,
+   "likes": 1123,
+   "text": "Deciding whether to start Puka Nacua or Xavier Worthy in fantasy https://t.co/QJE3nmbUvT"
+  },
+  {
+   "id": "2101733639247602079",
+   "url": "https://x.com/UnderdogNFL/status/2101733639247602079",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.1,
+   "likes": 109,
+   "text": "Status alert: Rico Dowdle headed to locker room Sunday."
+  },
+  {
+   "id": "2101724338265133392",
+   "url": "https://x.com/Ihartitz/status/2101724338265133392",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.9,
+   "likes": 240,
+   "text": "Cooper Rush with two turnovers in the first six minutes of the game.\n\nFREE JACK STRAND https://t.co/w0TBIiNFOH"
+  },
+  {
+   "id": "2101732596291924089",
+   "url": "https://x.com/UnderdogNFL/status/2101732596291924089",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.3,
+   "likes": 549,
+   "text": "Aaron Rodgers is gonna feel this one for a few days\n\nhttps://t.co/1QVHr7R6XT"
+  },
+  {
+   "id": "2101716724580307104",
+   "url": "https://x.com/YahooFantasy/status/2101716724580307104",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.9,
+   "likes": 512,
+   "text": "https://t.co/eXEmFPP0Dn"
+  },
+  {
+   "id": "2101698501117661392",
+   "url": "https://x.com/koestreicher34/status/2101698501117661392",
+   "handle": "koestreicher34",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.9,
+   "likes": 97,
+   "text": "Ravens OT Ronnie Stanley is officially ACTIVE for Baltimore's Week 2 game vs. the Saints https://t.co/gkSNXK3LsL"
+  },
+  {
+   "id": "2101726440752300167",
+   "url": "https://x.com/Ihartitz/status/2101726440752300167",
+   "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
    "score": 18.7,
-   "likes": 380,
-   "text": "Inactives vs. Saints https://t.co/umpoRmwMH5"
+   "likes": 446,
+   "text": "Colston Loveland officially has more receptions than Abraham Lincoln this season"
   },
   {
-   "id": "2101627606088999332",
-   "url": "https://x.com/jagibbs_23/status/2101627606088999332",
-   "handle": "jagibbs_23",
+   "id": "2101696316514750664",
+   "url": "https://x.com/SleeperNFL/status/2101696316514750664",
+   "handle": "SleeperNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 17.1,
-   "likes": 183,
-   "text": "Really feels like Bhayshul Tuten week to me (I wake up and say this every Sunday fwiw)"
+   "score": 18.7,
+   "likes": 223,
+   "text": "Saints WR Chris Olave (hamstring) is active for Week 2. https://t.co/gOJiqzrE1P"
   },
   {
-   "id": "2101638704699789696",
-   "url": "https://x.com/jagibbs_23/status/2101638704699789696",
-   "handle": "jagibbs_23",
+   "id": "2101708320406929413",
+   "url": "https://x.com/CoopAFiasco/status/2101708320406929413",
+   "handle": "CoopAFiasco",
    "reason": "low_score(analysis_hype)",
-   "score": 16.5,
-   "likes": 125,
-   "text": "Let's get nuts, it's also Terrance Ferguson week"
+   "score": 17.7,
+   "likes": 12,
+   "text": "\u262f\ufe0fFINAL Week 2 Tight End Rankings\u262f\ufe0f\n\nMake sure you check the notes below - lot of moving parts this week.\n\u2935\ufe0f https://t.co/f30DTRagbu"
+  },
+  {
+   "id": "2101710341432578097",
+   "url": "https://x.com/YahooFantasy/status/2101710341432578097",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.7,
+   "likes": 121,
+   "text": "Puka\u2019s family friend said on TikTok that he\u2019s going to play \ud83d\udc40\n\nPuka is trending in the wrong direction to play, per @AdamSchefter.\n\n(via ivieblake/TT) https://t.co/L4xzCWXtGt"
   },
   {
    "id": "2101688224993145102",
    "url": "https://x.com/Ihartitz/status/2101688224993145102",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 16.5,
-   "likes": 127,
+   "score": 17.4,
+   "likes": 221,
    "text": "Bears-Vikings looking ROUGH https://t.co/QxmRUdmEwV"
+  },
+  {
+   "id": "2101735263537877255",
+   "url": "https://x.com/BenjaminSolak/status/2101735263537877255",
+   "handle": "BenjaminSolak",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.2,
+   "likes": 170,
+   "text": "JAMARR CHASE WOW WOW WOW WOW THATS special"
+  },
+  {
+   "id": "2101736931684155622",
+   "url": "https://x.com/YahooFantasy/status/2101736931684155622",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.2,
+   "likes": 1,
+   "text": "*record scratch*\n\n*freeze frame*\n\nYep, that's me, Derek Stingley. You're probably wondering how I ended up in this situation. https://t.co/KdjIibup8J"
+  },
+  {
+   "id": "2101732650067059084",
+   "url": "https://x.com/Ihartitz/status/2101732650067059084",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.1,
+   "likes": 156,
+   "text": "Aaron Rodgers got JACKED UP\n\nhttps://t.co/i8UKW9ijwC"
+  },
+  {
+   "id": "2101722068735893829",
+   "url": "https://x.com/YahooFantasy/status/2101722068735893829",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.1,
+   "likes": 38,
+   "text": "Saquon Barkley is heading to the locker room with an apparent arm injury. https://t.co/hZ1AgzCD9U"
+  },
+  {
+   "id": "2101638704699789696",
+   "url": "https://x.com/jagibbs_23/status/2101638704699789696",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.8,
+   "likes": 148,
+   "text": "Let's get nuts, it's also Terrance Ferguson week"
+  },
+  {
+   "id": "2101735709790871749",
+   "url": "https://x.com/Ihartitz/status/2101735709790871749",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.5,
+   "likes": 117,
+   "text": "Holy shit Ja\u2019Marr Chase https://t.co/60x9grdhQr"
+  },
+  {
+   "id": "2101720588964503788",
+   "url": "https://x.com/YahooFantasy/status/2101720588964503788",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.1,
+   "likes": 102,
+   "text": "TreVeyon Henderson fantasy managers seeing Rhamondre fumble https://t.co/xkBJ0sY1KH"
+  },
+  {
+   "id": "2101731808861700127",
+   "url": "https://x.com/CoopAFiasco/status/2101731808861700127",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.8,
+   "likes": 10,
+   "text": "Germie Bernard with 4 catches now on this drive, at least one with Christian Gonzalez on him in man coverage \ud83d\udc40"
+  },
+  {
+   "id": "2101702931972305136",
+   "url": "https://x.com/YahooFantasy/status/2101702931972305136",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.8,
+   "likes": 48,
+   "text": "SEND US YOUR LINEUP QUESTIONS!!!\n\n(@scott_pianowski will answer as many as he can)"
   },
   {
    "id": "2101681487548407927",
@@ -151,80 +360,215 @@
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
    "score": 14.8,
-   "likes": 5,
+   "likes": 6,
    "text": "Fantasy Football Live is back for Week 2 \ud83c\udfc8\n\n@MattHarmon_BYB, @justinboone, @JoshNorris &amp; @HaydenWinks break down the latest injury news, burning fantasy questions and last-minute pickups to help you make those tough lineup decisions \ud83d\udc40\n\nWatch:\n\nhttps://t.co/0CUACOTyEG"
   },
   {
-   "id": "2101695379691712623",
-   "url": "https://x.com/Vikings/status/2101695379691712623",
-   "handle": "Vikings",
+   "id": "2101724366727794731",
+   "url": "https://x.com/ffdataroma/status/2101724366727794731",
+   "handle": "ffdataroma",
    "reason": "low_score(analysis_hype)",
-   "score": 10.7,
-   "likes": 112,
-   "text": "#Vikings Week 2 inactives https://t.co/GRNwIlu5DS"
+   "score": 14.7,
+   "likes": 39,
+   "text": "Let Bucky cook https://t.co/JaP6C6JRHt"
+  },
+  {
+   "id": "2101736275631857962",
+   "url": "https://x.com/CoopAFiasco/status/2101736275631857962",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 6,
+   "text": "Another Braelon Allen touchdown https://t.co/M6ZOcn1SoY"
+  },
+  {
+   "id": "2101695582225981890",
+   "url": "https://x.com/ZBerm/status/2101695582225981890",
+   "handle": "ZBerm",
+   "reason": "low_score(analysis_hype)",
+   "score": 9.4,
+   "likes": 108,
+   "text": "Drew Mukuba is ACTIVE.\n\nEagles inactives...\n\nTanner McKee\nCole Payton\nElijah Moore\nJonathan Greenard\nMicah Morris"
+  },
+  {
+   "id": "2101695386725556707",
+   "url": "https://x.com/Browns/status/2101695386725556707",
+   "handle": "Browns",
+   "reason": "low_score(analysis_hype)",
+   "score": 8.9,
+   "likes": 103,
+   "text": "Inactives for our Week 2 matchup https://t.co/g1jQlMA9m8"
   },
   {
    "id": "2101695492594049349",
    "url": "https://x.com/packers/status/2101695492594049349",
    "handle": "packers",
    "reason": "low_score(analysis_hype)",
-   "score": 6.0,
-   "likes": 94,
+   "score": 8.0,
+   "likes": 312,
    "text": "The inactives for today's Week 2 game against the Jets"
+  },
+  {
+   "id": "2101697439476429267",
+   "url": "https://x.com/FarabaughFB/status/2101697439476429267",
+   "handle": "FarabaughFB",
+   "reason": "low_score(analysis_hype)",
+   "score": 7.6,
+   "likes": 232,
+   "text": "Steelers inactives:\n\nCB Joey Porter Jr.\nWR Michael Pittman Jr.\nQB Drew Allar\nQB Will Howard (3rd QB)\nG Gennings Dunker\nDT Kevin Jobity\nDT Gabriel Rubio"
   },
   {
    "id": "2101695538101993518",
    "url": "https://x.com/vikingzfanpage/status/2101695538101993518",
    "handle": "vikingzfanpage",
    "reason": "low_score(analysis_hype)",
-   "score": 4.4,
-   "likes": 63,
+   "score": 7.6,
+   "likes": 435,
    "text": "#Vikings T Brian O\u2019Neill (knee) will play today against the #Bears. https://t.co/1hPdVZsWH9"
   },
   {
-   "id": "2101695692213309672",
-   "url": "https://x.com/Bengals/status/2101695692213309672",
-   "handle": "Bengals",
+   "id": "2101695891228737550",
+   "url": "https://x.com/ChicagoBears/status/2101695891228737550",
+   "handle": "ChicagoBears",
    "reason": "low_score(analysis_hype)",
-   "score": 3.7,
-   "likes": 220,
-   "text": "Inactives for #CINatHOU https://t.co/bsabqqZ0tJ"
+   "score": 7.1,
+   "likes": 1642,
+   "text": "Inactives for #MINvsCHI: https://t.co/ZjW4mK9wTp"
   },
   {
-   "id": "2101695434628694144",
-   "url": "https://x.com/nyjets/status/2101695434628694144",
-   "handle": "nyjets",
+   "id": "2101695523539255331",
+   "url": "https://x.com/SeifertESPN/status/2101695523539255331",
+   "handle": "SeifertESPN",
    "reason": "low_score(analysis_hype)",
-   "score": 2.8,
-   "likes": 129,
-   "text": "Inactives for #GBvsNYJ"
+   "score": 6.3,
+   "likes": 175,
+   "text": "Vikings RT Brian O\u2019Neill (knee) is ACTIVE today and will play."
+  },
+  {
+   "id": "2101697468895293799",
+   "url": "https://x.com/steelers/status/2101697468895293799",
+   "handle": "steelers",
+   "reason": "low_score(analysis_hype)",
+   "score": 5.7,
+   "likes": 721,
+   "text": "Inactives for #PITvsNE \u2935\ufe0f @UPMC\n\n\ud83d\udcdd: https://t.co/8MGbfiy9aK https://t.co/6EcV2rNfkU"
+  },
+  {
+   "id": "2101696958704255153",
+   "url": "https://x.com/BradBiggs/status/2101696958704255153",
+   "handle": "BradBiggs",
+   "reason": "low_score(analysis_hype)",
+   "score": 4.2,
+   "likes": 184,
+   "text": "#Bears inactives\n\n3rd QB Case Keenum\nDE Jamree Kromah\nDT Jayden Loving\nOT Ozzy Trapilo\nOL Jordan McFadden\n\n#Vikings inactives\n\nQB Kyler Murray\nWR Jauan Jennings\nDBs Zemaiah Vaughn &amp; Jakobe Thomas\nOL Nick Samac &amp; Caleb Tiernan\nDL Elijah Williams"
+  },
+  {
+   "id": "2101696584501092676",
+   "url": "https://x.com/ezlazar/status/2101696584501092676",
+   "handle": "ezlazar",
+   "reason": "low_score(analysis_hype)",
+   "score": 4.2,
+   "likes": 74,
+   "text": "#Patriots inactives: CB Davis (neck), OT Crownover (knee), TE Arkin, OT Rouse, DT Taylor, and QB Morton (3rd QB).\n\nMore on season debuts for TreVeyon Henderson and Efton Chism, Dre'Mont Jones/Ben Brown active, DaQuan Jones makes Pats debut, etc. \n\nhttps://t.co/DJeg7unlM6"
+  },
+  {
+   "id": "2101696455278764445",
+   "url": "https://x.com/Saints/status/2101696455278764445",
+   "handle": "Saints",
+   "reason": "low_score(analysis_hype)",
+   "score": 4.0,
+   "likes": 111,
+   "text": "Saints Week 2 Inactives:\n\nRB Kendre Miller\nQB\u00a0Zach Wilson (designated third QB)\nCB Decamerion Richardson\nLB Isaiah Stalbird\nDL Christen Miller\nOL\u00a0Mason Murphy\nDL John Ridgeway III\n\n#Saints | @LaMachinery \n\nhttps://t.co/OugVR5ocMo"
+  },
+  {
+   "id": "2101696117834477615",
+   "url": "https://x.com/CourtneyRCronin/status/2101696117834477615",
+   "handle": "CourtneyRCronin",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.8,
+   "likes": 255,
+   "text": "Bears inactives \n\nOzzy Trapilo\nCase Keenum\nJamree Kromah\nJayden Loving\nJordan McFadden"
   },
   {
    "id": "2101695876443877554",
    "url": "https://x.com/AtlantaFalcons/status/2101695876443877554",
    "handle": "AtlantaFalcons",
    "reason": "low_score(analysis_hype)",
-   "score": 2.1,
-   "likes": 77,
+   "score": 3.8,
+   "likes": 217,
    "text": "Full list of today's inactives\n\nhttps://t.co/LrkRAUvJvf https://t.co/C97YzHbZoB"
   },
   {
-   "id": "2101695423463182611",
-   "url": "https://x.com/HoustonTexans/status/2101695423463182611",
-   "handle": "HoustonTexans",
+   "id": "2101695694268506201",
+   "url": "https://x.com/BillHuberNFL/status/2101695694268506201",
+   "handle": "BillHuberNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 2.1,
-   "likes": 66,
-   "text": "Our inactives for #CINvsHOU \u2b07\ufe0f https://t.co/fpaX21fVcJ"
+   "score": 3.3,
+   "likes": 53,
+   "text": "The Packers inactives are CB Benjamin St-Juste, offensive linemen John Williams and Travis Glover, and defensive tackles Warrren Brinson and Javon Hargrave.\n\nAaron Banks is active."
+  },
+  {
+   "id": "2101695483290755558",
+   "url": "https://x.com/WillRagatz/status/2101695483290755558",
+   "handle": "WillRagatz",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.3,
+   "likes": 206,
+   "text": "Brian O\u2019Neill is ACTIVE today"
   },
   {
    "id": "2101695921662623867",
    "url": "https://x.com/Buccaneers/status/2101695921662623867",
    "handle": "Buccaneers",
    "reason": "low_score(analysis_hype)",
-   "score": 1.5,
-   "likes": 57,
+   "score": 3.1,
+   "likes": 144,
    "text": "Inactives for #CLEvsTB \u2b07\ufe0f https://t.co/etZfZ2DNua"
+  },
+  {
+   "id": "2101695854348226885",
+   "url": "https://x.com/Kat_Terrell/status/2101695854348226885",
+   "handle": "Kat_Terrell",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.5,
+   "likes": 106,
+   "text": "Cam Jordan is active today"
+  },
+  {
+   "id": "2101697394953879867",
+   "url": "https://x.com/Easton__Butler/status/2101697394953879867",
+   "handle": "Easton__Butler",
+   "reason": "low_score(analysis_hype)",
+   "score": 1.4,
+   "likes": 59,
+   "text": "Packers inactives today:\n\nCB Benjamin St-Juste\nOL John Williams\nOL Travis Glover\nDT Warren Brinson\nDT Javon Hargrave https://t.co/WKX5DLzvVc"
+  },
+  {
+   "id": "2101695855413559766",
+   "url": "https://x.com/Titans/status/2101695855413559766",
+   "handle": "Titans",
+   "reason": "low_score(analysis_hype)",
+   "score": 1.4,
+   "likes": 51,
+   "text": "Titans #PHIvsTEN inactives presented by @RockyLawFirm"
+  },
+  {
+   "id": "2101708249909113192",
+   "url": "https://x.com/Ihartitz/status/2101708249909113192",
+   "handle": "Ihartitz",
+   "reason": "low_score(cold_water)",
+   "score": 21.2,
+   "likes": 102,
+   "text": "Hit me with some start/sits for 20 minutes!\n\n-Expecting Ladd to play\n-Hoping Jay Glazer gives us more intel on Puka at 1250pm ET. For now try to get a Malachi Fields/T-Ferg/Parkinson worst case backup\n-Downgrades in CHI-MIN rainy/windy game are warranted\n-Please send dog pics"
+  },
+  {
+   "id": "2101705903707951333",
+   "url": "https://x.com/nflnetwork/status/2101705903707951333",
+   "handle": "nflnetwork",
+   "reason": "low_score(fun)",
+   "score": 5.1,
+   "likes": 127,
+   "text": ".@minakimes weighs in on how she thinks the Vikings-Bears matchup will play out \ud83d\udc40 https://t.co/o9YLvJ1vOJ"
   },
   {
    "id": "2101688593437556863",
@@ -232,26 +576,143 @@
    "handle": "CoopAFiasco",
    "reason": "pure_link",
    "score": null,
-   "likes": 1,
+   "likes": 2,
    "text": "https://t.co/HRvQUgX6k3"
   },
   {
-   "id": "2101671183968010368",
-   "url": "https://x.com/CoopAFiasco/status/2101671183968010368",
-   "handle": "CoopAFiasco",
-   "reason": "retweet",
-   "score": null,
-   "likes": 2,
-   "text": "RT @FantasyAlarm: Happy Football Day in America! Start your day out with our AWARD-WINNING @SiriusXMFantasy radio show on Channel 87 from 1\u2026"
+   "id": "2101695148820144473",
+   "url": "https://x.com/Ihartitz/status/2101695148820144473",
+   "handle": "Ihartitz",
+   "reason": "repeat_prev_run",
+   "score": 50.4,
+   "likes": 139,
+   "text": "Week 2 Quad Box rankings:\n\nEarly slate:\n1. Bears-Vikings. Rain might only make it more fun.\n2. Ravens-Saints. Lamar Jackson\n3. Texans-Bengals. Good on good\n4. Jets-Packers. Are the Jets kinda maybe sorta good?\n5. Patriots-Steelers. Meh\n6. Buccaneers-Browns. Baker grim reaper for Watson era is a fun storyline\n7. Titans-Eagles. Get Brian Daboll off my television\n8. Falcons-Panthers. Get Cooper Rush off my television\n\nLate afternoon:\n1. Cowboys-Commanders. Points points points\n2. Broncos-Jaguars. INTERESTING T-Law conversations to be had with another great performance\n3. Cardinals-Seahawks. Are the Cardinals kinda maybe sort good?\n4. Chargers-Raiders. Last week was just a down day for the Chargers, right? RIGHT?\n5. 49ers-Dolphins. Can San Fran score 50?"
   },
   {
-   "id": "2101681707376144531",
-   "url": "https://x.com/Ihartitz/status/2101681707376144531",
+   "id": "2101695851068309529",
+   "url": "https://x.com/AdamSchefter/status/2101695851068309529",
+   "handle": "AdamSchefter",
+   "reason": "repeat_prev_run",
+   "score": 38.1,
+   "likes": 2675,
+   "text": "Bengals QB Joe Burrow, listed as questionable for today, officially is active vs. the Texans."
+  },
+  {
+   "id": "2101687578852262230",
+   "url": "https://x.com/Ihartitz/status/2101687578852262230",
    "handle": "Ihartitz",
+   "reason": "repeat_prev_run",
+   "score": 31.4,
+   "likes": 18,
+   "text": "Week 2 Betr picks:\n\n-Daniels: Did you SEE that Cowboys D? Now 2 starters out!\n-Judkins: 26, 21, 22, 33 rush yards last 4 games + now gets Vita Vea\n-Washington: Chop wood, carry water\n-Mondre: Love RB reception overs vs. zone-heavy d: PIT 100% zone Week 1\n\nhttps://t.co/G75tnNKmyG https://t.co/XhpA0WVImG"
+  },
+  {
+   "id": "2101696250240282667",
+   "url": "https://x.com/AdamSchefter/status/2101696250240282667",
+   "handle": "AdamSchefter",
+   "reason": "repeat_prev_run",
+   "score": 30.2,
+   "likes": 3324,
+   "text": "\ud83c\udfc8Joe Burrow - Active\n\ud83c\udfc8Tua Tagovailoa - Inactive\n\ud83c\udfc8Chris Olave - Active\n\ud83c\udfc8Jalen McMillan - Active\n\ud83c\udfc8Trey Hendrickson - Active"
+  },
+  {
+   "id": "2101668907572457822",
+   "url": "https://x.com/jagibbs_23/status/2101668907572457822",
+   "handle": "jagibbs_23",
+   "reason": "repeat_prev_run",
+   "score": 28.9,
+   "likes": 59,
+   "text": "Week 2 Fantasy Football rankings - Top-95 WR https://t.co/HcyuW5Zpoi"
+  },
+  {
+   "id": "2101668872927563778",
+   "url": "https://x.com/CoopAFiasco/status/2101668872927563778",
+   "handle": "CoopAFiasco",
+   "reason": "repeat_prev_run",
+   "score": 28.7,
+   "likes": 6,
+   "text": "As Bill Withers once said, it's going to be a lovely day. Here\u2019s where you can find me this morning:\n\n\ud83d\udd389-10 AM ET @FantasyAlarm Discord\n\ud83d\udd3810-11 AM ET @SiriusXM channel 87 \n\ud83d\udd3811-12 ET @FantasyAlarm YouTube\n\ud83d\udd3812-1 ET AM r/FantasyFootball https://t.co/NXTGdz86yN"
+  },
+  {
+   "id": "2101665757172003061",
+   "url": "https://x.com/jagibbs_23/status/2101665757172003061",
+   "handle": "jagibbs_23",
+   "reason": "repeat_prev_run",
+   "score": 28.4,
+   "likes": 41,
+   "text": "Week 2 Fantasy Football rankings - Top-64 RB https://t.co/Rdg8oAuorp"
+  },
+  {
+   "id": "2101672852181209355",
+   "url": "https://x.com/Ihartitz/status/2101672852181209355",
+   "handle": "Ihartitz",
+   "reason": "repeat_prev_run",
+   "score": 27.9,
+   "likes": 431,
+   "text": "Puka is either not playing on Monday night or going for 200 yards and 2 TD. That\u2019s just the way the fantasy football world works."
+  },
+  {
+   "id": "2101698224088043634",
+   "url": "https://x.com/YahooFantasy/status/2101698224088043634",
+   "handle": "YahooFantasy",
+   "reason": "repeat_prev_run",
+   "score": 19.7,
+   "likes": 11,
+   "text": "\u201cIf anyone can play without practicing in the NFL, it should be Puka Nacua.\u201d \ud83d\udc40\n\n@MattHarmon_BYB, @justinboone and @JoshNorris discuss how fantasy managers prepare if Nacua doesn\u2019t play on Monday night. \n\n(via Fantasy Football Live) https://t.co/ughsYHUy93"
+  },
+  {
+   "id": "2101691582336422356",
+   "url": "https://x.com/MikeClayNFL/status/2101691582336422356",
+   "handle": "MikeClayNFL",
+   "reason": "repeat_prev_run",
+   "score": 14.0,
+   "likes": 14,
+   "text": "Just now on Fantasy Focus Countdown, @LindseyThiry confirms \u201cJoe Burrow will start\u201d today"
+  },
+  {
+   "id": "2101714321113756033",
+   "url": "https://x.com/Ihartitz/status/2101714321113756033",
+   "handle": "Ihartitz",
+   "reason": "reply",
+   "score": null,
+   "likes": 15,
+   "text": "thanks for the questions everyone GOOD LUCK IT'S A GREAT DAY TO BE GREAT!!"
+  },
+  {
+   "id": "2101708328581644467",
+   "url": "https://x.com/CoopAFiasco/status/2101708328581644467",
+   "handle": "CoopAFiasco",
+   "reason": "reply",
+   "score": null,
+   "likes": 0,
+   "text": "For all my tight end DFS plays for Week 2, those are available to @FantasyAlarm members here.\n\n\u2935\ufe0f\n\nhttps://t.co/5VzqlCUWbW"
+  },
+  {
+   "id": "2101708333124145238",
+   "url": "https://x.com/CoopAFiasco/status/2101708333124145238",
+   "handle": "CoopAFiasco",
+   "reason": "reply",
+   "score": null,
+   "likes": 0,
+   "text": "Good luck this week ladies and gentlemen - especially to the @FantasyAlarm members that make all of this possible. No better time to join the #FAmily than now! https://t.co/2yGNnvqFw2"
+  },
+  {
+   "id": "2101726905766490534",
+   "url": "https://x.com/BenjaminSolak/status/2101726905766490534",
+   "handle": "BenjaminSolak",
+   "reason": "reply",
+   "score": null,
+   "likes": 60,
+   "text": "then turned into a 3rd and 12 with a delay of game, then threw a pick....so not optimal"
+  },
+  {
+   "id": "2101701719755202712",
+   "url": "https://x.com/SmolaDS/status/2101701719755202712",
+   "handle": "SmolaDS",
    "reason": "retweet",
    "score": null,
-   "likes": 654,
-   "text": "RT @KevinRothWx: \ud83c\udfc8\u2614\ufe0f A very, very busy day in NFL Weather.\n\nI\u2019ve just updated the NFL Weather forecast on MySportsWeather: https://t.co/vHg\u2026"
+   "likes": 5,
+   "text": "RT @DraftSharks: Schefter: Puka Nacua Trending \"Wrong Way\" To Play Week 2\nhttps://t.co/KWJuIotcaG"
   },
   {
    "id": "2101695271834914900",
@@ -259,7 +720,7 @@
    "handle": "SmolaDS",
    "reason": "retweet",
    "score": null,
-   "likes": 2,
+   "likes": 4,
    "text": "RT @DraftSharks: Updated Week 2 Rankings: https://t.co/od8pZdcUQD https://t.co/kwyJz9MGVZ"
   },
   {
@@ -272,12 +733,57 @@
    "text": "RT @DraftSharks: More in Week 2 Matchups That Matter: https://t.co/ua9liBKc9a https://t.co/QQmyi1aluK"
   },
   {
+   "id": "2101681707376144531",
+   "url": "https://x.com/Ihartitz/status/2101681707376144531",
+   "handle": "Ihartitz",
+   "reason": "retweet",
+   "score": null,
+   "likes": 950,
+   "text": "RT @KevinRothWx: \ud83c\udfc8\u2614\ufe0f A very, very busy day in NFL Weather.\n\nI\u2019ve just updated the NFL Weather forecast on MySportsWeather: https://t.co/vHg\u2026"
+  },
+  {
+   "id": "2101671183968010368",
+   "url": "https://x.com/CoopAFiasco/status/2101671183968010368",
+   "handle": "CoopAFiasco",
+   "reason": "retweet",
+   "score": null,
+   "likes": 3,
+   "text": "RT @FantasyAlarm: Happy Football Day in America! Start your day out with our AWARD-WINNING @SiriusXMFantasy radio show on Channel 87 from 1\u2026"
+  },
+  {
+   "id": "2101705979607875977",
+   "url": "https://x.com/BenjaminSolak/status/2101705979607875977",
+   "handle": "BenjaminSolak",
+   "reason": "retweet",
+   "score": null,
+   "likes": 11,
+   "text": "RT @EricNMoody: Still have Week 2 fantasy football questions? I've got you.\n\nJoin me for Fantasy Focus Sunday Kickoff at 11:30 am ET! I'm t\u2026"
+  },
+  {
+   "id": "2101705459547914632",
+   "url": "https://x.com/YahooFantasy/status/2101705459547914632",
+   "handle": "YahooFantasy",
+   "reason": "retweet",
+   "score": null,
+   "likes": 12,
+   "text": "RT @scott_pianowski: It's go time. If you're stuck, I'll give you my best guess. The goal isn't to be fortune tellers, it's to find the bes\u2026"
+  },
+  {
+   "id": "2101706248081318142",
+   "url": "https://x.com/Dynasty_IM/status/2101706248081318142",
+   "handle": "Dynasty_IM",
+   "reason": "retweet",
+   "score": null,
+   "likes": 4,
+   "text": "RT @ianmillerIM: RBs to account for a 60%+ Carry Share and 20%+ Target Share in Week 1\n\n- Bijan Robinson\n- Ashton Jeanty\n\n- Kenneth Walker\u2026"
+  },
+  {
    "id": "2101668132012143062",
    "url": "https://x.com/MikeClayNFL/status/2101668132012143062",
    "handle": "MikeClayNFL",
    "reason": "retweet",
    "score": null,
-   "likes": 32,
+   "likes": 41,
    "text": "RT @FieldYates: A reminder that Fantasy Focus Countdown will begin on ESPNews and move over to ESPN2 at 12:15 PM ET.\n\nSee you all soon: htt\u2026"
   }
  ]
