@@ -1,0 +1,117 @@
+{
+ "captured_at": "2026-09-20",
+ "games": [
+  {
+   "game": "CAR @ ATL",
+   "date": "2026-09-20T17:00Z",
+   "spread": "CAR -2.5",
+   "over_under": 43.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "MIN @ CHI",
+   "date": "2026-09-20T17:00Z",
+   "spread": "CHI -4.5",
+   "over_under": 47.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "PHI @ TEN",
+   "date": "2026-09-20T17:00Z",
+   "spread": "PHI -7",
+   "over_under": 39.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "PIT @ NE",
+   "date": "2026-09-20T17:00Z",
+   "spread": "NE -5.5",
+   "over_under": 41.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "GB @ NYJ",
+   "date": "2026-09-20T17:00Z",
+   "spread": "GB -3.5",
+   "over_under": 44.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "CLE @ TB",
+   "date": "2026-09-20T17:00Z",
+   "spread": "TB -8.5",
+   "over_under": 41.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "NO @ BAL",
+   "date": "2026-09-20T17:00Z",
+   "spread": "BAL -8.5",
+   "over_under": 45.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "CIN @ HOU",
+   "date": "2026-09-20T17:00Z",
+   "spread": "HOU -3",
+   "over_under": 45.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "JAX @ DEN",
+   "date": "2026-09-20T20:05Z",
+   "spread": "DEN -2.5",
+   "over_under": 45.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "LV @ LAC",
+   "date": "2026-09-20T20:05Z",
+   "spread": "LAC -6.5",
+   "over_under": 43.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "WSH @ DAL",
+   "date": "2026-09-20T20:25Z",
+   "spread": "DAL -3.5",
+   "over_under": 50.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "SEA @ ARI",
+   "date": "2026-09-20T20:25Z",
+   "spread": "SEA -3.5",
+   "over_under": 40.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "MIA @ SF",
+   "date": "2026-09-20T20:25Z",
+   "spread": "SF -13.5",
+   "over_under": 44.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "IND @ KC",
+   "date": "2026-09-21T00:20Z",
+   "spread": "KC -6",
+   "over_under": 46.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "DET @ BUF",
+   "date": "2026-09-18T00:15Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "NYG @ LAR",
+   "date": "2026-09-22T00:15Z",
+   "spread": "LAR -7",
+   "over_under": 47.5,
+   "provider": "DraftKings"
+  }
+ ]
+}
