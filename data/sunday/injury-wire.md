@@ -17,20 +17,22 @@
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
-| Zay Flowers | WR · BAL | OUT | Hamstring | Downgraded Saturday; the room behind him is Bateman-Walker-Wester |
-| Nico Collins | WR · HOU | OUT | Hamstring | Ruled out Friday |
-| Joe Burrow | QB · CIN | IN | Back | Officially active with no limitations — "totally good," per Burrow himself |
-| Tua Tagovailoa | QB · ATL | OUT | Oblique | Inactive again; Rush starts vs CAR — Penix is out but nearing a return |
-| Chris Olave | WR · NO | IN | Hamstring | Officially active |
-| Alvin Kamara | RB · NO | IN | Knee | Off the report entirely — season debut |
-| Jalen McMillan | WR · TB | IN | Knee | Active, but not a full-time role yet |
-| Kyler Murray | QB · ARI | OUT | Concussion | Ruled out (4:25) |
-| Chig Okonkwo | TE · TEN | OUT | Hamstring | Ruled out |
-| Jauan Jennings | WR · SF | OUT | Personal | Ruled out (4:25) |
-| Bears, entire roster | CHI | IN | — | Zero designations — first fully clean Bears report since Week 7, 2022 |
-| Ladd McConkey | WR · LAC | EXP IN | Ribs | Trending the right way, flak jacket if he goes — locks ~2:35 ET actives |
-| RJ Harvey | RB · DEN | EXP OUT | Hamstring | Unlikely per Schefter — locks ~2:35 ET actives |
-| Brock Bowers | TE · LV | EXP OUT | Knee | Doubtful, expected back Week 3 — locks ~2:35 ET |
-| Kaelon Black | RB · SF | EXP IN | Groin | Expected to play — locks ~2:55 ET |
-| Michael Pittman Jr. | WR · IND | PENDING | Foot | Questionable for SNF — actives ~6:50 ET |
-| Puka Nacua | WR · LAR | EXP OUT | Hip | Trending the "wrong way" per Schefter; true game-time call Monday — Whittington also doubtful |
+| Kyler Murray | QB · MIN | IN | Concussion | Cleared protocol, starts at Tampa Bay (4:05) — Wentz back to the bench |
+| Sam Darnold | QB · SEA | IN | Glute | Off the report entirely and starting — the Drew Lock streamer is dead |
+| Caleb Williams | QB · CHI | OUT | Hamstring (Gr. 2) | Out 3-4 weeks; Keenum likely Monday, Bagent (concussion) questionable behind him |
+| Nico Collins | WR · HOU | OUT | Hamstring | Second straight week; "decent chance" for Week 4 vs Dallas |
+| Rico Dowdle | RB · PIT | OUT | Toe | Ruled out Friday — with Warren banged up, the Steelers room is thin |
+| Michael Pittman Jr. | WR · PIT | IN | Foot | Will play, per Schefter |
+| DJ Moore | WR · BUF | IN | Shoulder | Officially active |
+| Keon Coleman | WR · BUF | IN | Ankle | Officially active |
+| Jalen Coker | WR · CAR | IN | Ankle | Active — and Xavier Legette (knee) is officially inactive beside him |
+| AD Mitchell | WR · NYJ | OUT | Finger | Officially inactive; Sterling Shepard elevated |
+| Slayton + Singletary | NYG | OUT | — | Both HEALTHY inactives for the nor'easter game |
+| Hollywood Brown | WR · PHI | OUT | — | Out Monday; Barkley and DeVonta Smith are both clean |
+| Zay Flowers | WR · BAL | EXP OUT | Hamstring | "True game-time decision" and the team isn't counting on him — São Paulo actives ~2:55 ET |
+| Brock Bowers | TE · LV | EXP IN | Knee | Expected "barring a surprise" — locks ~2:55 ET (4:25) |
+| Jaylen Warren | RB · PIT | EXP IN | Shoulder | Expected per Schefter this morning — confirm at kickoff |
+| Mike Evans | WR · SF | EXP IN | Hip | Good to go per reporting — locks ~2:35 ET (4:05) |
+| Kaelon Black | RB · SF | EXP IN | Groin | Expected to play — locks ~2:35 ET |
+| Jaylen Wright | RB · MIA | EXP OUT | — | Listed doubtful; Caleb Douglas is ruled out |
+| Puka Nacua | WR · LAR | EXP OUT | Hip, groin | Doubtful for SNF, expected back Week 4 — locks ~6:50 ET; Whittington also doubtful |
