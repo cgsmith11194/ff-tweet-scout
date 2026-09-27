@@ -1,0 +1,385 @@
+{
+ "generated_at": "2026-09-27T15:42:03.679639+00:00",
+ "window": {
+  "since": "2026-09-27",
+  "until": "2026-09-28",
+  "days": 0.292
+ },
+ "counts": {
+  "raw": 570,
+  "unique": 73,
+  "kept": 33,
+  "kills": {
+   "unparseable": 1,
+   "out_of_window": 492,
+   "low_score": 29,
+   "reply": 2,
+   "retweet": 7,
+   "pure_link": 1,
+   "promo": 1
+  }
+ },
+ "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
+ "rejects": [
+  {
+   "id": "2104232219757756637",
+   "url": "https://x.com/UnderdogNFL/status/2104232219757756637",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.9,
+   "likes": 36,
+   "text": "Tyjae Spears (ankle) active for Week 3."
+  },
+  {
+   "id": "2104222033332904320",
+   "url": "https://x.com/YahooFantasy/status/2104222033332904320",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.9,
+   "likes": 76,
+   "text": "Titans vs. Giants will have light to moderate rain with wind gusts up to 30 mph, per @MikeGarafolo.\n\nWill you be benching Malik Nabers due to the weather? https://t.co/P9dNFSQhmF"
+  },
+  {
+   "id": "2104231415307211213",
+   "url": "https://x.com/UnderdogNFL/status/2104231415307211213",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.6,
+   "likes": 108,
+   "text": "Garafolo: Brian Burns (ankle) active for Week 3."
+  },
+  {
+   "id": "2104233745121190279",
+   "url": "https://x.com/UnderdogNFL/status/2104233745121190279",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.5,
+   "likes": 52,
+   "text": "Jaylen Warren (shoulder) active for Week 3."
+  },
+  {
+   "id": "2104227012928008379",
+   "url": "https://x.com/UnderdogNFL/status/2104227012928008379",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.3,
+   "likes": 341,
+   "text": "Rap: Steelers will start Brock Hoffman at RG, Max Iheanachor at RT in Week 3.\n\nBoth starting for first time this season."
+  },
+  {
+   "id": "2104230507450122715",
+   "url": "https://x.com/HaydenWinks/status/2104230507450122715",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.0,
+   "likes": 32,
+   "text": "I'd pick up Kenyon Sadiq before kickoff, even if you have another great TE. In a blowup spot and there would be real buzz if he plays well."
+  },
+  {
+   "id": "2104177748210029023",
+   "url": "https://x.com/UnderdogNFL/status/2104177748210029023",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.3,
+   "likes": 87,
+   "text": "Garafolo: Titans hopeful Tyjae Spears (ankle) will play Week 3."
+  },
+  {
+   "id": "2104226147039064181",
+   "url": "https://x.com/Ihartitz/status/2104226147039064181",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.4,
+   "likes": 11,
+   "text": "Week 3 @betr picks:\n\n-DJ Turner locks up DK Metcalf\n-Oronde Gadsden might go for 300 yards let alone 36\n-Tetairoa McMillan \u2026 DAWG\n-Tyler Shough \u2026 GOOD at football https://t.co/05S8GkXaNL"
+  },
+  {
+   "id": "2104195264831803788",
+   "url": "https://x.com/GuruFantasyWrld/status/2104195264831803788",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.1,
+   "likes": 1781,
+   "text": "If Travis Etienne doesn\u2019t get his shit together today I\u2019m going to go outside &amp; light my neighbor\u2019s shed on fire"
+  },
+  {
+   "id": "2104196240808227099",
+   "url": "https://x.com/UnderdogNFL/status/2104196240808227099",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.9,
+   "likes": 1524,
+   "text": "Rap: Giants mulling QB options that includes\n\nJimmy Garoppolo\nGardner Minshew\nJJ McCarthy\nMac Jones\nJustin Fields"
+  },
+  {
+   "id": "2104223729492578385",
+   "url": "https://x.com/CoopAFiasco/status/2104223729492578385",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.8,
+   "likes": 1,
+   "text": "Fantasy Football Week 3 Start/Sit, Best Bets &amp; DFS Picks &amp; NFL Inactives with @coopafiasco &amp; @jimpemba777 https://t.co/mogm8Y49KV"
+  },
+  {
+   "id": "2104233271475277859",
+   "url": "https://x.com/Ihartitz/status/2104233271475277859",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.2,
+   "likes": 74,
+   "text": "Week 3 breakout fantasy football tight ends https://t.co/64KrraTlrl"
+  },
+  {
+   "id": "2104212293894410410",
+   "url": "https://x.com/SmolaDS/status/2104212293894410410",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.9,
+   "likes": 5,
+   "text": "Positional scoring from comparable games to Titans at Giants, based on the weather and over/under ... https://t.co/W3Clegiqb6"
+  },
+  {
+   "id": "2104189882948022748",
+   "url": "https://x.com/jagibbs_23/status/2104189882948022748",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.3,
+   "likes": 50,
+   "text": "Updated Week 3 Fantasy Football rankings - WR https://t.co/9H65XQPOxb"
+  },
+  {
+   "id": "2104188908179542186",
+   "url": "https://x.com/jagibbs_23/status/2104188908179542186",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.3,
+   "likes": 46,
+   "text": "Updated Week 3 Fantasy Football rankings - RB https://t.co/a4tAdxW6Yy"
+  },
+  {
+   "id": "2104190436533522918",
+   "url": "https://x.com/jagibbs_23/status/2104190436533522918",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.8,
+   "likes": 36,
+   "text": "Updated Week 3 Fantasy Football rankings - TE https://t.co/oQcixcKI6R"
+  },
+  {
+   "id": "2104216976629625111",
+   "url": "https://x.com/YahooFantasy/status/2104216976629625111",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.8,
+   "likes": 7,
+   "text": "Fantasy Football Live is back for Week 3 \ud83d\udd25 https://t.co/2kJzmYzLXv"
+  },
+  {
+   "id": "2104190733821333860",
+   "url": "https://x.com/jagibbs_23/status/2104190733821333860",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.7,
+   "likes": 33,
+   "text": "Updated Week 3 Fantasy Football rankings - QB https://t.co/CGk6EOaDIl"
+  },
+  {
+   "id": "2104231664570314959",
+   "url": "https://x.com/ffdataroma/status/2104231664570314959",
+   "handle": "ffdataroma",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.7,
+   "likes": 8,
+   "text": "A thread of my favorite matchup stats for Week 3\ud83e\uddf5\n\nData per @FantasyPtsData"
+  },
+  {
+   "id": "2104225481294000573",
+   "url": "https://x.com/YahooFantasy/status/2104225481294000573",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.3,
+   "likes": 1,
+   "text": "Last-minute pickups for Week 3 \ud83d\udea8 (via Fantasy Football Live)\n\n@JoshNorris | @justinboone https://t.co/D69Ht2P6a1"
+  },
+  {
+   "id": "2104227186362474703",
+   "url": "https://x.com/YahooFantasy/status/2104227186362474703",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 5,
+   "text": "Will the weather stop JSN this week? \ud83e\udd14\nhttps://t.co/UCe843ypQn"
+  },
+  {
+   "id": "2104232183712067653",
+   "url": "https://x.com/BuffaloBills/status/2104232183712067653",
+   "handle": "BuffaloBills",
+   "reason": "low_score(analysis_hype)",
+   "score": 11.6,
+   "likes": 293,
+   "text": "Today's inactives. #LACvsBUF https://t.co/df2EY57ufA"
+  },
+  {
+   "id": "2104232912988279072",
+   "url": "https://x.com/the_det_times/status/2104232912988279072",
+   "handle": "the_det_times",
+   "reason": "low_score(analysis_hype)",
+   "score": 7.8,
+   "likes": 57,
+   "text": "JUST IN: Lions CB Ennis Rakestraw Jr is ACTIVE for today\u2019s game vs. the Jets \ud83d\udc40 https://t.co/yYAaYgbEsq"
+  },
+  {
+   "id": "2104232309570310220",
+   "url": "https://x.com/ZackBlatt/status/2104232309570310220",
+   "handle": "ZackBlatt",
+   "reason": "low_score(analysis_hype)",
+   "score": 7.6,
+   "likes": 94,
+   "text": "Joe Ossai and D'Angelo Ponds are officially ACTIVE. Jets debuts for both."
+  },
+  {
+   "id": "2104206405146132716",
+   "url": "https://x.com/bet_105/status/2104206405146132716",
+   "handle": "bet_105",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.0,
+   "likes": 59,
+   "text": "\ud83d\udea8 AWESOME: Chargers TE Patrick Herbert, called up from the practice squad Saturday, gets his NFL debut today against Buffalo.\n\nThis marks the first NFL game Patrick and his older brother Justin Herbert will play in together. https://t.co/w2UUcGvjB2"
+  },
+  {
+   "id": "2104232355963834740",
+   "url": "https://x.com/BuffaloBillsPR/status/2104232355963834740",
+   "handle": "BuffaloBillsPR",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.8,
+   "likes": 120,
+   "text": "Gameday roster &amp; inactives \u2b07\ufe0f https://t.co/M5eviAlrEH"
+  },
+  {
+   "id": "2104233917951910361",
+   "url": "https://x.com/steelers/status/2104233917951910361",
+   "handle": "steelers",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.3,
+   "likes": 86,
+   "text": "Inactives for #CINvsPIT \u2935\ufe0f @UPMC \n\n\ud83d\udcdd: https://t.co/I66VWdUwqX https://t.co/bQCayooAMz"
+  },
+  {
+   "id": "2104232625963704351",
+   "url": "https://x.com/MiamiDolphins/status/2104232625963704351",
+   "handle": "MiamiDolphins",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.2,
+   "likes": 57,
+   "text": "Inactives for #KCvsMIA https://t.co/Ek3mKlTMCW"
+  },
+  {
+   "id": "2104220043407987112",
+   "url": "https://x.com/SmolaDS/status/2104220043407987112",
+   "handle": "SmolaDS",
+   "reason": "low_score(cold_water)",
+   "score": 17.5,
+   "likes": 4,
+   "text": "Updated implied totals + 3 games with weather concerns \u2935\ufe0f"
+  },
+  {
+   "id": "2104197364013527467",
+   "url": "https://x.com/trendscenterapp/status/2104197364013527467",
+   "handle": "trendscenterapp",
+   "reason": "promo",
+   "score": null,
+   "likes": 51,
+   "text": "\ud83d\udea8 26-1 NFL Trend Is Active \ud83d\udea8\n\n22 Wins In A Row \ud83d\udd25\n\n\ud83c\udf9f\ufe0f Want access to this & EVERY trend? Enter code SACK50 at checkout in the app to get 50% OFF your first month of Premium!\n\n\u27a1\ufe0f $\u03353\u03352\u0335.\u03359\u03359\u0335  $16.49 \n\u27a1\ufe0f 55 CENTS per day"
+  },
+  {
+   "id": "2104223590480580866",
+   "url": "https://x.com/CoopAFiasco/status/2104223590480580866",
+   "handle": "CoopAFiasco",
+   "reason": "pure_link",
+   "score": null,
+   "likes": 1,
+   "text": "https://t.co/mogm8Y3BVn"
+  },
+  {
+   "id": "2104231673986478240",
+   "url": "https://x.com/ffdataroma/status/2104231673986478240",
+   "handle": "ffdataroma",
+   "reason": "reply",
+   "score": null,
+   "likes": 1,
+   "text": "That\u2019s all I've got!\n\nYou can check out all of my written work and recommended plays for the week on my Substack: https://t.co/Y8p2sdoHAJ\n\nI also have weekly rankings, trade calculator, start/sit tool and more available on my site:\nhttps://t.co/m27z5ajyxK"
+  },
+  {
+   "id": "2104231675378933918",
+   "url": "https://x.com/ffdataroma/status/2104231675378933918",
+   "handle": "ffdataroma",
+   "reason": "reply",
+   "score": null,
+   "likes": 0,
+   "text": "The numbers in this thread were pulled from the incredible @FantasyPtsData Data Suite 2.0.\n\nIf you're interested in checking out their comprehensive data suite to pull more stats and data like this, you can use code DATAROMA at checkout for 10% off:\nhttps://t.co/hTI8JEqYCr"
+  },
+  {
+   "id": "2104185412986048914",
+   "url": "https://x.com/SmolaDS/status/2104185412986048914",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 1,
+   "text": "RT @DraftSharks: Caleb Williams Given 3-4 Week Timetable For Return\nhttps://t.co/SJfX4sa6oO"
+  },
+  {
+   "id": "2104177951671738440",
+   "url": "https://x.com/SmolaDS/status/2104177951671738440",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 5,
+   "text": "RT @DraftSharks: Puka Nacua Still Lacks Explosiveness, Surgery Remains Possible\nhttps://t.co/PlJmPWE35d"
+  },
+  {
+   "id": "2104178116302090678",
+   "url": "https://x.com/danorlovsky7/status/2104178116302090678",
+   "handle": "danorlovsky7",
+   "reason": "retweet",
+   "score": null,
+   "likes": 698,
+   "text": "RT @thewinningdiff1: You can hate the result and still honor the people who earned it.\nRespect doesn\u2019t end when the game does.\n\nAfter Ole M\u2026"
+  },
+  {
+   "id": "2104229084868006260",
+   "url": "https://x.com/YahooFantasy/status/2104229084868006260",
+   "handle": "YahooFantasy",
+   "reason": "retweet",
+   "score": null,
+   "likes": 3,
+   "text": "RT @YahooFantasyJH: Is Rashod Bateman a must-start if Zay Flowers misses Week 3? \ud83e\udd14 https://t.co/JJezSXtxUM"
+  },
+  {
+   "id": "2104224053087420888",
+   "url": "https://x.com/YahooFantasy/status/2104224053087420888",
+   "handle": "YahooFantasy",
+   "reason": "retweet",
+   "score": null,
+   "likes": 10,
+   "text": "RT @YahooFantasyJH: Should fantasy managers be starting Brock Bowers this week? https://t.co/JMy9wXs3sd"
+  },
+  {
+   "id": "2104212056413225275",
+   "url": "https://x.com/YahooFantasy/status/2104212056413225275",
+   "handle": "YahooFantasy",
+   "reason": "retweet",
+   "score": null,
+   "likes": 113,
+   "text": "RT @YahooSports: Bears QB Caleb Williams has a Grade 2 hamstring injury that doctors say could sideline him for 3-4 weeks, per @AdamSchefte\u2026"
+  },
+  {
+   "id": "2104212019193008521",
+   "url": "https://x.com/YahooFantasy/status/2104212019193008521",
+   "handle": "YahooFantasy",
+   "reason": "retweet",
+   "score": null,
+   "likes": 36,
+   "text": "RT @YahooSports: Rams wide receiver Puka Nacua has been dealing mainly with a groin injury that has impacted his explosiveness, per @AdamSc\u2026"
+  }
+ ]
+}

@@ -6,98 +6,98 @@
    "date": "2026-09-27T17:00Z",
    "spread": "BUF -7",
    "over_under": 50.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "CAR @ CLE",
    "date": "2026-09-27T17:00Z",
-   "spread": "CAR -1.5",
+   "spread": "CAR -2.5",
    "over_under": 41.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "NYJ @ DET",
    "date": "2026-09-27T17:00Z",
    "spread": "DET -6.5",
    "over_under": 48.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "HOU @ IND",
    "date": "2026-09-27T17:00Z",
    "spread": "HOU -1.5",
    "over_under": 42.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "KC @ MIA",
    "date": "2026-09-27T17:00Z",
-   "spread": "KC -9.5",
+   "spread": "KC -10",
    "over_under": 45.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "TEN @ NYG",
    "date": "2026-09-27T17:00Z",
    "spread": "NYG -2.5",
    "over_under": 37.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "CIN @ PIT",
    "date": "2026-09-27T17:00Z",
    "spread": "CIN -3.5",
    "over_under": 42.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "SEA @ WSH",
    "date": "2026-09-27T17:00Z",
    "spread": "SEA -8.5",
    "over_under": 40.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "NE @ JAX",
    "date": "2026-09-27T17:00Z",
    "spread": "JAX -3",
    "over_under": 45.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "ARI @ SF",
    "date": "2026-09-27T20:05Z",
    "spread": "SF -7.5",
    "over_under": 48.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "MIN @ TB",
    "date": "2026-09-27T20:05Z",
    "spread": "MIN -1.5",
    "over_under": 42.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "BAL VS DAL",
    "date": "2026-09-27T20:25Z",
    "spread": "BAL -3",
    "over_under": 53.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "LV @ NO",
    "date": "2026-09-27T20:25Z",
    "spread": "NO -3.5",
    "over_under": 43.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "LAR @ DEN",
    "date": "2026-09-28T00:20Z",
    "spread": "LAR -1.5",
    "over_under": 43.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "ATL @ GB",
@@ -111,7 +111,7 @@
    "date": "2026-09-29T00:15Z",
    "spread": "PHI -3.5",
    "over_under": 42.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   }
  ]
 }
