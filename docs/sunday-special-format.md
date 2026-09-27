@@ -73,6 +73,13 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
 - Dedupe vs. Wednesday's issue (exact tweet id + same-stat fuzzy).
 - Comment check via reply_sample on every near-pick.
 - Numbers sanity-check vs. known magnitudes.
+- **Team attribution (hard rule, added 9/27 after Kyler-to-MIN shipped wrong in
+  the Week 2 wire; same failure as Likely-to-NYG and Montgomery-off-DET):
+  a player's team NEVER comes from the model's memory.** Every named player in
+  the wire, matchup lab, designations, and streamers carries a team sourced
+  from (a) the quoted tweet's own text, or (b) a fresh web check. A tweet that
+  names a player without a team gets verified before the row is written — or
+  the team is omitted. 2026 rosters have moved too much for priors.
 - **Wire exhaustiveness + two-tier sourcing:** the wire is built efficiently in
   two passes. (1) **1:00 games — official only:** statuses come from each
   team's official inactives post (~11:30 ET, via the inactives sweep); these
