@@ -1,0 +1,117 @@
+{
+ "captured_at": "2026-09-30",
+ "games": [
+  {
+   "game": "PIT @ CLE",
+   "date": "2026-10-02T00:15Z",
+   "spread": "PIT -2.5",
+   "over_under": 38.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "IND VS WSH",
+   "date": "2026-10-04T13:30Z",
+   "spread": "IND -3.5",
+   "over_under": 47.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "NE @ BUF",
+   "date": "2026-10-04T17:00Z",
+   "spread": "BUF -6.5",
+   "over_under": 48.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "NYJ @ CHI",
+   "date": "2026-10-04T17:00Z",
+   "spread": "CHI -3.5",
+   "over_under": 43.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "JAX @ CIN",
+   "date": "2026-10-04T17:00Z",
+   "spread": "CIN -2.5",
+   "over_under": 51.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "ARI @ NYG",
+   "date": "2026-10-04T17:00Z",
+   "spread": "ARI -2.5",
+   "over_under": 44.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "LAR @ PHI",
+   "date": "2026-10-04T17:00Z",
+   "spread": "LAR -3",
+   "over_under": 43.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "GB @ TB",
+   "date": "2026-10-04T17:00Z",
+   "spread": "GB -3.5",
+   "over_under": 38.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "TEN @ BAL",
+   "date": "2026-10-04T17:00Z",
+   "spread": "BAL -11.5",
+   "over_under": 42.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "DAL @ HOU",
+   "date": "2026-10-04T17:00Z",
+   "spread": "HOU -3",
+   "over_under": 48.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "MIA @ MIN",
+   "date": "2026-10-04T20:05Z",
+   "spread": "MIN -10.5",
+   "over_under": 38.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "KC @ LV",
+   "date": "2026-10-04T20:25Z",
+   "spread": "KC -4.5",
+   "over_under": 47.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "DEN @ SF",
+   "date": "2026-10-04T20:25Z",
+   "spread": "SF -3",
+   "over_under": 47.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "LAC @ SEA",
+   "date": "2026-10-04T20:25Z",
+   "spread": "SEA -7",
+   "over_under": 42.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "DET @ CAR",
+   "date": "2026-10-05T00:20Z",
+   "spread": "DET -3.5",
+   "over_under": 51.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "ATL @ NO",
+   "date": "2026-10-06T00:15Z",
+   "spread": "NO -2.5",
+   "over_under": 47.5,
+   "provider": "DraftKings"
+  }
+ ]
+}
