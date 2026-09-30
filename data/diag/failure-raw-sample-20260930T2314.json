@@ -1,0 +1,1414 @@
+[
+ {
+  "noResults": true,
+  "error": true,
+  "code": "C017",
+  "message": "User: Underdog__NFL not found"
+ },
+ {
+  "type": "tweet",
+  "id": "2103867873487942133",
+  "url": "https://x.com/ffdataroma/status/2103867873487942133",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2103867873487942133",
+  "text": "RT @ffdataroma: Week 3: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
+  "fullText": "RT @ffdataroma: Week 3: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
+  "source": "Twitter Web App",
+  "retweetCount": 4,
+  "replyCount": 1,
+  "likeCount": 107,
+  "quoteCount": 0,
+  "viewCount": 50321,
+  "createdAt": "Sat Sep 26 15:22:43 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 68,
+  "isReply": false,
+  "conversationId": "2103867873487942133",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 20893,
+   "following": 432,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6671,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 809,
+   "statusesCount": 10291,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2103626027666673863"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "user_mentions": [
+    {
+     "id_str": "1673448826340798465",
+     "indices": [
+      3,
+      14
+     ],
+     "name": "Dataroma",
+     "screen_name": "ffdataroma"
+    }
+   ]
+  },
+  "isRetweet": true,
+  "retweet": {
+   "type": "tweet",
+   "id": "2103626027666673863",
+   "text": "Week 3: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
+   "source": "Twitter Web App",
+   "retweetCount": 4,
+   "replyCount": 1,
+   "likeCount": 107,
+   "quoteCount": 0,
+   "viewCount": 50321,
+   "createdAt": "Fri Sep 25 23:21:43 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 68,
+   "isPinned": true,
+   "author": {
+    "type": "user",
+    "userName": "ffdataroma",
+    "url": "https://x.com/ffdataroma",
+    "twitterUrl": "https://twitter.com/ffdataroma",
+    "id": "1673448826340798465",
+    "name": "Dataroma",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+    "location": "",
+    "followers": 20893,
+    "following": 432,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "beacons.ai/ffdataroma",
+        "expanded_url": "https://beacons.ai/ffdataroma",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/4QmVXjPECs"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6671,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 809,
+    "statusesCount": 10291,
+    "affiliatesHighlightedLabel": {
+     "label": {
+      "badge": {
+       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+      },
+      "description": "Sleeper",
+      "url": {
+       "url": "https://twitter.com/SleeperHQ",
+       "urlType": "DeepLink"
+      },
+      "userLabelDisplayType": "Badge",
+      "userLabelType": "BusinessLabel"
+     }
+    },
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2103626027666673863"
+    ],
+    "professional": {
+     "category": [],
+     "professional_type": "Creator",
+     "rest_id": "1689775700130095228"
+    }
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2103538409805361648",
+  "url": "https://x.com/ffdataroma/status/2103538409805361648",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2103538409805361648",
+  "text": "Matthew Golden and Christian Watson through 3 games, per @FantasyPtsData:\n\nTargets/game\n+ Golden: 9.3 (5th of 104* WRs)\n+ Watson: 9.0 (6th)\n\nYards/game\n+ Golden: 84.7 (11th)\n+ Watson: 94.7 (7th)\n\nExpected fantasy points/game\n+ Golden: 16.50 (12th)\n+ Watson: 18.47 (7th)\n\n*min 2 games played and 20 routes run",
+  "fullText": "Matthew Golden and Christian Watson through 3 games, per @FantasyPtsData:\n\nTargets/game\n+ Golden: 9.3 (5th of 104* WRs)\n+ Watson: 9.0 (6th)\n\nYards/game\n+ Golden: 84.7 (11th)\n+ Watson: 94.7 (7th)\n\nExpected fantasy points/game\n+ Golden: 16.50 (12th)\n+ Watson: 18.47 (7th)\n\n*min 2",
+  "source": "Twitter Web App",
+  "retweetCount": 7,
+  "replyCount": 4,
+  "likeCount": 286,
+  "quoteCount": 0,
+  "viewCount": 21920,
+  "createdAt": "Fri Sep 25 17:33:33 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 12,
+  "isReply": false,
+  "conversationId": "2103538409805361648",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 20893,
+   "following": 432,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6671,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 809,
+   "statusesCount": 10291,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2103626027666673863"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "id_str": "1512168033011306496",
+     "indices": [
+      57,
+      72
+     ],
+     "name": "Fantasy Points Data",
+     "screen_name": "FantasyPtsData"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2103315905543635380",
+  "url": "https://x.com/ffdataroma/status/2103315905543635380",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2103315905543635380",
+  "text": "\ud83d\ude2e\u200d\ud83d\udca8 https://t.co/TSGbIMia6g",
+  "fullText": "\ud83d\ude2e\u200d\ud83d\udca8 https://t.co/TSGbIMia6g",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1,
+  "replyCount": 0,
+  "likeCount": 91,
+  "quoteCount": 0,
+  "viewCount": 9580,
+  "createdAt": "Fri Sep 25 02:49:24 +0000 2026",
+  "lang": "qme",
+  "quoteId": "2103192107208839529",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2103315905543635380",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 20893,
+   "following": 432,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6671,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 809,
+   "statusesCount": 10291,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2103626027666673863"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/TSGbIMia6g",
+     "expanded_url": "https://x.com/ffdataroma/status/2103315905543635380/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "all": {
+       "tags": [
+        {
+         "name": "SleeperNFL",
+         "screen_name": "SleeperNFL",
+         "type": "user",
+         "user_id": "1636458552796520449"
+        }
+       ]
+      },
+      "large": {
+       "faces": [
+        {
+         "h": 177,
+         "w": 177,
+         "x": 106,
+         "y": 98
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 177,
+         "w": 177,
+         "x": 106,
+         "y": 98
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 177,
+         "w": 177,
+         "x": 106,
+         "y": 98
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 108,
+         "w": 108,
+         "x": 64,
+         "y": 60
+        }
+       ]
+      }
+     },
+     "id_str": "2103315901697208320",
+     "indices": [
+      4,
+      27
+     ],
+     "media_key": "3_2103315901697208320",
+     "media_results": {
+      "result": {
+       "media_key": "3_2103315901697208320"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HTB6qzMXsAAGg82.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 622,
+        "w": 1110,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 963,
+        "w": 963,
+        "x": 147,
+        "y": 0
+       },
+       {
+        "h": 963,
+        "w": 845,
+        "x": 215,
+        "y": 0
+       },
+       {
+        "h": 963,
+        "w": 482,
+        "x": 396,
+        "y": 0
+       },
+       {
+        "h": 963,
+        "w": 1110,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 963,
+      "width": 1110
+     },
+     "sizes": {
+      "large": {
+       "h": 963,
+       "resize": "fit",
+       "w": 1110
+      },
+      "medium": {
+       "h": 963,
+       "resize": "fit",
+       "w": 1110
+      },
+      "small": {
+       "h": 590,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/TSGbIMia6g"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/TSGbIMia6g",
+     "expanded_url": "https://x.com/ffdataroma/status/2103315905543635380/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "all": {
+       "tags": [
+        {
+         "name": "SleeperNFL",
+         "screen_name": "SleeperNFL",
+         "type": "user",
+         "user_id": "1636458552796520449"
+        }
+       ]
+      },
+      "large": {
+       "faces": [
+        {
+         "h": 177,
+         "w": 177,
+         "x": 106,
+         "y": 98
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 177,
+         "w": 177,
+         "x": 106,
+         "y": 98
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 177,
+         "w": 177,
+         "x": 106,
+         "y": 98
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 108,
+         "w": 108,
+         "x": 64,
+         "y": 60
+        }
+       ]
+      }
+     },
+     "id_str": "2103315901697208320",
+     "indices": [
+      4,
+      27
+     ],
+     "media_key": "3_2103315901697208320",
+     "media_results": {
+      "result": {
+       "media_key": "3_2103315901697208320"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HTB6qzMXsAAGg82.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 622,
+        "w": 1110,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 963,
+        "w": 963,
+        "x": 147,
+        "y": 0
+       },
+       {
+        "h": 963,
+        "w": 845,
+        "x": 215,
+        "y": 0
+       },
+       {
+        "h": 963,
+        "w": 482,
+        "x": 396,
+        "y": 0
+       },
+       {
+        "h": 963,
+        "w": 1110,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 963,
+      "width": 1110
+     },
+     "sizes": {
+      "large": {
+       "h": 963,
+       "resize": "fit",
+       "w": 1110
+      },
+      "medium": {
+       "h": 963,
+       "resize": "fit",
+       "w": 1110
+      },
+      "small": {
+       "h": 590,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/TSGbIMia6g"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "2103192107208839529",
+   "text": "Week 3 TNF Preview: ATL Falcons @ GB Packers\n\n\u2b07\ufe0f\ud83e\uddf5",
+   "source": "Twitter Web App",
+   "retweetCount": 2,
+   "replyCount": 3,
+   "likeCount": 40,
+   "quoteCount": 1,
+   "viewCount": 32478,
+   "createdAt": "Thu Sep 24 18:37:28 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 16,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "ffdataroma",
+    "url": "https://x.com/ffdataroma",
+    "twitterUrl": "https://twitter.com/ffdataroma",
+    "id": "1673448826340798465",
+    "name": "Dataroma",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+    "location": "",
+    "followers": 20893,
+    "following": 432,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "beacons.ai/ffdataroma",
+        "expanded_url": "https://beacons.ai/ffdataroma",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/4QmVXjPECs"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6671,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 809,
+    "statusesCount": 10291,
+    "affiliatesHighlightedLabel": {
+     "label": {
+      "badge": {
+       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+      },
+      "description": "Sleeper",
+      "url": {
+       "url": "https://twitter.com/SleeperHQ",
+       "urlType": "DeepLink"
+      },
+      "userLabelDisplayType": "Badge",
+      "userLabelType": "BusinessLabel"
+     }
+    },
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2103626027666673863"
+    ],
+    "professional": {
+     "category": [],
+     "professional_type": "Creator",
+     "rest_id": "1689775700130095228"
+    }
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "media": [
+   "https://pbs.twimg.com/media/HTB6qzMXsAAGg82.jpg"
+  ],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2103304469887005055",
+  "url": "https://x.com/ffdataroma/status/2103304469887005055",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2103304469887005055",
+  "text": "Golden backfield routes?? Sheesh",
+  "fullText": "Golden backfield routes?? Sheesh",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 2,
+  "likeCount": 148,
+  "quoteCount": 0,
+  "viewCount": 10272,
+  "createdAt": "Fri Sep 25 02:03:57 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2103304469887005055",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 20893,
+   "following": 432,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6671,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 809,
+   "statusesCount": 10291,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2103626027666673863"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2104231664570314959",
+  "url": "https://x.com/ffdataroma/status/2104231664570314959",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2104231664570314959",
+  "text": "A thread of my favorite matchup stats for Week 3\ud83e\uddf5\n\nData per @FantasyPtsData",
+  "fullText": "A thread of my favorite matchup stats for Week 3\ud83e\uddf5\n\nData per @FantasyPtsData",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 2,
+  "likeCount": 8,
+  "quoteCount": 0,
+  "viewCount": 2442,
+  "createdAt": "Sun Sep 27 15:28:18 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "2104231664570314959",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 20893,
+   "following": 432,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6671,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 809,
+   "statusesCount": 10291,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2103626027666673863"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "id_str": "1512168033011306496",
+     "indices": [
+      60,
+      75
+     ],
+     "name": "Fantasy Points Data",
+     "screen_name": "FantasyPtsData"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2104231673986478240",
+  "url": "https://x.com/ffdataroma/status/2104231673986478240",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2104231673986478240",
+  "text": "That\u2019s all I've got!\n\nYou can check out all of my written work and recommended plays for the week on my Substack: https://t.co/Y8p2sdoHAJ\n\nI also have weekly rankings, trade calculator, start/sit tool and more available on my site:\nhttps://t.co/m27z5ajyxK",
+  "fullText": "That\u2019s all I've got!\n\nYou can check out all of my written work and recommended plays for the week on my Substack: https://t.co/Y8p2sdoHAJ\n\nI also have weekly rankings, trade calculator, start/sit tool and more available on my site:\nhttps://t.co/m27z5ajyxK",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 970,
+  "createdAt": "Sun Sep 27 15:28:20 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2104231672300355739",
+  "conversationId": "2104231664570314959",
+  "inReplyToUserId": "1673448826340798465",
+  "inReplyToUsername": "ffdataroma",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 20893,
+   "following": 432,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6671,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 809,
+   "statusesCount": 10291,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2103626027666673863"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "ffdataroma.substack.com",
+     "expanded_url": "https://ffdataroma.substack.com",
+     "indices": [
+      114,
+      137
+     ],
+     "url": "https://t.co/Y8p2sdoHAJ"
+    },
+    {
+     "display_url": "ffdataroma.com",
+     "expanded_url": "https://ffdataroma.com/",
+     "indices": [
+      232,
+      255
+     ],
+     "url": "https://t.co/m27z5ajyxK"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2104231675378933918",
+  "url": "https://x.com/ffdataroma/status/2104231675378933918",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2104231675378933918",
+  "text": "The numbers in this thread were pulled from the incredible @FantasyPtsData Data Suite 2.0.\n\nIf you're interested in checking out their comprehensive data suite to pull more stats and data like this, you can use code DATAROMA at checkout for 10% off:\nhttps://t.co/hTI8JEqYCr",
+  "fullText": "The numbers in this thread were pulled from the incredible @FantasyPtsData Data Suite 2.0.\n\nIf you're interested in checking out their comprehensive data suite to pull more stats and data like this, you can use code DATAROMA at checkout for 10% off:\nhttps://t.co/hTI8JEqYCr",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 0,
+  "quoteCount": 0,
+  "viewCount": 914,
+  "createdAt": "Sun Sep 27 15:28:20 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2104231673986478240",
+  "conversationId": "2104231664570314959",
+  "inReplyToUserId": "1673448826340798465",
+  "inReplyToUsername": "ffdataroma",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 20893,
+   "following": 432,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6671,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 809,
+   "statusesCount": 10291,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2103626027666673863"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "fantasypoints.com/plans",
+     "expanded_url": "https://www.fantasypoints.com/plans",
+     "indices": [
+      250,
+      273
+     ],
+     "url": "https://t.co/hTI8JEqYCr"
+    }
+   ],
+   "user_mentions": [
+    {
+     "id_str": "1512168033011306496",
+     "indices": [
+      59,
+      74
+     ],
+     "name": "Fantasy Points Data",
+     "screen_name": "FantasyPtsData"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2103904116611383739",
+  "url": "https://x.com/ffdataroma/status/2103904116611383739",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2103904116611383739",
+  "text": "Week 3: Players that you should FADE\n\n\u2b07\ufe0f\ud83e\uddf5",
+  "fullText": "Week 3: Players that you should FADE\n\n\u2b07\ufe0f\ud83e\uddf5",
+  "source": "Twitter Web App",
+  "retweetCount": 2,
+  "replyCount": 3,
+  "likeCount": 54,
+  "quoteCount": 0,
+  "viewCount": 34763,
+  "createdAt": "Sat Sep 26 17:46:44 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 31,
+  "isReply": false,
+  "conversationId": "2103904116611383739",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 20893,
+   "following": 432,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6671,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 809,
+   "statusesCount": 10291,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2103626027666673863"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2103904120130195749",
+  "url": "https://x.com/ffdataroma/status/2103904120130195749",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2103904120130195749",
+  "text": "DK Metcalf\n\nDK has a really tough matchup in this one, as the Bengals have been quite good defending the perimeter over the past year plus, in large part due to CB1 DJ Turner. They allowed the 6th fewest YPG there in 2025, and have allowed the 9th fewest through 2 weeks of the 2026 season. DK has been out-wide on 80% of his routes this year.\n\nDK, who has been a relatively unimpressive target-earner for most of the past few years (0.22 TPRR since 2024), could struggle to get looks. That could be exacerbated by the Bengals\u2019 frequent 2-high looks (top 12 rate in 2026), where DK drops off from 0.22\u21920.19 TPRR since 2024 per @FantasyPtsData.\n\nThe Bengals have gotten a lot of pressure in 2026 (7th highest), which DK has been notably worse off against. Last year, he tanked from 1.98\u21920.85 YPRR and 0.23\u21920.08 TPRR when PIT was pressured (among the biggest drop-offs of any WR). With a seemingly much improved defense overall too (2nd in NFL in EPA/Play), it could be tough sledding for DK and this whole offense.\n\nThe Play: Under 52.5 rec yards, DFS fade",
+  "fullText": "DK Metcalf\n\nDK has a really tough matchup in this one, as the Bengals have been quite good defending the perimeter over the past year plus, in large part due to CB1 DJ Turner. They allowed the 6th fewest YPG there in 2025, and have allowed the 9th fewest through 2 weeks of the",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 6,
+  "quoteCount": 0,
+  "viewCount": 7845,
+  "createdAt": "Sat Sep 26 17:46:45 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": true,
+  "inReplyToId": "2103904118477619554",
+  "conversationId": "2103904116611383739",
+  "inReplyToUserId": "1673448826340798465",
+  "inReplyToUsername": "ffdataroma",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 20893,
+   "following": 432,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6671,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 809,
+   "statusesCount": 10291,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2103626027666673863"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "id_str": "1512168033011306496",
+     "indices": [
+      627,
+      642
+     ],
+     "name": "Fantasy Points Data",
+     "screen_name": "FantasyPtsData"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+ }
+]
