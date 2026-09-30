@@ -1,0 +1,1 @@
+collect job FAILED at Wed Sep 30 23:06:10 UTC 2026 — see failure-raw-sample-20260930T2306.json (all-mock guard or earlier error)
