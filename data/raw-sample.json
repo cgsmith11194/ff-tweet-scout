@@ -1,439 +1,248 @@
 [
  {
   "type": "tweet",
-  "id": "2106756525322559579",
-  "url": "https://x.com/Ihartitz/status/2106756525322559579",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106756525322559579",
-  "text": "The Seth McGowan underdog story! https://t.co/LcXtBqxAR9",
-  "fullText": "The Seth McGowan underdog story! https://t.co/LcXtBqxAR9",
+  "id": "2106760606988804170",
+  "url": "https://x.com/SmolaDS/status/2106760606988804170",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106760606988804170",
+  "text": "That's it for me here.\n\nIf you have more questions, check out the @DraftSharks Who to Start tool:  https://t.co/pEUSezLa36 https://t.co/rrAQqq1jL8",
+  "fullText": "That's it for me here.\n\nIf you have more questions, check out the @DraftSharks Who to Start tool:  https://t.co/pEUSezLa36 https://t.co/rrAQqq1jL8",
   "source": "",
-  "retweetCount": 4,
-  "replyCount": 8,
-  "likeCount": 145,
-  "quoteCount": 0,
-  "viewCount": 17256,
-  "createdAt": "Sun Oct 04 14:41:11 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 4,
-  "isReply": false,
-  "conversationId": "2106756525322559579",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 140634,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/LcXtBqxAR9",
-     "expanded_url": "https://x.com/Ihartitz/status/2106756525322559579/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2106756418090983424",
-     "indices": [
-      33,
-      56
-     ],
-     "media_key": "3_2106756418090983424",
-     "media_results": {
-      "result": {
-       "media_key": "3_2106756418090983424"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HTyzzNiWYAAZ_5O.png",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 338,
-        "w": 604,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 338,
-        "w": 338,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 338,
-        "w": 296,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 338,
-        "w": 169,
-        "x": 1,
-        "y": 0
-       },
-       {
-        "h": 338,
-        "w": 680,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 338,
-      "width": 680
-     },
-     "sizes": {
-      "large": {
-       "h": 338,
-       "resize": "fit",
-       "w": 680
-      },
-      "medium": {
-       "h": 338,
-       "resize": "fit",
-       "w": 680
-      },
-      "small": {
-       "h": 338,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/LcXtBqxAR9"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/LcXtBqxAR9",
-     "expanded_url": "https://x.com/Ihartitz/status/2106756525322559579/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2106756418090983424",
-     "indices": [
-      33,
-      56
-     ],
-     "media_key": "3_2106756418090983424",
-     "media_results": {
-      "result": {
-       "media_key": "3_2106756418090983424"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HTyzzNiWYAAZ_5O.png",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 338,
-        "w": 604,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 338,
-        "w": 338,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 338,
-        "w": 296,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 338,
-        "w": 169,
-        "x": 1,
-        "y": 0
-       },
-       {
-        "h": 338,
-        "w": 680,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 338,
-      "width": 680
-     },
-     "sizes": {
-      "large": {
-       "h": 338,
-       "resize": "fit",
-       "w": 680
-      },
-      "medium": {
-       "h": 338,
-       "resize": "fit",
-       "w": 680
-      },
-      "small": {
-       "h": 338,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/LcXtBqxAR9"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HTyzzNiWYAAZ_5O.png"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2106754694039339172",
-  "url": "https://x.com/Ihartitz/status/2106754694039339172",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106754694039339172",
-  "text": "Week 4 @betr picks!\n\n-Idk how many yards but expecting more Makai Lemon with Smith out\n-Wheels up for DJ Moore with Gonzo out\n-Coker (unlikely to play) still listed in the Betr streets!\n-QB rushing overs are a helluva drug\n\nhttps://t.co/G75tnNKUoe https://t.co/28xZbo0f5Q",
-  "fullText": "Week 4 @betr picks!\n\n-Idk how many yards but expecting more Makai Lemon with Smith out\n-Wheels up for DJ Moore with Gonzo out\n-Coker (unlikely to play) still listed in the Betr streets!\n-QB rushing overs are a helluva drug\n\nhttps://t.co/G75tnNKUoe https://t.co/28xZbo0f5Q",
-  "source": "",
-  "retweetCount": 1,
+  "retweetCount": 0,
   "replyCount": 0,
-  "likeCount": 5,
+  "likeCount": 2,
   "quoteCount": 0,
-  "viewCount": 9354,
-  "createdAt": "Sun Oct 04 14:33:55 +0000 2026",
+  "viewCount": 2231,
+  "createdAt": "Sun Oct 04 14:57:25 +0000 2026",
   "lang": "en",
+  "quoteId": "2106754408352821262",
   "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2106754694039339172",
+  "conversationId": "2106760606988804170",
   "possiblySensitive": false,
-  "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/Uk6u1BN2wp"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 140634,
+   "favouritesCount": 7221,
    "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
    "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
    "professional": {
     "category": [],
     "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
+    "rest_id": "1478847816713834516"
    }
   },
   "extendedEntities": {
    "media": [
     {
-     "display_url": "pic.x.com/28xZbo0f5Q",
-     "expanded_url": "https://x.com/Ihartitz/status/2106754694039339172/photo/1",
+     "display_url": "pic.x.com/rrAQqq1jL8",
+     "expanded_url": "https://x.com/SmolaDS/status/2106760606988804170/photo/1",
      "ext_media_availability": {
       "status": "Available"
      },
      "features": {
       "large": {
-       "faces": []
+       "faces": [
+        {
+         "h": 142,
+         "w": 142,
+         "x": 14,
+         "y": 315
+        },
+        {
+         "h": 160,
+         "w": 160,
+         "x": 449,
+         "y": 309
+        },
+        {
+         "h": 267,
+         "w": 267,
+         "x": 103,
+         "y": 322
+        }
+       ]
       },
       "medium": {
-       "faces": []
+       "faces": [
+        {
+         "h": 142,
+         "w": 142,
+         "x": 14,
+         "y": 315
+        },
+        {
+         "h": 160,
+         "w": 160,
+         "x": 449,
+         "y": 309
+        },
+        {
+         "h": 267,
+         "w": 267,
+         "x": 103,
+         "y": 322
+        }
+       ]
       },
       "orig": {
-       "faces": []
+       "faces": [
+        {
+         "h": 142,
+         "w": 142,
+         "x": 14,
+         "y": 315
+        },
+        {
+         "h": 160,
+         "w": 160,
+         "x": 449,
+         "y": 309
+        },
+        {
+         "h": 267,
+         "w": 267,
+         "x": 103,
+         "y": 322
+        }
+       ]
       },
       "small": {
-       "faces": []
+       "faces": [
+        {
+         "h": 108,
+         "w": 108,
+         "x": 10,
+         "y": 239
+        },
+        {
+         "h": 121,
+         "w": 121,
+         "x": 341,
+         "y": 235
+        },
+        {
+         "h": 203,
+         "w": 203,
+         "x": 78,
+         "y": 245
+        }
+       ]
       }
      },
-     "id_str": "2106754508038565890",
+     "id_str": "2106760599484919808",
      "indices": [
-      248,
-      271
+      123,
+      146
      ],
-     "media_key": "3_2106754508038565890",
+     "media_key": "3_2106760599484919808",
      "media_results": {
       "result": {
-       "media_key": "3_2106754508038565890"
+       "media_key": "3_2106760599484919808"
       }
      },
-     "media_url_https": "https://pbs.twimg.com/media/HTyyECCXcAIXsZ7.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/HTy3mmcWcAAs0em.jpg",
      "original_info": {
       "focus_rects": [
        {
-        "h": 655,
-        "w": 1170,
+        "h": 500,
+        "w": 893,
         "x": 0,
+        "y": 84
+       },
+       {
+        "h": 783,
+        "w": 783,
+        "x": 110,
         "y": 0
        },
        {
-        "h": 1170,
-        "w": 1170,
-        "x": 0,
+        "h": 783,
+        "w": 687,
+        "x": 206,
         "y": 0
        },
        {
-        "h": 1334,
-        "w": 1170,
-        "x": 0,
+        "h": 783,
+        "w": 392,
+        "x": 361,
         "y": 0
        },
        {
-        "h": 1521,
-        "w": 761,
-        "x": 205,
-        "y": 0
-       },
-       {
-        "h": 1521,
-        "w": 1170,
+        "h": 783,
+        "w": 893,
         "x": 0,
         "y": 0
        }
       ],
-      "height": 1521,
-      "width": 1170
+      "height": 783,
+      "width": 893
      },
      "sizes": {
       "large": {
-       "h": 1521,
+       "h": 783,
        "resize": "fit",
-       "w": 1170
+       "w": 893
       },
       "medium": {
-       "h": 1200,
+       "h": 783,
        "resize": "fit",
-       "w": 923
+       "w": 893
       },
       "small": {
-       "h": 680,
+       "h": 596,
        "resize": "fit",
-       "w": 523
+       "w": 680
       },
       "thumb": {
        "h": 150,
@@ -442,7 +251,7 @@
       }
      },
      "type": "photo",
-     "url": "https://t.co/28xZbo0f5Q"
+     "url": "https://t.co/rrAQqq1jL8"
     }
    ]
   },
@@ -451,88 +260,164 @@
   "entities": {
    "media": [
     {
-     "display_url": "pic.x.com/28xZbo0f5Q",
-     "expanded_url": "https://x.com/Ihartitz/status/2106754694039339172/photo/1",
+     "display_url": "pic.x.com/rrAQqq1jL8",
+     "expanded_url": "https://x.com/SmolaDS/status/2106760606988804170/photo/1",
      "ext_media_availability": {
       "status": "Available"
      },
      "features": {
       "large": {
-       "faces": []
+       "faces": [
+        {
+         "h": 142,
+         "w": 142,
+         "x": 14,
+         "y": 315
+        },
+        {
+         "h": 160,
+         "w": 160,
+         "x": 449,
+         "y": 309
+        },
+        {
+         "h": 267,
+         "w": 267,
+         "x": 103,
+         "y": 322
+        }
+       ]
       },
       "medium": {
-       "faces": []
+       "faces": [
+        {
+         "h": 142,
+         "w": 142,
+         "x": 14,
+         "y": 315
+        },
+        {
+         "h": 160,
+         "w": 160,
+         "x": 449,
+         "y": 309
+        },
+        {
+         "h": 267,
+         "w": 267,
+         "x": 103,
+         "y": 322
+        }
+       ]
       },
       "orig": {
-       "faces": []
+       "faces": [
+        {
+         "h": 142,
+         "w": 142,
+         "x": 14,
+         "y": 315
+        },
+        {
+         "h": 160,
+         "w": 160,
+         "x": 449,
+         "y": 309
+        },
+        {
+         "h": 267,
+         "w": 267,
+         "x": 103,
+         "y": 322
+        }
+       ]
       },
       "small": {
-       "faces": []
+       "faces": [
+        {
+         "h": 108,
+         "w": 108,
+         "x": 10,
+         "y": 239
+        },
+        {
+         "h": 121,
+         "w": 121,
+         "x": 341,
+         "y": 235
+        },
+        {
+         "h": 203,
+         "w": 203,
+         "x": 78,
+         "y": 245
+        }
+       ]
       }
      },
-     "id_str": "2106754508038565890",
+     "id_str": "2106760599484919808",
      "indices": [
-      248,
-      271
+      123,
+      146
      ],
-     "media_key": "3_2106754508038565890",
+     "media_key": "3_2106760599484919808",
      "media_results": {
       "result": {
-       "media_key": "3_2106754508038565890"
+       "media_key": "3_2106760599484919808"
       }
      },
-     "media_url_https": "https://pbs.twimg.com/media/HTyyECCXcAIXsZ7.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/HTy3mmcWcAAs0em.jpg",
      "original_info": {
       "focus_rects": [
        {
-        "h": 655,
-        "w": 1170,
+        "h": 500,
+        "w": 893,
         "x": 0,
+        "y": 84
+       },
+       {
+        "h": 783,
+        "w": 783,
+        "x": 110,
         "y": 0
        },
        {
-        "h": 1170,
-        "w": 1170,
-        "x": 0,
+        "h": 783,
+        "w": 687,
+        "x": 206,
         "y": 0
        },
        {
-        "h": 1334,
-        "w": 1170,
-        "x": 0,
+        "h": 783,
+        "w": 392,
+        "x": 361,
         "y": 0
        },
        {
-        "h": 1521,
-        "w": 761,
-        "x": 205,
-        "y": 0
-       },
-       {
-        "h": 1521,
-        "w": 1170,
+        "h": 783,
+        "w": 893,
         "x": 0,
         "y": 0
        }
       ],
-      "height": 1521,
-      "width": 1170
+      "height": 783,
+      "width": 893
      },
      "sizes": {
       "large": {
-       "h": 1521,
+       "h": 783,
        "resize": "fit",
-       "w": 1170
+       "w": 893
       },
       "medium": {
-       "h": 1200,
+       "h": 783,
        "resize": "fit",
-       "w": 923
+       "w": 893
       },
       "small": {
-       "h": 680,
+       "h": 596,
        "resize": "fit",
-       "w": 523
+       "w": 680
       },
       "thumb": {
        "h": 150,
@@ -541,1112 +426,292 @@
       }
      },
      "type": "photo",
-     "url": "https://t.co/28xZbo0f5Q"
+     "url": "https://t.co/rrAQqq1jL8"
     }
    ],
    "urls": [
     {
-     "display_url": "engagebetr.onelink.me/auSX/HARTITZ",
-     "expanded_url": "https://engagebetr.onelink.me/auSX/HARTITZ",
+     "display_url": "draftsharks.com/who-should-i-s\u2026",
+     "expanded_url": "https://www.draftsharks.com/who-should-i-start/ppr",
      "indices": [
-      224,
-      247
+      99,
+      122
      ],
-     "url": "https://t.co/G75tnNKUoe"
+     "url": "https://t.co/pEUSezLa36"
     }
    ],
    "user_mentions": [
     {
-     "id_str": "1100504595648995329",
+     "id_str": "27139191",
      "indices": [
-      7,
-      12
+      66,
+      78
      ],
-     "name": "betr",
-     "screen_name": "betr"
+     "name": "Draft Sharks",
+     "screen_name": "DraftSharks"
     }
    ]
   },
   "isRetweet": false,
-  "isQuote": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "2106754408352821262",
+   "text": "My daughters woke me up extra early today, so I have a few minutes to answer start/sit questions.\n\nShoot!",
+   "source": "",
+   "retweetCount": 0,
+   "replyCount": 69,
+   "likeCount": 13,
+   "quoteCount": 1,
+   "viewCount": 7476,
+   "createdAt": "Sun Oct 04 14:32:47 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 0,
+   "author": {
+    "type": "user",
+    "userName": "SmolaDS",
+    "url": "https://x.com/SmolaDS",
+    "twitterUrl": "https://twitter.com/SmolaDS",
+    "id": "2264500734",
+    "name": "Jared Smola",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+    "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+    "location": "Rochester, NY",
+    "followers": 42341,
+    "following": 1338,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "draftsharks.com",
+        "expanded_url": "http://www.draftsharks.com",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/Uk6u1BN2wp"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7221,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 2842,
+    "statusesCount": 36665,
+    "affiliatesHighlightedLabel": {
+     "label": {
+      "badge": {
+       "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+      },
+      "description": "Draft Sharks",
+      "url": {
+       "url": "https://twitter.com/DraftSharks",
+       "urlType": "DeepLink"
+      },
+      "userLabelDisplayType": "Badge",
+      "userLabelType": "BusinessLabel"
+     }
+    },
+    "possiblySensitive": false,
+    "professional": {
+     "category": [],
+     "professional_type": "Creator",
+     "rest_id": "1478847816713834516"
+    }
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
   "media": [
-   "https://pbs.twimg.com/media/HTyyECCXcAIXsZ7.jpg"
+   "https://pbs.twimg.com/media/HTy3mmcWcAAs0em.jpg"
   ],
   "videos": [],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2106753443775824369",
-  "url": "https://x.com/Ihartitz/status/2106753443775824369",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106753443775824369",
-  "text": "Hear me out https://t.co/HVQVH1n3rt",
-  "fullText": "Hear me out https://t.co/HVQVH1n3rt",
+  "id": "2106754408352821262",
+  "url": "https://x.com/SmolaDS/status/2106754408352821262",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106754408352821262",
+  "text": "My daughters woke me up extra early today, so I have a few minutes to answer start/sit questions.\n\nShoot!",
+  "fullText": "My daughters woke me up extra early today, so I have a few minutes to answer start/sit questions.\n\nShoot!",
   "source": "",
-  "retweetCount": 20,
-  "replyCount": 16,
-  "likeCount": 705,
-  "quoteCount": 4,
-  "viewCount": 23439,
-  "createdAt": "Sun Oct 04 14:28:57 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 2,
-  "isReply": false,
-  "conversationId": "2106753443775824369",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 140634,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/HVQVH1n3rt",
-     "expanded_url": "https://x.com/Ihartitz/status/2106753443775824369/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2106753437866000384",
-     "indices": [
-      12,
-      35
-     ],
-     "media_key": "3_2106753437866000384",
-     "media_results": {
-      "result": {
-       "media_key": "3_2106753437866000384"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HTyxFvVWAAAvXwn.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 840,
-        "w": 1500,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1000,
-        "w": 1000,
-        "x": 287,
-        "y": 0
-       },
-       {
-        "h": 1000,
-        "w": 877,
-        "x": 349,
-        "y": 0
-       },
-       {
-        "h": 1000,
-        "w": 500,
-        "x": 537,
-        "y": 0
-       },
-       {
-        "h": 1000,
-        "w": 1500,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1000,
-      "width": 1500
-     },
-     "sizes": {
-      "large": {
-       "h": 1000,
-       "resize": "fit",
-       "w": 1500
-      },
-      "medium": {
-       "h": 800,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 453,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/HVQVH1n3rt"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/HVQVH1n3rt",
-     "expanded_url": "https://x.com/Ihartitz/status/2106753443775824369/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2106753437866000384",
-     "indices": [
-      12,
-      35
-     ],
-     "media_key": "3_2106753437866000384",
-     "media_results": {
-      "result": {
-       "media_key": "3_2106753437866000384"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HTyxFvVWAAAvXwn.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 840,
-        "w": 1500,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1000,
-        "w": 1000,
-        "x": 287,
-        "y": 0
-       },
-       {
-        "h": 1000,
-        "w": 877,
-        "x": 349,
-        "y": 0
-       },
-       {
-        "h": 1000,
-        "w": 500,
-        "x": 537,
-        "y": 0
-       },
-       {
-        "h": 1000,
-        "w": 1500,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1000,
-      "width": 1500
-     },
-     "sizes": {
-      "large": {
-       "h": 1000,
-       "resize": "fit",
-       "w": 1500
-      },
-      "medium": {
-       "h": 800,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 453,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/HVQVH1n3rt"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HTyxFvVWAAAvXwn.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2106751850066190714",
-  "url": "https://x.com/Ihartitz/status/2106751850066190714",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106751850066190714",
-  "text": "Let\u2019s let Carly Irsay-Gordon call plays and see what happens https://t.co/C715ZbQfLN",
-  "fullText": "Let\u2019s let Carly Irsay-Gordon call plays and see what happens https://t.co/C715ZbQfLN",
-  "source": "",
-  "retweetCount": 18,
-  "replyCount": 35,
-  "likeCount": 697,
-  "quoteCount": 11,
-  "viewCount": 38860,
-  "createdAt": "Sun Oct 04 14:22:37 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 14,
-  "isReply": false,
-  "conversationId": "2106751850066190714",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 140634,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/C715ZbQfLN",
-     "expanded_url": "https://x.com/Ihartitz/status/2106751850066190714/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2106751845884391424",
-     "indices": [
-      61,
-      84
-     ],
-     "media_key": "3_2106751845884391424",
-     "media_results": {
-      "result": {
-       "media_key": "3_2106751845884391424"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HTyvpEvWcAAwGTa.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 1147,
-        "w": 2048,
-        "x": 0,
-        "y": 640
-       },
-       {
-        "h": 1787,
-        "w": 1787,
-        "x": 79,
-        "y": 0
-       },
-       {
-        "h": 1787,
-        "w": 1568,
-        "x": 188,
-        "y": 0
-       },
-       {
-        "h": 1787,
-        "w": 894,
-        "x": 525,
-        "y": 0
-       },
-       {
-        "h": 1787,
-        "w": 2048,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1787,
-      "width": 2048
-     },
-     "sizes": {
-      "large": {
-       "h": 1787,
-       "resize": "fit",
-       "w": 2048
-      },
-      "medium": {
-       "h": 1047,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 593,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/C715ZbQfLN"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/C715ZbQfLN",
-     "expanded_url": "https://x.com/Ihartitz/status/2106751850066190714/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2106751845884391424",
-     "indices": [
-      61,
-      84
-     ],
-     "media_key": "3_2106751845884391424",
-     "media_results": {
-      "result": {
-       "media_key": "3_2106751845884391424"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HTyvpEvWcAAwGTa.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 1147,
-        "w": 2048,
-        "x": 0,
-        "y": 640
-       },
-       {
-        "h": 1787,
-        "w": 1787,
-        "x": 79,
-        "y": 0
-       },
-       {
-        "h": 1787,
-        "w": 1568,
-        "x": 188,
-        "y": 0
-       },
-       {
-        "h": 1787,
-        "w": 894,
-        "x": 525,
-        "y": 0
-       },
-       {
-        "h": 1787,
-        "w": 2048,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1787,
-      "width": 2048
-     },
-     "sizes": {
-      "large": {
-       "h": 1787,
-       "resize": "fit",
-       "w": 2048
-      },
-      "medium": {
-       "h": 1047,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 593,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/C715ZbQfLN"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HTyvpEvWcAAwGTa.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2106748628723237115",
-  "url": "https://x.com/Ihartitz/status/2106748628723237115",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106748628723237115",
-  "text": "Colts offense in the 1st quarter:\n\n10 Daniel Jones dropbacks: 7 yards and a lost fumble\n3 Jonathan Taylor runs: 13 yards",
-  "fullText": "Colts offense in the 1st quarter:\n\n10 Daniel Jones dropbacks: 7 yards and a lost fumble\n3 Jonathan Taylor runs: 13 yards",
-  "source": "",
-  "retweetCount": 19,
-  "replyCount": 12,
-  "likeCount": 411,
-  "quoteCount": 9,
-  "viewCount": 80643,
-  "createdAt": "Sun Oct 04 14:09:49 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 5,
-  "isReply": false,
-  "conversationId": "2106748628723237115",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 140634,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2106745787199733823",
-  "url": "https://x.com/Ihartitz/status/2106745787199733823",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106745787199733823",
-  "text": "https://t.co/n7IsuACB6K",
-  "fullText": "https://t.co/n7IsuACB6K",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 4,
-  "likeCount": 217,
+  "retweetCount": 0,
+  "replyCount": 69,
+  "likeCount": 13,
   "quoteCount": 1,
-  "viewCount": 15023,
-  "createdAt": "Sun Oct 04 13:58:31 +0000 2026",
-  "lang": "zxx",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "conversationId": "2106745787199733823",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 140634,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/n7IsuACB6K",
-     "expanded_url": "https://x.com/Ihartitz/status/2106745787199733823/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2106745769516474368",
-     "indices": [
-      0,
-      23
-     ],
-     "media_key": "3_2106745769516474368",
-     "media_results": {
-      "result": {
-       "media_key": "3_2106745769516474368"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HTyqHYgWIAAH0GU.png",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 261,
-        "w": 466,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 261,
-        "w": 261,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 261,
-        "w": 229,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 261,
-        "w": 131,
-        "x": 19,
-        "y": 0
-       },
-       {
-        "h": 261,
-        "w": 680,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 261,
-      "width": 680
-     },
-     "sizes": {
-      "large": {
-       "h": 261,
-       "resize": "fit",
-       "w": 680
-      },
-      "medium": {
-       "h": 261,
-       "resize": "fit",
-       "w": 680
-      },
-      "small": {
-       "h": 261,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/n7IsuACB6K"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/n7IsuACB6K",
-     "expanded_url": "https://x.com/Ihartitz/status/2106745787199733823/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2106745769516474368",
-     "indices": [
-      0,
-      23
-     ],
-     "media_key": "3_2106745769516474368",
-     "media_results": {
-      "result": {
-       "media_key": "3_2106745769516474368"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HTyqHYgWIAAH0GU.png",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 261,
-        "w": 466,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 261,
-        "w": 261,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 261,
-        "w": 229,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 261,
-        "w": 131,
-        "x": 19,
-        "y": 0
-       },
-       {
-        "h": 261,
-        "w": 680,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 261,
-      "width": 680
-     },
-     "sizes": {
-      "large": {
-       "h": 261,
-       "resize": "fit",
-       "w": 680
-      },
-      "medium": {
-       "h": 261,
-       "resize": "fit",
-       "w": 680
-      },
-      "small": {
-       "h": 261,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/n7IsuACB6K"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HTyqHYgWIAAH0GU.png"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2106745269857447970",
-  "url": "https://x.com/Ihartitz/status/2106745269857447970",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106745269857447970",
-  "text": "Daniel Jones isn't doing a good job of taking care of the football, is panicking under pressure and either doesn't have the mobility we've seen in the past or isn't really about using it.",
-  "fullText": "Daniel Jones isn't doing a good job of taking care of the football, is panicking under pressure and either doesn't have the mobility we've seen in the past or isn't really about using it.",
-  "source": "",
-  "retweetCount": 5,
-  "replyCount": 27,
-  "likeCount": 347,
-  "quoteCount": 3,
-  "viewCount": 25182,
-  "createdAt": "Sun Oct 04 13:56:28 +0000 2026",
+  "viewCount": 7476,
+  "createdAt": "Sun Oct 04 14:32:47 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 2,
-  "isReply": false,
-  "conversationId": "2106745269857447970",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 140634,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2106739992206704918",
-  "url": "https://x.com/Ihartitz/status/2106739992206704918",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106739992206704918",
-  "text": "That's 0 points in Madden's pocket presence drill",
-  "fullText": "That's 0 points in Madden's pocket presence drill",
-  "source": "",
-  "retweetCount": 8,
-  "replyCount": 4,
-  "likeCount": 280,
-  "quoteCount": 0,
-  "viewCount": 22190,
-  "createdAt": "Sun Oct 04 13:35:30 +0000 2026",
-  "lang": "en",
-  "quoteId": "2106739792222335454",
   "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2106739992206704918",
-  "isPinned": false,
+  "conversationId": "2106754408352821262",
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/Uk6u1BN2wp"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 140634,
+   "favouritesCount": 7221,
    "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
    "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
    "professional": {
     "category": [],
     "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
+    "rest_id": "1478847816713834516"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2106744886456148087",
+  "url": "https://x.com/SmolaDS/status/2106744886456148087",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106744886456148087",
+  "text": "Updated with fresh implied totals \u2b07\ufe0f",
+  "fullText": "Updated with fresh implied totals \u2b07\ufe0f",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 3700,
+  "createdAt": "Sun Oct 04 13:54:57 +0000 2026",
+  "lang": "en",
+  "quoteId": "2105646625825689856",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2106744886456148087",
+  "author": {
+   "type": "user",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/Uk6u1BN2wp"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 7221,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1478847816713834516"
    }
   },
   "extendedEntities": {},
@@ -1657,122 +722,158 @@
   "isQuote": true,
   "quote": {
    "type": "tweet",
-   "id": "2106739792222335454",
-   "text": "The @Commanders defense recovers the fumble on the first drive of the game! \n\n@INDvsWAS on NFL Network\nStream on @NFLPlus https://t.co/6nezOvIvJN",
+   "id": "2105646625825689856",
+   "text": "Week 4 Matchups That Matter \u270d\ufe0f\n\nWeek 4 sets up for huge outings from some of fantasy\u2019s elite RBs. But which less-obvious players are set up to help your fantasy team? \n\nLet's dig into the key Week 4 matchups:\nhttps://t.co/mUOFCzpILv https://t.co/NEF9BLvAt7",
    "source": "",
-   "retweetCount": 90,
-   "replyCount": 66,
-   "likeCount": 749,
-   "quoteCount": 67,
-   "viewCount": 544941,
-   "createdAt": "Sun Oct 04 13:34:42 +0000 2026",
+   "retweetCount": 4,
+   "replyCount": 0,
+   "likeCount": 4,
+   "quoteCount": 1,
+   "viewCount": 6844,
+   "createdAt": "Thu Oct 01 13:10:51 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 37,
+   "bookmarkCount": 5,
    "possiblySensitive": false,
    "author": {
     "type": "user",
-    "userName": "NFL",
-    "url": "https://x.com/NFL",
-    "twitterUrl": "https://twitter.com/NFL",
-    "id": "19426551",
-    "name": "NFL",
+    "userName": "DraftSharks",
+    "url": "https://x.com/DraftSharks",
+    "twitterUrl": "https://twitter.com/DraftSharks",
+    "id": "27139191",
+    "name": "Draft Sharks",
     "isVerified": false,
     "verifiedType": "Business",
     "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/19426551/1790698821",
-    "description": "football is in the air",
-    "location": "",
-    "followers": 36956110,
-    "following": 2804,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/27139191/1782225830",
+    "description": "Dominate Your Draft with our Award-Winning Fantasy Football Analysis. \n\nMulti-Year Draft Rankings Accuracy Winner.\n\nYour Unfair Advantage Since 1999. \ud83c\udfc6",
+    "location": "Rochester, NY",
+    "followers": 23340,
+    "following": 822,
     "protected": false,
     "status": "",
-    "canDm": false,
+    "canDm": true,
     "canMediaTag": true,
-    "createdAt": "Sat Jan 24 01:28:06 +0000 2009",
+    "createdAt": "Sat Mar 28 00:34:52 +0000 2009",
     "entities": {
      "description": {},
      "url": {
       "urls": [
        {
-        "display_url": "linktr.ee/nfl",
-        "expanded_url": "https://linktr.ee/nfl",
+        "display_url": "draftsharks.com",
+        "expanded_url": "http://www.draftsharks.com",
         "indices": [
          0,
          23
         ],
-        "url": "https://t.co/5ianypESib"
+        "url": "https://t.co/OO5p0AHIgU"
        }
       ]
      }
     },
     "fastFollowersCount": 0,
-    "favouritesCount": 4638,
+    "favouritesCount": 1771,
     "hasCustomTimelines": true,
     "isTranslator": false,
-    "mediaCount": 158382,
-    "statusesCount": 307269,
+    "mediaCount": 8415,
+    "statusesCount": 28705,
     "affiliatesHighlightedLabel": {},
     "possiblySensitive": false,
     "professional": {
      "category": [
       {
        "icon_name": "IconBriefcaseStroke",
-       "id": 1003,
-       "name": "Professional Sports League"
+       "id": 579,
+       "name": "Media & News"
       }
      ],
      "professional_type": "Business",
-     "rest_id": "1559645300599373824"
+     "rest_id": "1524700375324020736"
     }
    },
    "extendedEntities": {
     "media": [
      {
-      "additional_media_info": {
-       "description": "",
-       "embeddable": false,
-       "monetizable": true,
-       "title": ""
-      },
-      "allow_download_status": {
-       "allow_download": false
-      },
-      "display_url": "pic.x.com/6nezOvIvJN",
-      "expanded_url": "https://x.com/NFL/status/2106739792222335454/video/1",
+      "display_url": "pic.x.com/NEF9BLvAt7",
+      "expanded_url": "https://x.com/DraftSharks/status/2105646625825689856/photo/1",
       "ext_media_availability": {
        "status": "Available"
       },
-      "id_str": "2106739635548299264",
-      "indices": [
-       122,
-       145
-      ],
-      "media_key": "13_2106739635548299264",
-      "media_results": {
-       "result": {
-        "media_key": "13_2106739635548299264"
+      "features": {
+       "large": {
+        "faces": []
+       },
+       "medium": {
+        "faces": []
+       },
+       "orig": {
+        "faces": []
+       },
+       "small": {
+        "faces": []
        }
       },
-      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2106739635548299264/img/adMjP2qhhbxPE2cK.jpg",
+      "id_str": "2105646621895671808",
+      "indices": [
+       233,
+       256
+      ],
+      "media_key": "3_2105646621895671808",
+      "media_results": {
+       "result": {
+        "media_key": "3_2105646621895671808"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/media/HTjCckiXwAAaFxC.jpg",
       "original_info": {
-       "focus_rects": [],
-       "height": 1080,
-       "width": 1920
+       "focus_rects": [
+        {
+         "h": 560,
+         "w": 1000,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 667,
+         "w": 667,
+         "x": 92,
+         "y": 0
+        },
+        {
+         "h": 667,
+         "w": 585,
+         "x": 133,
+         "y": 0
+        },
+        {
+         "h": 667,
+         "w": 334,
+         "x": 258,
+         "y": 0
+        },
+        {
+         "h": 667,
+         "w": 1000,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 667,
+       "width": 1000
       },
       "sizes": {
        "large": {
-        "h": 1080,
+        "h": 667,
         "resize": "fit",
-        "w": 1920
+        "w": 1000
        },
        "medium": {
-        "h": 675,
+        "h": 667,
         "resize": "fit",
-        "w": 1200
+        "w": 1000
        },
        "small": {
-        "h": 383,
+        "h": 454,
         "resize": "fit",
         "w": 680
        },
@@ -1782,41 +883,8 @@
         "w": 150
        }
       },
-      "type": "video",
-      "url": "https://t.co/6nezOvIvJN",
-      "video_info": {
-       "aspect_ratio": [
-        16,
-        9
-       ],
-       "duration_millis": 9120,
-       "variants": [
-        {
-         "content_type": "application/x-mpegURL",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/pl/yTGiOcYWLP2nJBcO.m3u8?tag=29"
-        },
-        {
-         "bitrate": 256000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/vid/avc1/480x270/Lpp9Pl7ZtBU0m-J6.mp4?tag=29"
-        },
-        {
-         "bitrate": 832000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/vid/avc1/640x360/pGVTfAUtU28ST4lg.mp4?tag=29"
-        },
-        {
-         "bitrate": 2176000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/vid/avc1/1280x720/z8AC2b2DkIkllL0j.mp4?tag=29"
-        },
-        {
-         "bitrate": 10368000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/vid/avc1/1920x1080/fAsA4riy7_Mfz5Tu.mp4?tag=29"
-        }
-       ]
-      }
+      "type": "photo",
+      "url": "https://t.co/NEF9BLvAt7"
      }
     ]
    },
@@ -1825,50 +893,86 @@
    "entities": {
     "media": [
      {
-      "additional_media_info": {
-       "description": "",
-       "embeddable": false,
-       "monetizable": true,
-       "title": ""
-      },
-      "allow_download_status": {
-       "allow_download": false
-      },
-      "display_url": "pic.x.com/6nezOvIvJN",
-      "expanded_url": "https://x.com/NFL/status/2106739792222335454/video/1",
+      "display_url": "pic.x.com/NEF9BLvAt7",
+      "expanded_url": "https://x.com/DraftSharks/status/2105646625825689856/photo/1",
       "ext_media_availability": {
        "status": "Available"
       },
-      "id_str": "2106739635548299264",
-      "indices": [
-       122,
-       145
-      ],
-      "media_key": "13_2106739635548299264",
-      "media_results": {
-       "result": {
-        "media_key": "13_2106739635548299264"
+      "features": {
+       "large": {
+        "faces": []
+       },
+       "medium": {
+        "faces": []
+       },
+       "orig": {
+        "faces": []
+       },
+       "small": {
+        "faces": []
        }
       },
-      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2106739635548299264/img/adMjP2qhhbxPE2cK.jpg",
+      "id_str": "2105646621895671808",
+      "indices": [
+       233,
+       256
+      ],
+      "media_key": "3_2105646621895671808",
+      "media_results": {
+       "result": {
+        "media_key": "3_2105646621895671808"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/media/HTjCckiXwAAaFxC.jpg",
       "original_info": {
-       "focus_rects": [],
-       "height": 1080,
-       "width": 1920
+       "focus_rects": [
+        {
+         "h": 560,
+         "w": 1000,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 667,
+         "w": 667,
+         "x": 92,
+         "y": 0
+        },
+        {
+         "h": 667,
+         "w": 585,
+         "x": 133,
+         "y": 0
+        },
+        {
+         "h": 667,
+         "w": 334,
+         "x": 258,
+         "y": 0
+        },
+        {
+         "h": 667,
+         "w": 1000,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 667,
+       "width": 1000
       },
       "sizes": {
        "large": {
-        "h": 1080,
+        "h": 667,
         "resize": "fit",
-        "w": 1920
+        "w": 1000
        },
        "medium": {
-        "h": 675,
+        "h": 667,
         "resize": "fit",
-        "w": 1200
+        "w": 1000
        },
        "small": {
-        "h": 383,
+        "h": 454,
         "resize": "fit",
         "w": 680
        },
@@ -1878,70 +982,19 @@
         "w": 150
        }
       },
-      "type": "video",
-      "url": "https://t.co/6nezOvIvJN",
-      "video_info": {
-       "aspect_ratio": [
-        16,
-        9
-       ],
-       "duration_millis": 9120,
-       "variants": [
-        {
-         "content_type": "application/x-mpegURL",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/pl/yTGiOcYWLP2nJBcO.m3u8?tag=29"
-        },
-        {
-         "bitrate": 256000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/vid/avc1/480x270/Lpp9Pl7ZtBU0m-J6.mp4?tag=29"
-        },
-        {
-         "bitrate": 832000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/vid/avc1/640x360/pGVTfAUtU28ST4lg.mp4?tag=29"
-        },
-        {
-         "bitrate": 2176000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/vid/avc1/1280x720/z8AC2b2DkIkllL0j.mp4?tag=29"
-        },
-        {
-         "bitrate": 10368000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2106739635548299264/vid/avc1/1920x1080/fAsA4riy7_Mfz5Tu.mp4?tag=29"
-        }
-       ]
-      }
+      "type": "photo",
+      "url": "https://t.co/NEF9BLvAt7"
      }
     ],
-    "user_mentions": [
+    "urls": [
      {
-      "id_str": "36375662",
+      "display_url": "draftsharks.com/article/fantas\u2026",
+      "expanded_url": "https://www.draftsharks.com/article/fantasy-football-matchups-that-matter-week-4",
       "indices": [
-       4,
-       15
+       209,
+       232
       ],
-      "name": "Washington Commanders",
-      "screen_name": "Commanders"
-     },
-     {
-      "id_str": "2090620826970185728",
-      "indices": [
-       78,
-       87
-      ],
-      "name": "Colts at Commanders",
-      "screen_name": "INDvsWAS"
-     },
-     {
-      "id_str": "771160003793170432",
-      "indices": [
-       113,
-       121
-      ],
-      "name": "NFL+",
-      "screen_name": "NFLPlus"
+      "url": "https://t.co/mUOFCzpILv"
      }
     ]
    }
@@ -1952,191 +1005,739 @@
  },
  {
   "type": "tweet",
-  "id": "2106559424416665861",
-  "url": "https://x.com/Ihartitz/status/2106559424416665861",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106559424416665861",
-  "text": "Name a random NFL cornerback https://t.co/gGZU5r6kqR",
-  "fullText": "Name a random NFL cornerback https://t.co/gGZU5r6kqR",
+  "id": "2106731369762062552",
+  "url": "https://x.com/SmolaDS/status/2106731369762062552",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106731369762062552",
+  "text": "If you're worried about the weather for Lions-Panthers tonight ... \n\nThat over/under has climbed from 51.0 to 51.5.",
+  "fullText": "If you're worried about the weather for Lions-Panthers tonight ... \n\nThat over/under has climbed from 51.0 to 51.5.",
   "source": "",
   "retweetCount": 0,
-  "replyCount": 99,
-  "likeCount": 248,
-  "quoteCount": 1,
-  "viewCount": 30643,
-  "createdAt": "Sun Oct 04 01:37:59 +0000 2026",
+  "replyCount": 5,
+  "likeCount": 71,
+  "quoteCount": 0,
+  "viewCount": 10527,
+  "createdAt": "Sun Oct 04 13:01:14 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 3,
+  "bookmarkCount": 1,
   "isReply": false,
-  "conversationId": "2106559424416665861",
-  "possiblySensitive": false,
-  "isPinned": false,
+  "conversationId": "2106731369762062552",
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/Uk6u1BN2wp"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 140634,
+   "favouritesCount": 7221,
    "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
    "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
    "professional": {
     "category": [],
     "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
+    "rest_id": "1478847816713834516"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2106716911195308035",
+  "url": "https://x.com/SmolaDS/status/2106716911195308035",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106716911195308035",
+  "text": "4 RBs active for Washington today:\n\nJacory Croskey-Merritt\nKaytron Allen\nAustin Ekeler\nCraig Reynolds",
+  "fullText": "4 RBs active for Washington today:\n\nJacory Croskey-Merritt\nKaytron Allen\nAustin Ekeler\nCraig Reynolds",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 2,
+  "likeCount": 31,
+  "quoteCount": 0,
+  "viewCount": 9370,
+  "createdAt": "Sun Oct 04 12:03:47 +0000 2026",
+  "lang": "en",
+  "quoteId": "2106716466762358929",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2106716911195308035",
+  "author": {
+   "type": "user",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/Uk6u1BN2wp"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 7221,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1478847816713834516"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "2106716466762358929",
+   "text": "#INDvsWAS inactives",
+   "source": "",
+   "retweetCount": 74,
+   "replyCount": 55,
+   "likeCount": 610,
+   "quoteCount": 69,
+   "viewCount": 120939,
+   "createdAt": "Sun Oct 04 12:02:01 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 23,
+   "author": {
+    "type": "user",
+    "userName": "Commanders",
+    "url": "https://x.com/Commanders",
+    "twitterUrl": "https://twitter.com/Commanders",
+    "id": "36375662",
+    "name": "Washington Commanders",
+    "isVerified": false,
+    "verifiedType": "Business",
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2043720907617632256/ceXYRByJ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/36375662/1790651221",
+    "description": "#RaiseHail",
+    "location": "",
+    "followers": 1349919,
+    "following": 326,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 29 14:53:00 +0000 2009",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "linktr.ee/washingtoncomm\u2026",
+        "expanded_url": "http://linktr.ee/washingtoncommanders",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/4Q7yvw4AFz"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14282,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 37432,
+    "statusesCount": 85128,
+    "affiliatesHighlightedLabel": {
+     "label": {
+      "badge": {
+       "url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_bigger.jpg"
+      },
+      "description": "NFL",
+      "url": {
+       "url": "https://twitter.com/NFL",
+       "urlType": "DeepLink"
+      },
+      "userLabelDisplayType": "Badge",
+      "userLabelType": "BusinessLabel"
+     }
+    },
+    "possiblySensitive": false
+   },
+   "extendedEntities": {},
+   "card": {
+    "legacy": {
+     "binding_values": [
+      {
+       "key": "unified_card",
+       "value": {
+        "string_value": "{\"type\":\"image_website\",\"component_objects\":{\"details_1\":{\"type\":\"details\",\"data\":{\"title\":{\"content\":\"\\u200B\",\"is_rtl\":false},\"subtitle\":{\"content\":\"commanders.com\",\"is_rtl\":false},\"destination\":\"browser_1\"}},\"media_1\":{\"type\":\"media\",\"data\":{\"id\":\"3_2106716135500460032\",\"destination\":\"browser_1\"}}},\"destination_objects\":{\"browser_1\":{\"type\":\"browser\",\"data\":{\"url_data\":{\"url\":\"https://www.commanders.com/news/inactives-commanders-vs-colts-week-4-2026\",\"vanity\":\"commanders.com\"}}}},\"components\":[\"media_1\",\"details_1\"],\"media_entities\":{\"3_2106716135500460032\":{\"id\":2106716135500460032,\"id_str\":\"2106716135500460032\",\"indices\":[0,0],\"media_url\":\"\",\"media_url_https\":\"https://pbs.twimg.com/media/HTyPKdMWsAA3G0e.jpg\",\"url\":\"\",\"display_url\":\"\",\"expanded_url\":\"\",\"type\":\"photo\",\"original_info\":{\"width\":2400,\"height\":3000,\"focus_rects\":[{\"x\":0,\"y\":603,\"h\":1344,\"w\":2400},{\"x\":0,\"y\":75,\"h\":2400,\"w\":2400},{\"x\":0,\"y\":0,\"h\":2736,\"w\":2400},{\"x\":450,\"y\":0,\"h\":3000,\"w\":1500},{\"x\":0,\"y\":0,\"h\":3000,\"w\":2400}]},\"sizes\":{\"small\":{\"w\":544,\"h\":680,\"resize\":\"fit\"},\"large\":{\"w\":1638,\"h\":2048,\"resize\":\"fit\"},\"thumb\":{\"w\":150,\"h\":150,\"resize\":\"crop\"},\"medium\":{\"w\":960,\"h\":1200,\"resize\":\"fit\"}},\"source_user_id\":36375662,\"source_user_id_str\":\"36375662\",\"media_key\":\"3_2106716135500460032\",\"ext\":{\"mediaColor\":{\"r\":{\"ok\":{\"palette\":[{\"rgb\":{\"red\":70,\"green\":23,\"blue\":24},\"percentage\":69.16},{\"rgb\":{\"red\":228,\"green\":228,\"blue\":228},\"percentage\":24.85},{\"rgb\":{\"red\":138,\"green\":114,\"blue\":114},\"percentage\":3.8},{\"rgb\":{\"red\":152,\"green\":109,\"blue\":110},\"percentage\":2.01},{\"rgb\":{\"red\":162,\"green\":100,\"blue\":56},\"percentage\":0.11}]}},\"ttl\":-1}}}}}",
+        "type": "STRING"
+       }
+      },
+      {
+       "key": "card_url",
+       "value": {
+        "scribe_key": "card_url",
+        "string_value": "https://twitter.com",
+        "type": "STRING"
+       }
+      }
+     ],
+     "card_platform": {
+      "platform": {
+       "audience": {
+        "name": "production"
+       },
+       "device": {
+        "name": "Swift",
+        "version": "12"
+       }
+      }
+     },
+     "name": "unified_card",
+     "url": "card://2106716465185406976",
+     "user_refs_results": []
+    },
+    "rest_id": "card://2106716465185406976"
+   },
+   "place": {},
+   "entities": {
+    "hashtags": [
+     {
+      "indices": [
+       0,
+       9
+      ],
+      "text": "INDvsWAS"
+     }
+    ]
+   }
+  },
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2106713812707471463",
+  "url": "https://x.com/SmolaDS/status/2106713812707471463",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106713812707471463",
+  "text": "Early updates on:\n\nPuka Nacua\nZay Flowers\nLadd McConkey\nJalen Coker\n\nhttps://t.co/UlWgDnEzY9",
+  "fullText": "Early updates on:\n\nPuka Nacua\nZay Flowers\nLadd McConkey\nJalen Coker\n\nhttps://t.co/UlWgDnEzY9",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 6,
+  "quoteCount": 0,
+  "viewCount": 5884,
+  "createdAt": "Sun Oct 04 11:51:28 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2106713812707471463",
+  "possiblySensitive": false,
+  "author": {
+   "type": "user",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/Uk6u1BN2wp"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 7221,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1478847816713834516"
+   }
+  },
+  "extendedEntities": {},
+  "card": {
+   "rest_id": "https://t.co/UlWgDnEzY9"
+  },
+  "place": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "draftsharks.com/fantasy-footba\u2026",
+     "expanded_url": "https://www.draftsharks.com/fantasy-football-news",
+     "indices": [
+      69,
+      92
+     ],
+     "url": "https://t.co/UlWgDnEzY9"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2106513284249563535",
+  "url": "https://x.com/SmolaDS/status/2106513284249563535",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106513284249563535",
+  "text": "Plan on Coker NOT playing this week \u2b07\ufe0f",
+  "fullText": "Plan on Coker NOT playing this week \u2b07\ufe0f",
+  "source": "",
+  "retweetCount": 2,
+  "replyCount": 4,
+  "likeCount": 53,
+  "quoteCount": 0,
+  "viewCount": 12049,
+  "createdAt": "Sat Oct 03 22:34:38 +0000 2026",
+  "lang": "en",
+  "quoteId": "2106476427453595896",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2106513284249563535",
+  "author": {
+   "type": "user",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/Uk6u1BN2wp"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 7221,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1478847816713834516"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "2106476427453595896",
+   "text": "Also, Panthers elevating WR Ja'seem Reed and CB Robert Rochell from practice squad.\n\nDave Canales said they would only bring Reed up if Jalen Coker (quad) couldn't play vs. the Lions.",
+   "source": "",
+   "retweetCount": 20,
+   "replyCount": 13,
+   "likeCount": 469,
+   "quoteCount": 9,
+   "viewCount": 140110,
+   "createdAt": "Sat Oct 03 20:08:11 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 6,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "josephperson",
+    "url": "https://x.com/josephperson",
+    "twitterUrl": "https://twitter.com/josephperson",
+    "id": "38021210",
+    "name": "Joe Person",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1184828910749585408/d6KOAL7D_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/38021210/1447333692",
+    "description": "No longer with a blue check, but still covering the Panthers for The Athletic, sampling craft beers and watching a lot of HS football and baseball games.",
+    "location": "Charlotte, south side",
+    "followers": 80150,
+    "following": 1077,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue May 05 21:10:40 +0000 2009",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "theathletic.com/carolina",
+        "expanded_url": "http://www.theathletic.com/carolina",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/27feZI4ame"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7376,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3826,
+    "statusesCount": 101457,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2100918508078907543"
+    ]
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2106197910685995442",
+  "url": "https://x.com/SmolaDS/status/2106197910685995442",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106197910685995442",
+  "text": "\ud83e\udd14 https://t.co/utP3IteAne",
+  "fullText": "\ud83e\udd14 https://t.co/utP3IteAne",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 2,
+  "likeCount": 95,
+  "quoteCount": 1,
+  "viewCount": 25719,
+  "createdAt": "Sat Oct 03 01:41:27 +0000 2026",
+  "lang": "qme",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2106197910685995442",
+  "possiblySensitive": false,
+  "author": {
+   "type": "user",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/Uk6u1BN2wp"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 7221,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1478847816713834516"
    }
   },
   "extendedEntities": {
    "media": [
     {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/gGZU5r6kqR",
-     "expanded_url": "https://x.com/Ihartitz/status/2106559424416665861/photo/1",
+     "display_url": "pic.x.com/utP3IteAne",
+     "expanded_url": "https://x.com/SmolaDS/status/2106197910685995442/photo/1",
      "ext_media_availability": {
       "status": "Available"
      },
      "features": {
       "large": {
-       "faces": [
-        {
-         "h": 442,
-         "w": 442,
-         "x": 672,
-         "y": 102
-        }
-       ]
+       "faces": []
       },
       "medium": {
-       "faces": [
-        {
-         "h": 258,
-         "w": 258,
-         "x": 393,
-         "y": 59
-        }
-       ]
+       "faces": []
       },
       "orig": {
-       "faces": [
-        {
-         "h": 442,
-         "w": 442,
-         "x": 672,
-         "y": 102
-        }
-       ]
+       "faces": []
       },
       "small": {
-       "faces": [
-        {
-         "h": 146,
-         "w": 146,
-         "x": 223,
-         "y": 33
-        }
-       ]
+       "faces": []
       }
      },
-     "id_str": "2106559419701927936",
+     "id_str": "2106197906860498945",
      "indices": [
-      29,
-      52
+      2,
+      25
      ],
-     "media_key": "3_2106559419701927936",
+     "media_key": "3_2106197906860498945",
      "media_results": {
       "result": {
-       "media_key": "3_2106559419701927936"
+       "media_key": "3_2106197906860498945"
       }
      },
-     "media_url_https": "https://pbs.twimg.com/media/HTwAoZWWIAAB24d.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/HTq31lEXYAEnqfb.jpg",
      "original_info": {
       "focus_rects": [
        {
-        "h": 1147,
-        "w": 2048,
+        "h": 675,
+        "w": 1206,
+        "x": 0,
+        "y": 122
+       },
+       {
+        "h": 797,
+        "w": 797,
         "x": 0,
         "y": 0
        },
        {
-        "h": 1180,
-        "w": 1180,
-        "x": 382,
+        "h": 797,
+        "w": 699,
+        "x": 0,
         "y": 0
        },
        {
-        "h": 1180,
-        "w": 1035,
-        "x": 455,
+        "h": 797,
+        "w": 399,
+        "x": 72,
         "y": 0
        },
        {
-        "h": 1180,
-        "w": 590,
-        "x": 677,
-        "y": 0
-       },
-       {
-        "h": 1180,
-        "w": 2048,
+        "h": 797,
+        "w": 1206,
         "x": 0,
         "y": 0
        }
       ],
-      "height": 1180,
-      "width": 2048
+      "height": 797,
+      "width": 1206
      },
      "sizes": {
       "large": {
-       "h": 1180,
+       "h": 797,
        "resize": "fit",
-       "w": 2048
+       "w": 1206
       },
       "medium": {
-       "h": 691,
+       "h": 793,
        "resize": "fit",
        "w": 1200
       },
       "small": {
-       "h": 392,
+       "h": 449,
        "resize": "fit",
        "w": 680
       },
@@ -2147,7 +1748,7 @@
       }
      },
      "type": "photo",
-     "url": "https://t.co/gGZU5r6kqR"
+     "url": "https://t.co/utP3IteAne"
     }
    ]
   },
@@ -2156,117 +1757,86 @@
   "entities": {
    "media": [
     {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/gGZU5r6kqR",
-     "expanded_url": "https://x.com/Ihartitz/status/2106559424416665861/photo/1",
+     "display_url": "pic.x.com/utP3IteAne",
+     "expanded_url": "https://x.com/SmolaDS/status/2106197910685995442/photo/1",
      "ext_media_availability": {
       "status": "Available"
      },
      "features": {
       "large": {
-       "faces": [
-        {
-         "h": 442,
-         "w": 442,
-         "x": 672,
-         "y": 102
-        }
-       ]
+       "faces": []
       },
       "medium": {
-       "faces": [
-        {
-         "h": 258,
-         "w": 258,
-         "x": 393,
-         "y": 59
-        }
-       ]
+       "faces": []
       },
       "orig": {
-       "faces": [
-        {
-         "h": 442,
-         "w": 442,
-         "x": 672,
-         "y": 102
-        }
-       ]
+       "faces": []
       },
       "small": {
-       "faces": [
-        {
-         "h": 146,
-         "w": 146,
-         "x": 223,
-         "y": 33
-        }
-       ]
+       "faces": []
       }
      },
-     "id_str": "2106559419701927936",
+     "id_str": "2106197906860498945",
      "indices": [
-      29,
-      52
+      2,
+      25
      ],
-     "media_key": "3_2106559419701927936",
+     "media_key": "3_2106197906860498945",
      "media_results": {
       "result": {
-       "media_key": "3_2106559419701927936"
+       "media_key": "3_2106197906860498945"
       }
      },
-     "media_url_https": "https://pbs.twimg.com/media/HTwAoZWWIAAB24d.jpg",
+     "media_url_https": "https://pbs.twimg.com/media/HTq31lEXYAEnqfb.jpg",
      "original_info": {
       "focus_rects": [
        {
-        "h": 1147,
-        "w": 2048,
+        "h": 675,
+        "w": 1206,
+        "x": 0,
+        "y": 122
+       },
+       {
+        "h": 797,
+        "w": 797,
         "x": 0,
         "y": 0
        },
        {
-        "h": 1180,
-        "w": 1180,
-        "x": 382,
+        "h": 797,
+        "w": 699,
+        "x": 0,
         "y": 0
        },
        {
-        "h": 1180,
-        "w": 1035,
-        "x": 455,
+        "h": 797,
+        "w": 399,
+        "x": 72,
         "y": 0
        },
        {
-        "h": 1180,
-        "w": 590,
-        "x": 677,
-        "y": 0
-       },
-       {
-        "h": 1180,
-        "w": 2048,
+        "h": 797,
+        "w": 1206,
         "x": 0,
         "y": 0
        }
       ],
-      "height": 1180,
-      "width": 2048
+      "height": 797,
+      "width": 1206
      },
      "sizes": {
       "large": {
-       "h": 1180,
+       "h": 797,
        "resize": "fit",
-       "w": 2048
+       "w": 1206
       },
       "medium": {
-       "h": 691,
+       "h": 793,
        "resize": "fit",
        "w": 1200
       },
       "small": {
-       "h": 392,
+       "h": 449,
        "resize": "fit",
        "w": 680
       },
@@ -2277,457 +1847,337 @@
       }
      },
      "type": "photo",
-     "url": "https://t.co/gGZU5r6kqR"
+     "url": "https://t.co/utP3IteAne"
     }
    ]
   },
   "isRetweet": false,
   "isQuote": false,
   "media": [
-   "https://pbs.twimg.com/media/HTwAoZWWIAAB24d.jpg"
+   "https://pbs.twimg.com/media/HTq31lEXYAEnqfb.jpg"
   ],
   "videos": [],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2106556261017751652",
-  "url": "https://x.com/Ihartitz/status/2106556261017751652",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2106556261017751652",
-  "text": "NFL tomorrow morning\n\nhttps://t.co/uFxJXGZx5b",
-  "fullText": "NFL tomorrow morning\n\nhttps://t.co/uFxJXGZx5b",
+  "id": "2106124074225381387",
+  "url": "https://x.com/SmolaDS/status/2106124074225381387",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106124074225381387",
+  "text": "Seahawks backfield usage since Jadarian Price's final touch in Week 2 ...\n\nEmanuel Wilson: 23 carries, 1 target\nGeorge Holani: 7 carries, 5 targets",
+  "fullText": "Seahawks backfield usage since Jadarian Price's final touch in Week 2 ...\n\nEmanuel Wilson: 23 carries, 1 target\nGeorge Holani: 7 carries, 5 targets",
   "source": "",
-  "retweetCount": 10,
-  "replyCount": 4,
-  "likeCount": 236,
-  "quoteCount": 1,
-  "viewCount": 28853,
-  "createdAt": "Sun Oct 04 01:25:25 +0000 2026",
+  "retweetCount": 1,
+  "replyCount": 6,
+  "likeCount": 125,
+  "quoteCount": 0,
+  "viewCount": 34074,
+  "createdAt": "Fri Oct 02 20:48:03 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 7,
+  "quoteId": "2106120141771874755",
+  "bookmarkCount": 8,
   "isReply": false,
-  "conversationId": "2106556261017751652",
-  "possiblySensitive": false,
-  "isPinned": false,
+  "conversationId": "2106124074225381387",
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 237923,
-   "following": 1572,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/Uk6u1BN2wp"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 140634,
+   "favouritesCount": 7221,
    "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 18723,
-   "statusesCount": 84434,
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
    "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2097320957060792774"
-   ],
    "professional": {
     "category": [],
     "professional_type": "Creator",
-    "rest_id": "1643289126379089921"
+    "rest_id": "1478847816713834516"
    }
   },
-  "extendedEntities": {
-   "media": [
-    {
-     "additional_media_info": {
-      "monetizable": false,
-      "source_user": {
-       "user_results": {
-        "result": {
-         "__typename": "User",
-         "affiliates_highlighted_label": {},
-         "has_graduated_access": true,
-         "id": "VXNlcjo0MzE5MjA5MA==",
-         "is_blue_verified": true,
-         "legacy": {
-          "blocked_by": false,
-          "blocking": false,
-          "can_dm": true,
-          "can_media_tag": true,
-          "created_at": "Thu May 28 20:43:55 +0000 2009",
-          "default_profile": false,
-          "default_profile_image": false,
-          "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-          "entities": {
-           "description": {},
-           "url": {
-            "urls": [
-             {
-              "display_url": "youtube.com/@ihartitz?si=H\u2026",
-              "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-              "indices": [
-               0,
-               23
-              ],
-              "url": "https://t.co/sgF9v0Ib0b"
-             }
-            ]
-           }
-          },
-          "fast_followers_count": 0,
-          "favourites_count": 140634,
-          "follow_request_sent": false,
-          "followed_by": false,
-          "followers_count": 237923,
-          "following": false,
-          "friends_count": 1572,
-          "has_custom_timelines": true,
-          "is_translator": false,
-          "listed_count": 4120,
-          "location": "Columbus, OH",
-          "media_count": 18723,
-          "muting": false,
-          "name": "Ian Hartitz",
-          "needs_phone_verification": false,
-          "normal_followers_count": 237923,
-          "notifications": false,
-          "pinned_tweet_ids_str": [
-           "2097320957060792774"
-          ],
-          "possibly_sensitive": false,
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-          "profile_interstitial_type": "",
-          "protected": false,
-          "screen_name": "Ihartitz",
-          "statuses_count": 84434,
-          "time_zone": "",
-          "translator_type": "none",
-          "url": "https://t.co/sgF9v0Ib0b",
-          "utc_offset": 0,
-          "verified": false,
-          "want_retweets": false,
-          "withheld_description": "",
-          "withheld_scope": ""
-         },
-         "professional": {
-          "category": [],
-          "professional_type": "Creator",
-          "rest_id": "1643289126379089921"
-         },
-         "profile_image_shape": "Circle",
-         "rest_id": "43192090",
-         "super_follow_eligible": false,
-         "super_followed_by": false,
-         "super_following": false,
-         "tipjar_settings": {
-          "is_enabled": true,
-          "venmo_handle": "ian-hartitz"
-         }
-        }
-       }
-      }
-     },
-     "display_url": "pic.x.com/uFxJXGZx5b",
-     "expanded_url": "https://x.com/Ihartitz/status/1576403292003131393/video/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "id_str": "1576403273359163392",
-     "indices": [
-      22,
-      45
-     ],
-     "media_key": "7_1576403273359163392",
-     "media_results": {
-      "result": {
-       "media_key": "7_1576403273359163392"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576403273359163392/pu/img/RVGR7GpUrhrzm_US.jpg",
-     "original_info": {
-      "focus_rects": [],
-      "height": 406,
-      "width": 774
-     },
-     "sizes": {
-      "large": {
-       "h": 406,
-       "resize": "fit",
-       "w": 774
-      },
-      "medium": {
-       "h": 406,
-       "resize": "fit",
-       "w": 774
-      },
-      "small": {
-       "h": 357,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "source_status_id_str": "1576403292003131393",
-     "source_user_id_str": "43192090",
-     "type": "video",
-     "url": "https://t.co/uFxJXGZx5b",
-     "video_info": {
-      "aspect_ratio": [
-       387,
-       203
-      ],
-      "duration_millis": 2443,
-      "variants": [
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "2106120141771874755",
+   "text": "The Seahawks ruled out RB Jadarian Price for their game Sunday against the Chargers. Mike Macdonald said he re-aggravated his chest injury on Wednesday.\n\nGeorge Holani and Emanuel Wilson are the next options in Seattle\u2019s backfield.",
+   "source": "",
+   "retweetCount": 56,
+   "replyCount": 49,
+   "likeCount": 839,
+   "quoteCount": 26,
+   "viewCount": 532065,
+   "createdAt": "Fri Oct 02 20:32:26 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 27,
+   "author": {
+    "type": "user",
+    "userName": "BradyHenderson",
+    "url": "https://x.com/BradyHenderson",
+    "twitterUrl": "https://twitter.com/BradyHenderson",
+    "id": "157078263",
+    "name": "Brady Henderson",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1813260280429965312/oQ_2g19u_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/157078263/1771316613",
+    "description": "I cover the Seahawks for ESPN.",
+    "location": "Seattle",
+    "followers": 44500,
+    "following": 525,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 18 20:10:46 +0000 2010",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
        {
-        "content_type": "application/x-mpegURL",
-        "url": "https://video.twimg.com/ext_tw_video/1576403273359163392/pu/pl/dTPAYmGqg0h_l1kN.m3u8?tag=12&v=f25"
-       },
-       {
-        "bitrate": 256000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/ext_tw_video/1576403273359163392/pu/vid/514x270/Xv70WQuW8Vx6UoG8.mp4?tag=12"
-       },
-       {
-        "bitrate": 832000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/ext_tw_video/1576403273359163392/pu/vid/774x406/0gv4g3S6IHn1vYXk.mp4?tag=12"
+        "display_url": "espn.com/nfl/team/_/nam\u2026",
+        "expanded_url": "http://www.espn.com/nfl/team/_/name/sea/seattle-seahawks",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/EWPBgfcS7f"
        }
       ]
      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7872,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 4553,
+    "statusesCount": 38452,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2106091070509453543",
+  "url": "https://x.com/SmolaDS/status/2106091070509453543",
+  "twitterUrl": "https://twitter.com/SmolaDS/status/2106091070509453543",
+  "text": "RT @sarahbarshop: Puka Nacua will play Sunday against the Eagles. Sean McVay said Nacua \u201clooked sharp\u201d yesterday at practice, but the Rams\u2026",
+  "fullText": "RT @sarahbarshop: Puka Nacua will play Sunday against the Eagles. Sean McVay said Nacua \u201clooked sharp\u201d yesterday at practice, but the Rams\u2026",
+  "source": "Twitter Web App",
+  "retweetCount": 19,
+  "replyCount": 2,
+  "likeCount": 256,
+  "quoteCount": 7,
+  "viewCount": 121371,
+  "createdAt": "Fri Oct 02 18:36:55 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "2106091070509453543",
+  "author": {
+   "type": "user",
+   "userName": "SmolaDS",
+   "url": "https://x.com/SmolaDS",
+   "twitterUrl": "https://twitter.com/SmolaDS",
+   "id": "2264500734",
+   "name": "Jared Smola",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1053807620774117376/5Re8jeFO_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2264500734/1782240982",
+   "description": "GirlDad x2 | FantasyFootball analyst @DraftSharks | Former world's most accurate ranker | 5.2 handicap",
+   "location": "Rochester, NY",
+   "followers": 42341,
+   "following": 1338,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Fri Dec 27 15:22:07 +0000 2013",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "draftsharks.com",
+       "expanded_url": "http://www.draftsharks.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/Uk6u1BN2wp"
+      }
+     ]
     }
-   ]
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 7221,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 2842,
+   "statusesCount": 36665,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2069431400042737664/JawoQN2r_bigger.jpg"
+     },
+     "description": "Draft Sharks",
+     "url": {
+      "url": "https://twitter.com/DraftSharks",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1478847816713834516"
+   }
   },
-  "card": {
-   "rest_id": "https://t.co/uFxJXGZx5b"
-  },
+  "extendedEntities": {},
+  "card": {},
   "place": {},
   "entities": {
-   "media": [
+   "user_mentions": [
     {
-     "additional_media_info": {
-      "monetizable": false,
-      "source_user": {
-       "user_results": {
-        "result": {
-         "__typename": "User",
-         "affiliates_highlighted_label": {},
-         "has_graduated_access": true,
-         "id": "VXNlcjo0MzE5MjA5MA==",
-         "is_blue_verified": true,
-         "legacy": {
-          "blocked_by": false,
-          "blocking": false,
-          "can_dm": true,
-          "can_media_tag": true,
-          "created_at": "Thu May 28 20:43:55 +0000 2009",
-          "default_profile": false,
-          "default_profile_image": false,
-          "description": "@RotoWire + @OddsJam | President of the Cordarrelle Patterson fan club | Chris Bell no matter what | In Jalen Coker we trust | Great day to be great!",
-          "entities": {
-           "description": {},
-           "url": {
-            "urls": [
-             {
-              "display_url": "youtube.com/@ihartitz?si=H\u2026",
-              "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-              "indices": [
-               0,
-               23
-              ],
-              "url": "https://t.co/sgF9v0Ib0b"
-             }
-            ]
-           }
-          },
-          "fast_followers_count": 0,
-          "favourites_count": 140634,
-          "follow_request_sent": false,
-          "followed_by": false,
-          "followers_count": 237923,
-          "following": false,
-          "friends_count": 1572,
-          "has_custom_timelines": true,
-          "is_translator": false,
-          "listed_count": 4120,
-          "location": "Columbus, OH",
-          "media_count": 18723,
-          "muting": false,
-          "name": "Ian Hartitz",
-          "needs_phone_verification": false,
-          "normal_followers_count": 237923,
-          "notifications": false,
-          "pinned_tweet_ids_str": [
-           "2097320957060792774"
-          ],
-          "possibly_sensitive": false,
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-          "profile_interstitial_type": "",
-          "protected": false,
-          "screen_name": "Ihartitz",
-          "statuses_count": 84434,
-          "time_zone": "",
-          "translator_type": "none",
-          "url": "https://t.co/sgF9v0Ib0b",
-          "utc_offset": 0,
-          "verified": false,
-          "want_retweets": false,
-          "withheld_description": "",
-          "withheld_scope": ""
-         },
-         "professional": {
-          "category": [],
-          "professional_type": "Creator",
-          "rest_id": "1643289126379089921"
-         },
-         "profile_image_shape": "Circle",
-         "rest_id": "43192090",
-         "super_follow_eligible": false,
-         "super_followed_by": false,
-         "super_following": false,
-         "tipjar_settings": {
-          "is_enabled": true,
-          "venmo_handle": "ian-hartitz"
-         }
-        }
-       }
-      }
-     },
-     "display_url": "pic.x.com/uFxJXGZx5b",
-     "expanded_url": "https://x.com/Ihartitz/status/1576403292003131393/video/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "id_str": "1576403273359163392",
+     "id_str": "166834834",
      "indices": [
-      22,
-      45
+      3,
+      16
      ],
-     "media_key": "7_1576403273359163392",
-     "media_results": {
-      "result": {
-       "media_key": "7_1576403273359163392"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1576403273359163392/pu/img/RVGR7GpUrhrzm_US.jpg",
-     "original_info": {
-      "focus_rects": [],
-      "height": 406,
-      "width": 774
-     },
-     "sizes": {
-      "large": {
-       "h": 406,
-       "resize": "fit",
-       "w": 774
-      },
-      "medium": {
-       "h": 406,
-       "resize": "fit",
-       "w": 774
-      },
-      "small": {
-       "h": 357,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "source_status_id_str": "1576403292003131393",
-     "source_user_id_str": "43192090",
-     "type": "video",
-     "url": "https://t.co/uFxJXGZx5b",
-     "video_info": {
-      "aspect_ratio": [
-       387,
-       203
-      ],
-      "duration_millis": 2443,
-      "variants": [
-       {
-        "content_type": "application/x-mpegURL",
-        "url": "https://video.twimg.com/ext_tw_video/1576403273359163392/pu/pl/dTPAYmGqg0h_l1kN.m3u8?tag=12&v=f25"
-       },
-       {
-        "bitrate": 256000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/ext_tw_video/1576403273359163392/pu/vid/514x270/Xv70WQuW8Vx6UoG8.mp4?tag=12"
-       },
-       {
-        "bitrate": 832000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/ext_tw_video/1576403273359163392/pu/vid/774x406/0gv4g3S6IHn1vYXk.mp4?tag=12"
-       }
-      ]
-     }
+     "name": "Sarah Barshop",
+     "screen_name": "sarahbarshop"
     }
    ]
   },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/ext_tw_video_thumb/1576403273359163392/pu/img/RVGR7GpUrhrzm_US.jpg"
-  ],
-  "videos": [
-   {
-    "durationMillis": 2443,
-    "aspectRatio": [
-     387,
-     203
-    ],
-    "variants": [
-     {
-      "contentType": "application/x-mpegURL",
-      "url": "https://video.twimg.com/ext_tw_video/1576403273359163392/pu/pl/dTPAYmGqg0h_l1kN.m3u8?tag=12&v=f25"
-     },
-     {
-      "bitrate": 256000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/ext_tw_video/1576403273359163392/pu/vid/514x270/Xv70WQuW8Vx6UoG8.mp4?tag=12"
-     },
-     {
-      "bitrate": 832000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/ext_tw_video/1576403273359163392/pu/vid/774x406/0gv4g3S6IHn1vYXk.mp4?tag=12"
+  "isRetweet": true,
+  "retweet": {
+   "type": "tweet",
+   "id": "2106090629793239190",
+   "text": "Puka Nacua will play Sunday against the Eagles. Sean McVay said Nacua \u201clooked sharp\u201d yesterday at practice, but the Rams are still working through how they will navigate his snap count.",
+   "source": "",
+   "retweetCount": 19,
+   "replyCount": 2,
+   "likeCount": 256,
+   "quoteCount": 7,
+   "viewCount": 121371,
+   "createdAt": "Fri Oct 02 18:35:10 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 5,
+   "author": {
+    "type": "user",
+    "userName": "sarahbarshop",
+    "url": "https://x.com/sarahbarshop",
+    "twitterUrl": "https://twitter.com/sarahbarshop",
+    "id": "166834834",
+    "name": "Sarah Barshop",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1139213618422132737/1BsvFtTa_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/166834834/1622319764",
+    "description": "ESPN NFL Nation reporter covering the Rams. @MarquetteU grad. IG: @sarahbarshop.",
+    "location": "Los Angeles, CA",
+    "followers": 19017,
+    "following": 662,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 15 03:12:25 +0000 2010",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "espn.com/nfl/team/_/nam\u2026",
+        "expanded_url": "https://www.espn.com/nfl/team/_/name/lar/los-angeles-rams",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/vXwFVtJP8o"
+       }
+      ]
      }
-    ]
-   }
-  ],
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1717,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 1473,
+    "statusesCount": 20270,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "isQuote": false,
+  "media": [],
+  "videos": [],
   "isConversationControlled": false
  }
 ]
