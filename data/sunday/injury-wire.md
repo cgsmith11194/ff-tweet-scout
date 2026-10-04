@@ -14,25 +14,34 @@
 #     draws the section divider automatically before the first EXP/PENDING row)
 #   - Leave Pos/Team empty for game-level rows (e.g. "GB@MIN · MIA@LV")
 #   - Pipes (|) can't appear inside cell text; commas and dashes are fine
+#
+# WEEK 4 — 2026-10-04
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
-| Kyler Murray | QB · MIN | IN | Concussion | Cleared protocol, starts at Tampa Bay (4:05) — Wentz back to the bench |
-| Sam Darnold | QB · SEA | IN | Glute | Off the report entirely and starting — the Drew Lock streamer is dead |
-| Caleb Williams | QB · CHI | OUT | Hamstring (Gr. 2) | Out 3-4 weeks; Keenum likely Monday, Bagent (concussion) questionable behind him |
-| Nico Collins | WR · HOU | OUT | Hamstring | Second straight week; "decent chance" for Week 4 vs Dallas |
-| Rico Dowdle | RB · PIT | OUT | Toe | Ruled out Friday — with Warren banged up, the Steelers room is thin |
-| Michael Pittman Jr. | WR · PIT | IN | Foot | Will play, per Schefter |
-| DJ Moore | WR · BUF | IN | Shoulder | Officially active |
-| Keon Coleman | WR · BUF | IN | Ankle | Officially active |
-| Jalen Coker | WR · CAR | IN | Ankle | Active — and Xavier Legette (knee) is officially inactive beside him |
-| AD Mitchell | WR · NYJ | OUT | Finger | Officially inactive; Sterling Shepard elevated |
-| Slayton + Singletary | NYG | OUT | — | Both HEALTHY inactives for the nor'easter game |
-| Hollywood Brown | WR · PHI | OUT | — | Out Monday; Barkley and DeVonta Smith are both clean |
-| Zay Flowers | WR · BAL | EXP OUT | Hamstring | "True game-time decision" and the team isn't counting on him — São Paulo actives ~2:55 ET |
-| Brock Bowers | TE · LV | EXP IN | Knee | Expected "barring a surprise" — locks ~2:55 ET (4:25) |
-| Jaylen Warren | RB · PIT | EXP IN | Shoulder | Expected per Schefter this morning — confirm at kickoff |
-| Mike Evans | WR · SF | EXP IN | Hip | Good to go per reporting — locks ~2:35 ET (4:05) |
-| Kaelon Black | RB · SF | EXP IN | Groin | Expected to play — locks ~2:35 ET |
-| Jaylen Wright | RB · MIA | EXP OUT | — | Listed doubtful; Caleb Douglas is ruled out |
-| Puka Nacua | WR · LAR | EXP OUT | Hip, groin | Doubtful for SNF, expected back Week 4 — locks ~6:50 ET; Whittington also doubtful |
+| Justin Jefferson | WR · MIN | OUT | Ankle | Ruled out Friday - Addison inherits the alpha role, Jennings the routes (4:05 vs MIA) |
+| De'Von Achane | RB · MIA | OUT | ACL | Season over - Ollie Gordon II leads, Jaylen Wright back beside him |
+| Baker Mayfield | QB · TB | OUT | Thumb | 3-6 weeks per Schefter - fade the Tampa passing tree vs GB |
+| Breece Hall | RB · NYJ | OUT | Quad | Braelon Allen and Isaiah Davis split it at Chicago |
+| Zay Flowers | WR · BAL | IN | Hamstring | Officially active - no hard pitch count per Fowler |
+| Puka Nacua | WR · LAR | IN | Hip, groin | Active at Philly - Rams do not intend to limit his workload per Schefter |
+| Nico Collins | WR · HOU | IN | Hamstring | Returns vs Dallas after a full Friday practice |
+| DeVonta Smith | WR · PHI | OUT | Hamstring | Out today and "at very best" questionable next week - could be multi-game |
+| Dallas Goedert | TE · PHI | OUT | Knee | Out vs the Rams - Ertz and the Wicks/Lemon routes absorb it |
+| Hollywood Brown | WR · PHI | OUT | Ankle | Second straight week out |
+| Mason Taylor | TE · NYJ | OUT | Thumb | Kenyon Sadiq keeps the TE targets (7-105-1 last week) |
+| AD Mitchell | WR · NYJ | OUT | Finger | Second straight week |
+| Kenyon Sadiq | TE · NYJ | IN | Back | Officially active - plays through the Q tag as expected |
+| Caleb Williams | QB · CHI | OUT | Hamstring | Week 2 of 3-4 - Tyson Bagent starts vs the Jets |
+| Tyjae Spears | RB · TEN | IN | Ankle | Plays through the ankle at Baltimore, per Rapoport |
+| Travis Etienne | RB · NO | OUT | Hamstring (IR) | Kamara plus Kendre Miller Monday night |
+| Jadarian Price | RB · SEA | OUT | Chest | To IR - Wilson/Holani keep the committee, Charbonnet not back yet |
+| Terry McLaurin | WR · WAS | OUT | Hamstring | Officially inactive in London - game already underway |
+| Jayden Daniels | QB · WAS | OUT | Elbow | Mariota started in London, then was ruled out (knee) - Athan Kaliakmanis finishing |
+| Rachaad White | RB · WAS | OUT | Shoulder | Croskey-Merritt leads the London backfield |
+| Keenan Allen | WR · IND | OUT | Groin | Downgraded Friday - London |
+| Caleb Douglas | WR · MIA | OUT | Ankle | Chris Bell steps into the WR room at Minnesota |
+| Mike Evans | WR · SF | EXP IN | Ribs | Team has "expressed optimism" - locks ~2:55 ET (4:25 vs DEN) |
+| Ladd McConkey | WR · LAC | EXP IN | Foot, ribs | True game-time call after an LP-DNP-LP week - locks ~2:55 ET at SEA |
+| Jaylen Wright | RB · MIA | EXP IN | Foot, stinger | Expected back - locks ~3:35 ET (4:05) |
+| Jalen Coker | WR · CAR | EXP OUT | Quad | Not expected per Schefter - SNF actives ~6:50 ET; Waller's targets consolidate |
