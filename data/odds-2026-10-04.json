@@ -2,67 +2,67 @@
  "captured_at": "2026-10-04",
  "games": [
   {
-   "game": "IND VS WSH",
-   "date": "2026-10-04T13:30Z",
+   "game": "NE @ BUF",
+   "date": "2026-10-04T17:00Z",
    "spread": null,
    "over_under": null,
    "provider": null
   },
   {
-   "game": "NE @ BUF",
-   "date": "2026-10-04T17:00Z",
-   "spread": "BUF -7",
-   "over_under": 49.5,
-   "provider": "DraftKings"
-  },
-  {
    "game": "NYJ @ CHI",
    "date": "2026-10-04T17:00Z",
-   "spread": "CHI -3.5",
-   "over_under": 43.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "JAX @ CIN",
    "date": "2026-10-04T17:00Z",
-   "spread": "CIN -2.5",
-   "over_under": 51.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "ARI @ NYG",
    "date": "2026-10-04T17:00Z",
-   "spread": "ARI -2.5",
-   "over_under": 44.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "LAR @ PHI",
    "date": "2026-10-04T17:00Z",
-   "spread": "LAR -3.5",
-   "over_under": 42.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "GB @ TB",
    "date": "2026-10-04T17:00Z",
-   "spread": "GB -3",
-   "over_under": 38.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "TEN @ BAL",
    "date": "2026-10-04T17:00Z",
-   "spread": "BAL -11.5",
-   "over_under": 42.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "DAL @ HOU",
    "date": "2026-10-04T17:00Z",
-   "spread": "HOU -3",
-   "over_under": 48.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "IND VS WSH",
+   "date": "2026-10-04T13:30Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "MIA @ MIN",
