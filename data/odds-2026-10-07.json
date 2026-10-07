@@ -1,0 +1,110 @@
+{
+ "captured_at": "2026-10-07",
+ "games": [
+  {
+   "game": "TB @ DAL",
+   "date": "2026-10-09T00:15Z",
+   "spread": "DAL -8.5",
+   "over_under": 47.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "PHI VS JAX",
+   "date": "2026-10-11T13:30Z",
+   "spread": "JAX -7",
+   "over_under": 42.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "CHI @ GB",
+   "date": "2026-10-11T17:00Z",
+   "spread": "CHI -2.5",
+   "over_under": 45.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "HOU @ TEN",
+   "date": "2026-10-11T17:00Z",
+   "spread": "HOU -7.5",
+   "over_under": 37.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "CIN @ MIA",
+   "date": "2026-10-11T17:00Z",
+   "spread": "CIN -6.5",
+   "over_under": 42.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "LV @ NE",
+   "date": "2026-10-11T17:00Z",
+   "spread": "NE -3.5",
+   "over_under": 45.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "MIN @ NO",
+   "date": "2026-10-11T17:00Z",
+   "spread": "MIN -1.5",
+   "over_under": 42.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "CLE @ NYJ",
+   "date": "2026-10-11T17:00Z",
+   "spread": "NYJ -1.5",
+   "over_under": 39.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "IND @ PIT",
+   "date": "2026-10-11T17:00Z",
+   "spread": "PIT -2.5",
+   "over_under": 44.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "NYG @ WSH",
+   "date": "2026-10-11T17:00Z",
+   "spread": "WSH -3.5",
+   "over_under": 42.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "DEN @ LAC",
+   "date": "2026-10-11T20:05Z",
+   "spread": "DEN -3.5",
+   "over_under": 41.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "DET @ ARI",
+   "date": "2026-10-11T20:25Z",
+   "spread": "DET -5.5",
+   "over_under": 54.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "SF @ SEA",
+   "date": "2026-10-11T20:25Z",
+   "spread": "SEA -2.5",
+   "over_under": 45.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "BAL @ ATL",
+   "date": "2026-10-12T00:20Z",
+   "spread": "ATL -3.5",
+   "over_under": 43.5,
+   "provider": "Draft Kings"
+  },
+  {
+   "game": "BUF @ LAR",
+   "date": "2026-10-13T00:15Z",
+   "spread": "LAR -3",
+   "over_under": 54.5,
+   "provider": "Draft Kings"
+  }
+ ]
+}
