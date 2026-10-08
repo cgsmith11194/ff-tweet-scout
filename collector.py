@@ -622,26 +622,51 @@ def main():
         t["bucket_guess"] = bucket
         candidates.append(t)
 
-    # Cross-run dedup (added 2026-08-06): weekly windows overlap ~a day at the
-    # boundary, so boundary-day tweets recur as candidates week over week (this
-    # shipped a repeat in consecutive issues). Drop anything the previous run of
-    # the SAME mode already offered; the digest session separately dedupes
-    # against published issues. Best-effort: never fails the run.
+    # Cross-run dedup (added 2026-08-06, fixed 2026-10-08): weekly windows
+    # overlap ~a day at the boundary, so boundary-day tweets recur as
+    # candidates week over week (this shipped a repeat in consecutive issues).
+    # Drop anything the previous run of the SAME mode already offered; the
+    # digest session separately dedupes against published issues.
+    # 10/8 fix: the guard used to read data/latest.json and bail when its mode
+    # differed — but the Sunday run overwrites latest.json, so the weekly →
+    # weekly chain silently never fired (10/7 run had no repeat_prev_run kill).
+    # Now it walks data/candidates-*.json newest-first for the most recent
+    # archive of the SAME mode. Best-effort: never fails the run.
     try:
-        prev_name = "inactives-latest.json" if mode == "inactives" else "latest.json"
-        prev_path = ROOT / "data" / prev_name
-        if prev_path.exists():
-            prev = json.loads(prev_path.read_text())
-            if prev.get("mode") == mode:
-                prev_ids = {str(p.get("id")) for p in prev.get("candidates", [])}
-                dropped = [t for t in candidates if t["id"] in prev_ids]
-                if dropped:
-                    candidates = [t for t in candidates if t["id"] not in prev_ids]
-                    for t in dropped:
-                        log_reject(t, "repeat_prev_run", t.get("score"))
-                    kills["repeat_prev_run"] = len(dropped)
-                    print(f"Cross-run dedup: dropped {len(dropped)} candidates "
-                          f"already offered by the previous {mode} run")
+        prev = None
+        prev_src = None
+        today_stamp = until_dt.strftime("%Y-%m-%d")
+        if mode == "inactives":
+            hist = list((ROOT / "data").glob("candidates-*-inactives.json"))
+        else:
+            hist = [
+                p
+                for p in (ROOT / "data").glob("candidates-*.json")
+                if "-inactives" not in p.name
+            ]
+        for path in sorted(hist, reverse=True):
+            if today_stamp in path.name:
+                continue  # a same-day re-run must not dedupe against itself
+            try:
+                prior = json.loads(path.read_text())
+            except (json.JSONDecodeError, OSError):
+                continue
+            if prior.get("mode") == mode:
+                prev = prior
+                prev_src = path.name
+                break
+        if prev is not None:
+            prev_ids = {str(p.get("id")) for p in prev.get("candidates", [])}
+            dropped = [t for t in candidates if t["id"] in prev_ids]
+            if dropped:
+                candidates = [t for t in candidates if t["id"] not in prev_ids]
+                for t in dropped:
+                    log_reject(t, "repeat_prev_run", t.get("score"))
+                kills["repeat_prev_run"] = len(dropped)
+            print(f"Cross-run dedup vs {prev_src}: dropped {len(dropped)} "
+                  f"candidates already offered by the previous {mode} run")
+        else:
+            print(f"Cross-run dedup: no previous {mode} archive found in data/")
     except Exception as e:
         print(f"WARNING: cross-run dedup skipped ({e})")
 
