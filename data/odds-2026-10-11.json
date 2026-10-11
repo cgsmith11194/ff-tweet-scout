@@ -1,0 +1,110 @@
+{
+ "captured_at": "2026-10-11",
+ "games": [
+  {
+   "game": "PHI VS JAX",
+   "date": "2026-10-11T13:30Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "CHI @ GB",
+   "date": "2026-10-11T17:00Z",
+   "spread": "CHI -1.5",
+   "over_under": 47.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "HOU @ TEN",
+   "date": "2026-10-11T17:00Z",
+   "spread": "HOU -7",
+   "over_under": 37.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "CIN @ MIA",
+   "date": "2026-10-11T17:00Z",
+   "spread": "CIN -7",
+   "over_under": 43.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "LV @ NE",
+   "date": "2026-10-11T17:00Z",
+   "spread": "NE -3.5",
+   "over_under": 45.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "MIN @ NO",
+   "date": "2026-10-11T17:00Z",
+   "spread": "MIN -1.5",
+   "over_under": 41.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "CLE @ NYJ",
+   "date": "2026-10-11T17:00Z",
+   "spread": "NYJ -2.5",
+   "over_under": 38.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "IND @ PIT",
+   "date": "2026-10-11T17:00Z",
+   "spread": "PIT -3",
+   "over_under": 41.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "NYG @ WSH",
+   "date": "2026-10-11T17:00Z",
+   "spread": "WSH -3.5",
+   "over_under": 41.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "DEN @ LAC",
+   "date": "2026-10-11T20:05Z",
+   "spread": "DEN -3.5",
+   "over_under": 41.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "DET @ ARI",
+   "date": "2026-10-11T20:25Z",
+   "spread": "DET -5.5",
+   "over_under": 54.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "SF @ SEA",
+   "date": "2026-10-11T20:25Z",
+   "spread": "SEA -3",
+   "over_under": 46.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "BAL @ ATL",
+   "date": "2026-10-12T00:20Z",
+   "spread": "ATL -3",
+   "over_under": 43.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "TB @ DAL",
+   "date": "2026-10-09T00:15Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "BUF @ LAR",
+   "date": "2026-10-13T00:15Z",
+   "spread": "LAR -3",
+   "over_under": 54.5,
+   "provider": "DraftKings"
+  }
+ ]
+}
