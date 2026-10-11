@@ -28,7 +28,7 @@
 | Hollywood Brown | WR · PHI | OUT | Ankle | Third straight week |
 | Breece Hall | RB · NYJ | OUT | Quad | Second straight week - Braelon Allen and Isaiah Davis vs Cleveland |
 | AD Mitchell | WR · NYJ | OUT | Finger | Third straight week |
-| Michael Pittman Jr. | WR · PIT | OUT | Foot (IR) | At least four games - and with Dowdle expected down too, the Steelers offense is thin vs Indy |
+| Michael Pittman Jr. | WR · PIT | OUT | Foot (IR) | At least four games - and with Dowdle also out, the Steelers offense is thin vs Indy |
 | Stefon Diggs | WR · WAS | OUT | Hamstring | Out vs the Giants; McLaurin is a separate game-time call below |
 | Quentin Johnston | WR · LAC | OUT | Chest | Out - with McConkey hobbled too, the LA room is bare vs Denver |
 | Zach Charbonnet | RB · SEA | OUT | Knee | Out again - Wilson/Holani committee holds vs SF |
@@ -38,13 +38,13 @@
 | Tee Higgins | WR · CIN | IN | Groin, neck | Plays, but snaps monitored - "mostly meaningful plays" per Wolfe |
 | Caleb Williams | QB · CHI | OUT | Hamstring | Officially inactive - Bagent starts; "chance to play next week" per Rapoport |
 | Rico Dowdle | RB · PIT | OUT | Toe | Officially inactive - Jaylen Warren takes the 90%-snap workload again |
-| Ladd McConkey | WR · LAC | EXP OUT | Foot, ribs | Missed another practice, expected out - locks ~2:35 ET (4:05) |
-| Carnell Tate | WR · TEN | EXP IN | — | "Good to go" per reporting; not among reported scratches at officials |
 | Rhamondre Stevenson | RB · NE | IN | Knee | Plays per Rapoport (Barmore back on the other side of the ball too) |
 | Keenan Allen | WR · IND | IN | Groin | Officially active at Pittsburgh |
 | Justin Jefferson | WR · MIN | IN | Ankle | Officially ACTIVE for the Louisiana homecoming |
 | Jordan Addison | WR · MIN | OUT | Hamstring | Officially inactive (OBJ also scratched) - the room behind Jefferson is thin |
 | Ashton Jeanty | RB · LV | IN | Ankle, foot | Officially ACTIVE - played through the plantar fasciitis scare; Washington claim not needed |
+| Ladd McConkey | WR · LAC | EXP OUT | Foot, ribs | Missed another practice, expected out - locks ~2:35 ET (4:05) |
+| Carnell Tate | WR · TEN | EXP IN | — | "Good to go" per reporting; not among reported scratches at officials |
 | Terry McLaurin | WR · WAS | PENDING | Hamstring | Still a true game-time call - and even if active, expect limited snaps per Garafolo |
 | Jaylen Wright | RB · MIA | PENDING | Foot | Status in question, no lean - officials ~11:30 ET |
 | Zay Flowers | WR · BAL | EXP IN | Foot | Expected to play tonight per Schefter (foot, not hamstring) - actives ~6:50 ET |
