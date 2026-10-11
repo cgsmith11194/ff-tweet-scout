@@ -17,7 +17,7 @@
 #     draws the section divider automatically before the first EXP/PENDING row)
 #   - Pipes (|) can't appear inside cell text; commas and dashes are fine
 #
-# WEEK 5 — 2026-10-11 — EXPECTED wire, 11:05 ET (pre-officials)
+# WEEK 5 — 2026-10-11 — FINAL wire, 11:50 ET (post-officials true-up)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
@@ -34,18 +34,18 @@
 | Zach Charbonnet | RB · SEA | OUT | Knee | Out again - Wilson/Holani committee holds vs SF |
 | Kyle Monangai | RB · CHI | OUT | Toe | Out at Green Bay |
 | Jayden Daniels | QB · WAS | IN | Elbow | Full go - starts vs the Giants after two missed games |
-| Ja'Marr Chase | WR · CIN | EXP IN | Concussion | Practiced fully Friday, still needs protocol clearance - officials ~11:30 ET, true-up in the Trophy Room |
-| Tee Higgins | WR · CIN | EXP IN | Groin | Full Friday practice, carries the Q tag - officials ~11:30 ET |
-| Caleb Williams | QB · CHI | EXP OUT | Hamstring | Returned to practice Friday but the lean is one more Bagent start - officials ~11:30 ET |
-| Rico Dowdle | RB · PIT | EXP OUT | Toe | Expected out - Jaylen Warren takes the 90%-snap workload again |
+| Ja'Marr Chase | WR · CIN | IN | Concussion | Cleared - plays per Schefter |
+| Tee Higgins | WR · CIN | IN | Groin, neck | Plays, but snaps monitored - "mostly meaningful plays" per Wolfe |
+| Caleb Williams | QB · CHI | OUT | Hamstring | Officially inactive - Bagent starts; "chance to play next week" per Rapoport |
+| Rico Dowdle | RB · PIT | OUT | Toe | Officially inactive - Jaylen Warren takes the 90%-snap workload again |
 | Ladd McConkey | WR · LAC | EXP OUT | Foot, ribs | Missed another practice, expected out - locks ~2:35 ET (4:05) |
-| Carnell Tate | WR · TEN | EXP IN | — | Questionable but "good to go" per reporting - officials ~11:30 ET |
-| Rhamondre Stevenson | RB · NE | EXP IN | Knee | Expected to play vs the Raiders - officials ~11:30 ET |
-| Keenan Allen | WR · IND | EXP IN | Groin | Leaning in at Pittsburgh - officials ~11:30 ET |
-| Justin Jefferson | WR · MIN | PENDING | Ankle | True game-day call with no reported lean - officials ~11:30 ET; Addison is a separate question below |
-| Jordan Addison | WR · MIN | PENDING | Hamstring | Questionable, no lean reported - if both he and Jefferson sit, downgrade the whole MIN passing game |
-| Ashton Jeanty | RB · LV | PENDING | Ankle, foot | DNP Friday, true game-time call - if he sits, Mike Washington is a top-12 play per Hartitz; officials ~11:30 ET |
-| Terry McLaurin | WR · WAS | PENDING | Hamstring | True game-time call - officials ~11:30 ET |
+| Carnell Tate | WR · TEN | EXP IN | — | "Good to go" per reporting; not among reported scratches at officials |
+| Rhamondre Stevenson | RB · NE | IN | Knee | Plays per Rapoport (Barmore back on the other side of the ball too) |
+| Keenan Allen | WR · IND | IN | Groin | Officially active at Pittsburgh |
+| Justin Jefferson | WR · MIN | IN | Ankle | Officially ACTIVE for the Louisiana homecoming |
+| Jordan Addison | WR · MIN | OUT | Hamstring | Officially inactive (OBJ also scratched) - the room behind Jefferson is thin |
+| Ashton Jeanty | RB · LV | IN | Ankle, foot | Officially ACTIVE - played through the plantar fasciitis scare; Washington claim not needed |
+| Terry McLaurin | WR · WAS | PENDING | Hamstring | Still a true game-time call - and even if active, expect limited snaps per Garafolo |
 | Jaylen Wright | RB · MIA | PENDING | Foot | Status in question, no lean - officials ~11:30 ET |
-| Zay Flowers | WR · BAL | PENDING | Hamstring | Questionable for SNF, no lean yet - actives ~6:50 ET |
+| Zay Flowers | WR · BAL | EXP IN | Foot | Expected to play tonight per Schefter (foot, not hamstring) - actives ~6:50 ET |
 | DJ Moore | WR · BUF | PENDING | Shoulder | Still hasn't practiced; Monday night - if he sits, Keon Coleman ran a 30.4% target share in his absence |
