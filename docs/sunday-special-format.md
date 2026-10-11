@@ -35,13 +35,22 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
 1. **Intro** — two sentences, kickoff countdown.
 2. **☔ Weather** — anchor embed: the RuvenKotz slate report; then Worst / Not
    notable / Best tier lines covering EVERY game incl. SNF/MNF.
-3. **🌡️ Game Environment** — totals/game-script tweets + tier lines, every
-   game, each line carrying its **total and spread**. Make shootouts and
-   one-sidedness pronounced (member request, Trophy Room 9/12): a high total
-   with a tight spread is the shootout profile (bump everything in it); a big
-   spread means the favorite's early-down RB gains the closing script while
-   the dog's RBs and the favorite's secondary pass-catchers lose late-game
-   work — say which players that touches, one clause, no essay.
+3. **🌡️ Game Environment** — game-script tweets + tier lines, every game.
+   **Fantasy-first framing (Chris, 10/10): this is not an odds column.** Each
+   line LEADS with the fantasy consequence — expected pace, volume, game
+   script, who gains or loses touches — and carries the total and spread only
+   as a compact parenthetical data point, e.g. "(44.5, ARI -2.5)". No
+   sportsbook voice anywhere in the section: no "chalk," "cover," "fade the
+   number," "the books," "cashes," or betting-pick framing; "fade" survives
+   only as a fantasy start/sit verb aimed at players, never at teams against
+   a line. Make shootouts and one-sidedness pronounced (member request,
+   Trophy Room 9/12): projected-close high-scoring games bump everything;
+   projected-lopsided games hand the stronger team's early-down RB the
+   closing script while the weaker team's RBs and the stronger team's
+   secondary pass-catchers lose late-game work — say which players that
+   touches, one clause, no essay. Line-vetting (the three-book cross-check)
+   is an internal process: surface discrepancies to Chris in the delivery
+   note, never in the letter body.
 4. **🔬 Matchup Lab** — WR/CB + RB/DL tweets (web fallback common here),
    Best / Not notable / Worst.
 5. **🧾 Receipts** — LAST SUNDAY'S calls only (never Thursday content): one
