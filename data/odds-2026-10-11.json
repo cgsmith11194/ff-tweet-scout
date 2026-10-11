@@ -69,28 +69,28 @@
    "date": "2026-10-11T20:05Z",
    "spread": "DEN -3.5",
    "over_under": 42.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "DET @ ARI",
    "date": "2026-10-11T20:25Z",
    "spread": "DET -5.5",
    "over_under": 55.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "SF @ SEA",
    "date": "2026-10-11T20:25Z",
    "spread": "SEA -3",
    "over_under": 46.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "BAL @ ATL",
    "date": "2026-10-12T00:20Z",
    "spread": "ATL -3",
    "over_under": 43.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "TB @ DAL",
@@ -104,7 +104,7 @@
    "date": "2026-10-13T00:15Z",
    "spread": "LAR -3",
    "over_under": 54.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   }
  ]
 }
