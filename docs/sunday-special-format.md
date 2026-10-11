@@ -58,10 +58,13 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
    Best / Not notable / Worst.
 5. **🧾 Receipts** — LAST SUNDAY'S calls only (never Thursday content): one
    line each, what we called, what happened, hit or miss.
-6. **🧵 Designations We Were Waiting On** — items that were genuinely pending
-   as of Thursday (a status, a role decision, a starter announcement) and how
-   each resolved, with the resolving tweet. Not a place to re-reference stats
-   that already appear elsewhere in the issue.
+6. **🧵 Threads We Were Waiting On** — closes out the NON-INJURY storylines
+   Thursday's issue left open (Chris, 10/11): role decisions, trades, QB
+   pecking orders, usage trends, Waiver Weapon / Trade Target follow-through —
+   with the resolving tweet where one exists. Injuries are explicitly NOT this
+   section's job — the wire owns every status, and this section at most points
+   to it ("if he plays - see wire"). Not a place to re-reference stats that
+   already appear elsewhere in the issue.
 7. **🚑 Injury Wire (EXPECTED — ships ~10:30-11:00 ET; Chris, 10/11)** — the
    wire no longer waits for the official inactives. It ships WITH the issue
    carrying the latest reads: IN/OUT solid badges only for formal rulings
