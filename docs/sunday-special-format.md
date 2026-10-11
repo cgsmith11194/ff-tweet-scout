@@ -1,9 +1,12 @@
 # Sunday Special — format & pipeline spec
 
-*Sunday-morning Season Pass edition. Collection: the 14:30 UTC Sunday cron (news
-mode, Thu→Sun window + the 7:30am PT sweep). Build: Claude session, send 8:30am
-PT / 11:30am ET. Companion to substack-format.md, which governs voice and paste
-mechanics; this file covers what's different on Sundays.*
+*Sunday-morning Season Pass edition, branded "11th Hour." Collection: Sunday
+cron (news mode, Thu→Sun window) + inactives sweeps. Build: Claude session
+starts 10:00am ET sharp; DRAFT in Chris's hands by 10:30am ET, full issue with
+the EXPECTED wire by ~11:00am ET (Chris, 10/11 — the old wait-for-officials
+flow shipped too late to act on). Companion to substack-format.md, which
+governs voice and paste mechanics; this file covers what's different on
+Sundays.*
 
 ## Principle
 
@@ -59,7 +62,15 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
    as of Thursday (a status, a role decision, a starter announcement) and how
    each resolved, with the resolving tweet. Not a place to re-reference stats
    that already appear elsewhere in the issue.
-7. **🚑 Injury Wire (11:30 ET)** — a TABLE: Player | Status | Injury |
+7. **🚑 Injury Wire (EXPECTED — ships ~10:30-11:00 ET; Chris, 10/11)** — the
+   wire no longer waits for the official inactives. It ships WITH the issue
+   carrying the latest reads: IN/OUT solid badges only for formal rulings
+   (Friday ruled-out/IR, official announcements); EXP IN/EXP OUT hollow
+   badges for reported leans; PENDING amber for true game-time calls with no
+   lean. Any player who FLIPS when the ~11:30 ET official inactives post gets
+   trued up in the Trophy Room Discord (Chris posts; the session supplies the
+   flip list from the post-officials sweeps). The issue's wire intro tells
+   readers to watch the Discord for the true-up. Format: a TABLE: Player | Status | Injury |
    Prognosis, sorted by fantasy relevance; offense only; skip pre-existing
    season-enders. **Rendering:** Substack has no native tables and its LaTeX
    block is single-line MathJax, so the wire ships as an image. Source of
