@@ -18,7 +18,7 @@
   {
    "game": "HOU @ TEN",
    "date": "2026-10-11T17:00Z",
-   "spread": "HOU -7",
+   "spread": "HOU -6.5",
    "over_under": 37.5,
    "provider": "DraftKings"
   },
@@ -26,7 +26,7 @@
    "game": "CIN @ MIA",
    "date": "2026-10-11T17:00Z",
    "spread": "CIN -7",
-   "over_under": 43.5,
+   "over_under": 44.5,
    "provider": "DraftKings"
   },
   {
@@ -39,7 +39,7 @@
   {
    "game": "MIN @ NO",
    "date": "2026-10-11T17:00Z",
-   "spread": "MIN -1.5",
+   "spread": "MIN -2.5",
    "over_under": 41.5,
    "provider": "DraftKings"
   },
