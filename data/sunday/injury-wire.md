@@ -28,7 +28,7 @@
 | Hollywood Brown | WR · PHI | OUT | Ankle | Third straight week |
 | Breece Hall | RB · NYJ | OUT | Quad | Second straight week - Braelon Allen and Isaiah Davis vs Cleveland |
 | AD Mitchell | WR · NYJ | OUT | Finger | Third straight week |
-| Michael Pittman Jr. | WR · IND | OUT | Foot (IR) | At least four games - Downs consolidates the targets at Pittsburgh |
+| Michael Pittman Jr. | WR · PIT | OUT | Foot (IR) | At least four games - and with Dowdle expected down too, the Steelers offense is thin vs Indy |
 | Stefon Diggs | WR · WAS | OUT | Hamstring | Out vs the Giants; McLaurin is a separate game-time call below |
 | Quentin Johnston | WR · LAC | OUT | Chest | Out - with McConkey hobbled too, the LA room is bare vs Denver |
 | Zach Charbonnet | RB · SEA | OUT | Knee | Out again - Wilson/Holani committee holds vs SF |
