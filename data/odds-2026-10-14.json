@@ -1,0 +1,103 @@
+{
+ "captured_at": "2026-10-14",
+ "games": [
+  {
+   "game": "SEA @ DEN",
+   "date": "2026-10-16T00:15Z",
+   "spread": "SEA -2.5",
+   "over_under": 40.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "HOU VS JAX",
+   "date": "2026-10-18T13:30Z",
+   "spread": "JAX -2.5",
+   "over_under": 42.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "CHI @ ATL",
+   "date": "2026-10-18T17:00Z",
+   "spread": "CHI -1.5",
+   "over_under": 51.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "BAL @ CLE",
+   "date": "2026-10-18T17:00Z",
+   "spread": "BAL -5.5",
+   "over_under": 42.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "TEN @ IND",
+   "date": "2026-10-18T17:00Z",
+   "spread": "IND -7",
+   "over_under": 43.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "NYJ @ NE",
+   "date": "2026-10-18T17:00Z",
+   "spread": "NE -7.5",
+   "over_under": 43.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "NO @ NYG",
+   "date": "2026-10-18T17:00Z",
+   "spread": "NO -1.5",
+   "over_under": 45.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "CAR @ PHI",
+   "date": "2026-10-18T17:00Z",
+   "spread": "CAR -1.5",
+   "over_under": 39.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "PIT @ TB",
+   "date": "2026-10-18T17:00Z",
+   "spread": "PIT -2.5",
+   "over_under": 39.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "ARI @ LAR",
+   "date": "2026-10-18T20:05Z",
+   "spread": "LAR -12.5",
+   "over_under": 51.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "LAC @ KC",
+   "date": "2026-10-18T20:25Z",
+   "spread": "KC -8.5",
+   "over_under": 42.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "BUF @ LV",
+   "date": "2026-10-18T20:25Z",
+   "spread": "BUF -5.5",
+   "over_under": 53.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "DAL @ GB",
+   "date": "2026-10-19T00:20Z",
+   "spread": "GB -1.5",
+   "over_under": 53.5,
+   "provider": "DraftKings"
+  },
+  {
+   "game": "WSH @ SF",
+   "date": "2026-10-20T00:15Z",
+   "spread": "SF -7.5",
+   "over_under": 50.5,
+   "provider": "DraftKings"
+  }
+ ]
+}
