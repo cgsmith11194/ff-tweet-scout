@@ -4,48 +4,41 @@
 # and the render-wire Action regenerates assets/sunday/injury-wire.png within ~2 min.
 # Rules:
 #   - Columns: Player | Pos/Team | Status | Injury | Prognosis
-#   - Status values (anything else renders as a gray badge):
-#       IN / OUT    = LOCKED — official team inactives (1:00 games, posted ~11:30 ET)
-#                     or a formal Friday ruled-out/IR designation (any window)
-#       EXP IN / EXP OUT = latest beat reporting — NOT locked (hollow badge);
-#                     prognosis must say when it locks
-#       PENDING     = genuine game-time decision with no reported lean
-#   - NEW PROCESS (Chris, 10/11): the wire ships ~10:30-11:00 ET with EXP/PENDING
-#     badges; flips vs the 11:30 ET official inactives get trued up in the
-#     Trophy Room Discord.
-#   - Keep rows sorted by fantasy relevance; not-locked rows go last (the renderer
-#     draws the section divider automatically before the first EXP/PENDING row)
-#   - Pipes (|) can't appear inside cell text; commas and dashes are fine
+#   - IN / OUT = LOCKED (official inactives or formal rulings); EXP IN / EXP OUT =
+#     reported lean, hollow badge, prognosis says when it locks; PENDING = true
+#     game-time call, no lean. Expected wire ships ~11:00 ET; flips vs the 11:30
+#     officials get trued up in the Trophy Room Discord.
+#   - Locked rows first, not-locked rows last (renderer draws the divider).
+#   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 5 — 2026-10-11 — FINAL wire, 11:50 ET (post-officials true-up)
+# WEEK 6 — 2026-10-18 — EXPECTED wire, 10:35 ET (pre-officials)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
-| Lamar Jackson | QB · BAL | OUT | Ankle | Ruled out Friday - Tyler Huntley starts SNF at Atlanta |
-| Marvin Harrison Jr. | WR · ARI | OUT | — | Inactive while his trade is finalized - Michael Wilson inherits the room vs DET |
-| Saquon Barkley | RB · PHI | OUT | Hamstring | Ruled out Friday - sat the London game (with DeVonta Smith and Hollywood Brown) |
-| DeVonta Smith | WR · PHI | OUT | Hamstring | Second straight week; Goedert cleared and played |
-| Hollywood Brown | WR · PHI | OUT | Ankle | Third straight week |
-| Breece Hall | RB · NYJ | OUT | Quad | Second straight week - Braelon Allen and Isaiah Davis vs Cleveland |
-| AD Mitchell | WR · NYJ | OUT | Finger | Third straight week |
-| Michael Pittman Jr. | WR · PIT | OUT | Foot (IR) | At least four games - and with Dowdle also out, the Steelers offense is thin vs Indy |
-| Stefon Diggs | WR · WAS | OUT | Hamstring | Out vs the Giants; McLaurin is a separate game-time call below |
-| Quentin Johnston | WR · LAC | OUT | Chest | Out - with McConkey hobbled too, the LA room is bare vs Denver |
-| Zach Charbonnet | RB · SEA | OUT | Knee | Out again - Wilson/Holani committee holds vs SF |
-| Kyle Monangai | RB · CHI | OUT | Toe | Out at Green Bay |
-| Jayden Daniels | QB · WAS | IN | Elbow | Full go - starts vs the Giants after two missed games |
-| Ja'Marr Chase | WR · CIN | IN | Concussion | Cleared - plays per Schefter |
-| Tee Higgins | WR · CIN | IN | Groin, neck | Plays, but snaps monitored - "mostly meaningful plays" per Wolfe |
-| Caleb Williams | QB · CHI | OUT | Hamstring | Officially inactive - Bagent starts; "chance to play next week" per Rapoport |
-| Rico Dowdle | RB · PIT | OUT | Toe | Officially inactive - Jaylen Warren takes the 90%-snap workload again |
-| Rhamondre Stevenson | RB · NE | IN | Knee | Plays per Rapoport (Barmore back on the other side of the ball too) |
-| Keenan Allen | WR · IND | IN | Groin | Officially active at Pittsburgh |
-| Justin Jefferson | WR · MIN | IN | Ankle | Officially ACTIVE for the Louisiana homecoming |
-| Jordan Addison | WR · MIN | OUT | Hamstring | Officially inactive (OBJ also scratched) - the room behind Jefferson is thin |
-| Ashton Jeanty | RB · LV | IN | Ankle, foot | Officially ACTIVE - played through the plantar fasciitis scare; Washington claim not needed |
-| Ladd McConkey | WR · LAC | EXP OUT | Foot, ribs | Missed another practice, expected out - locks ~2:35 ET (4:05) |
-| Carnell Tate | WR · TEN | EXP IN | — | "Good to go" per reporting; not among reported scratches at officials |
-| Terry McLaurin | WR · WAS | PENDING | Hamstring | Still a true game-time call - and even if active, expect limited snaps per Garafolo |
-| Jaylen Wright | RB · MIA | PENDING | Foot | Status in question, no lean - officials ~11:30 ET |
-| Zay Flowers | WR · BAL | EXP IN | Foot | Expected to play tonight per Schefter (foot, not hamstring) - actives ~6:50 ET |
-| DJ Moore | WR · BUF | PENDING | Shoulder | Still hasn't practiced; Monday night - if he sits, Keon Coleman ran a 30.4% target share in his absence |
+| Jalen Hurts | QB · PHI | OUT | Blood clot (IR) | No timeline, and health comes first - Tanner McKee starts vs Carolina |
+| Lamar Jackson | QB · BAL | OUT | Ankle | Second straight week - Tyler Huntley starts at Cleveland |
+| Baker Mayfield | QB · TB | OUT | Thumb | Swelling pushed the return back - Jalon Daniels starts again vs Pittsburgh |
+| Saquon Barkley | RB · PHI | OUT | Hamstring | Out again - Dameon Pierce leads the backfield (Shipley to IR) |
+| Rashee Rice | WR · KC | OUT | Hamstring | Out vs the Chargers - Xavier Worthy inherits the target lead |
+| David Montgomery | RB · HOU | OUT | Groin | Week-to-week - Woody Marks takes the load (London, underway) |
+| Breece Hall | RB · NYJ | OUT | Quad | Third straight week - Braelon Allen starts at New England |
+| AD Mitchell | WR · NYJ | OUT | Finger | Out again - the Isaiah Williams scenario is live |
+| Jeremiyah Love | RB · ARI | OUT | Ankle | Out at the Rams - Tyler Allgeier starts |
+| Kyle Monangai | RB · CHI | OUT | Toe | Out at Atlanta - D'Andre Swift leads, Roschon Johnson mixes in |
+| Tre' Harris | WR · LAC | OUT | Hamstring | Out at Kansas City - the receiver room stays thin |
+| Deebo Samuel | WR · SF | OUT | Hamstring | Expected out Monday - part of why Brandin Cooks is Cam's Waiver Weapon |
+| Caleb Williams | QB · CHI | EXP IN | Hamstring | Trending toward his return at Atlanta - officials ~11:30 ET |
+| AJ Brown | WR · NE | EXP IN | Ankle | Activated to the 53 Saturday, expected to DEBUT vs the Jets per Schefter |
+| Rico Dowdle | RB · PIT | EXP IN | Toe | Expected to play for the first time since Week 2 per Fowler - Warren split incoming |
+| DK Metcalf | WR · PIT | EXP IN | Illness | Expected to play through it in Tampa |
+| TreVeyon Henderson | RB · NE | EXP IN | Ankle | Good chance to play, possibly limited - officials ~11:30 ET |
+| Michael Penix | QB · ATL | EXP IN | Ribs | Expected back - ends the four-QB carousel vs Chicago |
+| Ashton Jeanty | RB · LV | EXP IN | Ankle, foot | Leaning in for the Buffalo game - locks ~3:55 ET (4:25) |
+| Kenyon Sadiq | TE · NYJ | EXP IN | Concussion | Leaning in, clearance pending - officials ~11:30 ET |
+| Mike Evans | WR · SF | EXP IN | Ribs | Didn't practice all week but unlikely to miss Monday night |
+| Quinshon Judkins | RB · CLE | PENDING | Foot | True game-time call - Jaleel McLaughlin leads if he sits; officials ~11:30 ET |
+| DJ Moore | WR · BUF | PENDING | Shoulder | Game-time call with a lean toward sitting - locks ~3:55 ET (4:25); Coleman pivot |
+| Tyler Warren | TE · IND | PENDING | Groin | Friday addition to the report - late adds lean the wrong way; officials ~11:30 ET |
+| Pat Freiermuth | TE · PIT | PENDING | Calf | Questionable in Tampa - officials ~11:30 ET |
+| Stefon Diggs | WR · WAS | PENDING | Hamstring | Questionable for Monday after returning to practice Friday |
+| Jacory Croskey-Merritt | RB · WAS | PENDING | Groin | DNP Friday, expected out Monday - watch Saturday's final word |
