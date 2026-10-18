@@ -11,7 +11,7 @@
 #   - Locked rows first, not-locked rows last (renderer draws the divider).
 #   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 6 — 2026-10-18 — EXPECTED wire, 10:35 ET (pre-officials)
+# WEEK 6 — 2026-10-18 — FINAL wire, 11:50 ET (post-officials true-up)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
@@ -27,18 +27,20 @@
 | Kyle Monangai | RB · CHI | OUT | Toe | Out at Atlanta - D'Andre Swift leads, Roschon Johnson mixes in |
 | Tre' Harris | WR · LAC | OUT | Hamstring | Out at Kansas City - the receiver room stays thin |
 | Deebo Samuel | WR · SF | OUT | Hamstring | Expected out Monday - part of why Brandin Cooks is Cam's Waiver Weapon |
-| Caleb Williams | QB · CHI | EXP IN | Hamstring | Trending toward his return at Atlanta - officials ~11:30 ET |
-| AJ Brown | WR · NE | EXP IN | Ankle | Activated to the 53 Saturday, expected to DEBUT vs the Jets per Schefter |
-| Rico Dowdle | RB · PIT | EXP IN | Toe | Expected to play for the first time since Week 2 per Fowler - Warren split incoming |
+| Cam Skattebo | RB · NYG | IN | — | Active, but role reduced - Najee Harris gets more carries after last week's fumble (Raanan) |
+| Alvin Kamara | RB · NO | IN | Back | Officially playing at the Giants (Olave too, through the illness) |
+| Caleb Williams | QB · CHI | IN | Hamstring | Officially back - starts at Atlanta, Bagent to the bench |
+| AJ Brown | WR · NE | IN | Ankle | Debuts vs the Jets and is expected to play "a good amount" per Garafolo |
+| Rico Dowdle | RB · PIT | IN | Toe | Officially active for the first time since Week 2 - Warren split incoming |
+| TreVeyon Henderson | RB · NE | IN | Ankle | "Good to go" per Graziano |
+| Quinshon Judkins | RB · CLE | OUT | Foot | Officially inactive - Jaleel McLaughlin leads the backfield vs Baltimore |
+| Tyler Warren | TE · IND | OUT | Groin | Officially inactive - the Friday-add lean proved right |
 | DK Metcalf | WR · PIT | EXP IN | Illness | Expected to play through it in Tampa |
-| TreVeyon Henderson | RB · NE | EXP IN | Ankle | Good chance to play, possibly limited - officials ~11:30 ET |
 | Michael Penix | QB · ATL | EXP IN | Ribs | Expected back - ends the four-QB carousel vs Chicago |
 | Ashton Jeanty | RB · LV | EXP IN | Ankle, foot | Leaning in for the Buffalo game - locks ~3:55 ET (4:25) |
 | Kenyon Sadiq | TE · NYJ | EXP IN | Concussion | Leaning in, clearance pending - officials ~11:30 ET |
 | Mike Evans | WR · SF | EXP IN | Ribs | Didn't practice all week but unlikely to miss Monday night |
-| Quinshon Judkins | RB · CLE | PENDING | Foot | True game-time call - Jaleel McLaughlin leads if he sits; officials ~11:30 ET |
 | DJ Moore | WR · BUF | PENDING | Shoulder | Game-time call with a lean toward sitting - locks ~3:55 ET (4:25); Coleman pivot |
-| Tyler Warren | TE · IND | PENDING | Groin | Friday addition to the report - late adds lean the wrong way; officials ~11:30 ET |
 | Pat Freiermuth | TE · PIT | PENDING | Calf | Questionable in Tampa - officials ~11:30 ET |
 | Stefon Diggs | WR · WAS | PENDING | Hamstring | Questionable for Monday after returning to practice Friday |
 | Jacory Croskey-Merritt | RB · WAS | PENDING | Groin | DNP Friday, expected out Monday - watch Saturday's final word |
