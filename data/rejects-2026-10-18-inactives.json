@@ -1,0 +1,319 @@
+{
+ "generated_at": "2026-10-18T15:30:44.939228+00:00",
+ "window": {
+  "since": "2026-10-18",
+  "until": "2026-10-19",
+  "days": 0.292
+ },
+ "counts": {
+  "raw": 570,
+  "unique": 63,
+  "kept": 30,
+  "kills": {
+   "low_score": 26,
+   "pure_link": 1,
+   "retweet": 6,
+   "out_of_window": 502
+  }
+ },
+ "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
+ "rejects": [
+  {
+   "id": "2111842325877940368",
+   "url": "https://x.com/UnderdogNFL/status/2111842325877940368",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.5,
+   "likes": 7,
+   "text": "Tyjae Spears (knee) active for Week 6."
+  },
+  {
+   "id": "2111812649822339496",
+   "url": "https://x.com/SmolaDS/status/2111812649822339496",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.3,
+   "likes": 2,
+   "text": "NFLN graphic says \"limited role\" for A.J. Brown today ... but @MikeGarafolo expects a \"good amount\" of the receiver."
+  },
+  {
+   "id": "2111782841134510581",
+   "url": "https://x.com/UnderdogNFL/status/2111782841134510581",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.9,
+   "likes": 2016,
+   "text": "Schefter: Tyler Shough has been playing through two broken bones in left hand."
+  },
+  {
+   "id": "2111828509048082864",
+   "url": "https://x.com/ffdataroma/status/2111828509048082864",
+   "handle": "ffdataroma",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.9,
+   "likes": 100,
+   "text": "Buy low window on Tuten: Closed\n\nTuten has been one of the most efficient RBs in the NFL, in one of the NFL\u2019s best offenses.\n\nHe\u2019s going to take off when the schedule lightens up for the remainder of the season."
+  },
+  {
+   "id": "2111835655781372128",
+   "url": "https://x.com/UnderdogNFL/status/2111835655781372128",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.8,
+   "likes": 248,
+   "text": "CJ Stroud threads the needle for 6\n\nhttps://t.co/wb6USpGApO"
+  },
+  {
+   "id": "2111783082336350422",
+   "url": "https://x.com/UnderdogNFL/status/2111783082336350422",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.8,
+   "likes": 215,
+   "text": "Rap: Steelers optimistic Pat Freiermuth (calf) plays in Week 6."
+  },
+  {
+   "id": "2111823438944059892",
+   "url": "https://x.com/Ihartitz/status/2111823438944059892",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.9,
+   "likes": 897,
+   "text": "Bhayshul Tuten with his 3rd nullified touchdown of the season \ud83d\udc80\ud83d\udc80\ud83d\udc80"
+  },
+  {
+   "id": "2111826500655726737",
+   "url": "https://x.com/Ihartitz/status/2111826500655726737",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.5,
+   "likes": 3697,
+   "text": "*Bhayshul Tuten does something cool* https://t.co/iMAwj4ulNS"
+  },
+  {
+   "id": "2111835132818797025",
+   "url": "https://x.com/CoopAFiasco/status/2111835132818797025",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.8,
+   "likes": 2,
+   "text": "Fantasy Football Week 6 Start/Sit, Best Bets &amp; DFS Picks &amp; NFL Inactives with @coopafiasco &amp; @jimpemba777 https://t.co/036ZUYVWgj"
+  },
+  {
+   "id": "2111840096425251324",
+   "url": "https://x.com/UnderdogNFL/status/2111840096425251324",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.2,
+   "likes": 180,
+   "text": "Schefter: NFL said game in France will be played despite intense riots and social unrest.\n\nSaints scheduled to leave for Paris on Sunday."
+  },
+  {
+   "id": "2111835171779694953",
+   "url": "https://x.com/Ihartitz/status/2111835171779694953",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.4,
+   "likes": 638,
+   "text": "https://t.co/KZl2M6f6zq"
+  },
+  {
+   "id": "2111811141307437265",
+   "url": "https://x.com/Ihartitz/status/2111811141307437265",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.8,
+   "likes": 7,
+   "text": "Week 6 @betr card.\n\nThere were all recommendations from my beautiful dachshund Lilly\n\nhttps://t.co/G75tnNKmyG https://t.co/LoE9mn9DD6"
+  },
+  {
+   "id": "2111821145137676504",
+   "url": "https://x.com/danorlovsky7/status/2111821145137676504",
+   "handle": "danorlovsky7",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.3,
+   "likes": 368,
+   "text": "Very very good tape"
+  },
+  {
+   "id": "2111829930938143110",
+   "url": "https://x.com/Ihartitz/status/2111829930938143110",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.0,
+   "likes": 268,
+   "text": "WR most yards per target this season https://t.co/WdM0yv9pFE"
+  },
+  {
+   "id": "2111826893624242363",
+   "url": "https://x.com/Ihartitz/status/2111826893624242363",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.8,
+   "likes": 272,
+   "text": "Chop wood, carry water"
+  },
+  {
+   "id": "2111819107884511522",
+   "url": "https://x.com/Ihartitz/status/2111819107884511522",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.7,
+   "likes": 258,
+   "text": "There's always a bigger fish"
+  },
+  {
+   "id": "2111831179565609458",
+   "url": "https://x.com/Ihartitz/status/2111831179565609458",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.8,
+   "likes": 148,
+   "text": "Chris Rodriguez today: https://t.co/VZow2xolW4"
+  },
+  {
+   "id": "2111828619731603538",
+   "url": "https://x.com/jagibbs_23/status/2111828619731603538",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.5,
+   "likes": 134,
+   "text": "Bhayshul Tuten rocks"
+  },
+  {
+   "id": "2111833702674387106",
+   "url": "https://x.com/GuruFantasyWrld/status/2111833702674387106",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.4,
+   "likes": 39,
+   "text": "TOOT TOOT \ud83d\ude82\ud83d\ude82\ud83d\ude82"
+  },
+  {
+   "id": "2111827660389400912",
+   "url": "https://x.com/LateRoundQB/status/2111827660389400912",
+   "handle": "LateRoundQB",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.3,
+   "likes": 37,
+   "text": "#AllRoads"
+  },
+  {
+   "id": "2111833811323334936",
+   "url": "https://x.com/ffdataroma/status/2111833811323334936",
+   "handle": "ffdataroma",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 29,
+   "text": "Bump"
+  },
+  {
+   "id": "2111811892083855408",
+   "url": "https://x.com/SmolaDS/status/2111811892083855408",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 12,
+   "text": "Updated implied totals: https://t.co/C6JHuYWprD"
+  },
+  {
+   "id": "2111795815563808970",
+   "url": "https://x.com/SmolaDS/status/2111795815563808970",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 7,
+   "text": "Worth noting \ud83d\udc47"
+  },
+  {
+   "id": "2111789402112606569",
+   "url": "https://x.com/HoustonTexans/status/2111789402112606569",
+   "handle": "HoustonTexans",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.2,
+   "likes": 163,
+   "text": "Our inactives for #HOUvsJAX \u2b07\ufe0f https://t.co/pJUFcGIk5f"
+  },
+  {
+   "id": "2111789415286940020",
+   "url": "https://x.com/Jaguars/status/2111789415286940020",
+   "handle": "Jaguars",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.8,
+   "likes": 127,
+   "text": "#HOUvsJAX Inactives https://t.co/FwyT8MdIIX"
+  },
+  {
+   "id": "2111818777620783545",
+   "url": "https://x.com/SmolaDS/status/2111818777620783545",
+   "handle": "SmolaDS",
+   "reason": "low_score(cold_water)",
+   "score": 24.5,
+   "likes": 0,
+   "text": "Updated with fresh implied totals and 1 game with minor weather concerns ..."
+  },
+  {
+   "id": "2111834400778285461",
+   "url": "https://x.com/CoopAFiasco/status/2111834400778285461",
+   "handle": "CoopAFiasco",
+   "reason": "pure_link",
+   "score": null,
+   "likes": 0,
+   "text": "https://t.co/036ZUYVoqL"
+  },
+  {
+   "id": "2111817285518463469",
+   "url": "https://x.com/CoopAFiasco/status/2111817285518463469",
+   "handle": "CoopAFiasco",
+   "reason": "retweet",
+   "score": null,
+   "likes": 2,
+   "text": "RT @FantasyAlarm: On top of everything else to get you ready for NFL Week 6, don't forget to check out our AWARD-WINNING @SiriusXMFantasy r\u2026"
+  },
+  {
+   "id": "2111804813054976264",
+   "url": "https://x.com/ffdataroma/status/2111804813054976264",
+   "handle": "ffdataroma",
+   "reason": "retweet",
+   "score": null,
+   "likes": 31,
+   "text": "RT @ffdataroma: Week 6: Players that you should FADE    \n\n\u2b07\ufe0f\ud83e\uddf5"
+  },
+  {
+   "id": "2111804795690319997",
+   "url": "https://x.com/ffdataroma/status/2111804795690319997",
+   "handle": "ffdataroma",
+   "reason": "retweet",
+   "score": null,
+   "likes": 77,
+   "text": "RT @ffdataroma: Week 6: Players that are set up to SMASH   \n\n\u2b07\ufe0f\ud83e\uddf5"
+  },
+  {
+   "id": "2111839696448033057",
+   "url": "https://x.com/SmolaDS/status/2111839696448033057",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 180,
+   "text": "RT @MaryKayCabot: #Browns RB Quinshon Judkins (questionable, ankle) finished his workout with Duce Staley and walked back into the locker r\u2026"
+  },
+  {
+   "id": "2111839635429093529",
+   "url": "https://x.com/SmolaDS/status/2111839635429093529",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 104,
+   "text": "RT @FarabaughFB: Freiermuth ran his entire route tree while going through the warmup. Walking off the field now. Certainly looked like a gu\u2026"
+  },
+  {
+   "id": "2111799033262190605",
+   "url": "https://x.com/SmolaDS/status/2111799033262190605",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 1,
+   "text": "RT @DraftSharks: More Najee Harris, Less Cam Skattebo Today?\nhttps://t.co/28DI7xus56"
+  }
+ ]
+}
