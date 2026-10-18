@@ -93,7 +93,11 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
    (4:05 / 4:25 / SNF / MNF) with when their actives drop — never a bare
    "check later" row. Beat-tweet receipts embedded beneath.
 8. **📺 Streamers + Stat Watch** — streamer recs gated <50% rostered in
-   standard redraft, % cited; kicker/DST weather overlay; one stat-watch line.
+   standard redraft, % cited — and the gate is checked against reality, not
+   assumed (NE DST at 86% failed it, 10/18). EVERY week includes one DST
+   streamer AND one K streamer (Chris, 10/18), each with a backup name;
+   kicker picks respect the weather section (no wind-game kickers); one
+   stat-watch line.
 9. **🏆 Trophy Room Mailbag** — 2-3 member questions from Discord, answered in
    two info-first sentences each. Members by first name/handle.
 10. **Send-off** (emoji allowed here only).
