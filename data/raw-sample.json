@@ -1,395 +1,89 @@
 [
  {
   "type": "tweet",
-  "id": "2110357578735813119",
-  "url": "https://x.com/LateRoundQB/status/2110357578735813119",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2110357578735813119",
-  "text": "I talk about the Cardinals offense without Marvin Harrison Jr., Rhamondre Stevenson, and more on this week's 10 Trends episode. https://t.co/HmZR7Sv5p8",
-  "fullText": "I talk about the Cardinals offense without Marvin Harrison Jr., Rhamondre Stevenson, and more on this week's 10 Trends episode. https://t.co/HmZR7Sv5p8",
+  "id": "2111812427268686298",
+  "url": "https://x.com/UnderdogNFL/status/2111812427268686298",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111812427268686298",
+  "text": "Rap: Caleb Williams (hamstring) will play Week 6.",
+  "fullText": "Rap: Caleb Williams (hamstring) will play Week 6.",
   "source": "",
-  "retweetCount": 0,
+  "retweetCount": 8,
   "replyCount": 4,
-  "likeCount": 25,
-  "quoteCount": 0,
-  "viewCount": 12886,
-  "createdAt": "Wed Oct 14 13:10:29 +0000 2026",
+  "likeCount": 204,
+  "quoteCount": 3,
+  "viewCount": 48671,
+  "createdAt": "Sun Oct 18 13:31:32 +0000 2026",
   "lang": "en",
   "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2110357578735813119",
-  "possiblySensitive": false,
+  "conversationId": "2111812427268686298",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
    "isVerified": false,
+   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
    "location": "",
-   "followers": 237793,
-   "following": 974,
+   "followers": 418031,
+   "following": 12,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/gGsrTQey7m"
+       "url": "https://t.co/3wHuxASkII"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2109627467023483124"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {
-   "legacy": {
-    "binding_values": [
-     {
-      "key": "thumbnail_image",
-      "value": {
-       "image_value": {
-        "height": 144,
-        "url": "https://pbs.twimg.com/card_img/2110357579708891136/9f2n8E-K?format=jpg&name=144x144_2",
-        "width": 144
-       },
-       "type": "IMAGE"
-      }
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
      },
-     {
-      "key": "description",
-      "value": {
-       "string_value": "The Late-Round Fantasy Football Podcast \u00b7 Episode",
-       "type": "STRING"
-      }
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
      },
-     {
-      "key": "domain",
-      "value": {
-       "string_value": "open.spotify.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_large",
-      "value": {
-       "image_value": {
-        "height": 420,
-        "url": "https://pbs.twimg.com/card_img/2110357579708891136/9f2n8E-K?format=jpg&name=420x420_2",
-        "width": 420
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_original",
-      "value": {
-       "image_value": {
-        "height": 640,
-        "url": "https://pbs.twimg.com/card_img/2110357579708891136/9f2n8E-K?format=jpg&name=orig",
-        "width": 640
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "site",
-      "value": {
-       "scribe_key": "publisher_id",
-       "type": "USER",
-       "user_value": {
-        "id_str": "17230018",
-        "path": []
-       }
-      }
-     },
-     {
-      "key": "thumbnail_image_small",
-      "value": {
-       "image_value": {
-        "height": 100,
-        "url": "https://pbs.twimg.com/card_img/2110357579708891136/9f2n8E-K?format=jpg&name=100x100_2",
-        "width": 100
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_x_large",
-      "value": {
-       "image_value": {
-        "height": 640,
-        "url": "https://pbs.twimg.com/card_img/2110357579708891136/9f2n8E-K?format=png&name=2048x2048_2_exp",
-        "width": 640
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "vanity_url",
-      "value": {
-       "scribe_key": "vanity_url",
-       "string_value": "open.spotify.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_color",
-      "value": {
-       "image_color_value": {
-        "palette": [
-         {
-          "percentage": 64.4,
-          "rgb": {
-           "blue": 91,
-           "green": 215,
-           "red": 22
-          }
-         },
-         {
-          "percentage": 15.6,
-          "rgb": {
-           "blue": 32,
-           "green": 31,
-           "red": 35
-          }
-         },
-         {
-          "percentage": 8.92,
-          "rgb": {
-           "blue": 67,
-           "green": 147,
-           "red": 14
-          }
-         },
-         {
-          "percentage": 4.99,
-          "rgb": {
-           "blue": 213,
-           "green": 225,
-           "red": 228
-          }
-         },
-         {
-          "percentage": 2.17,
-          "rgb": {
-           "blue": 147,
-           "green": 202,
-           "red": 252
-          }
-         }
-        ]
-       },
-       "type": "IMAGE_COLOR"
-      }
-     },
-     {
-      "key": "title",
-      "value": {
-       "string_value": "1142: 10 Trends for Week 6",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "card_url",
-      "value": {
-       "scribe_key": "card_url",
-       "string_value": "https://t.co/HmZR7Sv5p8",
-       "type": "STRING"
-      }
-     }
-    ],
-    "card_platform": {
-     "platform": {
-      "audience": {
-       "name": "production"
-      },
-      "device": {
-       "name": "Swift",
-       "version": "12"
-      }
-     }
-    },
-    "name": "summary",
-    "url": "https://t.co/HmZR7Sv5p8",
-    "user_refs_results": [
-     {
-      "result": {
-       "__typename": "User",
-       "affiliates_highlighted_label": {},
-       "has_graduated_access": true,
-       "id": "VXNlcjoxNzIzMDAxOA==",
-       "is_blue_verified": true,
-       "legacy": {
-        "blocked_by": false,
-        "blocking": false,
-        "can_dm": false,
-        "can_media_tag": true,
-        "created_at": "Fri Nov 07 12:14:28 +0000 2008",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "your fall listening arc starts here",
-        "entities": {
-         "description": {}
-        },
-        "fast_followers_count": 0,
-        "favourites_count": 19132,
-        "follow_request_sent": false,
-        "followed_by": false,
-        "followers_count": 21815118,
-        "following": false,
-        "friends_count": 15553,
-        "has_custom_timelines": true,
-        "is_translator": false,
-        "listed_count": 16573,
-        "location": "",
-        "media_count": 11679,
-        "muting": false,
-        "name": "Spotify",
-        "needs_phone_verification": false,
-        "normal_followers_count": 21815118,
-        "notifications": false,
-        "possibly_sensitive": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1767711221",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1793315484961591301/DiEXUJEV_normal.jpg",
-        "profile_interstitial_type": "",
-        "protected": false,
-        "screen_name": "Spotify",
-        "statuses_count": 51236,
-        "time_zone": "",
-        "translator_type": "none",
-        "url": "",
-        "utc_offset": 0,
-        "verified": false,
-        "verified_type": "Business",
-        "want_retweets": false,
-        "withheld_description": "",
-        "withheld_scope": ""
-       },
-       "profile_image_shape": "Square",
-       "rest_id": "17230018",
-       "super_follow_eligible": false,
-       "super_followed_by": false,
-       "super_following": false,
-       "tipjar_settings": {}
-      }
-     }
-    ]
-   },
-   "rest_id": "https://t.co/HmZR7Sv5p8"
-  },
-  "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "open.spotify.com/episode/5eV9yq\u2026",
-     "expanded_url": "https://open.spotify.com/episode/5eV9yqPUIO3jOyVK6CrVhJ?si=435571d3bb604a2d",
-     "indices": [
-      128,
-      151
-     ],
-     "url": "https://t.co/HmZR7Sv5p8"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2110029088216014897",
-  "url": "https://x.com/LateRoundQB/status/2110029088216014897",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2110029088216014897",
-  "text": "If you have any non-start/sit questions for the mailbag this week, send them my way.",
-  "fullText": "If you have any non-start/sit questions for the mailbag this week, send them my way.",
-  "source": "",
-  "retweetCount": 0,
-  "replyCount": 38,
-  "likeCount": 20,
-  "quoteCount": 1,
-  "viewCount": 15850,
-  "createdAt": "Tue Oct 13 15:25:11 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 2,
-  "isReply": false,
-  "conversationId": "2110029088216014897",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237793,
-   "following": 974,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2109627467023483124"
-   ]
+    "2111640667462013317"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
   },
   "extendedEntities": {},
   "card": {},
@@ -403,891 +97,90 @@
  },
  {
   "type": "tweet",
-  "id": "2109991279438217424",
-  "url": "https://x.com/LateRoundQB/status/2109991279438217424",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2109991279438217424",
-  "text": "Waiver wire adds, some buys, and some sells on this week's 15 Transactions episode: https://t.co/1uiEOABKiD",
-  "fullText": "Waiver wire adds, some buys, and some sells on this week's 15 Transactions episode: https://t.co/1uiEOABKiD",
+  "id": "2111811798911295518",
+  "url": "https://x.com/UnderdogNFL/status/2111811798911295518",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111811798911295518",
+  "text": "Garafolo: AJ Brown (ankle) expected to play a \"good amount\" in Week 6.",
+  "fullText": "Garafolo: AJ Brown (ankle) expected to play a \"good amount\" in Week 6.",
   "source": "",
-  "retweetCount": 0,
-  "replyCount": 2,
-  "likeCount": 21,
-  "quoteCount": 0,
-  "viewCount": 14508,
-  "createdAt": "Tue Oct 13 12:54:57 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 5,
-  "isReply": false,
-  "conversationId": "2109991279438217424",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237793,
-   "following": 974,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2109627467023483124"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {
-   "rest_id": "https://t.co/1uiEOABKiD"
-  },
-  "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "open.spotify.com/episode/1C9SnQ\u2026",
-     "expanded_url": "https://open.spotify.com/episode/1C9SnQ2Ez98L1NDb7AuBnW?si=d46b7e2c9d054f02",
-     "indices": [
-      84,
-      107
-     ],
-     "url": "https://t.co/1uiEOABKiD"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2109847758945591555",
-  "url": "https://x.com/LateRoundQB/status/2109847758945591555",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2109847758945591555",
-  "text": "Overtime games in back-to-back nights? East Coast Dads\u2122\ufe0f down horrifically.",
-  "fullText": "Overtime games in back-to-back nights? East Coast Dads\u2122\ufe0f down horrifically.",
-  "source": "",
-  "retweetCount": 9,
-  "replyCount": 17,
-  "likeCount": 604,
-  "quoteCount": 3,
-  "viewCount": 27196,
-  "createdAt": "Tue Oct 13 03:24:39 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "conversationId": "2109847758945591555",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237793,
-   "following": 974,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2109627467023483124"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2109821285920370832",
-  "url": "https://x.com/LateRoundQB/status/2109821285920370832",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2109821285920370832",
-  "text": "My reaction to watching Puka Nacua play football is the same reaction I have watching my 3-and-a-half-year-old son do literally anything",
-  "fullText": "My reaction to watching Puka Nacua play football is the same reaction I have watching my 3-and-a-half-year-old son do literally anything",
-  "source": "",
-  "retweetCount": 10,
-  "replyCount": 19,
-  "likeCount": 725,
+  "retweetCount": 16,
+  "replyCount": 14,
+  "likeCount": 377,
   "quoteCount": 2,
-  "viewCount": 68056,
-  "createdAt": "Tue Oct 13 01:39:27 +0000 2026",
+  "viewCount": 52546,
+  "createdAt": "Sun Oct 18 13:29:03 +0000 2026",
   "lang": "en",
   "bookmarkCount": 4,
   "isReply": false,
-  "conversationId": "2109821285920370832",
+  "conversationId": "2111811798911295518",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
    "isVerified": false,
+   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
    "location": "",
-   "followers": 237793,
-   "following": 974,
+   "followers": 418031,
+   "following": 12,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/gGsrTQey7m"
+       "url": "https://t.co/3wHuxASkII"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2109627467023483124"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2109659873625460753",
-  "url": "https://x.com/LateRoundQB/status/2109659873625460753",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2109659873625460753",
-  "text": "We've got @gdula13 and @david_kitchen going live in just a few minutes for this week's Data Dump Show. Check it out: https://t.co/G4FBIlOuvR",
-  "fullText": "We've got @gdula13 and @david_kitchen going live in just a few minutes for this week's Data Dump Show. Check it out: https://t.co/G4FBIlOuvR",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 0,
-  "likeCount": 9,
-  "quoteCount": 1,
-  "viewCount": 20998,
-  "createdAt": "Mon Oct 12 14:58:04 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 0,
-  "isReply": false,
-  "conversationId": "2109659873625460753",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237793,
-   "following": 974,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2109627467023483124"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {
-   "legacy": {
-    "binding_values": [
-     {
-      "key": "player_url",
-      "value": {
-       "string_value": "https://www.youtube.com/embed/NJ7k0j4GqrU",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "player_image_large",
-      "value": {
-       "image_value": {
-        "height": 320,
-        "url": "https://pbs.twimg.com/card_img/2109635460859351040/soXnFv3L?format=jpg&name=800x320_1",
-        "width": 569
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "player_image",
-      "value": {
-       "image_value": {
-        "height": 158,
-        "url": "https://pbs.twimg.com/card_img/2109635460859351040/soXnFv3L?format=jpg&name=280x280",
-        "width": 280
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "app_star_rating",
-      "value": {
-       "string_value": "4.66556",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "description",
-      "value": {
-       "string_value": "The Week 5 Data Dump is here. David Kitchen and Brandon Gdula dig t...",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "player_width",
-      "value": {
-       "string_value": "640",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "domain",
-      "value": {
-       "string_value": "www.youtube.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "app_is_free",
-      "value": {
-       "string_value": "true",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "site",
-      "value": {
-       "scribe_key": "publisher_id",
-       "type": "USER",
-       "user_value": {
-        "id_str": "10228272",
-        "path": []
-       }
-      }
-     },
-     {
-      "key": "player_image_original",
-      "value": {
-       "image_value": {
-        "height": 720,
-        "url": "https://pbs.twimg.com/card_img/2109635460859351040/soXnFv3L?format=jpg&name=orig",
-        "width": 1280
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "app_num_ratings",
-      "value": {
-       "string_value": "49,415,836",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "app_price_amount",
-      "value": {
-       "string_value": "0.0",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "player_height",
-      "value": {
-       "string_value": "360",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "vanity_url",
-      "value": {
-       "scribe_key": "vanity_url",
-       "string_value": "youtube.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "app_name",
-      "value": {
-       "string_value": "YouTube",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "player_image_small",
-      "value": {
-       "image_value": {
-        "height": 81,
-        "url": "https://pbs.twimg.com/card_img/2109635460859351040/soXnFv3L?format=jpg&name=144x144",
-        "width": 144
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "title",
-      "value": {
-       "string_value": "Week 5 Fantasy Football Fallout: Key RB Injuries, Cards Without Marv,...",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "app_price_currency",
-      "value": {
-       "string_value": "USD",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "card_url",
-      "value": {
-       "scribe_key": "card_url",
-       "string_value": "https://t.co/G4FBIlOuvR",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "player_image_color",
-      "value": {
-       "image_color_value": {
-        "palette": [
-         {
-          "percentage": 36.35,
-          "rgb": {
-           "blue": 24,
-           "green": 23,
-           "red": 22
-          }
-         },
-         {
-          "percentage": 9.11,
-          "rgb": {
-           "blue": 217,
-           "green": 220,
-           "red": 224
-          }
-         },
-         {
-          "percentage": 7.65,
-          "rgb": {
-           "blue": 76,
-           "green": 244,
-           "red": 5
-          }
-         },
-         {
-          "percentage": 6.71,
-          "rgb": {
-           "blue": 33,
-           "green": 18,
-           "red": 124
-          }
-         },
-         {
-          "percentage": 4.18,
-          "rgb": {
-           "blue": 48,
-           "green": 23,
-           "red": 14
-          }
-         }
-        ]
-       },
-       "type": "IMAGE_COLOR"
-      }
-     },
-     {
-      "key": "player_image_x_large",
-      "value": {
-       "image_value": {
-        "height": 720,
-        "url": "https://pbs.twimg.com/card_img/2109635460859351040/soXnFv3L?format=png&name=2048x2048_2_exp",
-        "width": 1280
-       },
-       "type": "IMAGE"
-      }
-     }
-    ],
-    "card_platform": {
-     "platform": {
-      "audience": {
-       "name": "production"
-      },
-      "device": {
-       "name": "Swift",
-       "version": "12"
-      }
-     }
-    },
-    "name": "player",
-    "url": "https://t.co/G4FBIlOuvR",
-    "user_refs_results": [
-     {
-      "result": {
-       "__typename": "User",
-       "affiliates_highlighted_label": {},
-       "has_graduated_access": true,
-       "id": "VXNlcjoxMDIyODI3Mg==",
-       "is_blue_verified": true,
-       "legacy": {
-        "blocked_by": false,
-        "blocking": false,
-        "can_dm": false,
-        "can_media_tag": true,
-        "created_at": "Tue Nov 13 21:43:46 +0000 2007",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "like and subscribe",
-        "entities": {
-         "description": {},
-         "url": {
-          "urls": [
-           {
-            "display_url": "youtube.com",
-            "expanded_url": "http://youtube.com/",
-            "indices": [
-             0,
-             23
-            ],
-            "url": "https://t.co/GIOK0JwagA"
-           }
-          ]
-         }
-        },
-        "fast_followers_count": 0,
-        "favourites_count": 6020,
-        "follow_request_sent": false,
-        "followed_by": false,
-        "followers_count": 68781456,
-        "following": false,
-        "friends_count": 1141,
-        "has_custom_timelines": true,
-        "is_translator": false,
-        "listed_count": 73918,
-        "location": "San Bruno, CA",
-        "media_count": 16199,
-        "muting": false,
-        "name": "YouTube",
-        "needs_phone_verification": false,
-        "normal_followers_count": 68781456,
-        "notifications": false,
-        "pinned_tweet_ids_str": [
-         "2102412606308757511"
-        ],
-        "possibly_sensitive": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1773248035",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg",
-        "profile_interstitial_type": "",
-        "protected": false,
-        "screen_name": "YouTube",
-        "statuses_count": 61560,
-        "time_zone": "",
-        "translator_type": "regular",
-        "url": "https://t.co/GIOK0JwagA",
-        "utc_offset": 0,
-        "verified": false,
-        "verified_type": "Business",
-        "want_retweets": false,
-        "withheld_description": "",
-        "withheld_scope": ""
-       },
-       "profile_image_shape": "Square",
-       "rest_id": "10228272",
-       "super_follow_eligible": false,
-       "super_followed_by": false,
-       "super_following": false,
-       "tipjar_settings": {}
-      }
-     }
-    ]
-   },
-   "rest_id": "https://t.co/G4FBIlOuvR"
-  },
-  "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "youtube.com/watch?v=NJ7k0j\u2026",
-     "expanded_url": "https://www.youtube.com/watch?v=NJ7k0j4GqrU",
-     "indices": [
-      117,
-      140
-     ],
-     "url": "https://t.co/G4FBIlOuvR"
-    }
+    "2111640667462013317"
    ],
-   "user_mentions": [
-    {
-     "id_str": "200879923",
-     "indices": [
-      10,
-      18
-     ],
-     "name": "Brandon Gdula",
-     "screen_name": "gdula13"
-    },
-    {
-     "id_str": "460434714",
-     "indices": [
-      23,
-      37
-     ],
-     "name": "David Kitchen",
-     "screen_name": "david_kitchen"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2110374421383012448",
-  "url": "https://x.com/LateRoundQB/status/2110374421383012448",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2110374421383012448",
-  "text": "I have no insight on the injury, but it\u2019s worth noting that the Bears had three total running back rushes in the second half against Green Bay. And that Swift\u2019s final snap was with about 8 minutes left in the fourth. The game was easily over by then.",
-  "fullText": "I have no insight on the injury, but it\u2019s worth noting that the Bears had three total running back rushes in the second half against Green Bay. And that Swift\u2019s final snap was with about 8 minutes left in the fourth. The game was easily over by then.",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 12,
-  "likeCount": 278,
-  "quoteCount": 2,
-  "viewCount": 92449,
-  "createdAt": "Wed Oct 14 14:17:25 +0000 2026",
-  "lang": "en",
-  "quoteId": "2110079575636254797",
-  "bookmarkCount": 7,
-  "isReply": false,
-  "conversationId": "2110374421383012448",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237793,
-   "following": 974,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2109627467023483124"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": true,
-  "quote": {
-   "type": "tweet",
-   "id": "2110079575636254797",
-   "text": "Chicago Bears RB D\u2019Andre Swift is being bothered by both a hip and knee injury. He only got one carry in the second half Sunday against the Packers and then was held out for the remainder. Something to monitor this week. #DaBears",
-   "source": "",
-   "retweetCount": 53,
-   "replyCount": 69,
-   "likeCount": 2450,
-   "quoteCount": 18,
-   "viewCount": 733291,
-   "createdAt": "Tue Oct 13 18:45:48 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 157,
-   "isPinned": false,
-   "author": {
-    "type": "user",
-    "userName": "Chicago_NFL",
-    "url": "https://x.com/Chicago_NFL",
-    "twitterUrl": "https://twitter.com/Chicago_NFL",
-    "id": "38339609",
-    "name": "Ben Devine",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/2019428962577838080/gPy3S2pP_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/38339609/1735259403",
-    "description": "Chicago Bears fanalyst - #DaBears fans' insider. Covering Chicago Sports since 2009. #NFLDraft sage. Bear Down!",
-    "location": "Chi-Town",
-    "followers": 25856,
-    "following": 530,
-    "protected": false,
-    "status": "",
-    "canDm": true,
-    "canMediaTag": true,
-    "createdAt": "Thu May 07 02:00:16 +0000 2009",
-    "entities": {
-     "description": {}
-    },
-    "fastFollowersCount": 0,
-    "favouritesCount": 12315,
-    "hasCustomTimelines": true,
-    "isTranslator": false,
-    "mediaCount": 1806,
-    "statusesCount": 28090,
-    "affiliatesHighlightedLabel": {},
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "1707559460225573207"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1905354885731942674"
-    }
-   },
-   "extendedEntities": {},
-   "card": {},
-   "place": {},
-   "entities": {
-    "hashtags": [
-     {
-      "indices": [
-       221,
-       229
-      ],
-      "text": "DaBears"
-     }
-    ]
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
    }
   },
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2110374838493643095",
-  "url": "https://x.com/LateRoundQB/status/2110374838493643095",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2110374838493643095",
-  "text": "I guess I\u2019m tweeting this because the way it\u2019s phrased makes it seem like Swift carried the ball once and then they yanked him. That\u2019s not what happened \u2014 his final carry was at the beginning of the third. He then played 16 more snaps.",
-  "fullText": "I guess I\u2019m tweeting this because the way it\u2019s phrased makes it seem like Swift carried the ball once and then they yanked him. That\u2019s not what happened \u2014 his final carry was at the beginning of the third. He then played 16 more snaps.",
-  "source": "",
-  "retweetCount": 0,
-  "replyCount": 6,
-  "likeCount": 45,
-  "quoteCount": 0,
-  "viewCount": 11506,
-  "createdAt": "Wed Oct 14 14:19:05 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 0,
-  "isReply": true,
-  "inReplyToId": "2110374421383012448",
-  "conversationId": "2110374421383012448",
-  "inReplyToUserId": "596744235",
-  "inReplyToUsername": "LateRoundQB",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237793,
-   "following": 974,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2109627467023483124"
-   ]
-  },
   "extendedEntities": {},
   "card": {},
   "place": {},
@@ -1300,70 +193,305 @@
  },
  {
   "type": "tweet",
-  "id": "2110005406730969236",
-  "url": "https://x.com/LateRoundQB/status/2110005406730969236",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2110005406730969236",
-  "text": "Josh Allen is currently at 28.6 standard points per game. That's third-best of any quarterback through the first five weeks since 2016 (Russell Wilson was at 29.5 in 2020, Josh Allen was at 29.3 in 2022).\n\n(There's more, this is a mini thread)",
-  "fullText": "Josh Allen is currently at 28.6 standard points per game. That's third-best of any quarterback through the first five weeks since 2016 (Russell Wilson was at 29.5 in 2020, Josh Allen was at 29.3 in 2022).\n\n(There's more, this is a mini thread)",
+  "id": "2111806116757750118",
+  "url": "https://x.com/UnderdogNFL/status/2111806116757750118",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111806116757750118",
+  "text": "Najee Harris likely to have larger role in Week 6 with Cam Skattebo's role downgraded after fumbles, per @JordanRaanan.",
+  "fullText": "Najee Harris likely to have larger role in Week 6 with Cam Skattebo's role downgraded after fumbles, per @JordanRaanan.",
   "source": "",
-  "retweetCount": 7,
-  "replyCount": 5,
-  "likeCount": 311,
-  "quoteCount": 1,
-  "viewCount": 54447,
-  "createdAt": "Tue Oct 13 13:51:05 +0000 2026",
+  "retweetCount": 21,
+  "replyCount": 38,
+  "likeCount": 630,
+  "quoteCount": 24,
+  "viewCount": 117291,
+  "createdAt": "Sun Oct 18 13:06:28 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 19,
+  "bookmarkCount": 23,
   "isReply": false,
-  "conversationId": "2110005406730969236",
+  "conversationId": "2111806116757750118",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
    "isVerified": false,
+   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
    "location": "",
-   "followers": 237793,
-   "following": 974,
+   "followers": 418031,
+   "following": 12,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/gGsrTQey7m"
+       "url": "https://t.co/3wHuxASkII"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2109627467023483124"
+    "2111640667462013317"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "user_mentions": [
+    {
+     "id_str": "46677036",
+     "indices": [
+      105,
+      118
+     ],
+     "name": "Jordan Raanan",
+     "screen_name": "JordanRaanan"
+    }
    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2111799170944098715",
+  "url": "https://x.com/UnderdogNFL/status/2111799170944098715",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111799170944098715",
+  "text": "Ryans: Marvin Harrison Jr. expected to be involved in around 15-20 plays in Week 6, via @MollyAMcGrath.\n\nCould play more if he feels comfortable.",
+  "fullText": "Ryans: Marvin Harrison Jr. expected to be involved in around 15-20 plays in Week 6, via @MollyAMcGrath.\n\nCould play more if he feels comfortable.",
+  "source": "",
+  "retweetCount": 26,
+  "replyCount": 24,
+  "likeCount": 1372,
+  "quoteCount": 13,
+  "viewCount": 151243,
+  "createdAt": "Sun Oct 18 12:38:52 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 27,
+  "isReply": false,
+  "conversationId": "2111799170944098715",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 418031,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2111640667462013317"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "user_mentions": [
+    {
+     "id_str": "46816296",
+     "indices": [
+      88,
+      102
+     ],
+     "name": "Molly McGrath",
+     "screen_name": "MollyAMcGrath"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2111783082336350422",
+  "url": "https://x.com/UnderdogNFL/status/2111783082336350422",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111783082336350422",
+  "text": "Rap: Steelers optimistic Pat Freiermuth (calf) plays in Week 6.",
+  "fullText": "Rap: Steelers optimistic Pat Freiermuth (calf) plays in Week 6.",
+  "source": "",
+  "retweetCount": 6,
+  "replyCount": 1,
+  "likeCount": 160,
+  "quoteCount": 3,
+  "viewCount": 85614,
+  "createdAt": "Sun Oct 18 11:34:56 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "2111783082336350422",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 418031,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2111640667462013317"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
   },
   "extendedEntities": {},
   "card": {},
@@ -1377,73 +505,473 @@
  },
  {
   "type": "tweet",
-  "id": "2110005409235021868",
-  "url": "https://x.com/LateRoundQB/status/2110005409235021868",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2110005409235021868",
-  "text": "What's just totally bonkers about his start is that he's giving fantasy managers 14.4 PPG via rushing alone. That's the most that we've ever seen from a quarterback through five weeks since 2016. It's the first time anyone's been over 13 PPG via rushing.",
-  "fullText": "What's just totally bonkers about his start is that he's giving fantasy managers 14.4 PPG via rushing alone. That's the most that we've ever seen from a quarterback through five weeks since 2016. It's the first time anyone's been over 13 PPG via rushing.",
+  "id": "2111782917122736544",
+  "url": "https://x.com/UnderdogNFL/status/2111782917122736544",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111782917122736544",
+  "text": "Rap: Sean Tucker (quad) not expected to play Week 6.",
+  "fullText": "Rap: Sean Tucker (quad) not expected to play Week 6.",
   "source": "",
-  "retweetCount": 0,
+  "retweetCount": 2,
   "replyCount": 1,
-  "likeCount": 45,
-  "quoteCount": 0,
-  "viewCount": 12449,
-  "createdAt": "Tue Oct 13 13:51:06 +0000 2026",
+  "likeCount": 90,
+  "quoteCount": 1,
+  "viewCount": 70935,
+  "createdAt": "Sun Oct 18 11:34:17 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 0,
-  "isReply": true,
-  "inReplyToId": "2110005406730969236",
-  "conversationId": "2110005406730969236",
-  "inReplyToUserId": "596744235",
-  "inReplyToUsername": "LateRoundQB",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2111782917122736544",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
    "isVerified": false,
+   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
    "location": "",
-   "followers": 237793,
-   "following": 974,
+   "followers": 418031,
+   "following": 12,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/gGsrTQey7m"
+       "url": "https://t.co/3wHuxASkII"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 43531,
-   "hasCustomTimelines": true,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 5332,
-   "statusesCount": 137534,
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2109627467023483124"
-   ]
+    "2111640667462013317"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2111782841134510581",
+  "url": "https://x.com/UnderdogNFL/status/2111782841134510581",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111782841134510581",
+  "text": "Schefter: Tyler Shough has been playing through two broken bones in left hand.",
+  "fullText": "Schefter: Tyler Shough has been playing through two broken bones in left hand.",
+  "source": "",
+  "retweetCount": 39,
+  "replyCount": 17,
+  "likeCount": 1136,
+  "quoteCount": 19,
+  "viewCount": 154474,
+  "createdAt": "Sun Oct 18 11:33:59 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 47,
+  "isReply": false,
+  "conversationId": "2111782841134510581",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 418031,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2111640667462013317"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2111780627309584512",
+  "url": "https://x.com/UnderdogNFL/status/2111780627309584512",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111780627309584512",
+  "text": "Rap: Chris Olave (illness), Alvin Kamara (back) expected to play Week 6.",
+  "fullText": "Rap: Chris Olave (illness), Alvin Kamara (back) expected to play Week 6.",
+  "source": "",
+  "retweetCount": 8,
+  "replyCount": 7,
+  "likeCount": 336,
+  "quoteCount": 3,
+  "viewCount": 78301,
+  "createdAt": "Sun Oct 18 11:25:11 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2111780627309584512",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 418031,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2111640667462013317"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2111780520216420443",
+  "url": "https://x.com/UnderdogNFL/status/2111780520216420443",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111780520216420443",
+  "text": "Rap: TreVeyon Henderson (ankle) likely to play Week 6.",
+  "fullText": "Rap: TreVeyon Henderson (ankle) likely to play Week 6.",
+  "source": "",
+  "retweetCount": 14,
+  "replyCount": 15,
+  "likeCount": 306,
+  "quoteCount": 3,
+  "viewCount": 83018,
+  "createdAt": "Sun Oct 18 11:24:45 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "2111780520216420443",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 418031,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2111640667462013317"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2111778209713008923",
+  "url": "https://x.com/UnderdogNFL/status/2111778209713008923",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2111778209713008923",
+  "text": "Rap: Quinshon Judkins (foot) a game-time decision for Week 6.",
+  "fullText": "Rap: Quinshon Judkins (foot) a game-time decision for Week 6.",
+  "source": "",
+  "retweetCount": 5,
+  "replyCount": 5,
+  "likeCount": 158,
+  "quoteCount": 0,
+  "viewCount": 73643,
+  "createdAt": "Sun Oct 18 11:15:34 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "2111778209713008923",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 418031,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 11,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 5925,
+   "statusesCount": 35379,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2089398850020663297/Z4HfAByH_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2111640667462013317"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
   },
   "extendedEntities": {},
   "card": {},
