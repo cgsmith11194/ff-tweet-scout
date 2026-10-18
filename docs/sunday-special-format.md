@@ -54,8 +54,15 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
    touches, one clause, no essay. Line-vetting (the three-book cross-check)
    is an internal process: surface discrepancies to Chris in the delivery
    note, never in the letter body.
-4. **🔬 Matchup Lab** — WR/CB + RB/DL tweets (web fallback common here),
-   Best / Not notable / Worst.
+4. **🔬 Matchup Lab** — DEFENSIVE MATCHUPS ONLY (Chris, 10/18): every item is
+   a player-vs-defense edge grounded in coverage scheme (1-high/Cover 3 rates
+   vs a player's per-route splits), front/run-fit data (stuff rate, yards
+   before/after contact, scheme-on-scheme like outside-zone vs an
+   outside-zone-killing front), or personnel (a shadow corner, a returning DB,
+   a missing nickel). NEVER a restatement of injuries (wire's job),
+   environment/script (Environment's job), or usage trends with no defensive
+   component. WR/CB + RB/DL tweets are the backbone (web fallback common);
+   Best / Worst tiers.
 5. **🧾 Receipts** — LAST SUNDAY'S calls only (never Thursday content): one
    line each, what we called, what happened, hit or miss.
 6. **🧵 Threads We Were Waiting On** — closes out the NON-INJURY storylines
