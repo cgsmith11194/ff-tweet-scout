@@ -1,879 +1,88 @@
 [
  {
   "type": "tweet",
-  "id": "2084046827205091662",
-  "url": "https://x.com/CoopAFiasco/status/2084046827205091662",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2084046827205091662",
-  "text": "Guess who\u2019s a dad - again!\n\nSay hello to Delilah June Cooper! https://t.co/VK5OtGxMhC",
-  "fullText": "Guess who\u2019s a dad - again!\n\nSay hello to Delilah June Cooper! https://t.co/VK5OtGxMhC",
-  "source": "",
-  "retweetCount": 6,
-  "replyCount": 132,
-  "likeCount": 623,
-  "quoteCount": 3,
-  "viewCount": 80731,
-  "createdAt": "Sun Aug 02 22:40:57 +0000 2026",
-  "lang": "en",
-  "quoteId": "1685783919977766912",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "conversationId": "2084046827205091662",
-  "possiblySensitive": false,
-  "isPinned": true,
-  "author": {
-   "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/1YtxZPU59i"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
-   "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/VK5OtGxMhC",
-     "expanded_url": "https://x.com/CoopAFiasco/status/2084046827205091662/photo/1",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "ext_playlists": [],
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 78,
-         "w": 78,
-         "x": 880,
-         "y": 570
-        },
-        {
-         "h": 304,
-         "w": 304,
-         "x": 342,
-         "y": 1308
-        },
-        {
-         "h": 452,
-         "w": 452,
-         "x": 1104,
-         "y": 596
-        }
-       ]
-      }
-     },
-     "id_str": "2084046823019147264",
-     "indices": [
-      62,
-      85
-     ],
-     "media_key": "3_2084046823019147264",
-     "media_url_https": "https://pbs.twimg.com/media/HOwFizVWcAAP-c2.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 1068,
-        "w": 1907,
-        "x": 0,
-        "y": 336
-       },
-       {
-        "h": 1907,
-        "w": 1907,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 2048,
-        "w": 1796,
-        "x": 111,
-        "y": 0
-       },
-       {
-        "h": 2048,
-        "w": 1024,
-        "x": 767,
-        "y": 0
-       },
-       {
-        "h": 2048,
-        "w": 1907,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 2048,
-      "width": 1907
-     },
-     "sizes": {
-      "large": {
-       "h": 2048,
-       "w": 1907
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/VK5OtGxMhC"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": true,
-  "quote": {
-   "type": "tweet",
-   "id": "1685783919977766912",
-   "text": "Guess who\u2019s a dad?\n\nSay hello to Laney Jay Cooper! https://t.co/Qt6BTivlXc",
-   "source": "",
-   "retweetCount": 166,
-   "replyCount": 885,
-   "likeCount": 4065,
-   "quoteCount": 26,
-   "viewCount": 271478,
-   "createdAt": "Sun Jul 30 22:46:21 +0000 2023",
-   "lang": "en",
-   "bookmarkCount": 4,
-   "possiblySensitive": false,
-   "isPinned": false,
-   "author": {
-    "type": "user",
-    "userName": "CoopAFiasco",
-    "url": "https://x.com/CoopAFiasco",
-    "twitterUrl": "https://twitter.com/CoopAFiasco",
-    "id": "35915798",
-    "name": "Andrew Cooper",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-    "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-    "location": "Yin & Yang Tight End",
-    "followers": 28748,
-    "following": 1127,
-    "protected": false,
-    "status": "",
-    "canDm": true,
-    "canMediaTag": true,
-    "advertiserAccountType": "promotable_user",
-    "analyticsType": "enabled",
-    "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
-    "entities": {
-     "description": {
-      "user_mentions": [
-       {
-        "id_str": "",
-        "indices": [
-         17,
-         30
-        ],
-        "name": "",
-        "screen_name": "FantasyAlarm"
-       },
-       {
-        "id_str": "",
-        "indices": [
-         41,
-         50
-        ],
-        "name": "",
-        "screen_name": "SiriusXM"
-       },
-       {
-        "id_str": "",
-        "indices": [
-         56,
-         61
-        ],
-        "name": "",
-        "screen_name": "FSWA"
-       }
-      ]
-     },
-     "url": {
-      "urls": [
-       {
-        "display_url": "fantasyalarm.com/features/contr\u2026",
-        "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/1YtxZPU59i"
-       }
-      ]
-     }
-    },
-    "fastFollowersCount": 0,
-    "favouritesCount": 86049,
-    "geoEnabled": true,
-    "hasCustomTimelines": true,
-    "hasExtendedProfile": true,
-    "isTranslator": false,
-    "mediaCount": 10749,
-    "profileBackgroundColor": "C0DEED",
-    "statusesCount": 63974,
-    "translatorTypeEnum": "None",
-    "affiliatesHighlightedLabel": {},
-    "pinnedTweetIds": [
-     "2084046827205091662"
-    ]
-   },
-   "extendedEntities": {
-    "media": [
-     {
-      "display_url": "pic.x.com/Qt6BTivlXc",
-      "expanded_url": "https://x.com/CoopAFiasco/status/1685783919977766912/photo/1",
-      "ext_master_playlist_only": [],
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "ext_playlists": [],
-      "features": {
-       "large": {
-        "faces": [
-         {
-          "h": 350,
-          "w": 350,
-          "x": 736,
-          "y": 732
-         }
-        ]
-       }
-      },
-      "id_str": "1685783916257361921",
-      "indices": [
-       51,
-       74
-      ],
-      "media_key": "3_1685783916257361921",
-      "media_url_https": "https://pbs.twimg.com/media/F2UbikiWQAEicGL.jpg",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 860,
-         "w": 1536,
-         "x": 0,
-         "y": 440
-        },
-        {
-         "h": 1536,
-         "w": 1536,
-         "x": 0,
-         "y": 102
-        },
-        {
-         "h": 1751,
-         "w": 1536,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 2048,
-         "w": 1024,
-         "x": 460,
-         "y": 0
-        },
-        {
-         "h": 2048,
-         "w": 1536,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 2048,
-       "width": 1536
-      },
-      "sizes": {
-       "large": {
-        "h": 2048,
-        "w": 1536
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/Qt6BTivlXc"
-     }
-    ]
-   },
-   "card": {},
-   "place": {},
-   "entities": {}
-  },
-  "media": [
-   "https://pbs.twimg.com/media/HOwFizVWcAAP-c2.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2114344562286317849",
-  "url": "https://x.com/CoopAFiasco/status/2114344562286317849",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2114344562286317849",
-  "text": "Happy National Tight Ends Day, ya rascals - here's where you can find me this morning for any start/sit questions:\n\n9-10 AM ET: @FantasyAlarm Discord\n10-11 AM ET: SiriusXM Channel 87\n11-12 PM ET: @FantasyAlarm YouTube\n12-1 PM ET: TE Rankings update + Reddit AMA https://t.co/ssyFjvWC7A",
-  "fullText": "Happy National Tight Ends Day, ya rascals - here's where you can find me this morning for any start/sit questions:\n\n9-10 AM ET: @FantasyAlarm Discord\n10-11 AM ET: SiriusXM Channel 87\n11-12 PM ET: @FantasyAlarm YouTube\n12-1 PM ET: TE Rankings update + Reddit AMA https://t.co/ssyFjvWC7A",
-  "source": "",
-  "retweetCount": 0,
+  "id": "2114339762387525830",
+  "url": "https://x.com/ffdataroma/status/2114339762387525830",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2114339762387525830",
+  "text": "RT @ffdataroma: Week 7: Players that you should FADE      \n\n\u2b07\ufe0f\ud83e\uddf5",
+  "fullText": "RT @ffdataroma: Week 7: Players that you should FADE      \n\n\u2b07\ufe0f\ud83e\uddf5",
+  "source": "Twitter for iPhone",
+  "retweetCount": 3,
   "replyCount": 1,
-  "likeCount": 4,
+  "likeCount": 43,
   "quoteCount": 0,
-  "viewCount": 1510,
-  "createdAt": "Sun Oct 25 13:13:20 +0000 2026",
+  "viewCount": 28168,
+  "createdAt": "Sun Oct 25 12:54:16 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 0,
+  "bookmarkCount": 15,
   "isReply": false,
-  "conversationId": "2114344562286317849",
-  "possiblySensitive": false,
+  "conversationId": "2114339762387525830",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
+    "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/1YtxZPU59i"
+       "url": "https://t.co/4QmVXjPECs"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
-   "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/ssyFjvWC7A",
-     "expanded_url": "https://x.com/CoopAFiasco/status/2114344562286317849/photo/1",
-     "ext_alt_text": "Rob Gronkowski Football GIF by Tampa Bay Buccaneers",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
      },
-     "ext_playlists": [],
-     "id_str": "2114344554736328704",
-     "indices": [
-      262,
-      285
-     ],
-     "media_key": "16_2114344554736328704",
-     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/HVepK5XXIAAZpYe.jpg",
-     "original_info": {
-      "focus_rects": [],
-      "height": 480,
-      "width": 480
-     },
-     "sizes": {
-      "large": {
-       "h": 480,
-       "w": 480
-      }
-     },
-     "type": "animated_gif",
-     "url": "https://t.co/ssyFjvWC7A",
-     "video_info": {
-      "aspect_ratio": [
-       1,
-       1
-      ],
-      "variants": [
-       {
-        "bitrate": 0,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/tweet_video/HVepK5XXIAAZpYe.mp4"
-       }
-      ]
-     }
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "58559901",
-     "indices": [
-      128,
-      141
-     ],
-     "name": "Fantasy Alarm",
-     "screen_name": "FantasyAlarm"
-    },
-    {
-     "id_str": "58559901",
-     "indices": [
-      196,
-      209
-     ],
-     "name": "Fantasy Alarm",
-     "screen_name": "FantasyAlarm"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/tweet_video_thumb/HVepK5XXIAAZpYe.jpg"
-  ],
-  "videos": [
-   {
-    "durationMillis": null,
-    "aspectRatio": [
-     1,
-     1
-    ],
-    "variants": [
-     {
-      "bitrate": 0,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/tweet_video/HVepK5XXIAAZpYe.mp4"
-     }
-    ]
-   }
-  ],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2114093286281625643",
-  "url": "https://x.com/CoopAFiasco/status/2114093286281625643",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2114093286281625643",
-  "text": "Everyone should be rooting for Tank Dell on principle alone. What an insane run of bad luck yet he keeps on fighting.",
-  "fullText": "Everyone should be rooting for Tank Dell on principle alone. What an insane run of bad luck yet he keeps on fighting.",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 3,
-  "likeCount": 139,
-  "quoteCount": 0,
-  "viewCount": 8288,
-  "createdAt": "Sat Oct 24 20:34:52 +0000 2026",
-  "lang": "en",
-  "quoteId": "2114085457730601146",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "conversationId": "2114093286281625643",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/1YtxZPU59i"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
-   "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": true,
-  "quote": {
-   "type": "tweet",
-   "id": "2114085457730601146",
-   "text": "Texans officially activated WR Tank Dell to their active roster and he is set to return Sunday to his first NFL action in almost two years.",
-   "source": "",
-   "retweetCount": 362,
-   "replyCount": 64,
-   "likeCount": 7880,
-   "quoteCount": 39,
-   "viewCount": 653437,
-   "createdAt": "Sat Oct 24 20:03:45 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 54,
-   "author": {
-    "type": "user",
-    "userName": "AdamSchefter",
-    "url": "https://x.com/AdamSchefter",
-    "twitterUrl": "https://twitter.com/AdamSchefter",
-    "id": "51263592",
-    "name": "Adam Schefter",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
-    "description": "ESPN Senior NFL Insider. Host of the Adam Schefter Podcast https://t.co/Rrty23Lfn7",
-    "location": "New York",
-    "followers": 11822834,
-    "following": 4103,
-    "protected": false,
-    "status": "",
-    "canDm": false,
-    "canMediaTag": true,
-    "advertiserAccountType": "promotable_user",
-    "analyticsType": "enabled",
-    "createdAt": "Fri Jun 26 22:55:28 +0000 2009",
-    "entities": {
-     "description": {
-      "urls": [
-       {
-        "display_url": "Instagram.com/AdamSchefter",
-        "expanded_url": "http://Instagram.com/AdamSchefter",
-        "indices": [
-         59,
-         82
-        ],
-        "url": "https://t.co/Rrty23Lfn7"
-       }
-      ]
-     },
+     "description": "Sleeper",
      "url": {
-      "urls": [
-       {
-        "display_url": "espn.smart.link/p68e9wvbd",
-        "expanded_url": "https://espn.smart.link/p68e9wvbd",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/XrpOlYiRin"
-       }
-      ]
-     }
-    },
-    "fastFollowersCount": 0,
-    "favouritesCount": 1042,
-    "geoEnabled": true,
-    "hasCustomTimelines": true,
-    "hasExtendedProfile": false,
-    "isTranslator": false,
-    "mediaCount": 9776,
-    "profileBackgroundColor": "2573B8",
-    "statusesCount": 89052,
-    "translatorTypeEnum": "None",
-    "affiliatesHighlightedLabel": {}
-   },
-   "extendedEntities": {},
-   "card": {},
-   "place": {},
-   "entities": {}
-  },
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2113758576519025015",
-  "url": "https://x.com/CoopAFiasco/status/2113758576519025015",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2113758576519025015",
-  "text": "RT @SiriusXMFantasy: Who will be the hottest player in fantasy football after NFL Week 7?\ud83d\udd25\ud83d\udd25\n\n@rotobuzzguy @CoopAFiasco @FantasyAlarm",
-  "fullText": "RT @SiriusXMFantasy: Who will be the hottest player in fantasy football after NFL Week 7?\ud83d\udd25\ud83d\udd25\n\n@rotobuzzguy @CoopAFiasco @FantasyAlarm",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 4,
-  "likeCount": 5,
-  "quoteCount": 0,
-  "viewCount": 4855,
-  "createdAt": "Fri Oct 23 22:24:51 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 0,
-  "isReply": false,
-  "conversationId": "2113758576519025015",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/1YtxZPU59i"
-      }
-     ]
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
   },
   "extendedEntities": {},
   "card": {},
@@ -881,166 +90,101 @@
   "entities": {
    "user_mentions": [
     {
-     "id_str": "126518959",
+     "id_str": "1673448826340798465",
      "indices": [
       3,
-      19
+      14
      ],
-     "name": "Fantasy Sports Radio",
-     "screen_name": "SiriusXMFantasy"
-    },
-    {
-     "id_str": "107537021",
-     "indices": [
-      93,
-      105
-     ],
-     "name": "Howard Bender",
-     "screen_name": "rotobuzzguy"
-    },
-    {
-     "id_str": "35915798",
-     "indices": [
-      106,
-      118
-     ],
-     "name": "Andrew Cooper",
-     "screen_name": "CoopAFiasco"
-    },
-    {
-     "id_str": "58559901",
-     "indices": [
-      119,
-      132
-     ],
-     "name": "Fantasy Alarm",
-     "screen_name": "FantasyAlarm"
+     "name": "Dataroma",
+     "screen_name": "ffdataroma"
     }
    ]
   },
   "isRetweet": true,
   "retweet": {
    "type": "tweet",
-   "id": "2113752827235623318",
-   "text": "Who will be the hottest player in fantasy football after NFL Week 7?\ud83d\udd25\ud83d\udd25\n\n@rotobuzzguy @CoopAFiasco @FantasyAlarm",
+   "id": "2114104972384313794",
+   "text": "Week 7: Players that you should FADE      \n\n\u2b07\ufe0f\ud83e\uddf5",
    "source": "",
-   "retweetCount": 2,
-   "replyCount": 4,
-   "likeCount": 5,
+   "retweetCount": 3,
+   "replyCount": 1,
+   "likeCount": 43,
    "quoteCount": 0,
-   "viewCount": 4855,
-   "createdAt": "Fri Oct 23 22:02:00 +0000 2026",
+   "viewCount": 28168,
+   "createdAt": "Sat Oct 24 21:21:18 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 0,
+   "bookmarkCount": 15,
    "isPinned": false,
    "author": {
     "type": "user",
-    "userName": "SiriusXMFantasy",
-    "url": "https://x.com/SiriusXMFantasy",
-    "twitterUrl": "https://twitter.com/SiriusXMFantasy",
-    "id": "126518959",
-    "name": "Fantasy Sports Radio",
+    "userName": "ffdataroma",
+    "url": "https://x.com/ffdataroma",
+    "twitterUrl": "https://twitter.com/ffdataroma",
+    "id": "1673448826340798465",
+    "name": "Dataroma",
     "isVerified": false,
-    "isBlueVerified": false,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1721606204034539520/3esLQqLE_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/126518959/1405451056",
-    "description": "SiriusXM Fantasy Sports Radio | Channel 87 | CALL US NOW (888) 963-2682 | LISTEN NOW: https://t.co/7NTczWOWqy | THE WIRE https://t.co/XMIigNqH2y",
-    "location": "Washington, DC",
-    "followers": 135430,
-    "following": 2497,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+    "location": "",
+    "followers": 21675,
+    "following": 429,
     "protected": false,
     "status": "",
     "canDm": true,
     "canMediaTag": true,
-    "advertiserAccountType": "promotable_user",
-    "analyticsType": "enabled",
-    "createdAt": "Fri Mar 26 03:44:19 +0000 2010",
+    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
     "entities": {
-     "description": {
-      "urls": [
-       {
-        "display_url": "SiriusXM.Us/FantasySportsR\u2026",
-        "expanded_url": "http://SiriusXM.Us/FantasySportsRadio",
-        "indices": [
-         86,
-         109
-        ],
-        "url": "https://t.co/7NTczWOWqy"
-       },
-       {
-        "display_url": "SiriusXM.com/TheWire",
-        "expanded_url": "http://SiriusXM.com/TheWire",
-        "indices": [
-         121,
-         144
-        ],
-        "url": "https://t.co/XMIigNqH2y"
-       }
-      ]
-     },
+     "description": {},
      "url": {
       "urls": [
        {
-        "display_url": "siriusxm.com/fantasysports",
-        "expanded_url": "http://www.siriusxm.com/fantasysports",
+        "display_url": "beacons.ai/ffdataroma",
+        "expanded_url": "https://beacons.ai/ffdataroma",
         "indices": [
          0,
          23
         ],
-        "url": "https://t.co/dInt1qtOTb"
+        "url": "https://t.co/4QmVXjPECs"
        }
       ]
      }
     },
     "fastFollowersCount": 0,
-    "favouritesCount": 43199,
-    "geoEnabled": true,
-    "hasCustomTimelines": true,
-    "hasExtendedProfile": false,
+    "favouritesCount": 6750,
+    "hasCustomTimelines": false,
     "isTranslator": false,
-    "mediaCount": 33038,
-    "profileBackgroundColor": "131516",
-    "statusesCount": 237415,
-    "translatorTypeEnum": "None",
-    "affiliatesHighlightedLabel": {},
+    "mediaCount": 826,
+    "statusesCount": 10552,
+    "affiliatesHighlightedLabel": {
+     "label": {
+      "badge": {
+       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+      },
+      "description": "Sleeper",
+      "url": {
+       "url": "https://twitter.com/SleeperHQ",
+       "urlType": "DeepLink"
+      },
+      "userLabelDisplayType": "Badge",
+      "userLabelType": "BusinessLabel"
+     }
+    },
+    "possiblySensitive": false,
     "pinnedTweetIds": [
-     "2076751013722169443"
-    ]
+     "2113986366526968308"
+    ],
+    "professional": {
+     "category": [],
+     "professional_type": "Creator",
+     "rest_id": "1689775700130095228"
+    }
    },
    "extendedEntities": {},
    "card": {},
    "place": {},
-   "entities": {
-    "user_mentions": [
-     {
-      "id_str": "107537021",
-      "indices": [
-       72,
-       84
-      ],
-      "name": "Howard Bender",
-      "screen_name": "rotobuzzguy"
-     },
-     {
-      "id_str": "35915798",
-      "indices": [
-       85,
-       97
-      ],
-      "name": "Andrew Cooper",
-      "screen_name": "CoopAFiasco"
-     },
-     {
-      "id_str": "58559901",
-      "indices": [
-       98,
-       111
-      ],
-      "name": "Fantasy Alarm",
-      "screen_name": "FantasyAlarm"
-     }
-    ]
-   }
+   "entities": {}
   },
   "isQuote": false,
   "media": [],
@@ -1049,454 +193,600 @@
  },
  {
   "type": "tweet",
-  "id": "2113734628016357672",
-  "url": "https://x.com/CoopAFiasco/status/2113734628016357672",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2113734628016357672",
-  "text": "Filling in the rest of a DFS lineup after I throw a $2,600 Will Mallory in there https://t.co/8JXoEK5nq1",
-  "fullText": "Filling in the rest of a DFS lineup after I throw a $2,600 Will Mallory in there https://t.co/8JXoEK5nq1",
-  "source": "",
-  "retweetCount": 0,
-  "replyCount": 2,
-  "likeCount": 6,
-  "quoteCount": 0,
-  "viewCount": 2815,
-  "createdAt": "Fri Oct 23 20:49:41 +0000 2026",
+  "id": "2114339743999701218",
+  "url": "https://x.com/ffdataroma/status/2114339743999701218",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2114339743999701218",
+  "text": "RT @ffdataroma: Week 7: Players that are set up to SMASH     \n\n\u2b07\ufe0f\ud83e\uddf5",
+  "fullText": "RT @ffdataroma: Week 7: Players that are set up to SMASH     \n\n\u2b07\ufe0f\ud83e\uddf5",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1,
+  "replyCount": 3,
+  "likeCount": 96,
+  "quoteCount": 1,
+  "viewCount": 56285,
+  "createdAt": "Sun Oct 25 12:54:12 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 0,
+  "bookmarkCount": 48,
   "isReply": false,
-  "conversationId": "2113734628016357672",
-  "possiblySensitive": false,
+  "conversationId": "2114339743999701218",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
+    "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/1YtxZPU59i"
+       "url": "https://t.co/4QmVXjPECs"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
   },
-  "extendedEntities": {
-   "media": [
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "user_mentions": [
     {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/8JXoEK5nq1",
-     "expanded_url": "https://x.com/CoopAFiasco/status/2113734628016357672/photo/1",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "ext_playlists": [],
-     "features": {
-      "large": {
-       "faces": []
-      }
-     },
-     "id_str": "2113733829013671936",
+     "id_str": "1673448826340798465",
      "indices": [
-      81,
-      104
+      3,
+      14
      ],
-     "media_key": "3_2113733829013671936",
-     "media_url_https": "https://pbs.twimg.com/media/HVV9t-wWEAAvqp6.png",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 336,
-        "w": 600,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 445,
-        "w": 445,
-        "x": 3,
-        "y": 0
-       },
-       {
-        "h": 445,
-        "w": 390,
-        "x": 30,
-        "y": 0
-       },
-       {
-        "h": 445,
-        "w": 223,
-        "x": 114,
-        "y": 0
-       },
-       {
-        "h": 445,
-        "w": 600,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 445,
-      "width": 600
-     },
-     "sizes": {
-      "large": {
-       "h": 445,
-       "w": 600
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/8JXoEK5nq1"
+     "name": "Dataroma",
+     "screen_name": "ffdataroma"
     }
    ]
   },
+  "isRetweet": true,
+  "retweet": {
+   "type": "tweet",
+   "id": "2113986366526968308",
+   "text": "Week 7: Players that are set up to SMASH     \n\n\u2b07\ufe0f\ud83e\uddf5",
+   "source": "",
+   "retweetCount": 1,
+   "replyCount": 3,
+   "likeCount": 96,
+   "quoteCount": 1,
+   "viewCount": 56285,
+   "createdAt": "Sat Oct 24 13:30:00 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 48,
+   "isPinned": true,
+   "author": {
+    "type": "user",
+    "userName": "ffdataroma",
+    "url": "https://x.com/ffdataroma",
+    "twitterUrl": "https://twitter.com/ffdataroma",
+    "id": "1673448826340798465",
+    "name": "Dataroma",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+    "location": "",
+    "followers": 21675,
+    "following": 429,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "beacons.ai/ffdataroma",
+        "expanded_url": "https://beacons.ai/ffdataroma",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/4QmVXjPECs"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6750,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 826,
+    "statusesCount": 10552,
+    "affiliatesHighlightedLabel": {
+     "label": {
+      "badge": {
+       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+      },
+      "description": "Sleeper",
+      "url": {
+       "url": "https://twitter.com/SleeperHQ",
+       "urlType": "DeepLink"
+      },
+      "userLabelDisplayType": "Badge",
+      "userLabelType": "BusinessLabel"
+     }
+    },
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2113986366526968308"
+    ],
+    "professional": {
+     "category": [],
+     "professional_type": "Creator",
+     "rest_id": "1689775700130095228"
+    }
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2113655956139618384",
+  "url": "https://x.com/ffdataroma/status/2113655956139618384",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2113655956139618384",
+  "text": "TreVeyon Henderson ran behind 2025 UDFA Corey Kiner in terms of carries (4 to 3) last night.\n\nOver the past 3 weeks, he's averaging less than 5 rush attempts per game and is running 6 routes per game, per @FantasyPtsData.\n\nHis 4.7 PPR expected fantasy points per game in this time would be just 59th among RBs on the season, and his full season mark isn't much better (5.8 XFP/G, 51st among RBs). \n\nFirmly in backup/handcuff territory, and shaping up to be one of the worst picks in fantasy drafts this offseason in round 6.",
+  "fullText": "TreVeyon Henderson ran behind 2025 UDFA Corey Kiner in terms of carries (4 to 3) last night.\n\nOver the past 3 weeks, he's averaging less than 5 rush attempts per game and is running 6 routes per game, per @FantasyPtsData.\n\nHis 4.7 PPR expected fantasy points per game in this time",
+  "source": "",
+  "retweetCount": 2,
+  "replyCount": 5,
+  "likeCount": 115,
+  "quoteCount": 0,
+  "viewCount": 20547,
+  "createdAt": "Fri Oct 23 15:37:04 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 12,
+  "isReply": false,
+  "conversationId": "2113655956139618384",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "id_str": "1512168033011306496",
+     "indices": [
+      205,
+      220
+     ],
+     "name": "Fantasy Points Data",
+     "screen_name": "FantasyPtsData"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2113654286932459763",
+  "url": "https://x.com/ffdataroma/status/2113654286932459763",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2113654286932459763",
+  "text": "Colston Loveland over his past 4 games, per @FantasyPtsData:\n\n+ 0.28 targets per route run (*would be TE3 on season)\n+ 8.0 targets per game (*TE4)\n+ 1.84 yards per route run (*TE8)\n+ 52.5 yards per game (*TE7)\n+ 14.6 PPR XFP/G (*TE4)\n+ 13.5 PPR FP/G (*TE7)\n\nLooking much closer to that elite TE we were hoping for after the slow start\ud83d\udcc8",
+  "fullText": "Colston Loveland over his past 4 games, per @FantasyPtsData:\n\n+ 0.28 targets per route run (*would be TE3 on season)\n+ 8.0 targets per game (*TE4)\n+ 1.84 yards per route run (*TE8)\n+ 52.5 yards per game (*TE7)\n+ 14.6 PPR XFP/G (*TE4)\n+ 13.5 PPR FP/G (*TE7)\n\nLooking much closer to",
+  "source": "",
+  "retweetCount": 2,
+  "replyCount": 5,
+  "likeCount": 188,
+  "quoteCount": 1,
+  "viewCount": 13755,
+  "createdAt": "Fri Oct 23 15:30:26 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 14,
+  "isReply": false,
+  "conversationId": "2113654286932459763",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "id_str": "1512168033011306496",
+     "indices": [
+      44,
+      59
+     ],
+     "name": "Fantasy Points Data",
+     "screen_name": "FantasyPtsData"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2113452569448124641",
+  "url": "https://x.com/ffdataroma/status/2113452569448124641",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2113452569448124641",
+  "text": "Burden and Loveland with a pair of TDs and nearly 200 combined yards w/ nearly half the game left, we are so back",
+  "fullText": "Burden and Loveland with a pair of TDs and nearly 200 combined yards w/ nearly half the game left, we are so back",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 3,
+  "likeCount": 174,
+  "quoteCount": 0,
+  "viewCount": 9908,
+  "createdAt": "Fri Oct 23 02:08:53 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2113452569448124641",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
   "card": {},
   "place": {},
   "entities": {},
   "isRetweet": false,
   "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HVV9t-wWEAAvqp6.png"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2113677352010154268",
-  "url": "https://x.com/CoopAFiasco/status/2113677352010154268",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2113677352010154268",
-  "text": "The BEST Week 7 Fantasy Football Plays with guest Greg Brainos https://t.co/WUqgZu29OZ",
-  "fullText": "The BEST Week 7 Fantasy Football Plays with guest Greg Brainos https://t.co/WUqgZu29OZ",
-  "source": "",
-  "retweetCount": 0,
-  "replyCount": 0,
-  "likeCount": 2,
-  "quoteCount": 0,
-  "viewCount": 1859,
-  "createdAt": "Fri Oct 23 17:02:05 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 0,
-  "isReply": false,
-  "conversationId": "2113677352010154268",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/1YtxZPU59i"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
-   "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "x.com/i/broadcasts/1\u2026",
-     "expanded_url": "https://x.com/i/broadcasts/1DGLdZlgPyvGm",
-     "indices": [
-      63,
-      86
-     ],
-     "url": "https://t.co/WUqgZu29OZ"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
   "media": [],
   "videos": [],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2113661475005047052",
-  "url": "https://x.com/CoopAFiasco/status/2113661475005047052",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2113661475005047052",
-  "text": "We are running HOT with top three finishes in the @FFPC challenge in each of the the last two weeks - can our guest @CoachspeakIndex keep the good times rolling? \n\nFind out an hour from now when we go LIVE at 1 PM ET!\n\nhttps://t.co/oo9yE5zdnY",
-  "fullText": "We are running HOT with top three finishes in the @FFPC challenge in each of the the last two weeks - can our guest @CoachspeakIndex keep the good times rolling? \n\nFind out an hour from now when we go LIVE at 1 PM ET!\n\nhttps://t.co/oo9yE5zdnY",
+  "id": "2113448604329472019",
+  "url": "https://x.com/ffdataroma/status/2113448604329472019",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2113448604329472019",
+  "text": "That one guy who had 300 Luther Burden hate tweets this offseason is going through hell tonight",
+  "fullText": "That one guy who had 300 Luther Burden hate tweets this offseason is going through hell tonight",
   "source": "",
   "retweetCount": 1,
-  "replyCount": 0,
-  "likeCount": 3,
+  "replyCount": 6,
+  "likeCount": 155,
   "quoteCount": 0,
-  "viewCount": 9091,
-  "createdAt": "Fri Oct 23 15:59:00 +0000 2026",
+  "viewCount": 11060,
+  "createdAt": "Fri Oct 23 01:53:07 +0000 2026",
   "lang": "en",
   "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2113661475005047052",
-  "possiblySensitive": false,
+  "conversationId": "2113448604329472019",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
+    "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/1YtxZPU59i"
+       "url": "https://t.co/4QmVXjPECs"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "youtube.com/watch?v=WCXMyJ\u2026",
-     "expanded_url": "https://www.youtube.com/watch?v=WCXMyJwQ2sY",
-     "indices": [
-      219,
-      242
-     ],
-     "url": "https://t.co/oo9yE5zdnY"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "26636713",
-     "indices": [
-      50,
-      55
-     ],
-     "name": "The FFPC",
-     "screen_name": "FFPC"
-    },
-    {
-     "id_str": "1619370998922444803",
-     "indices": [
-      116,
-      132
-     ],
-     "name": "The Coachspeak Index",
-     "screen_name": "CoachspeakIndex"
-    }
-   ]
-  },
+  "entities": {},
   "isRetweet": false,
   "isQuote": false,
   "media": [],
@@ -1505,106 +795,450 @@
  },
  {
   "type": "tweet",
-  "id": "2113446537946890736",
-  "url": "https://x.com/CoopAFiasco/status/2113446537946890736",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2113446537946890736",
-  "text": "Luther Burden tonight",
-  "fullText": "Luther Burden tonight",
+  "id": "2113094732666593360",
+  "url": "https://x.com/ffdataroma/status/2113094732666593360",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2113094732666593360",
+  "text": "Have seen multiple accounts cite JJ McCarthys\u2019s catchable throw rate being poor, but that\u2019s just completely false.\n\nFiltering out spikes, he was at a 76.5% catchable throw rate, which was 14th of 29 QBs in Week 6 (and would be 16th of 34 QBs on the year).\n\nAnd on top of that, his average depth of target was 15.24 yards downfield. That\u2019s extremely deep, nearly 5 (!) yards deeper than the 2nd highest QB on the year. Target depth is obviously going to be directly correlated catchable throw rate, so that 76.5% catchable rate is actually quite good considering aDOT.\n\nNot to suggest JJ is good because of 1 strong quarter in garbage time, and he\u2019s likely still a bad QB for that matter given what we saw in his 1st year. But let\u2019s give credit where it\u2019s due, JJ played well last week. And throwing around random stats without understanding the context behind them helps no one.",
+  "fullText": "Have seen multiple accounts cite JJ McCarthys\u2019s catchable throw rate being poor, but that\u2019s just completely false.\n\nFiltering out spikes, he was at a 76.5% catchable throw rate, which was 14th of 29 QBs in Week 6 (and would be 16th of 34 QBs on the year).\n\nAnd on top of that, his",
   "source": "",
-  "retweetCount": 0,
-  "replyCount": 0,
-  "likeCount": 30,
-  "quoteCount": 0,
-  "viewCount": 2726,
-  "createdAt": "Fri Oct 23 01:44:55 +0000 2026",
+  "retweetCount": 21,
+  "replyCount": 16,
+  "likeCount": 255,
+  "quoteCount": 2,
+  "viewCount": 29845,
+  "createdAt": "Thu Oct 22 02:26:58 +0000 2026",
   "lang": "en",
-  "quoteId": "2029611789395382492",
-  "bookmarkCount": 0,
+  "quoteId": "2112937949654606260",
+  "bookmarkCount": 21,
   "isReply": false,
-  "conversationId": "2113446537946890736",
+  "conversationId": "2113094732666593360",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
+    "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/1YtxZPU59i"
+       "url": "https://t.co/4QmVXjPECs"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "2112937949654606260",
+   "text": "Source: The Giants plan to start J.J. McCarthy on Sunday vs. Houston. https://t.co/HzpVzf88Oj",
+   "source": "",
+   "retweetCount": 387,
+   "replyCount": 118,
+   "likeCount": 3066,
+   "quoteCount": 317,
+   "viewCount": 1087359,
+   "createdAt": "Wed Oct 21 16:03:58 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 61,
+   "possiblySensitive": false,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "JFowlerESPN",
+    "url": "https://x.com/JFowlerESPN",
+    "twitterUrl": "https://twitter.com/JFowlerESPN",
+    "id": "594257142",
+    "name": "Jeremy Fowler",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1880612989805400064/QPEAv97p_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/594257142/1398543020",
+    "description": "ESPN senior NFL reporter. @SportsCenter insider. IG: @JFowlerESPN",
+    "location": "",
+    "followers": 278525,
+    "following": 2658,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed May 30 00:57:53 +0000 2012",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "espn.com",
+        "expanded_url": "http://espn.com",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/mxYJjwEcXk"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 350,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 3143,
+    "statusesCount": 38441,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2112909453506801823"
+    ]
+   },
+   "extendedEntities": {
+    "media": [
+     {
+      "display_url": "pic.x.com/HzpVzf88Oj",
+      "expanded_url": "https://x.com/JFowlerESPN/status/2112937949654606260/photo/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "features": {
+       "large": {
+        "faces": []
+       },
+       "medium": {
+        "faces": []
+       },
+       "orig": {
+        "faces": []
+       },
+       "small": {
+        "faces": []
+       }
+      },
+      "id_str": "2112937945510404096",
+      "indices": [
+       70,
+       93
+      ],
+      "media_key": "3_2112937945510404096",
+      "media_results": {
+       "result": {
+        "media_key": "3_2112937945510404096"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/media/HVKp3dqXYAAUE1t.jpg",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 675,
+         "w": 1206,
+         "x": 0,
+         "y": 819
+        },
+        {
+         "h": 1206,
+         "w": 1206,
+         "x": 0,
+         "y": 288
+        },
+        {
+         "h": 1375,
+         "w": 1206,
+         "x": 0,
+         "y": 119
+        },
+        {
+         "h": 1494,
+         "w": 747,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 1494,
+         "w": 1206,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 1494,
+       "width": 1206
+      },
+      "sizes": {
+       "large": {
+        "h": 1494,
+        "resize": "fit",
+        "w": 1206
+       },
+       "medium": {
+        "h": 1200,
+        "resize": "fit",
+        "w": 969
+       },
+       "small": {
+        "h": 680,
+        "resize": "fit",
+        "w": 549
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/HzpVzf88Oj"
+     }
+    ]
+   },
+   "card": {},
+   "place": {},
+   "entities": {
+    "media": [
+     {
+      "display_url": "pic.x.com/HzpVzf88Oj",
+      "expanded_url": "https://x.com/JFowlerESPN/status/2112937949654606260/photo/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "features": {
+       "large": {
+        "faces": []
+       },
+       "medium": {
+        "faces": []
+       },
+       "orig": {
+        "faces": []
+       },
+       "small": {
+        "faces": []
+       }
+      },
+      "id_str": "2112937945510404096",
+      "indices": [
+       70,
+       93
+      ],
+      "media_key": "3_2112937945510404096",
+      "media_results": {
+       "result": {
+        "media_key": "3_2112937945510404096"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/media/HVKp3dqXYAAUE1t.jpg",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 675,
+         "w": 1206,
+         "x": 0,
+         "y": 819
+        },
+        {
+         "h": 1206,
+         "w": 1206,
+         "x": 0,
+         "y": 288
+        },
+        {
+         "h": 1375,
+         "w": 1206,
+         "x": 0,
+         "y": 119
+        },
+        {
+         "h": 1494,
+         "w": 747,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 1494,
+         "w": 1206,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 1494,
+       "width": 1206
+      },
+      "sizes": {
+       "large": {
+        "h": 1494,
+        "resize": "fit",
+        "w": 1206
+       },
+       "medium": {
+        "h": 1200,
+        "resize": "fit",
+        "w": 969
+       },
+       "small": {
+        "h": 680,
+        "resize": "fit",
+        "w": 549
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/HzpVzf88Oj"
+     }
+    ]
+   }
+  },
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2114108266372616361",
+  "url": "https://x.com/ffdataroma/status/2114108266372616361",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2114108266372616361",
+  "text": "Week 6 main slate results:\n\n14-5 on straights\n\n+17 units if you threw 1 unit on all alternate and anytime TD lines \ud83d\ude80\n\nCheck out the Week 7 write-ups below \u2b07\ufe0f",
+  "fullText": "Week 6 main slate results:\n\n14-5 on straights\n\n+17 units if you threw 1 unit on all alternate and anytime TD lines \ud83d\ude80\n\nCheck out the Week 7 write-ups below \u2b07\ufe0f",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 2,
+  "likeCount": 36,
+  "quoteCount": 0,
+  "viewCount": 12764,
+  "createdAt": "Sat Oct 24 21:34:23 +0000 2026",
+  "lang": "en",
+  "quoteId": "2113986366526968308",
+  "bookmarkCount": 11,
+  "isReply": false,
+  "conversationId": "2114108266372616361",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
+   "isTranslator": false,
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
   },
   "extendedEntities": {},
   "card": {},
@@ -1614,199 +1248,85 @@
   "isQuote": true,
   "quote": {
    "type": "tweet",
-   "id": "2029611789395382492",
-   "text": "Luther \"ARSB-JSN CeeDee Lamb of Godwin\" Burden https://t.co/yewmrdas3x",
+   "id": "2113986366526968308",
+   "text": "Week 7: Players that are set up to SMASH     \n\n\u2b07\ufe0f\ud83e\uddf5",
    "source": "",
-   "retweetCount": 8,
-   "replyCount": 1,
-   "likeCount": 359,
-   "quoteCount": 2,
-   "viewCount": 22834,
-   "createdAt": "Thu Mar 05 17:35:33 +0000 2026",
+   "retweetCount": 1,
+   "replyCount": 3,
+   "likeCount": 96,
+   "quoteCount": 1,
+   "viewCount": 56285,
+   "createdAt": "Sat Oct 24 13:30:00 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 8,
-   "possiblySensitive": false,
-   "isPinned": false,
+   "bookmarkCount": 48,
+   "isPinned": true,
    "author": {
     "type": "user",
-    "userName": "CoopAFiasco",
-    "url": "https://x.com/CoopAFiasco",
-    "twitterUrl": "https://twitter.com/CoopAFiasco",
-    "id": "35915798",
-    "name": "Andrew Cooper",
+    "userName": "ffdataroma",
+    "url": "https://x.com/ffdataroma",
+    "twitterUrl": "https://twitter.com/ffdataroma",
+    "id": "1673448826340798465",
+    "name": "Dataroma",
     "isVerified": false,
     "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-    "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-    "location": "Yin & Yang Tight End",
-    "followers": 28748,
-    "following": 1127,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+    "location": "",
+    "followers": 21675,
+    "following": 429,
     "protected": false,
     "status": "",
     "canDm": true,
     "canMediaTag": true,
-    "advertiserAccountType": "promotable_user",
-    "analyticsType": "enabled",
-    "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
     "entities": {
-     "description": {
-      "user_mentions": [
-       {
-        "id_str": "",
-        "indices": [
-         17,
-         30
-        ],
-        "name": "",
-        "screen_name": "FantasyAlarm"
-       },
-       {
-        "id_str": "",
-        "indices": [
-         41,
-         50
-        ],
-        "name": "",
-        "screen_name": "SiriusXM"
-       },
-       {
-        "id_str": "",
-        "indices": [
-         56,
-         61
-        ],
-        "name": "",
-        "screen_name": "FSWA"
-       }
-      ]
-     },
+     "description": {},
      "url": {
       "urls": [
        {
-        "display_url": "fantasyalarm.com/features/contr\u2026",
-        "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+        "display_url": "beacons.ai/ffdataroma",
+        "expanded_url": "https://beacons.ai/ffdataroma",
         "indices": [
          0,
          23
         ],
-        "url": "https://t.co/1YtxZPU59i"
+        "url": "https://t.co/4QmVXjPECs"
        }
       ]
      }
     },
     "fastFollowersCount": 0,
-    "favouritesCount": 86049,
-    "geoEnabled": true,
-    "hasCustomTimelines": true,
-    "hasExtendedProfile": true,
+    "favouritesCount": 6750,
+    "hasCustomTimelines": false,
     "isTranslator": false,
-    "mediaCount": 10749,
-    "profileBackgroundColor": "C0DEED",
-    "statusesCount": 63974,
-    "translatorTypeEnum": "None",
-    "affiliatesHighlightedLabel": {},
-    "pinnedTweetIds": [
-     "2084046827205091662"
-    ]
-   },
-   "extendedEntities": {
-    "media": [
-     {
-      "allow_download_status": {
-       "allow_download": true
+    "mediaCount": 826,
+    "statusesCount": 10552,
+    "affiliatesHighlightedLabel": {
+     "label": {
+      "badge": {
+       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
       },
-      "display_url": "pic.x.com/yewmrdas3x",
-      "expanded_url": "https://x.com/CoopAFiasco/status/2029611789395382492/photo/1",
-      "ext_master_playlist_only": [],
-      "ext_media_availability": {
-       "status": "Available"
+      "description": "Sleeper",
+      "url": {
+       "url": "https://twitter.com/SleeperHQ",
+       "urlType": "DeepLink"
       },
-      "ext_playlists": [],
-      "features": {
-       "large": {
-        "faces": [
-         {
-          "h": 89,
-          "w": 89,
-          "x": 475,
-          "y": 87
-         },
-         {
-          "h": 94,
-          "w": 94,
-          "x": 463,
-          "y": 229
-         },
-         {
-          "h": 116,
-          "w": 116,
-          "x": 575,
-          "y": 177
-         },
-         {
-          "h": 132,
-          "w": 132,
-          "x": 92,
-          "y": 118
-         }
-        ]
-       }
-      },
-      "id_str": "2029611773675065347",
-      "indices": [
-       47,
-       70
-      ],
-      "media_key": "3_2029611773675065347",
-      "media_url_https": "https://pbs.twimg.com/media/HCqhJ6HaUAMNZpt.jpg",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 605,
-         "w": 1080,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 608,
-         "w": 608,
-         "x": 209,
-         "y": 0
-        },
-        {
-         "h": 608,
-         "w": 533,
-         "x": 247,
-         "y": 0
-        },
-        {
-         "h": 608,
-         "w": 304,
-         "x": 361,
-         "y": 0
-        },
-        {
-         "h": 608,
-         "w": 1080,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 608,
-       "width": 1080
-      },
-      "sizes": {
-       "large": {
-        "h": 608,
-        "w": 1080
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/yewmrdas3x"
+      "userLabelDisplayType": "Badge",
+      "userLabelType": "BusinessLabel"
      }
-    ]
+    },
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+     "2113986366526968308"
+    ],
+    "professional": {
+     "category": [],
+     "professional_type": "Creator",
+     "rest_id": "1689775700130095228"
+    }
    },
+   "extendedEntities": {},
    "card": {},
    "place": {},
    "entities": {}
@@ -1817,303 +1337,210 @@
  },
  {
   "type": "tweet",
-  "id": "2113414568420708420",
-  "url": "https://x.com/CoopAFiasco/status/2113414568420708420",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2113414568420708420",
-  "text": "We're breaking down Patriots @ Bears right now on @SiriusXMFantasy - betting, DFS, redraft, you name it. \n\nTune into SXM channel 87 from now until kickoff! https://t.co/xdU6XC0PQ6",
-  "fullText": "We're breaking down Patriots @ Bears right now on @SiriusXMFantasy - betting, DFS, redraft, you name it. \n\nTune into SXM channel 87 from now until kickoff! https://t.co/xdU6XC0PQ6",
+  "id": "2114108269115699474",
+  "url": "https://x.com/ffdataroma/status/2114108269115699474",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2114108269115699474",
+  "text": "Week 7 smash article:\nhttps://t.co/YxL7CrD3Ev\n\nWeek 7 fade article:\nhttps://t.co/ynmf7zRYX4",
+  "fullText": "Week 7 smash article:\nhttps://t.co/YxL7CrD3Ev\n\nWeek 7 fade article:\nhttps://t.co/ynmf7zRYX4",
   "source": "",
   "retweetCount": 0,
   "replyCount": 0,
-  "likeCount": 5,
+  "likeCount": 3,
   "quoteCount": 0,
-  "viewCount": 2084,
-  "createdAt": "Thu Oct 22 23:37:53 +0000 2026",
+  "viewCount": 3086,
+  "createdAt": "Sat Oct 24 21:34:24 +0000 2026",
   "lang": "en",
   "bookmarkCount": 0,
-  "isReply": false,
-  "conversationId": "2113414568420708420",
+  "isReply": true,
+  "inReplyToId": "2114108266372616361",
+  "conversationId": "2114108266372616361",
+  "inReplyToUserId": "1673448826340798465",
+  "inReplyToUsername": "ffdataroma",
   "possiblySensitive": false,
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
+    "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/1YtxZPU59i"
+       "url": "https://t.co/4QmVXjPECs"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
-   "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
      },
-     "display_url": "pic.x.com/xdU6XC0PQ6",
-     "expanded_url": "https://x.com/CoopAFiasco/status/2113414568420708420/photo/1",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
      },
-     "ext_playlists": [],
-     "features": {
-      "large": {
-       "faces": []
-      }
-     },
-     "id_str": "2113414250391629824",
-     "indices": [
-      156,
-      179
-     ],
-     "media_key": "3_2113414250391629824",
-     "media_url_https": "https://pbs.twimg.com/media/HVRbEDnXcAApJh_.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 605,
-        "w": 1080,
-        "x": 0,
-        "y": 474
-       },
-       {
-        "h": 1080,
-        "w": 1080,
-        "x": 0,
-        "y": 236
-       },
-       {
-        "h": 1231,
-        "w": 1080,
-        "x": 0,
-        "y": 119
-       },
-       {
-        "h": 1350,
-        "w": 675,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1350,
-      "width": 1080
-     },
-     "sizes": {
-      "large": {
-       "h": 1350,
-       "w": 1080
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/xdU6XC0PQ6"
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
     }
-   ]
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
   },
-  "card": {},
+  "extendedEntities": {},
+  "card": {
+   "rest_id": "https://t.co/YxL7CrD3Ev"
+  },
   "place": {},
   "entities": {
-   "user_mentions": [
+   "urls": [
     {
-     "id_str": "126518959",
+     "display_url": "ffdataroma.substack.com/p/week-7-playe\u2026",
+     "expanded_url": "https://ffdataroma.substack.com/p/week-7-players-who-could-smash-221",
      "indices": [
-      50,
-      66
+      22,
+      45
      ],
-     "name": "Fantasy Sports Radio",
-     "screen_name": "SiriusXMFantasy"
+     "url": "https://t.co/YxL7CrD3Ev"
+    },
+    {
+     "display_url": "ffdataroma.substack.com/p/week-7-playe\u2026",
+     "expanded_url": "https://ffdataroma.substack.com/p/week-7-players-you-should-fade-8f5",
+     "indices": [
+      68,
+      91
+     ],
+     "url": "https://t.co/ynmf7zRYX4"
     }
    ]
   },
   "isRetweet": false,
   "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HVRbEDnXcAApJh_.jpg"
-  ],
+  "media": [],
   "videos": [],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2113311658126770673",
-  "url": "https://x.com/CoopAFiasco/status/2113311658126770673",
-  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2113311658126770673",
-  "text": "The Seahawks should put Zach Charbonnet at linebacker this week against the Chiefs, he's been by far the best player in the league at stopping Kenneth Walker from scoring",
-  "fullText": "The Seahawks should put Zach Charbonnet at linebacker this week against the Chiefs, he's been by far the best player in the league at stopping Kenneth Walker from scoring",
+  "id": "2114104972384313794",
+  "url": "https://x.com/ffdataroma/status/2114104972384313794",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2114104972384313794",
+  "text": "Week 7: Players that you should FADE      \n\n\u2b07\ufe0f\ud83e\uddf5",
+  "fullText": "Week 7: Players that you should FADE      \n\n\u2b07\ufe0f\ud83e\uddf5",
   "source": "",
-  "retweetCount": 780,
-  "replyCount": 114,
-  "likeCount": 22751,
-  "quoteCount": 66,
-  "viewCount": 925525,
-  "createdAt": "Thu Oct 22 16:48:57 +0000 2026",
+  "retweetCount": 3,
+  "replyCount": 1,
+  "likeCount": 43,
+  "quoteCount": 0,
+  "viewCount": 28168,
+  "createdAt": "Sat Oct 24 21:21:18 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 390,
+  "bookmarkCount": 15,
   "isReply": false,
-  "conversationId": "2113311658126770673",
+  "conversationId": "2114104972384313794",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "CoopAFiasco",
-   "url": "https://x.com/CoopAFiasco",
-   "twitterUrl": "https://twitter.com/CoopAFiasco",
-   "id": "35915798",
-   "name": "Andrew Cooper",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
-   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
-   "location": "Yin & Yang Tight End",
-   "followers": 28748,
-   "following": 1127,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21675,
+   "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        17,
-        30
-       ],
-       "name": "",
-       "screen_name": "FantasyAlarm"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        41,
-        50
-       ],
-       "name": "",
-       "screen_name": "SiriusXM"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        56,
-        61
-       ],
-       "name": "",
-       "screen_name": "FSWA"
-      }
-     ]
-    },
+    "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "fantasyalarm.com/features/contr\u2026",
-       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/1YtxZPU59i"
+       "url": "https://t.co/4QmVXjPECs"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 86049,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
+   "favouritesCount": 6750,
+   "hasCustomTimelines": false,
    "isTranslator": false,
-   "mediaCount": 10749,
-   "profileBackgroundColor": "C0DEED",
-   "statusesCount": 63974,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 826,
+   "statusesCount": 10552,
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2084046827205091662"
-   ]
+    "2113986366526968308"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1689775700130095228"
+   }
   },
   "extendedEntities": {},
   "card": {},
