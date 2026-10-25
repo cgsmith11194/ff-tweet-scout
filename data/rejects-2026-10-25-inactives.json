@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T15:31:06.289279+00:00",
+ "generated_at": "2026-10-25T15:45:38.631548+00:00",
  "window": {
   "since": "2026-10-25",
   "until": "2026-10-26",
@@ -7,13 +7,13 @@
  },
  "counts": {
   "raw": 570,
-  "unique": 57,
-  "kept": 25,
+  "unique": 76,
+  "kept": 31,
   "kills": {
-   "retweet": 9,
-   "out_of_window": 512,
-   "low_score": 21,
-   "reply": 1,
+   "retweet": 10,
+   "out_of_window": 491,
+   "low_score": 32,
+   "reply": 2,
    "pure_link": 1
   }
  },
@@ -25,7 +25,7 @@
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
    "score": 24.9,
-   "likes": 127,
+   "likes": 134,
    "text": "Rap: Pat Surtain (ankle) unlikely to play Week 7."
   },
   {
@@ -33,17 +33,26 @@
    "url": "https://x.com/Ihartitz/status/2114368966579638749",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 23.0,
-   "likes": 141,
+   "score": 23.9,
+   "likes": 242,
    "text": "Devaughn Vele is now the overall PPR WR17 this season. More fantasy points than George Pickens!"
+  },
+  {
+   "id": "2114363428714512875",
+   "url": "https://x.com/HaydenWinks/status/2114363428714512875",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.0,
+   "likes": 87,
+   "text": "It was always Jaylen Warren."
   },
   {
    "id": "2114350176030626077",
    "url": "https://x.com/Ihartitz/status/2114350176030626077",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 22.2,
-   "likes": 3308,
+   "score": 22.4,
+   "likes": 3785,
    "text": "Some random kid in Paris is going to think Jaylen Warren is the best running back alive (and they know ball)"
   },
   {
@@ -54,6 +63,15 @@
    "score": 21.1,
    "likes": 8,
    "text": "Week 7 @betr card.\n\nThere were all recommendations from my beautiful dachshund Lilly.\n\nhttps://t.co/G75tnNKmyG https://t.co/b8v58F6Y1l"
+  },
+  {
+   "id": "2114374361880965390",
+   "url": "https://x.com/Ihartitz/status/2114374361880965390",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.9,
+   "likes": 78,
+   "text": "Hit me with any start/sit questions for the next 20 minutes!\n\nWould definitely try to start Jaylen Warren wherever possible. Dude is good at football."
   },
   {
    "id": "2114372333876158962",
@@ -69,54 +87,63 @@
    "url": "https://x.com/Ihartitz/status/2114365136647434695",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 20.2,
-   "likes": 86,
+   "score": 20.6,
+   "likes": 105,
    "text": "Steelers have now called a pass on 8 of 9 snaps inside the five-yard line this season lmao"
-  },
-  {
-   "id": "2114335026934423697",
-   "url": "https://x.com/UnderdogNFL/status/2114335026934423697",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 20.1,
-   "likes": 254,
-   "text": "Schefter: Peyton Manning not expected to be a candidate for Colts' vacant GM position."
-  },
-  {
-   "id": "2114374361880965390",
-   "url": "https://x.com/Ihartitz/status/2114374361880965390",
-   "handle": "Ihartitz",
-   "reason": "low_score(analysis_hype)",
-   "score": 19.8,
-   "likes": 40,
-   "text": "Hit me with any start/sit questions for the next 20 minutes!\n\nWould definitely try to start Jaylen Warren wherever possible. Dude is good at football."
-  },
-  {
-   "id": "2114364016126529889",
-   "url": "https://x.com/UnderdogNFL/status/2114364016126529889",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 19.4,
-   "likes": 618,
-   "text": "Darnell Washington kicks off National TE Day\n\nhttps://t.co/jaRwsNWY80"
   },
   {
    "id": "2114377533831663872",
    "url": "https://x.com/Ihartitz/status/2114377533831663872",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 19.4,
-   "likes": 35,
+   "score": 20.3,
+   "likes": 59,
    "text": "Alvin Kamara is now the PPR RB20 and has outscored Omarion Hampton this season"
+  },
+  {
+   "id": "2114335026934423697",
+   "url": "https://x.com/UnderdogNFL/status/2114335026934423697",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.2,
+   "likes": 267,
+   "text": "Schefter: Peyton Manning not expected to be a candidate for Colts' vacant GM position."
+  },
+  {
+   "id": "2114364016126529889",
+   "url": "https://x.com/UnderdogNFL/status/2114364016126529889",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.5,
+   "likes": 660,
+   "text": "Darnell Washington kicks off National TE Day\n\nhttps://t.co/jaRwsNWY80"
   },
   {
    "id": "2114370781194916269",
    "url": "https://x.com/Ihartitz/status/2114370781194916269",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 17.7,
-   "likes": 246,
+   "score": 18.6,
+   "likes": 411,
    "text": "Most explosive plays this season https://t.co/E1Pl1KUK50"
+  },
+  {
+   "id": "2114374225301774477",
+   "url": "https://x.com/HaydenWinks/status/2114374225301774477",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.9,
+   "likes": 36,
+   "text": "Week 7 fantasy football defenses\n\nI have rankings here: https://t.co/b3ADlvqMa7 https://t.co/bubRl25qJh"
+  },
+  {
+   "id": "2114374395112366162",
+   "url": "https://x.com/HaydenWinks/status/2114374395112366162",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.7,
+   "likes": 19,
+   "text": "Week 7 fantasy football kickers\n\nI have rankings here: https://t.co/gbtBVVZoTw https://t.co/uEeYpVd5Xk"
   },
   {
    "id": "2114356889303822808",
@@ -124,7 +151,7 @@
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
    "score": 16.9,
-   "likes": 22,
+   "likes": 30,
    "text": "Are you starting Cam Skattebo this week now that he's back as the RB1? https://t.co/glPxxtbLDZ"
   },
   {
@@ -132,9 +159,18 @@
    "url": "https://x.com/GuruFantasyWrld/status/2114349885470486798",
    "handle": "GuruFantasyWrld",
    "reason": "low_score(analysis_hype)",
-   "score": 16.6,
-   "likes": 139,
+   "score": 16.7,
+   "likes": 151,
    "text": "Jaylen Waddle better get his shit together today or I\u2019m going to leave a bag of burning dog shit on my neighbor\u2019s front porch"
+  },
+  {
+   "id": "2114367333804458356",
+   "url": "https://x.com/HaydenWinks/status/2114367333804458356",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.5,
+   "likes": 32,
+   "text": "Some market based FLEX projections.\n\nMy rankings and notes for all positions are here: https://t.co/b3ADlvqMa7 https://t.co/cwDxMPBAZc"
   },
   {
    "id": "2114363980663717966",
@@ -142,7 +178,7 @@
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
    "score": 16.4,
-   "likes": 114,
+   "likes": 119,
    "text": "Darnell Washington lmao https://t.co/A7mXTCANxS"
   },
   {
@@ -155,12 +191,30 @@
    "text": "Updated with fresh game and implied totals.\n\nTime for cover boy Jaylen Warren to tee off!"
   },
   {
+   "id": "2114380909948653690",
+   "url": "https://x.com/jagibbs_23/status/2114380909948653690",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.1,
+   "likes": 4,
+   "text": "Week 7 Fantasy Football rankings - TE\n\nHere's how my ranks differ the most from expert consensus: https://t.co/lTlufOsiyk"
+  },
+  {
+   "id": "2114379694699086225",
+   "url": "https://x.com/jagibbs_23/status/2114379694699086225",
+   "handle": "jagibbs_23",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.1,
+   "likes": 4,
+   "text": "Week 7 Fantasy Football rankings - WR\n\nHere's how my ranks differ the most from expert consensus: https://t.co/gRvmNEKUc0"
+  },
+  {
    "id": "2114377984408998054",
    "url": "https://x.com/jagibbs_23/status/2114377984408998054",
    "handle": "jagibbs_23",
    "reason": "low_score(analysis_hype)",
    "score": 16.1,
-   "likes": 1,
+   "likes": 7,
    "text": "Week 7 Fantasy Football rankings - RB\n\nHere's how my ranks differ the most from expert consensus: https://t.co/qlzXWbISkb"
   },
   {
@@ -169,7 +223,7 @@
    "handle": "jagibbs_23",
    "reason": "low_score(analysis_hype)",
    "score": 16.1,
-   "likes": 1,
+   "likes": 5,
    "text": "Week 7 Fantasy Football rankings - QB\n\nHere's how my ranks differ the most from expert consensus: https://t.co/pes24KsPU9"
   },
   {
@@ -187,7 +241,7 @@
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
    "score": 15.6,
-   "likes": 1,
+   "likes": 2,
    "text": ".@justinboone says Cam Skattebo should stay on your bench despite returning to his lead back role \ud83d\ude2c\n\n(via Fantasy Football Live) https://t.co/8dhR815IN5"
   },
   {
@@ -200,13 +254,58 @@
    "text": "NFL Week 7 \ud83d\udd25\n\nYahoo Sports\u2019 Fantasy Football Live is back to break down the latest injury updates, toughest start/sit decisions and last-minute moves before kickoff \ud83c\udfc8 https://t.co/64WX5isATe"
   },
   {
+   "id": "2114382281435435092",
+   "url": "https://x.com/Ihartitz/status/2114382281435435092",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.1,
+   "likes": 31,
+   "text": "Fantasy twitter when Rico Dowdle plays a single snap https://t.co/o9zbh5V8Eq"
+  },
+  {
    "id": "2114329980733976953",
    "url": "https://x.com/steelers/status/2114329980733976953",
    "handle": "steelers",
    "reason": "low_score(analysis_hype)",
    "score": 3.6,
-   "likes": 172,
+   "likes": 173,
    "text": "Inactives for #PITvsNO \u2935\ufe0f @UPMC \n\n\ud83d\udcdd: https://t.co/vueQ7f8tR5 https://t.co/SBbOz2plXR"
+  },
+  {
+   "id": "2114379501907956156",
+   "url": "https://x.com/Bengals/status/2114379501907956156",
+   "handle": "Bengals",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.1,
+   "likes": 142,
+   "text": "Inactives for #CINatBAL https://t.co/pGTgMVy0Cf"
+  },
+  {
+   "id": "2114378993365324169",
+   "url": "https://x.com/nyjets/status/2114378993365324169",
+   "handle": "nyjets",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.9,
+   "likes": 128,
+   "text": "Inactives for #MIAvsNYJ"
+  },
+  {
+   "id": "2114379463781761326",
+   "url": "https://x.com/MiamiDolphins/status/2114379463781761326",
+   "handle": "MiamiDolphins",
+   "reason": "low_score(analysis_hype)",
+   "score": 1.8,
+   "likes": 59,
+   "text": "Inactives for #MIAvsNYJ https://t.co/1qpJXe7cEf"
+  },
+  {
+   "id": "2114378959689568680",
+   "url": "https://x.com/Browns/status/2114378959689568680",
+   "handle": "Browns",
+   "reason": "low_score(analysis_hype)",
+   "score": 1.8,
+   "likes": 54,
+   "text": "Our inactives for today's matchup https://t.co/Wv4TAfnAoV"
   },
   {
    "id": "2114371072694923726",
@@ -218,12 +317,21 @@
    "text": "https://t.co/mKMA0fzxGl"
   },
   {
+   "id": "2114379848026103985",
+   "url": "https://x.com/Ihartitz/status/2114379848026103985",
+   "handle": "Ihartitz",
+   "reason": "reply",
+   "score": null,
+   "likes": 6,
+   "text": "thank you for the questions everyone! best of luck! I'm going to watch the rest of this game while making eggs and turkey bacon. I grew up eating turkey bacon instead of regular bacon and I don't want to say it's better because it's not ... but it's still pretty damn good!"
+  },
+  {
    "id": "2114361321592398051",
    "url": "https://x.com/Ihartitz/status/2114361321592398051",
    "handle": "Ihartitz",
    "reason": "reply",
    "score": null,
-   "likes": 15,
+   "likes": 16,
    "text": "NEVERMIND THEN"
   },
   {
@@ -232,7 +340,7 @@
    "handle": "ffdataroma",
    "reason": "retweet",
    "score": null,
-   "likes": 43,
+   "likes": 44,
    "text": "RT @ffdataroma: Week 7: Players that you should FADE      \n\n\u2b07\ufe0f\ud83e\uddf5"
   },
   {
@@ -243,6 +351,15 @@
    "score": null,
    "likes": 96,
    "text": "RT @ffdataroma: Week 7: Players that are set up to SMASH     \n\n\u2b07\ufe0f\ud83e\uddf5"
+  },
+  {
+   "id": "2114382725138301079",
+   "url": "https://x.com/SmolaDS/status/2114382725138301079",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 0,
+   "text": "RT @DraftSharks: ACTIVE:\nBaker Mayfield\nJordan Mason\nDylan Sampson\nTank Dell\n\nINACTIVE:\nBreece Hall\nTyjae Spears\nCalvin Ridley"
   },
   {
    "id": "2114329275847377011",
@@ -277,7 +394,7 @@
    "handle": "YahooFantasy",
    "reason": "retweet",
    "score": null,
-   "likes": 2,
+   "likes": 4,
    "text": "RT @YahooFantasyJH: Is Emanuel Wilson primed for a big fantasy performance in Week 7? https://t.co/JG3l7YK3Kr"
   },
   {
@@ -286,7 +403,7 @@
    "handle": "YahooFantasy",
    "reason": "retweet",
    "score": null,
-   "likes": 7,
+   "likes": 8,
    "text": "RT @YahooFantasyJH: What are the expectations for Josh Jacobs in Week 7? https://t.co/97rgudQ1ke"
   },
   {
@@ -295,7 +412,7 @@
    "handle": "YahooFantasy",
    "reason": "retweet",
    "score": null,
-   "likes": 92,
+   "likes": 94,
    "text": "RT @YahooSports: Cam Skattebo is expected to return to his role as the Giants' lead running back Sunday against the Texans, per @RapSheet.\u2026"
   },
   {
@@ -304,7 +421,7 @@
    "handle": "YahooFantasy",
    "reason": "retweet",
    "score": null,
-   "likes": 49,
+   "likes": 51,
    "text": "RT @YahooSports: The Rams are optimistic that Puka Nacua, who\u2019s questionable for Sunday\u2019s game due to a calf injury, will play vs. the Raid\u2026"
   }
  ]
