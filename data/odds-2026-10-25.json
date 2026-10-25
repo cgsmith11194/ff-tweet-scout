@@ -2,6 +2,55 @@
  "captured_at": "2026-10-25",
  "games": [
   {
+   "game": "SF @ ATL",
+   "date": "2026-10-25T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "CLE @ TEN",
+   "date": "2026-10-25T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "IND @ MIN",
+   "date": "2026-10-25T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "MIA @ NYJ",
+   "date": "2026-10-25T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "TB @ CAR",
+   "date": "2026-10-25T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "CIN @ BAL",
+   "date": "2026-10-25T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "NYG @ HOU",
+   "date": "2026-10-25T17:00Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
    "game": "PIT VS NO",
    "date": "2026-10-25T13:30Z",
    "spread": null,
@@ -9,59 +58,10 @@
    "provider": null
   },
   {
-   "game": "SF @ ATL",
-   "date": "2026-10-25T17:00Z",
-   "spread": "SF -2.5",
-   "over_under": 49.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "CLE @ TEN",
-   "date": "2026-10-25T17:00Z",
-   "spread": "CLE -2.5",
-   "over_under": 36.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "IND @ MIN",
-   "date": "2026-10-25T17:00Z",
-   "spread": "MIN -6.5",
-   "over_under": 41.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "MIA @ NYJ",
-   "date": "2026-10-25T17:00Z",
-   "spread": "NYJ -3.5",
-   "over_under": 39.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "TB @ CAR",
-   "date": "2026-10-25T17:00Z",
-   "spread": "CAR -3",
-   "over_under": 44.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "CIN @ BAL",
-   "date": "2026-10-25T17:00Z",
-   "spread": "CIN -3",
-   "over_under": 46.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "NYG @ HOU",
-   "date": "2026-10-25T17:00Z",
-   "spread": "HOU -10.5",
-   "over_under": 42.5,
-   "provider": "DraftKings"
-  },
-  {
    "game": "DEN @ ARI",
    "date": "2026-10-25T20:05Z",
    "spread": "DEN -4.5",
-   "over_under": 42.5,
+   "over_under": 43.5,
    "provider": "DraftKings"
   },
   {
