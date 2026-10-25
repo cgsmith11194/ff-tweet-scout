@@ -1,0 +1,54 @@
+name: discord-pull
+on:
+  push:
+    branches: [main]
+    paths: ['.github/discord-pull-now']
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Pull trophy-room messages
+        env:
+          TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+        run: |
+          mkdir -p data/diag
+          OUT=data/diag/discord-trophy-room.json
+          if [ -z "$TOKEN" ]; then
+            echo '{"error":"DISCORD_BOT_TOKEN secret not set"}' > "$OUT"
+          else
+            python3 - <<'EOF'
+          import json, urllib.request, os
+          tok = os.environ['TOKEN']
+          def api(path):
+              req = urllib.request.Request('https://discord.com/api/v10'+path,
+                  headers={'Authorization': 'Bot '+tok, 'User-Agent': 'ff-tweet-scout/1.0'})
+              return json.load(urllib.request.urlopen(req))
+          out = {'guilds': [], 'messages': []}
+          try:
+              guilds = api('/users/@me/guilds')
+              for g in guilds:
+                  out['guilds'].append(g.get('name'))
+                  chans = api(f"/guilds/{g['id']}/channels")
+                  for c in chans:
+                      if 'trophy' in (c.get('name') or '').lower():
+                          msgs = api(f"/channels/{c['id']}/messages?limit=50")
+                          for m in reversed(msgs):
+                              out['messages'].append({
+                                  'author': (m.get('author') or {}).get('username'),
+                                  'ts': m.get('timestamp'),
+                                  'content': m.get('content'),
+                                  'attachments': len(m.get('attachments') or []),
+                              })
+          except Exception as e:
+              out['error'] = str(e)
+          with open('data/diag/discord-trophy-room.json', 'w') as f:
+              json.dump(out, f, indent=1)
+          EOF
+          fi
+          git config user.name "ff-bot"; git config user.email "bot@users.noreply.github.com"
+          git add "$OUT" && git commit -m "discord trophy-room pull [skip ci]" && git push || echo "nothing to commit"
