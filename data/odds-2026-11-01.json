@@ -2,6 +2,27 @@
  "captured_at": "2026-11-01",
  "games": [
   {
+   "game": "LAC @ LAR",
+   "date": "2026-11-01T21:05Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "KC @ DEN",
+   "date": "2026-11-01T21:25Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "NE @ MIA",
+   "date": "2026-11-01T21:25Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
    "game": "BAL @ BUF",
    "date": "2026-11-01T18:00Z",
    "spread": null,
@@ -58,32 +79,11 @@
    "provider": null
   },
   {
-   "game": "LAC @ LAR",
-   "date": "2026-11-01T21:05Z",
-   "spread": "LAR -6.5",
-   "over_under": 46.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "KC @ DEN",
-   "date": "2026-11-01T21:25Z",
-   "spread": "DEN -1.5",
-   "over_under": 41.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "NE @ MIA",
-   "date": "2026-11-01T21:25Z",
-   "spread": "NE -7",
-   "over_under": 41.5,
-   "provider": "DraftKings"
-  },
-  {
    "game": "PHI @ WSH",
    "date": "2026-11-02T01:20Z",
    "spread": "WSH -6",
    "over_under": 40.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "CAR @ GB",
@@ -97,7 +97,7 @@
    "date": "2026-11-03T01:15Z",
    "spread": "SEA -3",
    "over_under": 46.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   }
  ]
 }
