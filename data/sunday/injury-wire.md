@@ -11,22 +11,29 @@
 #   - Locked rows first, not-locked rows last (renderer draws the divider).
 #   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 7 — 2026-10-25 — FINAL wire, 11:55 ET
+# WEEK 8 — 2026-11-01 — EXPECTED wire, ships with the issue
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
-| Lamar Jackson | QB · BAL | OUT | Ankle | Third straight week - Tyler Huntley has started the last two, no change reported |
-| Jalen Hurts | QB · PHI | OUT | Blood clot (IR) | Still no timeline - Tanner McKee starts Monday vs Dallas |
-| DeVonta Smith | WR · PHI | OUT | Hamstring | Ruled out for Monday night per Schefter |
-| Jeremiyah Love | RB · ARI | OUT | Ankle | Out again - Tyler Allgeier keeps the starting job vs Denver |
-| Tyquan Thornton | WR · KC | OUT | Dislocated ankle | Out - Worthy and Royals carry the KC routes tonight |
-| Jordan Mason | RB · MIN | IN | Activated (IR) | Off IR and expected to play vs the Colts per Schefter |
-| Josh Jacobs | RB · GB | IN | Activated (exempt) | Back for the Detroit game with a "normal allotment of reps for a starter" per Garafolo |
-| Tyjae Spears | RB · TEN | OUT | Knee | Officially inactive vs Cleveland |
-| Breece Hall | RB · NYJ | OUT | Quad | Officially inactive - Braelon Allen graduates to bell-cow vs Miami |
-| Mike Evans | WR · SF | OUT | Achilles | Ruled out Friday (tendinitis) - Christian Kirk debuts off IR, Cooks and Watkins carry the room |
-| Baker Mayfield | QB · TB | EXP IN | Thumb | Set to return after three games out - Jalon Daniels back to the bench |
-| Saquon Barkley | RB · PHI | EXP IN | Hamstring | "Will be back" per Garafolo - confirm at Monday actives |
-| Tank Dell | WR · HOU | EXP IN | Knee | First game action since 2024 expected - a story, not yet a start |
-| Puka Nacua | WR · LAR | EXP IN | Calf | Rams "optimistic" he plays per Schefter - locks ~3:55 ET (4:25 at LV) |
-| Rashee Rice | WR · KC | PENDING | Hamstring | No fresh report after missing last week - SNF actives ~6:50 ET |
+| Lamar Jackson | QB · BAL | IN | Ankle | Off the final report - first start since Week 4, at Buffalo at 1:00 |
+| Rashee Rice | WR · KC | IN | Hamstring | No designation - officially returns per Schefter after two missed games |
+| Saquon Barkley | RB · PHI | IN | Hamstring - back | No designation and "good to go" per Rapoport for Sunday night |
+| Zach Charbonnet | RB · SEA | IN | Knee (ACL rehab) | No designation - he and Jadarian Price both expected to play Monday per Schefter |
+| A.J. Brown | WR · NE | OUT | Knee - ankle | Downgraded Saturday per Schefter - second straight miss |
+| TreVeyon Henderson | RB · NE | OUT | Illness | Rare early illness rule-out - Rhamondre Stevenson inherits the Miami matchup |
+| DeVonta Smith | WR · PHI | OUT | Hamstring | Ruled out Friday per Schefter for Sunday night at Washington |
+| Emeka Egbuka | WR · TB | OUT | Concussion - foot | Ruled out again - Chris Godwin steps back into the tree |
+| R.J. Harvey | RB · DEN | OUT | Knee | Short-term IR Friday - out at least 4 games per Rapoport |
+| Brian Robinson Jr. | RB · ATL | OUT | Hamstring | Out - Bijan Robinson consolidates the Atlanta backfield |
+| Kyle Monangai | RB · CHI | OUT | Thumb - toe | Ruled out for Monday night - D'Andre Swift handles Seattle |
+| Rashid Shaheed | WR · SEA | OUT | Knee | Downgraded to out for Monday night vs Chicago |
+| Breece Hall | RB · NYJ | EXP OUT | Quad | Not expected to play per Rapoport - Braelon Allen starts again, locks ~11:30 |
+| Tyjae Spears | RB · TEN | EXP OUT | Knee | Doubtful, no Friday practice - locks ~11:30 |
+| Carnell Tate | WR · TEN | EXP OUT | Shoulder | Doubtful, no Friday practice - locks ~11:30 |
+| D.J. Moore | WR · BUF | EXP IN | Shoulder (AC) | Expected back per Sharp Football - confirm at ~11:30 actives |
+| Dalton Kincaid | TE · BUF | EXP IN | Chest | Leaning active - confirm at ~11:30 actives |
+| George Pickens | WR · DAL | EXP IN | Shoulder - hamstring | Expected to play per Schottenheimer and Schefter - confirm ~11:30 |
+| Jakobi Meyers | WR · JAX | EXP IN | Hamstring - ankle | Expected to play but limited all week - shakiest of the leans, ~11:30 |
+| Jeremiyah Love | RB · ARI | EXP IN | Ankle | Full practice Friday, "will play" per McFarland - back vs Dallas at 1:00 |
+| Jaylen Waddle | WR · DEN | EXP IN | Chest | Expected to play - 4:25 window, actives ~3:55 |
+| Treylon Burks | WR · WAS | EXP IN | Hamstring | Expected to play Sunday night per Schefter - actives ~6:50 |
