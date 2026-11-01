@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T20:40:16.789865+00:00",
+ "generated_at": "2026-11-01T20:51:25.099478+00:00",
  "window": {
   "since": "2026-11-01",
   "until": "2026-11-02",
@@ -7,13 +7,12 @@
  },
  "counts": {
   "raw": 570,
-  "unique": 203,
+  "unique": 182,
   "kept": 80,
   "kills": {
-   "unparseable": 1,
-   "low_score": 102,
-   "out_of_window": 363,
-   "retweet": 9,
+   "out_of_window": 384,
+   "low_score": 91,
+   "retweet": 4,
    "pure_link": 1,
    "reply": 1
   }
@@ -26,35 +25,35 @@
    "handle": "BenjaminSolak",
    "reason": "low_score(analysis_hype)",
    "score": 24.7,
-   "likes": 133,
+   "likes": 137,
    "text": "loudest doink i've heard in my life in baltimore. thunderous. cacophonous."
   },
   {
-   "id": "2116958646722785682",
-   "url": "https://x.com/HaydenWinks/status/2116958646722785682",
-   "handle": "HaydenWinks",
+   "id": "2116987352459460660",
+   "url": "https://x.com/UnderdogNFL/status/2116987352459460660",
+   "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 24.5,
-   "likes": 57,
-   "text": "Michael Wilson incomplete red zone target. 0-for-3 on targets so far, but on the bright side, DOMINATING in my expected points league."
+   "score": 24.2,
+   "likes": 416,
+   "text": "Jeremiyah Love: injured\nBam Knight: injured\n\u2014\nTyler Allgeier: 63-yard TD\n\nhttps://t.co/8Vfpa48NyZ"
   },
   {
-   "id": "2116959835136893338",
-   "url": "https://x.com/HaydenWinks/status/2116959835136893338",
-   "handle": "HaydenWinks",
-   "reason": "low_score(analysis_hype)",
-   "score": 24.4,
-   "likes": 222,
-   "text": "Jeremiyah Love vs. Caleb Downs at the GL has the NFL Draft sickos amped"
-  },
-  {
-   "id": "2116969149058494800",
-   "url": "https://x.com/MikeClayNFL/status/2116969149058494800",
-   "handle": "MikeClayNFL",
+   "id": "2116913156215951660",
+   "url": "https://x.com/SmolaDS/status/2116913156215951660",
+   "handle": "SmolaDS",
    "reason": "low_score(analysis_hype)",
    "score": 24.0,
-   "likes": 105,
-   "text": "Dude can't catch a break this year. Hate to see it."
+   "likes": 4,
+   "text": "Updated with fresh implied totals and 3 games with potential weather impacts ..."
+  },
+  {
+   "id": "2116965782454509991",
+   "url": "https://x.com/MySportsUpdate/status/2116965782454509991",
+   "handle": "MySportsUpdate",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.0,
+   "likes": 8715,
+   "text": "JUSTIN JEFFERSON WHAT!!! https://t.co/1TN426eM25"
   },
   {
    "id": "2116963204030926912",
@@ -62,43 +61,25 @@
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
    "score": 23.9,
-   "likes": 431,
+   "likes": 433,
    "text": "Mike Washington with 6 carries and Ashton Jeanty with 0 in the first quarter"
   },
   {
-   "id": "2116987352459460660",
-   "url": "https://x.com/UnderdogNFL/status/2116987352459460660",
-   "handle": "UnderdogNFL",
+   "id": "2116951176960995752",
+   "url": "https://x.com/SmolaDS/status/2116951176960995752",
+   "handle": "SmolaDS",
    "reason": "low_score(analysis_hype)",
-   "score": 23.9,
-   "likes": 348,
-   "text": "Jeremiyah Love: injured\nBam Knight: injured\n\u2014\nTyler Allgeier: 63-yard TD\n\nhttps://t.co/8Vfpa48NyZ"
-  },
-  {
-   "id": "2116965782454509991",
-   "url": "https://x.com/MySportsUpdate/status/2116965782454509991",
-   "handle": "MySportsUpdate",
-   "reason": "low_score(analysis_hype)",
-   "score": 23.9,
-   "likes": 8570,
-   "text": "JUSTIN JEFFERSON WHAT!!! https://t.co/1TN426eM25"
-  },
-  {
-   "id": "2116917023783649540",
-   "url": "https://x.com/HaydenWinks/status/2116917023783649540",
-   "handle": "HaydenWinks",
-   "reason": "low_score(analysis_hype)",
-   "score": 23.2,
-   "likes": 163,
-   "text": "Underrated injury notes for Week 8:\n+ LV: Jets w/o DT1 Sweat, DEs Bailey/Ossai\n+ DEN: Chiefs w/o CBs Delane &amp; Sneed\n+ LAR: LAC S Derwin James on IR\n+ DAL: Cardinals w/o DT1 Nolen, others\n+ PHI: WAS DTs Payne/Kinlaw out, Newton Q\n+ SEA: LT Charles Cross out, LG Nelson in"
+   "score": 23.3,
+   "likes": 12,
+   "text": "From @JayGlazer ...\n\nNo limitations on Lamar Jackson or D.J. Moore today.\n\nCowboys will \"be smart\" with George Pickens today. No limitations going in.\n\n\"Pitch count\" for Saquon Barkley tonight."
   },
   {
    "id": "2116965437816860718",
    "url": "https://x.com/BenjaminSolak/status/2116965437816860718",
    "handle": "BenjaminSolak",
    "reason": "low_score(analysis_hype)",
-   "score": 23.0,
-   "likes": 172,
+   "score": 23.1,
+   "likes": 181,
    "text": "Adonai Mitchell: 4 catches for 65 yards in the first half. Even more left on the field. \n\nAdonai + Garrett + Omar Cooper is a seriously dangerous WR trio. Hard to have three man cover players for that combo of speed + big-play ability."
   },
   {
@@ -107,7 +88,7 @@
    "handle": "BenjaminSolak",
    "reason": "low_score(analysis_hype)",
    "score": 22.8,
-   "likes": 125,
+   "likes": 127,
    "text": "Joe Fagnano hours in Ravens-Bills. I am deciding to enjoy this."
   },
   {
@@ -116,7 +97,7 @@
    "handle": "BenjaminSolak",
    "reason": "low_score(analysis_hype)",
    "score": 22.8,
-   "likes": 315,
+   "likes": 325,
    "text": "Getting his head around to continue tracking the ball after the tip drill. Not human."
   },
   {
@@ -125,7 +106,7 @@
    "handle": "MySportsUpdate",
    "reason": "low_score(analysis_hype)",
    "score": 22.5,
-   "likes": 3842,
+   "likes": 3898,
    "text": "#Jets HC Aaron Glenn trying to dap up the ref \ud83d\ude02\n\nhttps://t.co/oPs2rLLDJ2"
   },
   {
@@ -134,17 +115,8 @@
    "handle": "MySportsUpdate",
    "reason": "low_score(analysis_hype)",
    "score": 22.3,
-   "likes": 1477,
+   "likes": 1493,
    "text": "It\u2019s only fitting for Justin Jefferson to make an insane TD catch in one game and Ja\u2019Marr Chase to come through with a big TD in another. https://t.co/81sa7ep494"
-  },
-  {
-   "id": "2116974742926176649",
-   "url": "https://x.com/GuruFantasyWrld/status/2116974742926176649",
-   "handle": "GuruFantasyWrld",
-   "reason": "low_score(analysis_hype)",
-   "score": 22.0,
-   "likes": 15,
-   "text": "Me: \u201cChris Godwin had like a 50% target-share last week. He could be a sneaky flex this week.\u201d\n\nTB: \u201cWe\u2019re going to throw the ball 4 whole times, Pal\u201d"
   },
   {
    "id": "2116972807074824353",
@@ -156,31 +128,31 @@
    "text": "Keon Coleman got wide open deep down the middle for what could've, should've, would've been a 74-yard touchdown with a good throw ... and Josh Allen sailed it"
   },
   {
-   "id": "2116967014548025638",
-   "url": "https://x.com/HaydenWinks/status/2116967014548025638",
-   "handle": "HaydenWinks",
+   "id": "2116974742926176649",
+   "url": "https://x.com/GuruFantasyWrld/status/2116974742926176649",
+   "handle": "GuruFantasyWrld",
    "reason": "low_score(analysis_hype)",
    "score": 22.0,
-   "likes": 49,
-   "text": "The Buccaneers have caught more passes (3) than the Falcons (2) from Michael Penix."
-  },
-  {
-   "id": "2116970819712881121",
-   "url": "https://x.com/HaydenWinks/status/2116970819712881121",
-   "handle": "HaydenWinks",
-   "reason": "low_score(analysis_hype)",
-   "score": 21.9,
-   "likes": 153,
-   "text": "Petitioning Kirk Cousins to the Ravens."
+   "likes": 16,
+   "text": "Me: \u201cChris Godwin had like a 50% target-share last week. He could be a sneaky flex this week.\u201d\n\nTB: \u201cWe\u2019re going to throw the ball 4 whole times, Pal\u201d"
   },
   {
    "id": "2116975319349694605",
    "url": "https://x.com/ffdataroma/status/2116975319349694605",
    "handle": "ffdataroma",
    "reason": "low_score(analysis_hype)",
-   "score": 21.7,
-   "likes": 79,
+   "score": 21.8,
+   "likes": 86,
    "text": "They told you Tuten couldn\u2019t break off big runs because of an 80-carry rookie year sample that had a ton of short yardage runs. \n\n4.3 speed and an elite tackle-breaker in one of the NFL\u2019s best offenses"
+  },
+  {
+   "id": "2116985774390292706",
+   "url": "https://x.com/UnderdogNFL/status/2116985774390292706",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.8,
+   "likes": 343,
+   "text": "Lamar Jackson seen wearing a cast/brace on his right arm. https://t.co/H1NUy2gF5D"
   },
   {
    "id": "2116967282257862709",
@@ -188,26 +160,17 @@
    "handle": "MySportsUpdate",
    "reason": "low_score(analysis_hype)",
    "score": 21.7,
-   "likes": 2513,
+   "likes": 2531,
    "text": "Let's check in on the #Colts offense \ud83e\udd2e https://t.co/POTc8S7aEK"
   },
   {
-   "id": "2116985774390292706",
-   "url": "https://x.com/UnderdogNFL/status/2116985774390292706",
-   "handle": "UnderdogNFL",
+   "id": "2116989357785600354",
+   "url": "https://x.com/Ihartitz/status/2116989357785600354",
+   "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 21.6,
-   "likes": 295,
-   "text": "Lamar Jackson seen wearing a cast/brace on his right arm. https://t.co/H1NUy2gF5D"
-  },
-  {
-   "id": "2116964188992180633",
-   "url": "https://x.com/HaydenWinks/status/2116964188992180633",
-   "handle": "HaydenWinks",
-   "reason": "low_score(analysis_hype)",
-   "score": 21.5,
-   "likes": 163,
-   "text": "Unfortunately, Jeremiyah Love was tackled with his right ankle trapped. Visibly upset."
+   "score": 21.4,
+   "likes": 129,
+   "text": "Aaron Rodgers now has 6 INT this season\n\n3 of them were first dropped by his receiver"
   },
   {
    "id": "2116986398381404373",
@@ -215,8 +178,17 @@
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
    "score": 21.3,
-   "likes": 63,
+   "likes": 65,
    "text": "Somehow this was Jahmyr Gibbs' first gain of 25+ yards this season"
+  },
+  {
+   "id": "2116993342475018616",
+   "url": "https://x.com/UnderdogNFL/status/2116993342475018616",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.1,
+   "likes": 471,
+   "text": "Lineup alert: Anthony Richardson enters game in place of Daniel Jones (unplayable) on Sunday."
   },
   {
    "id": "2116976711711527385",
@@ -224,7 +196,7 @@
    "handle": "MySportsUpdate",
    "reason": "low_score(analysis_hype)",
    "score": 21.1,
-   "likes": 1677,
+   "likes": 1698,
    "text": "Checking back on the #Colts offense: https://t.co/0zxK47HJIq"
   },
   {
@@ -237,13 +209,13 @@
    "text": "Fantasy Football Week 8 Start/Sit, Best Bets &amp; DFS Picks &amp; NFL Inactives with @coopafiasco &amp; @jimpemba777 https://t.co/KPwysqZbQP"
   },
   {
-   "id": "2116989357785600354",
-   "url": "https://x.com/Ihartitz/status/2116989357785600354",
-   "handle": "Ihartitz",
+   "id": "2116985715150160067",
+   "url": "https://x.com/UnderdogNFL/status/2116985715150160067",
+   "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 20.8,
-   "likes": 91,
-   "text": "Aaron Rodgers now has 6 INT this season\n\n3 of them were first dropped by his receiver"
+   "score": 20.6,
+   "likes": 1280,
+   "text": "Kirk Cousins?\n\nhttps://t.co/tG7iLMnm83"
   },
   {
    "id": "2116968829041684887",
@@ -251,71 +223,53 @@
    "handle": "BenjaminSolak",
    "reason": "low_score(analysis_hype)",
    "score": 20.5,
-   "likes": 89,
+   "likes": 92,
    "text": "Trev Law beautiful touchdown on Leak. Did an excellent job buying time on the half roll."
-  },
-  {
-   "id": "2116930233316323617",
-   "url": "https://x.com/YahooFantasy/status/2116930233316323617",
-   "handle": "YahooFantasy",
-   "reason": "low_score(analysis_hype)",
-   "score": 20.5,
-   "likes": 52,
-   "text": "DJ Moore (shoulder) and Dalton Kincaid (chest) are both active for Week 8. https://t.co/Q6yXFTkTjO"
   },
   {
    "id": "2116984198141546729",
    "url": "https://x.com/UnderdogNFL/status/2116984198141546729",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 20.2,
-   "likes": 950,
+   "score": 20.4,
+   "likes": 1064,
    "text": "DARNELL WASHINGTON MOVING\n\nhttps://t.co/76Yyx1dBvK"
   },
   {
-   "id": "2116985715150160067",
-   "url": "https://x.com/UnderdogNFL/status/2116985715150160067",
-   "handle": "UnderdogNFL",
+   "id": "2116985451638657382",
+   "url": "https://x.com/Ihartitz/status/2116985451638657382",
+   "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 20.1,
-   "likes": 962,
-   "text": "Kirk Cousins?\n\nhttps://t.co/tG7iLMnm83"
+   "score": 20.3,
+   "likes": 1091,
+   "text": "Nobody knows what it means, but it's provocative"
   },
   {
    "id": "2116991081426420025",
    "url": "https://x.com/BenjaminSolak/status/2116991081426420025",
    "handle": "BenjaminSolak",
    "reason": "low_score(analysis_hype)",
-   "score": 19.9,
-   "likes": 127,
+   "score": 20.2,
+   "likes": 153,
    "text": "Joe Burrow just threw his third pick of the game. Had Ja'Marr Chase vertical for a touchdown and shorted it several yards with no pressure. Easy snag for the safety. \n\nVery odd!"
-  },
-  {
-   "id": "2116993342475018616",
-   "url": "https://x.com/UnderdogNFL/status/2116993342475018616",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 19.9,
-   "likes": 217,
-   "text": "Lineup alert: Anthony Richardson enters game in place of Daniel Jones (unplayable) on Sunday."
   },
   {
    "id": "2116983824533897508",
    "url": "https://x.com/UnderdogNFL/status/2116983824533897508",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 19.8,
-   "likes": 89,
+   "score": 19.9,
+   "likes": 91,
    "text": "Status alert: Tyler Huntley (toe) won't return Sunday."
   },
   {
-   "id": "2116980692676649225",
-   "url": "https://x.com/UnderdogNFL/status/2116980692676649225",
+   "id": "2116986345897722220",
+   "url": "https://x.com/UnderdogNFL/status/2116986345897722220",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
    "score": 19.8,
-   "likes": 96,
-   "text": "Status alert: Jake Ferguson (ankle) won't return Sunday."
+   "likes": 192,
+   "text": "Lineup alert: Gardner Minshew enters game in place of Jacoby Brissett on Sunday."
   },
   {
    "id": "2116932499146506646",
@@ -327,24 +281,6 @@
    "text": "Colts RB Jonathan Taylor is active for Week 8."
   },
   {
-   "id": "2116986345897722220",
-   "url": "https://x.com/UnderdogNFL/status/2116986345897722220",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 19.7,
-   "likes": 182,
-   "text": "Lineup alert: Gardner Minshew enters game in place of Jacoby Brissett on Sunday."
-  },
-  {
-   "id": "2116986478412927280",
-   "url": "https://x.com/HaydenWinks/status/2116986478412927280",
-   "handle": "HaydenWinks",
-   "reason": "low_score(analysis_hype)",
-   "score": 19.6,
-   "likes": 32,
-   "text": "This will be a go to screen design. Much smarter way to get to it. Might as well be running near full speed."
-  },
-  {
    "id": "2116930769692033067",
    "url": "https://x.com/DanielOyefusi/status/2116930769692033067",
    "handle": "DanielOyefusi",
@@ -354,31 +290,40 @@
    "text": "Browns Week 8 inactives vs. the Steelers:\n\n#6 Dillon Gabriel (emergency QB) \n#15 QB Taylen Green \n#17 LB Justin Jefferson\n#20 CB Noah Igbinoghene\n#36 RB Audric Estime \n#52 C Parker Brailsford"
   },
   {
-   "id": "2116985451638657382",
-   "url": "https://x.com/Ihartitz/status/2116985451638657382",
-   "handle": "Ihartitz",
-   "reason": "low_score(analysis_hype)",
-   "score": 19.2,
-   "likes": 609,
-   "text": "Nobody knows what it means, but it's provocative"
-  },
-  {
-   "id": "2116983935049814019",
-   "url": "https://x.com/UnderdogNFL/status/2116983935049814019",
+   "id": "2116995597030904247",
+   "url": "https://x.com/UnderdogNFL/status/2116995597030904247",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 19.2,
-   "likes": 80,
-   "text": "Status alert: Michael Wilson has returned to Sunday's game."
+   "score": 19.4,
+   "likes": 94,
+   "text": "Status alert: James Cook (neck) headed to medical tent Sunday."
   },
   {
    "id": "2116983642387890496",
    "url": "https://x.com/UnderdogNFL/status/2116983642387890496",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 19.2,
-   "likes": 105,
+   "score": 19.4,
+   "likes": 113,
    "text": "Status alert: Jeremiyah Love (ankle) remains in locker room Sunday."
+  },
+  {
+   "id": "2116983935049814019",
+   "url": "https://x.com/UnderdogNFL/status/2116983935049814019",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.3,
+   "likes": 83,
+   "text": "Status alert: Michael Wilson has returned to Sunday's game."
+  },
+  {
+   "id": "2116993676845130166",
+   "url": "https://x.com/Ihartitz/status/2116993676845130166",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.1,
+   "likes": 72,
+   "text": "Colts RB Seth McGowan is now the only NFL ball carrier to reach 22+ miles per hour this season (Next-Gen Stats)"
   },
   {
    "id": "2116980525634400671",
@@ -386,7 +331,7 @@
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
    "score": 19.1,
-   "likes": 78,
+   "likes": 82,
    "text": "Raiders goal line sequence:\n\n1st &amp; Goal: Mike Washington run\n2nd &amp; Goal: Mike Washington run\n\n*Raiders put Ashton Jeanty in*\n\n3rd &amp; Goal: Cousins TD pass to Bowers https://t.co/MQ0mKzaTUV"
   },
   {
@@ -399,58 +344,40 @@
    "text": "Ashton Jeanty has been on the field 2 times at the goal line today:\n\nPlay 1: Brock Bowers TD\nPlay 2: Kirk Cousins QB Sneak TD https://t.co/pMrW6sSevR"
   },
   {
-   "id": "2116930918925627777",
-   "url": "https://x.com/HaydenWinks/status/2116930918925627777",
-   "handle": "HaydenWinks",
-   "reason": "low_score(analysis_hype)",
-   "score": 18.9,
-   "likes": 6,
-   "text": "Very difficult rankings week. Taking live questions and walking through the news.\nhttps://t.co/UME6BiY3S3"
-  },
-  {
-   "id": "2116980488942600585",
-   "url": "https://x.com/UnderdogNFL/status/2116980488942600585",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 18.6,
-   "likes": 115,
-   "text": "Status alert: Kendrick Bourne (high-ankle sprain) won't return Sunday, per the broadcast."
-  },
-  {
-   "id": "2116989608907202600",
-   "url": "https://x.com/MikeClayNFL/status/2116989608907202600",
-   "handle": "MikeClayNFL",
+   "id": "2116979104763518989",
+   "url": "https://x.com/BenjaminSolak/status/2116979104763518989",
+   "handle": "BenjaminSolak",
    "reason": "low_score(analysis_hype)",
    "score": 18.5,
-   "likes": 21,
-   "text": "Not sure how far back the @stathead database goes for snaps, but I don't see any examples of a QB completing zero passes while playing 90+% of the offensive snaps in a victory.\n\nThat's Baker Mayfield's current situation."
+   "likes": 403,
+   "text": "well that's quite something isn't it https://t.co/BDLSnMEqrA"
   },
   {
    "id": "2116930799538954645",
    "url": "https://x.com/YahooFantasy/status/2116930799538954645",
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
-   "score": 18.4,
-   "likes": 89,
+   "score": 18.5,
+   "likes": 92,
    "text": "Jordyn Tyson (hamstring) could return as early as next week, per @AdamSchefter. https://t.co/3UYU9WbQLU"
+  },
+  {
+   "id": "2116987775455248779",
+   "url": "https://x.com/Ihartitz/status/2116987775455248779",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.4,
+   "likes": 372,
+   "text": "Streaming Jacoby Brissett in fantasy this week https://t.co/63rsmb7vnm"
   },
   {
    "id": "2116966221824618676",
    "url": "https://x.com/BenjaminSolak/status/2116966221824618676",
    "handle": "BenjaminSolak",
    "reason": "low_score(analysis_hype)",
-   "score": 18.3,
-   "likes": 368,
+   "score": 18.4,
+   "likes": 374,
    "text": "It's raining cats and dogs in Tampa Bay but my GOD man https://t.co/2HDwKynbGW"
-  },
-  {
-   "id": "2116979104763518989",
-   "url": "https://x.com/BenjaminSolak/status/2116979104763518989",
-   "handle": "BenjaminSolak",
-   "reason": "low_score(analysis_hype)",
-   "score": 18.2,
-   "likes": 350,
-   "text": "well that's quite something isn't it https://t.co/BDLSnMEqrA"
   },
   {
    "id": "2116983552076103983",
@@ -458,43 +385,34 @@
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
    "score": 18.2,
-   "likes": 39,
+   "likes": 41,
    "text": "Status alert: Bam Knight (concussion) won't return Sunday."
   },
   {
-   "id": "2116987775455248779",
-   "url": "https://x.com/Ihartitz/status/2116987775455248779",
+   "id": "2116986581198545124",
+   "url": "https://x.com/Ihartitz/status/2116986581198545124",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 17.8,
-   "likes": 261,
-   "text": "Streaming Jacoby Brissett in fantasy this week https://t.co/63rsmb7vnm"
+   "score": 18.1,
+   "likes": 326,
+   "text": "NFL is starting to watch Northwestern games"
   },
   {
    "id": "2116982419970535819",
    "url": "https://x.com/Ihartitz/status/2116982419970535819",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 17.8,
-   "likes": 272,
+   "score": 18.1,
+   "likes": 315,
    "text": "Braelon Allen is younger than Ashton Jeanty"
-  },
-  {
-   "id": "2116993676845130166",
-   "url": "https://x.com/Ihartitz/status/2116993676845130166",
-   "handle": "Ihartitz",
-   "reason": "low_score(analysis_hype)",
-   "score": 17.6,
-   "likes": 4,
-   "text": "Colts RB Seth McGowan is now the only NFL ball carrier to reach 22+ miles per hour this season (Next-Gen Stats)"
   },
   {
    "id": "2116987192404746279",
    "url": "https://x.com/UnderdogNFL/status/2116987192404746279",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 17.4,
-   "likes": 209,
+   "score": 17.6,
+   "likes": 229,
    "text": "Josh Downs upping the potential trade value\n\nhttps://t.co/23tCi9gG2X"
   },
   {
@@ -502,8 +420,8 @@
    "url": "https://x.com/Ihartitz/status/2116989554531995996",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 17.1,
-   "likes": 180,
+   "score": 17.4,
+   "likes": 214,
    "text": "Bhayshul Tuten fantasy managers https://t.co/toP1OOyvwk"
   },
   {
@@ -516,21 +434,12 @@
    "text": "\u262f\ufe0fWeek 8 Remaining Tight End Rankings\u262f\ufe0f\n\nGood luck out there folks! https://t.co/dIvZH2RDbx"
   },
   {
-   "id": "2116986581198545124",
-   "url": "https://x.com/Ihartitz/status/2116986581198545124",
-   "handle": "Ihartitz",
-   "reason": "low_score(analysis_hype)",
-   "score": 17.0,
-   "likes": 178,
-   "text": "NFL is starting to watch Northwestern games"
-  },
-  {
    "id": "2116979295226917331",
    "url": "https://x.com/YahooFantasy/status/2116979295226917331",
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
-   "score": 16.9,
-   "likes": 159,
+   "score": 17.0,
+   "likes": 170,
    "text": "\u2639\ufe0f https://t.co/CbbLCtQ8rm"
   },
   {
@@ -538,18 +447,36 @@
    "url": "https://x.com/BenjaminSolak/status/2116968429139726571",
    "handle": "BenjaminSolak",
    "reason": "low_score(analysis_hype)",
-   "score": 16.7,
-   "likes": 146,
+   "score": 16.8,
+   "likes": 148,
    "text": "(Cam Ward is dealing)"
+  },
+  {
+   "id": "2116991773142884679",
+   "url": "https://x.com/Ihartitz/status/2116991773142884679",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.8,
+   "likes": 85,
+   "text": "Nobody:\n\nTyler Allgeier today: https://t.co/zBqgB8Nd07"
   },
   {
    "id": "2116984268807356655",
    "url": "https://x.com/Ihartitz/status/2116984268807356655",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 15.6,
-   "likes": 68,
+   "score": 15.7,
+   "likes": 73,
    "text": "JAYLEN WARREN GOAL LINE TOUCHDOWN https://t.co/OSKcVBZHDt"
+  },
+  {
+   "id": "2116996208346779713",
+   "url": "https://x.com/YahooFantasy/status/2116996208346779713",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.6,
+   "likes": 78,
+   "text": "prayer circle: \n\n                   \ud83d\udd6f      \ud83d\udd6f\n           \ud83d\udd6f                       \ud83d\udd6f\n                   please be\n        \ud83d\udd6f          okay          \ud83d\udd6f \n                  james cook \n           \ud83d\udd6f                       \ud83d\udd6f\n                   \ud83d\udd6f      \ud83d\udd6f"
   },
   {
    "id": "2116959970168332615",
@@ -559,24 +486,6 @@
    "score": 15.3,
    "likes": 56,
    "text": "Bucky Irving was THIS CLOSE to scoring a TD \ud83e\udee3\n\nInstead, it's a fumble \ud83e\udd72 https://t.co/ZqNKVw6BJg"
-  },
-  {
-   "id": "2116991773142884679",
-   "url": "https://x.com/Ihartitz/status/2116991773142884679",
-   "handle": "Ihartitz",
-   "reason": "low_score(analysis_hype)",
-   "score": 15.1,
-   "likes": 56,
-   "text": "Nobody:\n\nTyler Allgeier today: https://t.co/zBqgB8Nd07"
-  },
-  {
-   "id": "2116944061248778703",
-   "url": "https://x.com/MikeClayNFL/status/2116944061248778703",
-   "handle": "MikeClayNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 15.1,
-   "likes": 47,
-   "text": "Clay-I at your service! https://t.co/3xOREtOzgo"
   },
   {
    "id": "2116974079467274570",
@@ -602,7 +511,7 @@
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
    "score": 14.1,
-   "likes": 28,
+   "likes": 29,
    "text": "https://t.co/BWKr3sY9Sb"
   },
   {
@@ -611,7 +520,7 @@
    "handle": "ffdataroma",
    "reason": "low_score(analysis_hype)",
    "score": 14.0,
-   "likes": 16,
+   "likes": 21,
    "text": "\ud83d\ude82\ud83d\ude82"
   },
   {
@@ -629,7 +538,7 @@
    "handle": "YahooFantasy",
    "reason": "low_score(analysis_hype)",
    "score": 14.0,
-   "likes": 21,
+   "likes": 23,
    "text": "Tony Pollard the last two weeks https://t.co/eKbVQnYms5"
   },
   {
@@ -660,15 +569,6 @@
    "text": "SEND US YOUR LINEUP QUESTIONS!!!\n\n(@scott_pianowski will answer as many as he can)"
   },
   {
-   "id": "2116930947744461022",
-   "url": "https://x.com/BuffaloBills/status/2116930947744461022",
-   "handle": "BuffaloBills",
-   "reason": "low_score(analysis_hype)",
-   "score": 12.9,
-   "likes": 757,
-   "text": "Today's inactives. #BALvsBUF https://t.co/P6WeMxHIlm"
-  },
-  {
    "id": "2116938820524593316",
    "url": "https://x.com/trendscenterapp/status/2116938820524593316",
    "handle": "trendscenterapp",
@@ -678,12 +578,21 @@
    "text": "\ud83d\udea8 29-1 NFL trend is active!\n\nYou NEED to see this one! \ud83e\udd11 https://t.co/RX7HLLN3AS"
   },
   {
+   "id": "2116931381959831624",
+   "url": "https://x.com/Colts/status/2116931381959831624",
+   "handle": "Colts",
+   "reason": "low_score(analysis_hype)",
+   "score": 10.5,
+   "likes": 149,
+   "text": "Our inactives for #INDvsJAX. https://t.co/r9EcbfGhT6"
+  },
+  {
    "id": "2116931175629586924",
    "url": "https://x.com/the_det_times/status/2116931175629586924",
    "handle": "the_det_times",
    "reason": "low_score(analysis_hype)",
    "score": 10.0,
-   "likes": 633,
+   "likes": 637,
    "text": "JUST IN: Lions DB Roger McCreary is ACTIVE. https://t.co/0L5HsQrVhp"
   },
   {
@@ -692,7 +601,7 @@
    "handle": "RamsNFL",
    "reason": "low_score(analysis_hype)",
    "score": 9.8,
-   "likes": 153,
+   "likes": 156,
    "text": "Inactives for Week 8 vs LAC:\n\nQB Ty Simpson (emergency 3rd QB)\nLS Joe Cardona\nOL Bill Murray\nOL Keagen Trost\nTE Colby Parkinson\nOLB Desjuan Johnson https://t.co/32G5A60BKZ"
   },
   {
@@ -723,15 +632,6 @@
    "text": "Ravens inactives\nQB Joe Fagnano (emergency No.3)\nWR Elijah Sarratt\nG Vega Ioane (knee)\nOL Emery Jones Jr. \nDL Aeneas Peebles\nCB Chandler Rivers\nS Jaylinn Hawkins (knee)"
   },
   {
-   "id": "2116931243291951175",
-   "url": "https://x.com/alec_lewis/status/2116931243291951175",
-   "handle": "alec_lewis",
-   "reason": "low_score(analysis_hype)",
-   "score": 7.5,
-   "likes": 215,
-   "text": "No surprises for the Vikings' inactives. The RBs are Aaron Jones, Jordan Mason and DeeJay Dallas."
-  },
-  {
    "id": "2116930782291984394",
    "url": "https://x.com/jwyattsports/status/2116930782291984394",
    "handle": "jwyattsports",
@@ -745,8 +645,8 @@
    "url": "https://x.com/Chiefs/status/2116984705178649043",
    "handle": "Chiefs",
    "reason": "low_score(analysis_hype)",
-   "score": 7.2,
-   "likes": 281,
+   "score": 7.3,
+   "likes": 296,
    "text": "Our inactives for today's Week 8 matchup against the Denver Broncos \u2b07\ufe0f https://t.co/YGrIHpkCKr"
   },
   {
@@ -754,8 +654,8 @@
    "url": "https://x.com/flasportsbuzz/status/2116982477525000268",
    "handle": "flasportsbuzz",
    "reason": "low_score(analysis_hype)",
-   "score": 6.8,
-   "likes": 63,
+   "score": 7.0,
+   "likes": 71,
    "text": "Brents clears protocol and is active."
   },
   {
@@ -782,7 +682,7 @@
    "handle": "sarahbarshop",
    "reason": "low_score(analysis_hype)",
    "score": 6.0,
-   "likes": 133,
+   "likes": 137,
    "text": "Rams cornerback Trent McDuffie is ACTIVE against the Chargers."
   },
   {
@@ -809,8 +709,17 @@
    "handle": "NateAtkins_",
    "reason": "low_score(analysis_hype)",
    "score": 5.7,
-   "likes": 68,
+   "likes": 69,
    "text": "Rams All-Pro CB Trent McDuffie is ACTIVE today against the Chargers.\n\nFirst game for him in three weeks."
+  },
+  {
+   "id": "2116930767058022497",
+   "url": "https://x.com/Ravens/status/2116930767058022497",
+   "handle": "Ravens",
+   "reason": "low_score(analysis_hype)",
+   "score": 5.7,
+   "likes": 716,
+   "text": "Inactives at Bills https://t.co/cZ2SXuPzbP"
   },
   {
    "id": "2116930912273244368",
@@ -831,13 +740,22 @@
    "text": "Inactives for #CLEvsPIT \u2935\ufe0f @UPMC \n\n\ud83d\udcdd: https://t.co/PxVbktJsd9 https://t.co/RRmovpniKm"
   },
   {
-   "id": "2116931500138459431",
-   "url": "https://x.com/AtlantaFalcons/status/2116931500138459431",
-   "handle": "AtlantaFalcons",
+   "id": "2116931119606124651",
+   "url": "https://x.com/Bengals/status/2116931119606124651",
+   "handle": "Bengals",
+   "reason": "low_score(analysis_hype)",
+   "score": 4.3,
+   "likes": 309,
+   "text": "Inactives for #TENvsCIN https://t.co/IgdKNnrAim"
+  },
+  {
+   "id": "2116991928583549016",
+   "url": "https://x.com/ezlazar/status/2116991928583549016",
+   "handle": "ezlazar",
    "reason": "low_score(analysis_hype)",
    "score": 4.2,
-   "likes": 290,
-   "text": "Full list of today's inactives https://t.co/GGMjAhAKxa"
+   "likes": 83,
+   "text": "#Patriots C/G Ben Brown is active again today and is warming up as the backup center."
   },
   {
    "id": "2116931327002099925",
@@ -845,7 +763,7 @@
    "handle": "Raiders",
    "reason": "low_score(analysis_hype)",
    "score": 4.2,
-   "likes": 265,
+   "likes": 266,
    "text": "Inactives for #LVvsNYJ https://t.co/JsVpMQSW23"
   },
   {
@@ -854,34 +772,25 @@
    "handle": "Vikings",
    "reason": "low_score(analysis_hype)",
    "score": 4.2,
-   "likes": 284,
+   "likes": 285,
    "text": "Sunday's #Vikings inactives https://t.co/7C5UbK4o36"
   },
   {
-   "id": "2116930850918944971",
-   "url": "https://x.com/nyjets/status/2116930850918944971",
-   "handle": "nyjets",
+   "id": "2116930903200997813",
+   "url": "https://x.com/BuffaloBillsPR/status/2116930903200997813",
+   "handle": "BuffaloBillsPR",
    "reason": "low_score(analysis_hype)",
-   "score": 3.6,
-   "likes": 192,
-   "text": "Inactives for #LVvsNYJ"
-  },
-  {
-   "id": "2116930773538468279",
-   "url": "https://x.com/Browns/status/2116930773538468279",
-   "handle": "Browns",
-   "reason": "low_score(analysis_hype)",
-   "score": 3.3,
-   "likes": 162,
-   "text": "Our inactives for today's matchup https://t.co/Yp7v6KSGQ9"
+   "score": 3.8,
+   "likes": 203,
+   "text": "Gameday roster &amp; inactives \u2b07\ufe0f https://t.co/K6ZOaTRtjS"
   },
   {
    "id": "2116957241286820348",
    "url": "https://x.com/nflrums/status/2116957241286820348",
    "handle": "nflrums",
    "reason": "low_score(analysis_hype)",
-   "score": 2.8,
-   "likes": 134,
+   "score": 2.9,
+   "likes": 138,
    "text": "\ud83d\udea8#Broncos Jaylen Waddle will play today"
   },
   {
@@ -899,7 +808,7 @@
    "handle": "AZCardinals",
    "reason": "low_score(analysis_hype)",
    "score": 2.1,
-   "likes": 75,
+   "likes": 76,
    "text": "Our inactives for today's game https://t.co/4N0GMmtQX1"
   },
   {
@@ -916,27 +825,18 @@
    "url": "https://x.com/BenjaminSolak/status/2116988577779204338",
    "handle": "BenjaminSolak",
    "reason": "low_score(cold_water)",
-   "score": 24.1,
-   "likes": 86,
+   "score": 24.2,
+   "likes": 96,
    "text": "Through three quarters, the Buccaneers have 244 rushing yards and -2 passing yards (2 lost on a sack)\n\nThe 246 run-pass yardage differential through three quarters is the third-largest for any team in any game this century."
   },
   {
-   "id": "2116981035653120165",
-   "url": "https://x.com/MikeClayNFL/status/2116981035653120165",
-   "handle": "MikeClayNFL",
+   "id": "2116980062281212212",
+   "url": "https://x.com/jagibbs_23/status/2116980062281212212",
+   "handle": "jagibbs_23",
    "reason": "low_score(cold_water)",
-   "score": 22.6,
-   "likes": 49,
-   "text": "Mike Washington Jr. continues to work as the primary ballcarrier and, considering Ashton Jeanty's struggles, perhaps this will be the plan moving forward.\n\nWashington: 13 carries, 2 routes, 0 targets\nJeanty: 1 carry, 7 routes, 2 targets"
-  },
-  {
-   "id": "2116975246809133162",
-   "url": "https://x.com/HaydenWinks/status/2116975246809133162",
-   "handle": "HaydenWinks",
-   "reason": "low_score(cold_water)",
-   "score": 20.5,
-   "likes": 119,
-   "text": "The Cardinals have lost Jeremiyah Love, Kendrick Bourne, and now Bam Knight due to injury. Michael Wilson was also just slow to get up.\n\nDisaster."
+   "score": 24.0,
+   "likes": 34,
+   "text": "Baker Mayfield could make history.\n\nDating back to 2000, two other QBs have played the entire first half and had zero passing yards.\n\nThe other two went on to lose their games by a combined score of 96 to 0. https://t.co/WXKNGPMN8E"
   },
   {
    "id": "2116923231684763914",
@@ -966,15 +866,6 @@
    "text": "RT @AdamJoseph: Rio Ngumoha, who turned 18 years old in August, is a more threatening attacking player for Liverpool in big games than eith\u2026"
   },
   {
-   "id": "2116894688728793520",
-   "url": "https://x.com/CoopAFiasco/status/2116894688728793520",
-   "handle": "CoopAFiasco",
-   "reason": "retweet",
-   "score": null,
-   "likes": 2,
-   "text": "RT @FantasyAlarm: While recovering from Halloween night, don't forget to check out our AWARD-WINNING @SiriusXMFantasy radio show on Channel\u2026"
-  },
-  {
    "id": "2116989259320111449",
    "url": "https://x.com/LateRoundQB/status/2116989259320111449",
    "handle": "LateRoundQB",
@@ -984,58 +875,22 @@
    "text": "RT @LateRoundQB: #AllRoads"
   },
   {
-   "id": "2116899716541849791",
-   "url": "https://x.com/MikeClayNFL/status/2116899716541849791",
-   "handle": "MikeClayNFL",
+   "id": "2116894688728793520",
+   "url": "https://x.com/CoopAFiasco/status/2116894688728793520",
+   "handle": "CoopAFiasco",
    "reason": "retweet",
    "score": null,
-   "likes": 14,
-   "text": "RT @fantasyfocus: 5 of 7 quarterbacks that have played the Seahawks have been under 10 fantasy points. \ud83d\ude33\n\n@FieldYates &amp; @MikeClayNFL on why\u2026"
+   "likes": 2,
+   "text": "RT @FantasyAlarm: While recovering from Halloween night, don't forget to check out our AWARD-WINNING @SiriusXMFantasy radio show on Channel\u2026"
   },
   {
-   "id": "2116890385956135339",
-   "url": "https://x.com/FantasyPtsData/status/2116890385956135339",
-   "handle": "FantasyPtsData",
+   "id": "2116932640909726108",
+   "url": "https://x.com/SmolaDS/status/2116932640909726108",
+   "handle": "SmolaDS",
    "reason": "retweet",
    "score": null,
-   "likes": 14,
-   "text": "RT @AD818__: Since Week 3, Drake London ranks 2nd in the NFL in yards per route run against Cover 3 (4.79).\n\nTampa Bay runs Cover 3 at the\u2026"
-  },
-  {
-   "id": "2116890346840047761",
-   "url": "https://x.com/FantasyPtsData/status/2116890346840047761",
-   "handle": "FantasyPtsData",
-   "reason": "retweet",
-   "score": null,
-   "likes": 39,
-   "text": "RT @DBro_FFB: MIA vs. deep passing\n(per @FantasyPtsData)\n\nthey have only faced 10 deep passing attempts BUT\n\nthey have allowed the 7th high\u2026"
-  },
-  {
-   "id": "2116890294788510002",
-   "url": "https://x.com/FantasyPtsData/status/2116890294788510002",
-   "handle": "FantasyPtsData",
-   "reason": "retweet",
-   "score": null,
-   "likes": 11,
-   "text": "RT @corbin_young21: The Vikings' offense ranks 25th in pass rate over expected (PROE), yet they face the Lions' defense, which allows the h\u2026"
-  },
-  {
-   "id": "2116890281849086076",
-   "url": "https://x.com/FantasyPtsData/status/2116890281849086076",
-   "handle": "FantasyPtsData",
-   "reason": "retweet",
-   "score": null,
-   "likes": 23,
-   "text": "RT @corbin_young21: The Browns' defense deploys the highest rate of man coverage and allows the 24th-most fantasy points per dropback. Spec\u2026"
-  },
-  {
-   "id": "2116890268985118870",
-   "url": "https://x.com/FantasyPtsData/status/2116890268985118870",
-   "handle": "FantasyPtsData",
-   "reason": "retweet",
-   "score": null,
-   "likes": 18,
-   "text": "RT @corbin_young21: The Vikings' defense blitzes at the highest rate and allows the 30th-most fantasy points per dropback when they blitz.\u2026"
+   "likes": 5,
+   "text": "RT @DraftSharks: ACTIVE:\nKenneth Gainwell\nGeorge Pickens\nD.J. Moore\nJakobi Meyers\nCalvin Ridley\nDalton Kincaid\n\nINACTIVE:\nBreece Hall"
   }
  ]
 }

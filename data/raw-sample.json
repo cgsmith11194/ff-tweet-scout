@@ -1,9 +1,98 @@
 [
  {
-  "noResults": true,
-  "error": true,
-  "code": "C017",
-  "message": "User: SmolaDS not found"
+  "type": "tweet",
+  "id": "2116294120658686047",
+  "url": "https://x.com/ffdataroma/status/2116294120658686047",
+  "twitterUrl": "https://twitter.com/ffdataroma/status/2116294120658686047",
+  "text": "Week 8: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
+  "fullText": "Week 8: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
+  "source": "",
+  "retweetCount": 4,
+  "replyCount": 1,
+  "likeCount": 62,
+  "quoteCount": 0,
+  "viewCount": 35414,
+  "createdAt": "Fri Oct 30 22:20:11 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 39,
+  "isReply": false,
+  "conversationId": "2116294120658686047",
+  "isPinned": true,
+  "author": {
+   "type": "user",
+   "userName": "ffdataroma",
+   "url": "https://x.com/ffdataroma",
+   "twitterUrl": "https://twitter.com/ffdataroma",
+   "id": "1673448826340798465",
+   "name": "Dataroma",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
+   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "location": "",
+   "followers": 21729,
+   "following": 429,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
+   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "beacons.ai/ffdataroma",
+       "expanded_url": "https://beacons.ai/ffdataroma",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/4QmVXjPECs"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 6753,
+   "geoEnabled": true,
+   "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
+   "statusesCount": 10620,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+     },
+     "description": "Sleeper",
+     "url": {
+      "url": "https://twitter.com/SleeperHQ",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "pinnedTweetIds": [
+    "2116294120658686047"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
  },
  {
   "type": "tweet",
@@ -15,9 +104,9 @@
   "source": "",
   "retweetCount": 0,
   "replyCount": 0,
-  "likeCount": 16,
+  "likeCount": 21,
   "quoteCount": 0,
-  "viewCount": 2027,
+  "viewCount": 2362,
   "createdAt": "Sun Nov 01 20:23:27 +0000 2026",
   "lang": "art",
   "quoteId": "2116975319349694605",
@@ -38,12 +127,14 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
    "location": "",
-   "followers": 21731,
+   "followers": 21729,
    "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
     "description": {},
@@ -63,10 +154,14 @@
    },
    "fastFollowersCount": 0,
    "favouritesCount": 6753,
+   "geoEnabled": true,
    "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
    "isTranslator": false,
    "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
    "statusesCount": 10620,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
@@ -81,15 +176,9 @@
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
     "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -104,9 +193,9 @@
    "source": "",
    "retweetCount": 3,
    "replyCount": 1,
-   "likeCount": 79,
+   "likeCount": 86,
    "quoteCount": 1,
-   "viewCount": 7763,
+   "viewCount": 8334,
    "createdAt": "Sun Nov 01 19:27:02 +0000 2026",
    "lang": "en",
    "bookmarkCount": 1,
@@ -124,12 +213,14 @@
     "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
     "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
     "location": "",
-    "followers": 21731,
+    "followers": 21729,
     "following": 429,
     "protected": false,
     "status": "",
     "canDm": true,
     "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "disabled",
     "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
     "entities": {
      "description": {},
@@ -149,10 +240,14 @@
     },
     "fastFollowersCount": 0,
     "favouritesCount": 6753,
+    "geoEnabled": true,
     "hasCustomTimelines": false,
+    "hasExtendedProfile": true,
     "isTranslator": false,
     "mediaCount": 832,
+    "profileBackgroundColor": "F5F8FA",
     "statusesCount": 10620,
+    "translatorTypeEnum": "None",
     "affiliatesHighlightedLabel": {
      "label": {
       "badge": {
@@ -167,15 +262,9 @@
       "userLabelType": "BusinessLabel"
      }
     },
-    "possiblySensitive": false,
     "pinnedTweetIds": [
      "2116294120658686047"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
+    ]
    },
    "extendedEntities": {},
    "card": {},
@@ -196,9 +285,9 @@
   "source": "",
   "retweetCount": 3,
   "replyCount": 1,
-  "likeCount": 79,
+  "likeCount": 86,
   "quoteCount": 1,
-  "viewCount": 7763,
+  "viewCount": 8334,
   "createdAt": "Sun Nov 01 19:27:02 +0000 2026",
   "lang": "en",
   "quoteId": "2116974048760778898",
@@ -219,12 +308,14 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
    "location": "",
-   "followers": 21731,
+   "followers": 21729,
    "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
     "description": {},
@@ -244,10 +335,14 @@
    },
    "fastFollowersCount": 0,
    "favouritesCount": 6753,
+   "geoEnabled": true,
    "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
    "isTranslator": false,
    "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
    "statusesCount": 10620,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
@@ -262,15 +357,9 @@
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
     "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -283,14 +372,14 @@
    "id": "2116974048760778898",
    "text": "BHAYSHUL TUTEN RUNNING THROUGH DEFENDERS FOR A 39-YARD TD\n\nINDvsJAX on CBS/Paramount+\nStream on @NFLPlus https://t.co/d2MvvxMdPw",
    "source": "",
-   "retweetCount": 158,
-   "replyCount": 59,
-   "likeCount": 1413,
-   "quoteCount": 55,
-   "viewCount": 285074,
+   "retweetCount": 159,
+   "replyCount": 60,
+   "likeCount": 1432,
+   "quoteCount": 54,
+   "viewCount": 302649,
    "createdAt": "Sun Nov 01 19:21:59 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 43,
+   "bookmarkCount": 44,
    "possiblySensitive": false,
    "isPinned": false,
    "author": {
@@ -307,12 +396,14 @@
     "coverPicture": "https://pbs.twimg.com/profile_banners/19426551/1792728328",
     "description": "\ud83e\udd37\u200d\u2642\ufe0f",
     "location": "",
-    "followers": 36944353,
-    "following": 2799,
+    "followers": 36944318,
+    "following": 2800,
     "protected": false,
     "status": "",
     "canDm": false,
     "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "enabled",
     "createdAt": "Sat Jan 24 01:28:06 +0000 2009",
     "entities": {
      "description": {},
@@ -332,33 +423,24 @@
     },
     "fastFollowersCount": 0,
     "favouritesCount": 4636,
+    "geoEnabled": true,
     "hasCustomTimelines": true,
+    "hasExtendedProfile": false,
     "isTranslator": false,
-    "mediaCount": 160684,
-    "statusesCount": 309834,
+    "mediaCount": 160692,
+    "profileBackgroundColor": "FFFFFF",
+    "statusesCount": 309842,
+    "translatorTypeEnum": "Regular",
     "affiliatesHighlightedLabel": {},
-    "possiblySensitive": false,
     "pinnedTweetIds": [
      "2114898970812264900"
-    ],
-    "professional": {
-     "category": [
-      {
-       "icon_name": "IconBriefcaseStroke",
-       "id": 1003,
-       "name": "Professional Sports League"
-      }
-     ],
-     "professional_type": "Business",
-     "rest_id": "1559645300599373824"
-    }
+    ]
    },
    "extendedEntities": {
     "media": [
      {
       "additional_media_info": {
        "description": "",
-       "embeddable": false,
        "monetizable": true,
        "title": ""
       },
@@ -367,20 +449,17 @@
       },
       "display_url": "pic.x.com/d2MvvxMdPw",
       "expanded_url": "https://x.com/NFL/status/2116974048760778898/video/1",
+      "ext_master_playlist_only": [],
       "ext_media_availability": {
        "status": "Available"
       },
+      "ext_playlists": [],
       "id_str": "2116973905382690816",
       "indices": [
        105,
        128
       ],
       "media_key": "13_2116973905382690816",
-      "media_results": {
-       "result": {
-        "media_key": "13_2116973905382690816"
-       }
-      },
       "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2116973905382690816/img/yLzwToMqd5MEAg5O.jpg",
       "original_info": {
        "focus_rects": [],
@@ -390,23 +469,7 @@
       "sizes": {
        "large": {
         "h": 1080,
-        "resize": "fit",
         "w": 1920
-       },
-       "medium": {
-        "h": 675,
-        "resize": "fit",
-        "w": 1200
-       },
-       "small": {
-        "h": 383,
-        "resize": "fit",
-        "w": 680
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
        }
       },
       "type": "video",
@@ -420,27 +483,27 @@
        "variants": [
         {
          "content_type": "application/x-mpegURL",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/pl/bp0xzxjp0qc86sOD.m3u8?tag=29&v=df0"
+         "url": "https://video.twimg.com/amplify_video/2116973905382690816/pl/bp0xzxjp0qc86sOD.m3u8?v=df0"
         },
         {
          "bitrate": 256000,
          "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/480x270/ey4Ay7leJ1bFM0mV.mp4?tag=29"
+         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/480x270/ey4Ay7leJ1bFM0mV.mp4"
         },
         {
          "bitrate": 832000,
          "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/640x360/fiIz1B-qjRCEXFkY.mp4?tag=29"
+         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/640x360/fiIz1B-qjRCEXFkY.mp4"
         },
         {
          "bitrate": 2176000,
          "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/1280x720/uHg79YBD0DYcoamB.mp4?tag=29"
+         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/1280x720/uHg79YBD0DYcoamB.mp4"
         },
         {
          "bitrate": 10368000,
          "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/1920x1080/UJzadQ1O0dfN2ogC.mp4?tag=29"
+         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/1920x1080/UJzadQ1O0dfN2ogC.mp4"
         }
        ]
       }
@@ -450,98 +513,6 @@
    "card": {},
    "place": {},
    "entities": {
-    "media": [
-     {
-      "additional_media_info": {
-       "description": "",
-       "embeddable": false,
-       "monetizable": true,
-       "title": ""
-      },
-      "allow_download_status": {
-       "allow_download": false
-      },
-      "display_url": "pic.x.com/d2MvvxMdPw",
-      "expanded_url": "https://x.com/NFL/status/2116974048760778898/video/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "id_str": "2116973905382690816",
-      "indices": [
-       105,
-       128
-      ],
-      "media_key": "13_2116973905382690816",
-      "media_results": {
-       "result": {
-        "media_key": "13_2116973905382690816"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2116973905382690816/img/yLzwToMqd5MEAg5O.jpg",
-      "original_info": {
-       "focus_rects": [],
-       "height": 1080,
-       "width": 1920
-      },
-      "sizes": {
-       "large": {
-        "h": 1080,
-        "resize": "fit",
-        "w": 1920
-       },
-       "medium": {
-        "h": 675,
-        "resize": "fit",
-        "w": 1200
-       },
-       "small": {
-        "h": 383,
-        "resize": "fit",
-        "w": 680
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "video",
-      "url": "https://t.co/d2MvvxMdPw",
-      "video_info": {
-       "aspect_ratio": [
-        16,
-        9
-       ],
-       "duration_millis": 14550,
-       "variants": [
-        {
-         "content_type": "application/x-mpegURL",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/pl/bp0xzxjp0qc86sOD.m3u8?tag=29&v=df0"
-        },
-        {
-         "bitrate": 256000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/480x270/ey4Ay7leJ1bFM0mV.mp4?tag=29"
-        },
-        {
-         "bitrate": 832000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/640x360/fiIz1B-qjRCEXFkY.mp4?tag=29"
-        },
-        {
-         "bitrate": 2176000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/1280x720/uHg79YBD0DYcoamB.mp4?tag=29"
-        },
-        {
-         "bitrate": 10368000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2116973905382690816/vid/avc1/1920x1080/UJzadQ1O0dfN2ogC.mp4?tag=29"
-        }
-       ]
-      }
-     }
-    ],
     "user_mentions": [
      {
       "id_str": "771160003793170432",
@@ -566,12 +537,12 @@
   "twitterUrl": "https://twitter.com/ffdataroma/status/2116680073721848192",
   "text": "RT @ffdataroma: Week 8: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
   "fullText": "RT @ffdataroma: Week 8: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
-  "source": "Twitter Web App",
+  "source": "",
   "retweetCount": 4,
   "replyCount": 1,
   "likeCount": 62,
   "quoteCount": 0,
-  "viewCount": 35401,
+  "viewCount": 35414,
   "createdAt": "Sat Oct 31 23:53:50 +0000 2026",
   "lang": "en",
   "bookmarkCount": 39,
@@ -591,12 +562,14 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
    "location": "",
-   "followers": 21731,
+   "followers": 21729,
    "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
     "description": {},
@@ -616,10 +589,14 @@
    },
    "fastFollowersCount": 0,
    "favouritesCount": 6753,
+   "geoEnabled": true,
    "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
    "isTranslator": false,
    "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
    "statusesCount": 10620,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
@@ -634,15 +611,9 @@
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
     "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -670,7 +641,7 @@
    "replyCount": 1,
    "likeCount": 62,
    "quoteCount": 0,
-   "viewCount": 35401,
+   "viewCount": 35414,
    "createdAt": "Fri Oct 30 22:20:11 +0000 2026",
    "lang": "en",
    "bookmarkCount": 39,
@@ -688,12 +659,14 @@
     "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
     "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
     "location": "",
-    "followers": 21731,
+    "followers": 21729,
     "following": 429,
     "protected": false,
     "status": "",
     "canDm": true,
     "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "disabled",
     "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
     "entities": {
      "description": {},
@@ -713,10 +686,14 @@
     },
     "fastFollowersCount": 0,
     "favouritesCount": 6753,
+    "geoEnabled": true,
     "hasCustomTimelines": false,
+    "hasExtendedProfile": true,
     "isTranslator": false,
     "mediaCount": 832,
+    "profileBackgroundColor": "F5F8FA",
     "statusesCount": 10620,
+    "translatorTypeEnum": "None",
     "affiliatesHighlightedLabel": {
      "label": {
       "badge": {
@@ -731,15 +708,9 @@
       "userLabelType": "BusinessLabel"
      }
     },
-    "possiblySensitive": false,
     "pinnedTweetIds": [
      "2116294120658686047"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
+    ]
    },
    "extendedEntities": {},
    "card": {},
@@ -763,7 +734,7 @@
   "replyCount": 1,
   "likeCount": 55,
   "quoteCount": 0,
-  "viewCount": 10359,
+  "viewCount": 10360,
   "createdAt": "Wed Oct 28 20:15:00 +0000 2026",
   "lang": "en",
   "bookmarkCount": 7,
@@ -783,12 +754,14 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
    "location": "",
-   "followers": 21731,
+   "followers": 21729,
    "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
     "description": {},
@@ -808,10 +781,14 @@
    },
    "fastFollowersCount": 0,
    "favouritesCount": 6753,
+   "geoEnabled": true,
    "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
    "isTranslator": false,
    "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
    "statusesCount": 10620,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
@@ -826,15 +803,9 @@
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
     "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -870,7 +841,7 @@
   "replyCount": 1,
   "likeCount": 53,
   "quoteCount": 0,
-  "viewCount": 8674,
+  "viewCount": 8675,
   "createdAt": "Wed Oct 28 20:10:00 +0000 2026",
   "lang": "en",
   "bookmarkCount": 13,
@@ -890,12 +861,14 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
    "location": "",
-   "followers": 21731,
+   "followers": 21729,
    "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
     "description": {},
@@ -915,10 +888,14 @@
    },
    "fastFollowersCount": 0,
    "favouritesCount": 6753,
+   "geoEnabled": true,
    "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
    "isTranslator": false,
    "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
    "statusesCount": 10620,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
@@ -933,15 +910,9 @@
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
     "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -980,7 +951,7 @@
   "replyCount": 0,
   "likeCount": 20,
   "quoteCount": 0,
-  "viewCount": 7363,
+  "viewCount": 7364,
   "createdAt": "Wed Oct 28 19:10:00 +0000 2026",
   "lang": "en",
   "bookmarkCount": 4,
@@ -1000,12 +971,14 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
    "location": "",
-   "followers": 21731,
+   "followers": 21729,
    "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
     "description": {},
@@ -1025,10 +998,14 @@
    },
    "fastFollowersCount": 0,
    "favouritesCount": 6753,
+   "geoEnabled": true,
    "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
    "isTranslator": false,
    "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
    "statusesCount": 10620,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
@@ -1043,15 +1020,9 @@
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
     "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -1107,12 +1078,14 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
    "location": "",
-   "followers": 21731,
+   "followers": 21729,
    "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
     "description": {},
@@ -1132,10 +1105,14 @@
    },
    "fastFollowersCount": 0,
    "favouritesCount": 6753,
+   "geoEnabled": true,
    "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
    "isTranslator": false,
    "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
    "statusesCount": 10620,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
@@ -1150,15 +1127,9 @@
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
     "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -1218,12 +1189,14 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
    "location": "",
-   "followers": 21731,
+   "followers": 21729,
    "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
     "description": {},
@@ -1243,10 +1216,14 @@
    },
    "fastFollowersCount": 0,
    "favouritesCount": 6753,
+   "geoEnabled": true,
    "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
    "isTranslator": false,
    "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
    "statusesCount": 10620,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
@@ -1261,15 +1238,9 @@
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
     "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -1319,12 +1290,14 @@
     "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
     "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
     "location": "",
-    "followers": 21731,
+    "followers": 21729,
     "following": 429,
     "protected": false,
     "status": "",
     "canDm": true,
     "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "disabled",
     "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
     "entities": {
      "description": {},
@@ -1344,10 +1317,14 @@
     },
     "fastFollowersCount": 0,
     "favouritesCount": 6753,
+    "geoEnabled": true,
     "hasCustomTimelines": false,
+    "hasExtendedProfile": true,
     "isTranslator": false,
     "mediaCount": 832,
+    "profileBackgroundColor": "F5F8FA",
     "statusesCount": 10620,
+    "translatorTypeEnum": "None",
     "affiliatesHighlightedLabel": {
      "label": {
       "badge": {
@@ -1362,15 +1339,9 @@
       "userLabelType": "BusinessLabel"
      }
     },
-    "possiblySensitive": false,
     "pinnedTweetIds": [
      "2116294120658686047"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
+    ]
    },
    "extendedEntities": {},
    "card": {},
@@ -1428,12 +1399,14 @@
    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
    "location": "",
-   "followers": 21731,
+   "followers": 21729,
    "following": 429,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "disabled",
    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
    "entities": {
     "description": {},
@@ -1453,10 +1426,14 @@
    },
    "fastFollowersCount": 0,
    "favouritesCount": 6753,
+   "geoEnabled": true,
    "hasCustomTimelines": false,
+   "hasExtendedProfile": true,
    "isTranslator": false,
    "mediaCount": 832,
+   "profileBackgroundColor": "F5F8FA",
    "statusesCount": 10620,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
@@ -1471,15 +1448,9 @@
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
     "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   ]
   },
   "extendedEntities": {},
   "card": {},
