@@ -36,4 +36,4 @@
 | Jakobi Meyers | WR · JAX | EXP IN | Hamstring - ankle | Expected to play but limited all week - shakiest of the leans, ~11:30 |
 | Jeremiyah Love | RB · ARI | EXP IN | Ankle | Full practice Friday, "will play" per McFarland - back vs Dallas at 1:00 |
 | Jaylen Waddle | WR · DEN | EXP IN | Chest | Expected to play - 4:25 window, actives ~3:55 |
-| Treylon Burks | WR · WAS | EXP IN | Hamstring | Expected to play Sunday night per Schefter - actives ~6:50 |
+| Treylon Burks | WR · WAS | EXP IN | Foot | Expected to play Sunday night per Schefter - actives ~6:50 |
