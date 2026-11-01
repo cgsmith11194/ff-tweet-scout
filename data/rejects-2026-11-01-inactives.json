@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T16:40:19.715107+00:00",
+ "generated_at": "2026-11-01T16:44:17.890600+00:00",
  "window": {
   "since": "2026-11-01",
   "until": "2026-11-02",
@@ -7,13 +7,13 @@
  },
  "counts": {
   "raw": 570,
-  "unique": 47,
-  "kept": 26,
+  "unique": 52,
+  "kept": 24,
   "kills": {
-   "out_of_window": 519,
-   "low_score": 17,
-   "retweet": 3,
-   "pure_link": 1
+   "out_of_window": 514,
+   "low_score": 19,
+   "pure_link": 1,
+   "retweet": 8
   }
  },
  "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
@@ -32,8 +32,8 @@
    "url": "https://x.com/UnderdogNFL/status/2116930619578225028",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 23.6,
-   "likes": 111,
+   "score": 23.9,
+   "likes": 130,
    "text": "George Pickens (shoulder, hamstring) active for Week 8."
   },
   {
@@ -42,7 +42,7 @@
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
    "score": 23.6,
-   "likes": 277,
+   "likes": 281,
    "text": "Rap: Jaylen Waddle (chest) trending in the right direction for Week 8."
   },
   {
@@ -51,7 +51,7 @@
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
    "score": 23.2,
-   "likes": 760,
+   "likes": 762,
    "text": "Garafolo: Saquon Barkley won't be traded at the deadline."
   },
   {
@@ -59,8 +59,8 @@
    "url": "https://x.com/UnderdogNFL/status/2116928443019620356",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 22.0,
-   "likes": 176,
+   "score": 22.2,
+   "likes": 193,
    "text": "DJ Moore (shoulder), Dalton Kincaid (chest) active for Week 8, per @CameronWolfe."
   },
   {
@@ -68,8 +68,8 @@
    "url": "https://x.com/UnderdogNFL/status/2116923219441852912",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 21.7,
-   "likes": 457,
+   "score": 21.8,
+   "likes": 488,
    "text": "Schefter: Cowboys a team to watch in potential trade for Josh Sweat."
   },
   {
@@ -86,35 +86,26 @@
    "url": "https://x.com/UnderdogNFL/status/2116930254506017043",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 19.7,
-   "likes": 153,
+   "score": 19.9,
+   "likes": 180,
    "text": "Schefter: Jordyn Tyson (hamstring) could return as early as next week."
   },
   {
-   "id": "2116930947744461022",
-   "url": "https://x.com/BuffaloBills/status/2116930947744461022",
-   "handle": "BuffaloBills",
+   "id": "2116931381959831624",
+   "url": "https://x.com/Colts/status/2116931381959831624",
+   "handle": "Colts",
    "reason": "low_score(analysis_hype)",
-   "score": 10.6,
-   "likes": 186,
-   "text": "Today's inactives. #BALvsBUF https://t.co/P6WeMxHIlm"
-  },
-  {
-   "id": "2116910886199910435",
-   "url": "https://x.com/trendscenterapp/status/2116910886199910435",
-   "handle": "trendscenterapp",
-   "reason": "low_score(analysis_hype)",
-   "score": 6.4,
-   "likes": 134,
-   "text": "16-0 NFL trend is active! \ud83d\udcaf\n\nComment \ud83d\udd25 if you want us to drop this before kickoff!\n\nDon't want to wait? Head to the TrendsCenter app &amp; see it right now! \ud83d\udcaa https://t.co/VEtAeuit10"
+   "score": 9.1,
+   "likes": 56,
+   "text": "Our inactives for #INDvsJAX. https://t.co/r9EcbfGhT6"
   },
   {
    "id": "2116931175629586924",
    "url": "https://x.com/the_det_times/status/2116931175629586924",
    "handle": "the_det_times",
    "reason": "low_score(analysis_hype)",
-   "score": 6.0,
-   "likes": 63,
+   "score": 6.5,
+   "likes": 86,
    "text": "JUST IN: Lions DB Roger McCreary is ACTIVE. https://t.co/0L5HsQrVhp"
   },
   {
@@ -123,7 +114,7 @@
    "handle": "ProFootballTalk",
    "reason": "low_score(analysis_hype)",
    "score": 5.9,
-   "likes": 216,
+   "likes": 219,
    "text": "Ben Johnson: Jeffery Simmons will play a lot, maybe not a full workload Monday night. https://t.co/xsxdWO4TpZ"
   },
   {
@@ -131,44 +122,71 @@
    "url": "https://x.com/jeffzrebiec/status/2116930931609256395",
    "handle": "jeffzrebiec",
    "reason": "low_score(analysis_hype)",
-   "score": 5.5,
-   "likes": 78,
+   "score": 5.8,
+   "likes": 93,
    "text": "Ravens inactives\nQB Joe Fagnano (emergency No.3)\nWR Elijah Sarratt\nG Vega Ioane (knee)\nOL Emery Jones Jr. \nDL Aeneas Peebles\nCB Chandler Rivers\nS Jaylinn Hawkins (knee)"
+  },
+  {
+   "id": "2116930767058022497",
+   "url": "https://x.com/Ravens/status/2116930767058022497",
+   "handle": "Ravens",
+   "reason": "low_score(analysis_hype)",
+   "score": 4.1,
+   "likes": 249,
+   "text": "Inactives at Bills https://t.co/cZ2SXuPzbP"
+  },
+  {
+   "id": "2116931119606124651",
+   "url": "https://x.com/Bengals/status/2116931119606124651",
+   "handle": "Bengals",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.0,
+   "likes": 138,
+   "text": "Inactives for #TENvsCIN https://t.co/IgdKNnrAim"
   },
   {
    "id": "2116930912273244368",
    "url": "https://x.com/Lions/status/2116930912273244368",
    "handle": "Lions",
    "reason": "low_score(analysis_hype)",
-   "score": 2.8,
-   "likes": 124,
+   "score": 3.0,
+   "likes": 147,
    "text": "#MINvsDET inactives https://t.co/nE1IaYm20S"
   },
   {
-   "id": "2116931500138459431",
-   "url": "https://x.com/AtlantaFalcons/status/2116931500138459431",
-   "handle": "AtlantaFalcons",
+   "id": "2116930903200997813",
+   "url": "https://x.com/BuffaloBillsPR/status/2116930903200997813",
+   "handle": "BuffaloBillsPR",
    "reason": "low_score(analysis_hype)",
-   "score": 2.4,
-   "likes": 88,
-   "text": "Full list of today's inactives https://t.co/GGMjAhAKxa"
+   "score": 2.5,
+   "likes": 91,
+   "text": "Gameday roster &amp; inactives \u2b07\ufe0f https://t.co/K6ZOaTRtjS"
   },
   {
    "id": "2116931225747079396",
    "url": "https://x.com/Vikings/status/2116931225747079396",
    "handle": "Vikings",
    "reason": "low_score(analysis_hype)",
-   "score": 2.1,
-   "likes": 77,
+   "score": 2.4,
+   "likes": 93,
    "text": "Sunday's #Vikings inactives https://t.co/7C5UbK4o36"
+  },
+  {
+   "id": "2116932729644130567",
+   "url": "https://x.com/steelers/status/2116932729644130567",
+   "handle": "steelers",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.3,
+   "likes": 85,
+   "text": "Inactives for #CLEvsPIT \u2935\ufe0f @UPMC \n\n\ud83d\udcdd: https://t.co/PxVbktJsd9 https://t.co/RRmovpniKm"
   },
   {
    "id": "2116931327002099925",
    "url": "https://x.com/Raiders/status/2116931327002099925",
    "handle": "Raiders",
    "reason": "low_score(analysis_hype)",
-   "score": 1.8,
-   "likes": 56,
+   "score": 2.1,
+   "likes": 68,
    "text": "Inactives for #LVvsNYJ https://t.co/JsVpMQSW23"
   },
   {
@@ -181,15 +199,6 @@
    "text": "https://t.co/KPwysqZbQP"
   },
   {
-   "id": "2116932640909726108",
-   "url": "https://x.com/SmolaDS/status/2116932640909726108",
-   "handle": "SmolaDS",
-   "reason": "retweet",
-   "score": null,
-   "likes": 1,
-   "text": "RT @DraftSharks: ACTIVE:\nKenneth Gainwell\nGeorge Pickens\nD.J. Moore\nJakobi Meyers\nCalvin Ridley\nDalton Kincaid\n\nINACTIVE:\nBreece Hall"
-  },
-  {
    "id": "2116894688728793520",
    "url": "https://x.com/CoopAFiasco/status/2116894688728793520",
    "handle": "CoopAFiasco",
@@ -199,6 +208,15 @@
    "text": "RT @FantasyAlarm: While recovering from Halloween night, don't forget to check out our AWARD-WINNING @SiriusXMFantasy radio show on Channel\u2026"
   },
   {
+   "id": "2116932640909726108",
+   "url": "https://x.com/SmolaDS/status/2116932640909726108",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 2,
+   "text": "RT @DraftSharks: ACTIVE:\nKenneth Gainwell\nGeorge Pickens\nD.J. Moore\nJakobi Meyers\nCalvin Ridley\nDalton Kincaid\n\nINACTIVE:\nBreece Hall"
+  },
+  {
    "id": "2116899716541849791",
    "url": "https://x.com/MikeClayNFL/status/2116899716541849791",
    "handle": "MikeClayNFL",
@@ -206,6 +224,51 @@
    "score": null,
    "likes": 11,
    "text": "RT @fantasyfocus: 5 of 7 quarterbacks that have played the Seahawks have been under 10 fantasy points. \ud83d\ude33\n\n@FieldYates &amp; @MikeClayNFL on why\u2026"
+  },
+  {
+   "id": "2116890385956135339",
+   "url": "https://x.com/FantasyPtsData/status/2116890385956135339",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 13,
+   "text": "RT @AD818__: Since Week 3, Drake London ranks 2nd in the NFL in yards per route run against Cover 3 (4.79).\n\nTampa Bay runs Cover 3 at the\u2026"
+  },
+  {
+   "id": "2116890346840047761",
+   "url": "https://x.com/FantasyPtsData/status/2116890346840047761",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 37,
+   "text": "RT @DBro_FFB: MIA vs. deep passing\n(per @FantasyPtsData)\n\nthey have only faced 10 deep passing attempts BUT\n\nthey have allowed the 7th high\u2026"
+  },
+  {
+   "id": "2116890294788510002",
+   "url": "https://x.com/FantasyPtsData/status/2116890294788510002",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 10,
+   "text": "RT @corbin_young21: The Vikings' offense ranks 25th in pass rate over expected (PROE), yet they face the Lions' defense, which allows the h\u2026"
+  },
+  {
+   "id": "2116890281849086076",
+   "url": "https://x.com/FantasyPtsData/status/2116890281849086076",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 20,
+   "text": "RT @corbin_young21: The Browns' defense deploys the highest rate of man coverage and allows the 24th-most fantasy points per dropback. Spec\u2026"
+  },
+  {
+   "id": "2116890268985118870",
+   "url": "https://x.com/FantasyPtsData/status/2116890268985118870",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 17,
+   "text": "RT @corbin_young21: The Vikings' defense blitzes at the highest rate and allows the 30th-most fantasy points per dropback when they blitz.\u2026"
   }
  ]
 }
