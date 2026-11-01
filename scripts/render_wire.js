@@ -66,7 +66,7 @@ function buildHtml(rows) {
   .player { font-weight: 600; }
   .pos { color: #6b7280; font-weight: 400; font-size: 13px; white-space: nowrap; }
   .badge { display: inline-block; font-size: 11.5px; font-weight: 700; letter-spacing: .04em;
-           padding: 2px 9px; border-radius: 20px; }
+           padding: 2px 9px; border-radius: 20px; white-space: nowrap; }
   .in    { background: #e7f5ee; color: #0e7a4f; }
   .out   { background: #fbebeb; color: #a02020; }
   .pend  { background: #fdf3e0; color: #8a5a00; }
