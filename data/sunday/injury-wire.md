@@ -22,7 +22,7 @@
 | A.J. Brown | WR · NE | OUT | Knee - ankle | Downgraded Saturday per Schefter - second straight miss |
 | TreVeyon Henderson | RB · NE | OUT | Illness | Rare early illness rule-out - Rhamondre Stevenson inherits the Miami matchup |
 | DeVonta Smith | WR · PHI | OUT | Hamstring | Ruled out Friday per Schefter for Sunday night at Washington |
-| Emeka Egbuka | WR · TB | OUT | Concussion - foot | Ruled out again - Chris Godwin steps back into the tree |
+| Emeka Egbuka | WR · TB | OUT | Concussion - foot | Ruled out again - Godwin keeps the 45% target share he ran without him last week |
 | R.J. Harvey | RB · DEN | OUT | Knee | Short-term IR Friday - out at least 4 games per Rapoport |
 | Brian Robinson Jr. | RB · ATL | OUT | Hamstring | Out - Bijan Robinson consolidates the Atlanta backfield |
 | Kyle Monangai | RB · CHI | OUT | Thumb - toe | Ruled out for Monday night - D'Andre Swift handles Seattle |
