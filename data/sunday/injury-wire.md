@@ -11,7 +11,7 @@
 #   - Locked rows first, not-locked rows last (renderer draws the divider).
 #   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 8 — 2026-11-01 — FINAL wire, 12:10 ET
+# WEEK 8 — 2026-11-01 — FINAL wire, 1:05 ET (1:00 slate fully official)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@
 | Breece Hall | RB · NYJ | OUT | Quad | Officially inactive - Braelon Allen starts, "hoping" for Week 9 per Fowler |
 | Carnell Tate | WR · TEN | OUT | Shoulder | Ruled out vs Cincinnati |
 | George Pickens | WR · DAL | IN | Shoulder - hamstring | Active - not on the Cowboys official inactives list |
-| Tyjae Spears | RB · TEN | EXP OUT | Knee | Doubtful, no Friday practice - locks ~11:30 |
-| D.J. Moore | WR · BUF | EXP IN | Shoulder (AC) | Expected back per Sharp Football - confirm at ~11:30 actives |
-| Dalton Kincaid | TE · BUF | EXP IN | Chest | Leaning active - confirm at ~11:30 actives |
-| Jakobi Meyers | WR · JAX | EXP IN | Hamstring - ankle | Expected to play but limited all week - shakiest of the leans, ~11:30 |
-| Jeremiyah Love | RB · ARI | EXP IN | Ankle | Full practice Friday, "will play" per McFarland - back vs Dallas at 1:00 |
+| Tyjae Spears | RB · TEN | OUT | Knee | Officially inactive at Cincinnati - Pollard and Carter carry it |
+| D.J. Moore | WR · BUF | IN | Shoulder (AC) | Officially active vs Baltimore - the Allen downfield hinge is in |
+| Dalton Kincaid | TE · BUF | IN | Chest | Officially active, playing through the chest issue |
+| Jakobi Meyers | WR · JAX | IN | Hamstring - ankle | Officially active vs the Colts after a limited week |
+| Jeremiyah Love | RB · ARI | IN | Ankle | Playing at Dallas - back after two missed weeks |
 | Jaylen Waddle | WR · DEN | EXP IN | Chest | Expected to play - 4:25 window, actives ~3:55 |
 | Treylon Burks | WR · WAS | EXP IN | Foot | Expected to play Sunday night per Schefter - actives ~6:50 |
