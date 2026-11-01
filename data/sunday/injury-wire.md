@@ -35,5 +35,5 @@
 | Dalton Kincaid | TE · BUF | IN | Chest | Officially active, playing through the chest issue |
 | Jakobi Meyers | WR · JAX | IN | Hamstring - ankle | Officially active vs the Colts after a limited week |
 | Jeremiyah Love | RB · ARI | IN | Ankle | Playing at Dallas - back after two missed weeks |
-| Jaylen Waddle | WR · DEN | EXP IN | Chest | Expected to play - 4:25 window, actives ~3:55 |
+| Jaylen Waddle | WR · DEN | IN | Chest | Active - "will play" per Glazer, confirmed on the late-slate actives |
 | Treylon Burks | WR · WAS | EXP IN | Foot | Expected to play Sunday night per Schefter - actives ~6:50 |
