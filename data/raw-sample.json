@@ -1,88 +1,1031 @@
 [
  {
   "type": "tweet",
-  "id": "2116680073721848192",
-  "url": "https://x.com/ffdataroma/status/2116680073721848192",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2116680073721848192",
-  "text": "RT @ffdataroma: Week 8: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
-  "fullText": "RT @ffdataroma: Week 8: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
-  "source": "Twitter Web App",
-  "retweetCount": 4,
-  "replyCount": 1,
-  "likeCount": 61,
-  "quoteCount": 0,
-  "viewCount": 34794,
-  "createdAt": "Sat Oct 31 23:53:50 +0000 2026",
+  "id": "1812821349364072823",
+  "url": "https://x.com/kyle_borg/status/1812821349364072823",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/1812821349364072823",
+  "text": "Today marks the 30th anniversary of Angels in the Outfield... a movie I unashamedly loved both as a kid & still quote daily as an adult.\n\nHere are 10 facts & stats straight from my 90s sports movie spreadsheets \ud83e\udd13no-one asked for:",
+  "fullText": "Today marks the 30th anniversary of Angels in the Outfield... a movie I unashamedly loved both as a kid &amp; still quote daily as an adult.\n\nHere are 10 facts &amp; stats straight from my 90s sports movie spreadsheets \ud83e\udd13no-one asked for: https://t.co/17LUpwoEyF",
+  "source": "",
+  "retweetCount": 11,
+  "replyCount": 22,
+  "likeCount": 306,
+  "quoteCount": 6,
+  "viewCount": 164256,
+  "createdAt": "Mon Jul 15 12:07:44 +0000 2024",
   "lang": "en",
-  "bookmarkCount": 41,
+  "bookmarkCount": 22,
   "isReply": false,
-  "conversationId": "2116680073721848192",
-  "isPinned": false,
+  "conversationId": "1812821349364072823",
+  "possiblySensitive": false,
+  "isPinned": true,
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
    "protected": false,
    "status": "",
    "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
    "entities": {
-    "description": {},
-    "url": {
-     "urls": [
+    "description": {
+     "user_mentions": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "id_str": "",
        "indices": [
-        0,
-        23
+        25,
+        38
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "name": "",
+       "screen_name": "TheFFBallers"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
    "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
      },
-     "description": "Sleeper",
+     "description": "Fantasy Footballers",
      "url": {
-      "url": "https://twitter.com/SleeperHQ",
+      "url": "https://twitter.com/TheFFBallers",
       "urlType": "DeepLink"
      },
      "userLabelDisplayType": "Badge",
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
+    "1812821349364072823"
+   ]
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/17LUpwoEyF",
+     "expanded_url": "https://x.com/kyle_borg/status/1812821349364072823/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 127,
+         "w": 127,
+         "x": 579,
+         "y": 61
+        },
+        {
+         "h": 413,
+         "w": 413,
+         "x": 945,
+         "y": 585
+        }
+       ]
+      }
+     },
+     "id_str": "1812799325598097408",
+     "indices": [
+      238,
+      261
+     ],
+     "media_key": "3_1812799325598097408",
+     "media_url_https": "https://pbs.twimg.com/media/GShbYctXoAA_EsP.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 1362,
+        "w": 2432,
+        "x": 0,
+        "y": 535
+       },
+       {
+        "h": 2432,
+        "w": 2432,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 2772,
+        "w": 2432,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 3243,
+        "w": 1622,
+        "x": 810,
+        "y": 0
+       },
+       {
+        "h": 3243,
+        "w": 2432,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 3243,
+      "width": 2432
+     },
+     "sizes": {
+      "large": {
+       "h": 2048,
+       "w": 1536
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/17LUpwoEyF"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/17LUpwoEyF",
+     "expanded_url": "https://x.com/kyle_borg/status/1812821349364072823/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": []
+      }
+     },
+     "id_str": "1812799355016904704",
+     "indices": [
+      238,
+      261
+     ],
+     "media_key": "3_1812799355016904704",
+     "media_url_https": "https://pbs.twimg.com/media/GShbaKTXAAAvSVP.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 265,
+        "w": 474,
+        "x": 0,
+        "y": 13
+       },
+       {
+        "h": 278,
+        "w": 278,
+        "x": 196,
+        "y": 0
+       },
+       {
+        "h": 278,
+        "w": 244,
+        "x": 230,
+        "y": 0
+       },
+       {
+        "h": 278,
+        "w": 139,
+        "x": 335,
+        "y": 0
+       },
+       {
+        "h": 278,
+        "w": 474,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 278,
+      "width": 474
+     },
+     "sizes": {
+      "large": {
+       "h": 278,
+       "w": 474
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/17LUpwoEyF"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/17LUpwoEyF",
+     "expanded_url": "https://x.com/kyle_borg/status/1812821349364072823/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 104,
+         "w": 104,
+         "x": 850,
+         "y": 411
+        },
+        {
+         "h": 269,
+         "w": 269,
+         "x": 375,
+         "y": 195
+        }
+       ]
+      }
+     },
+     "id_str": "1812799379054428160",
+     "indices": [
+      238,
+      261
+     ],
+     "media_key": "3_1812799379054428160",
+     "media_url_https": "https://pbs.twimg.com/media/GShbbj2WgAAbxIV.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 868,
+        "w": 1550,
+        "x": 0,
+        "y": 182
+       },
+       {
+        "h": 1050,
+        "w": 1050,
+        "x": 500,
+        "y": 0
+       },
+       {
+        "h": 1050,
+        "w": 921,
+        "x": 629,
+        "y": 0
+       },
+       {
+        "h": 1050,
+        "w": 525,
+        "x": 860,
+        "y": 0
+       },
+       {
+        "h": 1050,
+        "w": 1550,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1050,
+      "width": 1550
+     },
+     "sizes": {
+      "large": {
+       "h": 1050,
+       "w": 1550
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/17LUpwoEyF"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/17LUpwoEyF",
+     "expanded_url": "https://x.com/kyle_borg/status/1812821349364072823/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": []
+      }
+     },
+     "id_str": "1812799445324509184",
+     "indices": [
+      238,
+      261
+     ],
+     "media_key": "3_1812799445324509184",
+     "media_url_https": "https://pbs.twimg.com/media/GShbfauXsAAey8x.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 465,
+        "w": 830,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 626,
+        "w": 626,
+        "x": 122,
+        "y": 0
+       },
+       {
+        "h": 626,
+        "w": 549,
+        "x": 161,
+        "y": 0
+       },
+       {
+        "h": 626,
+        "w": 313,
+        "x": 279,
+        "y": 0
+       },
+       {
+        "h": 626,
+        "w": 830,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 626,
+      "width": 830
+     },
+     "sizes": {
+      "large": {
+       "h": 626,
+       "w": 830
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/17LUpwoEyF"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/GShbYctXoAA_EsP.jpg",
+   "https://pbs.twimg.com/media/GShbaKTXAAAvSVP.png",
+   "https://pbs.twimg.com/media/GShbbj2WgAAbxIV.jpg",
+   "https://pbs.twimg.com/media/GShbfauXsAAey8x.png"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2115776159728517263",
+  "url": "https://x.com/kyle_borg/status/2115776159728517263",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/2115776159728517263",
+  "text": "when my neighbor asks if the time change affects when football starts: https://t.co/3XDnfksiqb",
+  "fullText": "when my neighbor asks if the time change affects when football starts: https://t.co/3XDnfksiqb",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 26,
+  "quoteCount": 0,
+  "viewCount": 7730,
+  "createdAt": "Thu Oct 29 12:02:00 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2115776159728517263",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        25,
+        38
+       ],
+       "name": "",
+       "screen_name": "TheFFBallers"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
+     },
+     "description": "Fantasy Footballers",
+     "url": {
+      "url": "https://twitter.com/TheFFBallers",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "pinnedTweetIds": [
+    "1812821349364072823"
+   ]
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/3XDnfksiqb",
+     "expanded_url": "https://x.com/kyle_borg/status/2115776159728517263/video/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "id_str": "2112652676022386688",
+     "indices": [
+      71,
+      94
+     ],
+     "media_key": "13_2112652676022386688",
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2112652676022386688/img/I-Ysbqnyzfs1eRTf.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 1080,
+      "width": 1920
+     },
+     "sizes": {
+      "large": {
+       "h": 1080,
+       "w": 1920
+      }
+     },
+     "type": "video",
+     "url": "https://t.co/3XDnfksiqb",
+     "video_info": {
+      "aspect_ratio": [
+       16,
+       9
+      ],
+      "duration_millis": 7107,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2112652676022386688/pl/8BUinTmX3spzWdwB.m3u8"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2112652676022386688/vid/avc1/480x270/TPOBPH0mr0XMGv2B.mp4"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2112652676022386688/vid/avc1/640x360/MfBdBWetuTju_voT.mp4"
+       },
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2112652676022386688/vid/avc1/1280x720/F4nYivmP45XfqlUW.mp4"
+       },
+       {
+        "bitrate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2112652676022386688/vid/avc1/1920x1080/2S-uZQcVjq2c7paI.mp4"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/amplify_video_thumb/2112652676022386688/img/I-Ysbqnyzfs1eRTf.jpg"
+  ],
+  "videos": [
+   {
+    "durationMillis": 7107,
+    "aspectRatio": [
+     16,
+     9
+    ],
+    "variants": [
+     {
+      "contentType": "application/x-mpegURL",
+      "url": "https://video.twimg.com/amplify_video/2112652676022386688/pl/8BUinTmX3spzWdwB.m3u8"
+     },
+     {
+      "bitrate": 256000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2112652676022386688/vid/avc1/480x270/TPOBPH0mr0XMGv2B.mp4"
+     },
+     {
+      "bitrate": 832000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2112652676022386688/vid/avc1/640x360/MfBdBWetuTju_voT.mp4"
+     },
+     {
+      "bitrate": 2176000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2112652676022386688/vid/avc1/1280x720/F4nYivmP45XfqlUW.mp4"
+     },
+     {
+      "bitrate": 10368000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2112652676022386688/vid/avc1/1920x1080/2S-uZQcVjq2c7paI.mp4"
+     }
+    ]
    }
+  ],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2115451170999378346",
+  "url": "https://x.com/kyle_borg/status/2115451170999378346",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/2115451170999378346",
+  "text": "Oh, this?\n\nJust a dude on pace to finish the season 3rd all-time among WRs in receptions. https://t.co/UvvmllIFZ9",
+  "fullText": "Oh, this?\n\nJust a dude on pace to finish the season 3rd all-time among WRs in receptions. https://t.co/UvvmllIFZ9",
+  "source": "",
+  "retweetCount": 5,
+  "replyCount": 7,
+  "likeCount": 345,
+  "quoteCount": 1,
+  "viewCount": 73130,
+  "createdAt": "Wed Oct 28 14:30:37 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2115451170999378346",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        25,
+        38
+       ],
+       "name": "",
+       "screen_name": "TheFFBallers"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
+     },
+     "description": "Fantasy Footballers",
+     "url": {
+      "url": "https://twitter.com/TheFFBallers",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "pinnedTweetIds": [
+    "1812821349364072823"
+   ]
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/UvvmllIFZ9",
+     "expanded_url": "https://x.com/kyle_borg/status/2115451170999378346/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": []
+      }
+     },
+     "id_str": "2115450793138511872",
+     "indices": [
+      90,
+      113
+     ],
+     "media_key": "3_2115450793138511872",
+     "media_url_https": "https://pbs.twimg.com/media/HVuXScjW4AAjG0G.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 269,
+        "w": 480,
+        "x": 0,
+        "y": 123
+       },
+       {
+        "h": 480,
+        "w": 480,
+        "x": 0,
+        "y": 17
+       },
+       {
+        "h": 547,
+        "w": 480,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 686,
+        "w": 343,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 686,
+        "w": 480,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 686,
+      "width": 480
+     },
+     "sizes": {
+      "large": {
+       "h": 686,
+       "w": 480
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/UvvmllIFZ9"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HVuXScjW4AAjG0G.png"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2115119524324286476",
+  "url": "https://x.com/kyle_borg/status/2115119524324286476",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/2115119524324286476",
+  "text": "Explosive Runs (15+ yards) are amazing but % of 5+ yard runs have always been a better predictor of future fantasy points. https://t.co/5DFkAmtTjh",
+  "fullText": "Explosive Runs (15+ yards) are amazing but % of 5+ yard runs have always been a better predictor of future fantasy points. https://t.co/5DFkAmtTjh",
+  "source": "",
+  "retweetCount": 22,
+  "replyCount": 20,
+  "likeCount": 723,
+  "quoteCount": 12,
+  "viewCount": 85327,
+  "createdAt": "Tue Oct 27 16:32:46 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 166,
+  "isReply": false,
+  "conversationId": "2115119524324286476",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        25,
+        38
+       ],
+       "name": "",
+       "screen_name": "TheFFBallers"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
+     },
+     "description": "Fantasy Footballers",
+     "url": {
+      "url": "https://twitter.com/TheFFBallers",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "pinnedTweetIds": [
+    "1812821349364072823"
+   ]
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/5DFkAmtTjh",
+     "expanded_url": "https://x.com/kyle_borg/status/2115119524324286476/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": []
+      }
+     },
+     "id_str": "2115119444494045184",
+     "indices": [
+      123,
+      146
+     ],
+     "media_key": "3_2115119444494045184",
+     "media_url_https": "https://pbs.twimg.com/media/HVpp7aqW0AAvOb1.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 642,
+        "w": 1146,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1146,
+        "w": 1146,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1260,
+        "w": 1105,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1260,
+        "w": 630,
+        "x": 31,
+        "y": 0
+       },
+       {
+        "h": 1260,
+        "w": 1146,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1260,
+      "width": 1146
+     },
+     "sizes": {
+      "large": {
+       "h": 1260,
+       "w": 1146
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/5DFkAmtTjh"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HVpp7aqW0AAvOb1.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2115072341952897244",
+  "url": "https://x.com/kyle_borg/status/2115072341952897244",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/2115072341952897244",
+  "text": "RT @FF_MarvinE: CFB Production Leaders: Weeks 1 - 8\nWR - RB - TE  \n\n(1 of 3) CFB Wide Receivers sorted by Receiving Yards per Team Pass Att\u2026",
+  "fullText": "RT @FF_MarvinE: CFB Production Leaders: Weeks 1 - 8\nWR - RB - TE  \n\n(1 of 3) CFB Wide Receivers sorted by Receiving Yards per Team Pass Att\u2026",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 2,
+  "likeCount": 15,
+  "quoteCount": 0,
+  "viewCount": 4864,
+  "createdAt": "Tue Oct 27 13:25:17 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 8,
+  "isReply": false,
+  "conversationId": "2115072341952897244",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        25,
+        38
+       ],
+       "name": "",
+       "screen_name": "TheFFBallers"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
+     },
+     "description": "Fantasy Footballers",
+     "url": {
+      "url": "https://twitter.com/TheFFBallers",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "pinnedTweetIds": [
+    "1812821349364072823"
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -90,98 +1033,172 @@
   "entities": {
    "user_mentions": [
     {
-     "id_str": "1673448826340798465",
+     "id_str": "1227804948131405824",
      "indices": [
       3,
       14
      ],
-     "name": "Dataroma",
-     "screen_name": "ffdataroma"
+     "name": "Marvin Elequin",
+     "screen_name": "FF_MarvinE"
     }
    ]
   },
   "isRetweet": true,
   "retweet": {
    "type": "tweet",
-   "id": "2116294120658686047",
-   "text": "Week 8: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5",
+   "id": "2115067120400896414",
+   "text": "CFB Production Leaders: Weeks 1 - 8\nWR - RB - TE  \n\n(1 of 3) CFB Wide Receivers sorted by Receiving Yards per Team Pass Attempt:\n\nJeremiah Smith and Malachi Toney lead the way\n\nJesse Legree remains the only true freshman to make the top 10 https://t.co/ptDnNi4VDb",
    "source": "",
-   "retweetCount": 4,
-   "replyCount": 1,
-   "likeCount": 61,
+   "retweetCount": 1,
+   "replyCount": 2,
+   "likeCount": 15,
    "quoteCount": 0,
-   "viewCount": 34794,
-   "createdAt": "Fri Oct 30 22:20:11 +0000 2026",
+   "viewCount": 4864,
+   "createdAt": "Tue Oct 27 13:04:32 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 41,
-   "isPinned": true,
+   "bookmarkCount": 8,
+   "possiblySensitive": false,
    "author": {
     "type": "user",
-    "userName": "ffdataroma",
-    "url": "https://x.com/ffdataroma",
-    "twitterUrl": "https://twitter.com/ffdataroma",
-    "id": "1673448826340798465",
-    "name": "Dataroma",
+    "userName": "FF_MarvinE",
+    "url": "https://x.com/FF_MarvinE",
+    "twitterUrl": "https://twitter.com/FF_MarvinE",
+    "id": "1227804948131405824",
+    "name": "Marvin Elequin",
     "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1564486759190351872/EDPD6-_n_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1227804948131405824/1757768321",
+    "description": "Dynasty Football & DFS Writer @TheFFBallers",
     "location": "",
-    "followers": 21734,
-    "following": 429,
+    "followers": 13718,
+    "following": 950,
     "protected": false,
     "status": "",
     "canDm": true,
     "canMediaTag": true,
-    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "disabled",
+    "createdAt": "Thu Feb 13 04:01:36 +0000 2020",
     "entities": {
-     "description": {},
+     "description": {
+      "user_mentions": [
+       {
+        "id_str": "",
+        "indices": [
+         30,
+         43
+        ],
+        "name": "",
+        "screen_name": "TheFFBallers"
+       }
+      ]
+     },
      "url": {
       "urls": [
        {
-        "display_url": "beacons.ai/ffdataroma",
-        "expanded_url": "https://beacons.ai/ffdataroma",
+        "display_url": "thefantasyfootballers.com/author/marvin_\u2026",
+        "expanded_url": "https://www.thefantasyfootballers.com/author/marvin_e/",
         "indices": [
          0,
          23
         ],
-        "url": "https://t.co/4QmVXjPECs"
+        "url": "https://t.co/a8HLfVhjna"
        }
       ]
      }
     },
     "fastFollowersCount": 0,
-    "favouritesCount": 6753,
-    "hasCustomTimelines": false,
+    "favouritesCount": 23570,
+    "geoEnabled": false,
+    "hasCustomTimelines": true,
+    "hasExtendedProfile": true,
     "isTranslator": false,
-    "mediaCount": 832,
-    "statusesCount": 10618,
-    "affiliatesHighlightedLabel": {
-     "label": {
-      "badge": {
-       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-      },
-      "description": "Sleeper",
-      "url": {
-       "url": "https://twitter.com/SleeperHQ",
-       "urlType": "DeepLink"
-      },
-      "userLabelDisplayType": "Badge",
-      "userLabelType": "BusinessLabel"
-     }
-    },
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2116294120658686047"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
+    "mediaCount": 2209,
+    "profileBackgroundColor": "F5F8FA",
+    "statusesCount": 11817,
+    "translatorTypeEnum": "None",
+    "affiliatesHighlightedLabel": {}
    },
-   "extendedEntities": {},
+   "extendedEntities": {
+    "media": [
+     {
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/ptDnNi4VDb",
+      "expanded_url": "https://x.com/FF_MarvinE/status/2115067120400896414/photo/1",
+      "ext_master_playlist_only": [],
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "ext_playlists": [],
+      "features": {
+       "large": {
+        "faces": [
+         {
+          "h": 111,
+          "w": 111,
+          "x": 62,
+          "y": 197
+         }
+        ]
+       }
+      },
+      "id_str": "2115067114872582144",
+      "indices": [
+       240,
+       263
+      ],
+      "media_key": "3_2115067114872582144",
+      "media_url_https": "https://pbs.twimg.com/media/HVo6VboXMAArPOw.jpg",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 528,
+         "w": 943,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 943,
+         "w": 943,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 1075,
+         "w": 943,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 1199,
+         "w": 600,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 1199,
+         "w": 943,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 1199,
+       "width": 943
+      },
+      "sizes": {
+       "large": {
+        "h": 1199,
+        "w": 943
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/ptDnNi4VDb"
+     }
+    ]
+   },
    "card": {},
    "place": {},
    "entities": {}
@@ -193,733 +1210,847 @@
  },
  {
   "type": "tweet",
-  "id": "2115537838884208959",
-  "url": "https://x.com/ffdataroma/status/2115537838884208959",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2115537838884208959",
-  "text": "TE Yards per route run leaders through 7 weeks, per\n@FantasyPtsData:\n\n1. Dalton Kincaid (2.56)\n2. George Kittle (2.47)\n3. Brock Bowers (2.41)\n4. Travis Kelce (2.23)\n5. T.J. Hockenson (2.14)\n6. Brenton Strange (2.02)\n7. Dallas Goedert (1.93)\n8. Greg Dulcich (1.92)",
-  "fullText": "TE Yards per route run leaders through 7 weeks, per\n@FantasyPtsData:\n\n1. Dalton Kincaid (2.56)\n2. George Kittle (2.47)\n3. Brock Bowers (2.41)\n4. Travis Kelce (2.23)\n5. T.J. Hockenson (2.14)\n6. Brenton Strange (2.02)\n7. Dallas Goedert (1.93)\n8. Greg Dulcich (1.92)",
+  "id": "2113616002164428952",
+  "url": "https://x.com/kyle_borg/status/2113616002164428952",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/2113616002164428952",
+  "text": "It's that day... @TheFFBallers Episode 2000 \ud83c\udf89\n\nWe have some fun segments/games planned for new and old listeners.\n\nWild that these 3 random guys in a stinky spare bed room in Arizona have taken us this far! https://t.co/WfybnomnPn",
+  "fullText": "It's that day... @TheFFBallers Episode 2000 \ud83c\udf89\n\nWe have some fun segments/games planned for new and old listeners.\n\nWild that these 3 random guys in a stinky spare bed room in Arizona have taken us this far! https://t.co/WfybnomnPn",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 1,
-  "likeCount": 55,
-  "quoteCount": 0,
-  "viewCount": 10274,
-  "createdAt": "Wed Oct 28 20:15:00 +0000 2026",
+  "retweetCount": 17,
+  "replyCount": 29,
+  "likeCount": 853,
+  "quoteCount": 2,
+  "viewCount": 37116,
+  "createdAt": "Fri Oct 23 12:58:18 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 7,
-  "isReply": false,
-  "conversationId": "2115537838884208959",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      52,
-      67
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2115536580861632920",
-  "url": "https://x.com/ffdataroma/status/2115536580861632920",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2115536580861632920",
-  "text": "WR Yards per route run leaders through Week 7, per\n@FantasyPtsData:\n\n1. Jaxon Smith-Njigba (4.05)\n2. Zay Flowers (3.82)\n3. Mike Evans (3.65)\n4. Drake London (3.21)\n5. Tee Higgins (2.96)\n6. Puka Nacua (2.80)\n7. CeeDee Lamb (2.74)\n8. Luther Burden III (2.70)\n9. Justin Jefferson (2.67)\n10. Christian Watson (2.64)",
-  "fullText": "WR Yards per route run leaders through Week 7, per\n@FantasyPtsData:\n\n1. Jaxon Smith-Njigba (4.05)\n2. Zay Flowers (3.82)\n3. Mike Evans (3.65)\n4. Drake London (3.21)\n5. Tee Higgins (2.96)\n6. Puka Nacua (2.80)\n7. CeeDee Lamb (2.74)\n8. Luther Burden III (2.70)\n9. Justin Jefferson",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 1,
-  "likeCount": 53,
-  "quoteCount": 0,
-  "viewCount": 8636,
-  "createdAt": "Wed Oct 28 20:10:00 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 13,
-  "isReply": false,
-  "conversationId": "2115536580861632920",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "urls": [],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      51,
-      66
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2115521480960229674",
-  "url": "https://x.com/ffdataroma/status/2115521480960229674",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2115521480960229674",
-  "text": "Adjusted Net Yards Per Attempt leaders through 7 weeks, per @FantasyPtsData:\n\n1. Lamar Jackson (9.50)\n2. Jared Goff (8.40)\n3. Brock Purdy (8.39)\n4. Michael Penix Jr. (8.08)\n5. Josh Allen (7.83)",
-  "fullText": "Adjusted Net Yards Per Attempt leaders through 7 weeks, per @FantasyPtsData:\n\n1. Lamar Jackson (9.50)\n2. Jared Goff (8.40)\n3. Brock Purdy (8.39)\n4. Michael Penix Jr. (8.08)\n5. Josh Allen (7.83)",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 0,
-  "likeCount": 20,
-  "quoteCount": 0,
-  "viewCount": 7344,
-  "createdAt": "Wed Oct 28 19:10:00 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 4,
-  "isReply": false,
-  "conversationId": "2115521480960229674",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      60,
-      75
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2115515189592232343",
-  "url": "https://x.com/ffdataroma/status/2115515189592232343",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2115515189592232343",
-  "text": "Top RBs in 15+ yard run rate through 7 weeks, per \n@FantasyPtsData:\n\n1. James Cook (9.4%)\n2. Kenneth Walker III (8.3%)\n3. Jaylen Warren (7.8%)\n4. Braelon Allen (7.7%)\n5. Jahmyr Gibbs (7.5%)\n6. Aaron Jones (6.7%)\n7. Kyle Monangai (6.7%)\n8. Blake Corum (6.3%)\n9. Bijan Robinson (6.1%)\n10. Ollie Gordon II (5.6%)",
-  "fullText": "Top RBs in 15+ yard run rate through 7 weeks, per \n@FantasyPtsData:\n\n1. James Cook (9.4%)\n2. Kenneth Walker III (8.3%)\n3. Jaylen Warren (7.8%)\n4. Braelon Allen (7.7%)\n5. Jahmyr Gibbs (7.5%)\n6. Aaron Jones (6.7%)\n7. Kyle Monangai (6.7%)\n8. Blake Corum (6.3%)\n9. Bijan Robinson",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 0,
-  "likeCount": 40,
-  "quoteCount": 0,
-  "viewCount": 9279,
-  "createdAt": "Wed Oct 28 18:45:00 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 2,
-  "isReply": false,
-  "conversationId": "2115515189592232343",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "urls": [],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      51,
-      66
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2115505235116556751",
-  "url": "https://x.com/ffdataroma/status/2115505235116556751",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2115505235116556751",
-  "text": "Bottom of RB position in rush yards over expected per attempt leaders through 7 weeks (min. 50 att), per @FantasyPtsData:\n\n1. MarShawn Lloyd (-1.69)\n2. David Montgomery (-1.41)\n3. Kendre Miller (-1.20)\n4. Tyler Allgeier (-1.08)\n5. Breece Hall (-1.04)\n6. Ashton Jeanty (-0.98)\n7. Chase Brown (-0.88)\n8. Woody Marks (-0.87)\n9. Jacory Croskey-Merritt (-0.86)\n10. J.K. Dobbins (-0.83)",
-  "fullText": "Bottom of RB position in rush yards over expected per attempt leaders through 7 weeks (min. 50 att), per @FantasyPtsData:\n\n1. MarShawn Lloyd (-1.69)\n2. David Montgomery (-1.41)\n3. Kendre Miller (-1.20)\n4. Tyler Allgeier (-1.08)\n5. Breece Hall (-1.04)\n6. Ashton Jeanty (-0.98)\n7.",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 1,
-  "likeCount": 47,
-  "quoteCount": 1,
-  "viewCount": 14466,
-  "createdAt": "Wed Oct 28 18:05:26 +0000 2026",
-  "lang": "en",
-  "quoteId": "2115503872126984423",
   "bookmarkCount": 9,
   "isReply": false,
-  "conversationId": "2115505235116556751",
+  "conversationId": "2113616002164428952",
+  "possiblySensitive": false,
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
    "protected": false,
    "status": "",
    "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
    "entities": {
-    "description": {},
-    "url": {
-     "urls": [
+    "description": {
+     "user_mentions": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "id_str": "",
        "indices": [
-        0,
-        23
+        25,
+        38
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "name": "",
+       "screen_name": "TheFFBallers"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
    "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
      },
-     "description": "Sleeper",
+     "description": "Fantasy Footballers",
      "url": {
-      "url": "https://twitter.com/SleeperHQ",
+      "url": "https://twitter.com/TheFFBallers",
       "urlType": "DeepLink"
      },
      "userLabelDisplayType": "Badge",
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+    "1812821349364072823"
+   ]
   },
-  "extendedEntities": {},
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/WfybnomnPn",
+     "expanded_url": "https://x.com/kyle_borg/status/2113616002164428952/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 119,
+         "w": 119,
+         "x": 1689,
+         "y": 387
+        },
+        {
+         "h": 115,
+         "w": 115,
+         "x": 1429,
+         "y": 641
+        }
+       ]
+      }
+     },
+     "id_str": "2113615538358263808",
+     "indices": [
+      207,
+      230
+     ],
+     "media_key": "3_2113615538358263808",
+     "media_url_https": "https://pbs.twimg.com/media/HVUSIjuXIAAjT7M.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 1256,
+        "w": 2243,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1256,
+        "w": 1256,
+        "x": 330,
+        "y": 0
+       },
+       {
+        "h": 1256,
+        "w": 1102,
+        "x": 407,
+        "y": 0
+       },
+       {
+        "h": 1256,
+        "w": 628,
+        "x": 644,
+        "y": 0
+       },
+       {
+        "h": 1256,
+        "w": 2256,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1256,
+      "width": 2256
+     },
+     "sizes": {
+      "large": {
+       "h": 1140,
+       "w": 2048
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/WfybnomnPn"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "user_mentions": [
+    {
+     "id_str": "2693496433",
+     "indices": [
+      17,
+      30
+     ],
+     "name": "Fantasy Footballers",
+     "screen_name": "TheFFBallers"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HVUSIjuXIAAjT7M.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2113604555585765414",
+  "url": "https://x.com/kyle_borg/status/2113604555585765414",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/2113604555585765414",
+  "text": "The Angels went 59-17 after this tirade.\n\nJune 17th (Tues)\n-Afternoon: Knox flips out\n-Night time: Roger prays\n\nJune 18th (Wed)\n-9 AM: Team shows up to work on \"fundamentals\"\n-1:05 PM: Whit Bass takes mound vs Blue Jays\n-2:53 PM: Ben Williams make his epic catch\n-4:15 PM: Messmer's walk off homer\n\nJune 19th (Off Day)\n\nJune 20th (Fri)- New series vs A's starts",
+  "fullText": "The Angels went 59-17 after this tirade.\n\nJune 17th (Tues)\n-Afternoon: Knox flips out\n-Night time: Roger prays\n\nJune 18th (Wed)\n-9 AM: Team shows up to work on \"fundamentals\"\n-1:05 PM: Whit Bass takes mound vs Blue Jays\n-2:53 PM: Ben Williams make his epic catch\n-4:15 PM: https://t.co/6LRucKPCib",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 12,
+  "quoteCount": 0,
+  "viewCount": 3379,
+  "createdAt": "Fri Oct 23 12:12:49 +0000 2026",
+  "lang": "en",
+  "quoteId": "2113239724961993078",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2113604555585765414",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        25,
+        38
+       ],
+       "name": "",
+       "screen_name": "TheFFBallers"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
+     },
+     "description": "Fantasy Footballers",
+     "url": {
+      "url": "https://twitter.com/TheFFBallers",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "pinnedTweetIds": [
+    "1812821349364072823"
+   ]
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/6LRucKPCib",
+     "expanded_url": "https://x.com/kyle_borg/status/2113604555585765414/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": []
+      }
+     },
+     "id_str": "2113601509430571008",
+     "indices": [
+      273,
+      296
+     ],
+     "media_key": "3_2113601509430571008",
+     "media_url_https": "https://pbs.twimg.com/media/HVUFX95WsAA8N4f.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 1485,
+        "w": 2652,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1846,
+        "w": 1846,
+        "x": 335,
+        "y": 0
+       },
+       {
+        "h": 1846,
+        "w": 1619,
+        "x": 449,
+        "y": 0
+       },
+       {
+        "h": 1846,
+        "w": 923,
+        "x": 797,
+        "y": 0
+       },
+       {
+        "h": 1846,
+        "w": 2652,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1846,
+      "width": 2652
+     },
+     "sizes": {
+      "large": {
+       "h": 1426,
+       "w": 2048
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/6LRucKPCib"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/6LRucKPCib",
+     "expanded_url": "https://x.com/kyle_borg/status/2113604555585765414/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": []
+      }
+     },
+     "id_str": "2113604374194745345",
+     "indices": [
+      273,
+      296
+     ],
+     "media_key": "3_2113604374194745345",
+     "media_url_https": "https://pbs.twimg.com/media/HVUH-t-W8AEmVap.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 1050,
+        "w": 1875,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1050,
+        "w": 1050,
+        "x": 182,
+        "y": 0
+       },
+       {
+        "h": 1050,
+        "w": 921,
+        "x": 247,
+        "y": 0
+       },
+       {
+        "h": 1050,
+        "w": 525,
+        "x": 445,
+        "y": 0
+       },
+       {
+        "h": 1050,
+        "w": 1890,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1050,
+      "width": 1890
+     },
+     "sizes": {
+      "large": {
+       "h": 1050,
+       "w": 1890
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/6LRucKPCib"
+    }
+   ]
+  },
   "card": {},
   "place": {},
   "entities": {
    "hashtags": [],
    "symbols": [],
    "urls": [],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      105,
-      120
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
+   "user_mentions": []
   },
   "isRetweet": false,
   "isQuote": true,
   "quote": {
    "type": "tweet",
-   "id": "2115503872126984423",
-   "text": "Rush yards over expected per attempt leaders through 7 weeks (min. 50 att), per @FantasyPtsData:\n\n1. Kenneth Walker III (+1.81)\n2. Kyle Monangai (+1.55)\n3. James Cook (+1.23)\n4. Bijan Robinson (+1.15)\n5. Kyren Williams (+1.11)\n6. Jaylen Warren (+1.07)\n7. Christian McCaffrey (+0.72)\n8. Blake Corum (+0.72)\n9. Ollie Gordon II (+0.68)\n10. Chuba Hubbard (+0.62)",
+   "id": "2113239724961993078",
+   "text": "the speech i gave to my 1-5 fantasy team this AM: https://t.co/L13eoYAyN5",
    "source": "",
-   "retweetCount": 2,
-   "replyCount": 1,
-   "likeCount": 53,
-   "quoteCount": 3,
-   "viewCount": 23280,
-   "createdAt": "Wed Oct 28 18:00:01 +0000 2026",
+   "retweetCount": 133,
+   "replyCount": 19,
+   "likeCount": 1098,
+   "quoteCount": 8,
+   "viewCount": 84487,
+   "createdAt": "Thu Oct 22 12:03:07 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 9,
+   "bookmarkCount": 123,
+   "possiblySensitive": false,
    "isPinned": false,
    "author": {
     "type": "user",
-    "userName": "ffdataroma",
-    "url": "https://x.com/ffdataroma",
-    "twitterUrl": "https://twitter.com/ffdataroma",
-    "id": "1673448826340798465",
-    "name": "Dataroma",
+    "userName": "kyle_borg",
+    "url": "https://x.com/kyle_borg",
+    "twitterUrl": "https://twitter.com/kyle_borg",
+    "id": "251284430",
+    "name": "Kyle Borgognoni",
     "isVerified": false,
     "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-    "location": "",
-    "followers": 21734,
-    "following": 429,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+    "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+    "location": "Atlanta, GA",
+    "followers": 35666,
+    "following": 1190,
     "protected": false,
     "status": "",
     "canDm": true,
-    "canMediaTag": true,
-    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+    "canMediaTag": false,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "enabled",
+    "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
     "entities": {
-     "description": {},
-     "url": {
-      "urls": [
+     "description": {
+      "user_mentions": [
        {
-        "display_url": "beacons.ai/ffdataroma",
-        "expanded_url": "https://beacons.ai/ffdataroma",
+        "id_str": "",
         "indices": [
-         0,
-         23
+         25,
+         38
         ],
-        "url": "https://t.co/4QmVXjPECs"
+        "name": "",
+        "screen_name": "TheFFBallers"
        }
       ]
      }
     },
     "fastFollowersCount": 0,
-    "favouritesCount": 6753,
-    "hasCustomTimelines": false,
+    "favouritesCount": 17981,
+    "geoEnabled": true,
+    "hasCustomTimelines": true,
+    "hasExtendedProfile": true,
     "isTranslator": false,
-    "mediaCount": 832,
-    "statusesCount": 10618,
+    "mediaCount": 2049,
+    "profileBackgroundColor": "000000",
+    "statusesCount": 11372,
+    "translatorTypeEnum": "None",
     "affiliatesHighlightedLabel": {
      "label": {
       "badge": {
-       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+       "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
       },
-      "description": "Sleeper",
+      "description": "Fantasy Footballers",
       "url": {
-       "url": "https://twitter.com/SleeperHQ",
+       "url": "https://twitter.com/TheFFBallers",
        "urlType": "DeepLink"
       },
       "userLabelDisplayType": "Badge",
       "userLabelType": "BusinessLabel"
      }
     },
-    "possiblySensitive": false,
     "pinnedTweetIds": [
-     "2116294120658686047"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
+     "1812821349364072823"
+    ]
    },
-   "extendedEntities": {},
-   "card": {},
-   "place": {},
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "urls": [],
-    "user_mentions": [
+   "extendedEntities": {
+    "media": [
      {
-      "id_str": "1512168033011306496",
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/L13eoYAyN5",
+      "expanded_url": "https://x.com/kyle_borg/status/2113239724961993078/video/1",
+      "ext_master_playlist_only": [],
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "ext_playlists": [],
+      "id_str": "2113239543415476224",
       "indices": [
-       80,
-       95
+       50,
+       73
       ],
-      "name": "Fantasy Points Data",
-      "screen_name": "FantasyPtsData"
+      "media_key": "13_2113239543415476224",
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2113239543415476224/img/czMq0Icy2-B5UCLD.jpg",
+      "original_info": {
+       "focus_rects": [],
+       "height": 1080,
+       "width": 1920
+      },
+      "sizes": {
+       "large": {
+        "h": 1080,
+        "w": 1920
+       }
+      },
+      "type": "video",
+      "url": "https://t.co/L13eoYAyN5",
+      "video_info": {
+       "aspect_ratio": [
+        16,
+        9
+       ],
+       "duration_millis": 38671,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2113239543415476224/pl/TZQkydrVHeFA2ScI.m3u8"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2113239543415476224/vid/avc1/480x270/fE3K2eKQPzGPVX2t.mp4"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2113239543415476224/vid/avc1/640x360/EisxazyOT5TmYYis.mp4"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2113239543415476224/vid/avc1/1280x720/qo5x3bKtwNw8c_EW.mp4"
+        },
+        {
+         "bitrate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2113239543415476224/vid/avc1/1920x1080/RuqwWUJrAQ5cKuge.mp4"
+        }
+       ]
+      }
      }
     ]
-   }
+   },
+   "card": {},
+   "place": {},
+   "entities": {}
   },
-  "media": [],
+  "media": [
+   "https://pbs.twimg.com/media/HVUFX95WsAA8N4f.jpg",
+   "https://pbs.twimg.com/media/HVUH-t-W8AEmVap.jpg"
+  ],
   "videos": [],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2115503872126984423",
-  "url": "https://x.com/ffdataroma/status/2115503872126984423",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2115503872126984423",
-  "text": "Rush yards over expected per attempt leaders through 7 weeks (min. 50 att), per @FantasyPtsData:\n\n1. Kenneth Walker III (+1.81)\n2. Kyle Monangai (+1.55)\n3. James Cook (+1.23)\n4. Bijan Robinson (+1.15)\n5. Kyren Williams (+1.11)\n6. Jaylen Warren (+1.07)\n7. Christian McCaffrey (+0.72)\n8. Blake Corum (+0.72)\n9. Ollie Gordon II (+0.68)\n10. Chuba Hubbard (+0.62)",
-  "fullText": "Rush yards over expected per attempt leaders through 7 weeks (min. 50 att), per @FantasyPtsData:\n\n1. Kenneth Walker III (+1.81)\n2. Kyle Monangai (+1.55)\n3. James Cook (+1.23)\n4. Bijan Robinson (+1.15)\n5. Kyren Williams (+1.11)\n6. Jaylen Warren (+1.07)\n7. Christian McCaffrey",
+  "id": "2112898094861856983",
+  "url": "https://x.com/kyle_borg/status/2112898094861856983",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/2112898094861856983",
+  "text": "Bears Target %s This Season per QB https://t.co/hktXyxMybM",
+  "fullText": "Bears Target %s This Season per QB https://t.co/hktXyxMybM",
   "source": "",
-  "retweetCount": 2,
-  "replyCount": 1,
-  "likeCount": 53,
-  "quoteCount": 3,
-  "viewCount": 23280,
-  "createdAt": "Wed Oct 28 18:00:01 +0000 2026",
+  "retweetCount": 3,
+  "replyCount": 11,
+  "likeCount": 428,
+  "quoteCount": 2,
+  "viewCount": 59485,
+  "createdAt": "Wed Oct 21 13:25:36 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 9,
+  "bookmarkCount": 42,
   "isReply": false,
-  "conversationId": "2115503872126984423",
+  "conversationId": "2112898094861856983",
+  "possiblySensitive": false,
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
    "protected": false,
    "status": "",
    "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
    "entities": {
-    "description": {},
-    "url": {
-     "urls": [
+    "description": {
+     "user_mentions": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "id_str": "",
        "indices": [
-        0,
-        23
+        25,
+        38
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "name": "",
+       "screen_name": "TheFFBallers"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
    "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
      },
-     "description": "Sleeper",
+     "description": "Fantasy Footballers",
      "url": {
-      "url": "https://twitter.com/SleeperHQ",
+      "url": "https://twitter.com/TheFFBallers",
       "urlType": "DeepLink"
      },
      "userLabelDisplayType": "Badge",
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+    "1812821349364072823"
+   ]
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/hktXyxMybM",
+     "expanded_url": "https://x.com/kyle_borg/status/2112898094861856983/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": []
+      }
+     },
+     "id_str": "2112897245364228097",
+     "indices": [
+      35,
+      58
+     ],
+     "media_key": "3_2112897245364228097",
+     "media_url_https": "https://pbs.twimg.com/media/HVKE2ZzWEAES4QO.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 514,
+        "w": 918,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 514,
+        "w": 514,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 514,
+        "w": 451,
+        "x": 8,
+        "y": 0
+       },
+       {
+        "h": 514,
+        "w": 257,
+        "x": 105,
+        "y": 0
+       },
+       {
+        "h": 514,
+        "w": 1866,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 514,
+      "width": 1866
+     },
+     "sizes": {
+      "large": {
+       "h": 514,
+       "w": 1866
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/hktXyxMybM"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HVKE2ZzWEAES4QO.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2112606223182778825",
+  "url": "https://x.com/kyle_borg/status/2112606223182778825",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/2112606223182778825",
+  "text": "Rookie QB Passing Yards Thru 6 Weeks\n\n2020: 2,839 total passing yards\n2021: 5,952\n2022: 1,371 \n2023: 3,646\n2024: 4,311 \n2025: 2,068\n2026: 794",
+  "fullText": "Rookie QB Passing Yards Thru 6 Weeks\n\n2020: 2,839 total passing yards\n2021: 5,952\n2022: 1,371 \n2023: 3,646\n2024: 4,311 \n2025: 2,068\n2026: 794",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 0,
+  "likeCount": 12,
+  "quoteCount": 0,
+  "viewCount": 4373,
+  "createdAt": "Tue Oct 20 18:05:48 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2112606223182778825",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        25,
+        38
+       ],
+       "name": "",
+       "screen_name": "TheFFBallers"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
+     },
+     "description": "Fantasy Footballers",
+     "url": {
+      "url": "https://twitter.com/TheFFBallers",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "pinnedTweetIds": [
+    "1812821349364072823"
+   ]
   },
   "extendedEntities": {},
   "card": {},
@@ -928,17 +2059,7 @@
    "hashtags": [],
    "symbols": [],
    "urls": [],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      80,
-      95
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
+   "user_mentions": []
   },
   "isRetweet": false,
   "isQuote": false,
@@ -948,859 +2069,97 @@
  },
  {
   "type": "tweet",
-  "id": "2115481219043377299",
-  "url": "https://x.com/ffdataroma/status/2115481219043377299",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2115481219043377299",
-  "text": "QB Adjusted net yards per attempt (ANY/A) and completion % over expected (CPOE) through Week 7, per @FantasyPtsData:\n\nWhich QBs have been both efficient and accurate this year? https://t.co/hyhhmS1diX",
-  "fullText": "QB Adjusted net yards per attempt (ANY/A) and completion % over expected (CPOE) through Week 7, per @FantasyPtsData:\n\nWhich QBs have been both efficient and accurate this year? https://t.co/hyhhmS1diX",
+  "id": "2112604976921072092",
+  "url": "https://x.com/kyle_borg/status/2112604976921072092",
+  "twitterUrl": "https://twitter.com/kyle_borg/status/2112604976921072092",
+  "text": "Rookie RB Rush Attempts Thru 6 Weeks\n\n2020: 602 total carries\n2021: 519 \ud83d\udcc9\n2022: 429 \ud83d\udcc9\n2023: 412 \ud83d\udcc9\n2024: 338 \ud83d\udcc9\n2025: 690 \ud83d\ude80(we're so back!)\n2026: 266 \ud83e\udee3(oh.)",
+  "fullText": "Rookie RB Rush Attempts Thru 6 Weeks\n\n2020: 602 total carries\n2021: 519 \ud83d\udcc9\n2022: 429 \ud83d\udcc9\n2023: 412 \ud83d\udcc9\n2024: 338 \ud83d\udcc9\n2025: 690 \ud83d\ude80(we're so back!)\n2026: 266 \ud83e\udee3(oh.)",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 0,
-  "likeCount": 18,
-  "quoteCount": 1,
-  "viewCount": 7427,
-  "createdAt": "Wed Oct 28 16:30:01 +0000 2026",
+  "retweetCount": 10,
+  "replyCount": 6,
+  "likeCount": 2514,
+  "quoteCount": 5,
+  "viewCount": 173769,
+  "createdAt": "Tue Oct 20 18:00:51 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 5,
+  "bookmarkCount": 43,
   "isReply": false,
-  "conversationId": "2115481219043377299",
-  "possiblySensitive": false,
+  "conversationId": "2112604976921072092",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "kyle_borg",
+   "url": "https://x.com/kyle_borg",
+   "twitterUrl": "https://twitter.com/kyle_borg",
+   "id": "251284430",
+   "name": "Kyle Borgognoni",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1530787717755179009/b2ek0BcX_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/251284430/1716293715",
+   "description": "Take Jesus at His Word\n\n @TheFFBallers Unnecessary Statistics, Writer, DFS & Dynasty Pods Host\n\nI\u2019ve watched Mighty Ducks a time or two",
+   "location": "Atlanta, GA",
+   "followers": 35666,
+   "following": 1190,
    "protected": false,
    "status": "",
    "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "canMediaTag": false,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Sat Feb 12 20:36:49 +0000 2011",
    "entities": {
-    "description": {},
-    "url": {
-     "urls": [
+    "description": {
+     "user_mentions": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "id_str": "",
        "indices": [
-        0,
-        23
+        25,
+        38
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "name": "",
+       "screen_name": "TheFFBallers"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
+   "favouritesCount": 17981,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
    "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
+   "mediaCount": 2049,
+   "profileBackgroundColor": "000000",
+   "statusesCount": 11372,
+   "translatorTypeEnum": "None",
    "affiliatesHighlightedLabel": {
     "label": {
      "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
+      "url": "https://pbs.twimg.com/profile_images/1641503399802978304/BnW4EBR6_bigger.jpg"
      },
-     "description": "Sleeper",
+     "description": "Fantasy Footballers",
      "url": {
-      "url": "https://twitter.com/SleeperHQ",
+      "url": "https://twitter.com/TheFFBallers",
       "urlType": "DeepLink"
      },
      "userLabelDisplayType": "Badge",
      "userLabelType": "BusinessLabel"
     }
    },
-   "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/hyhhmS1diX",
-     "expanded_url": "https://x.com/ffdataroma/status/2115481219043377299/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2115437028712030208",
-     "indices": [
-      177,
-      200
-     ],
-     "media_key": "3_2115437028712030208",
-     "media_results": {
-      "result": {
-       "media_key": "3_2115437028712030208"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HVuKxQEWoAAloDk.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 1198,
-        "w": 2140,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 1220,
-        "x": 920,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 1070,
-        "x": 1016,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 610,
-        "x": 1246,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 2140,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1220,
-      "width": 2140
-     },
-     "sizes": {
-      "large": {
-       "h": 1168,
-       "resize": "fit",
-       "w": 2048
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/hyhhmS1diX"
-    }
+    "1812821349364072823"
    ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/hyhhmS1diX",
-     "expanded_url": "https://x.com/ffdataroma/status/2115481219043377299/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2115437028712030208",
-     "indices": [
-      177,
-      200
-     ],
-     "media_key": "3_2115437028712030208",
-     "media_results": {
-      "result": {
-       "media_key": "3_2115437028712030208"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HVuKxQEWoAAloDk.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 1198,
-        "w": 2140,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 1220,
-        "x": 920,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 1070,
-        "x": 1016,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 610,
-        "x": 1246,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 2140,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1220,
-      "width": 2140
-     },
-     "sizes": {
-      "large": {
-       "h": 1168,
-       "resize": "fit",
-       "w": 2048
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/hyhhmS1diX"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      100,
-      115
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HVuKxQEWoAAloDk.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2115473666192638386",
-  "url": "https://x.com/ffdataroma/status/2115473666192638386",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2115473666192638386",
-  "text": "Targets per route run vs. separation score for WRs and TEs through Week 7, per @FantasyPtsData\n\nWhich pass-catchers are not only getting open, but also earning targets when they do? https://t.co/K2p9ZRxsyF",
-  "fullText": "Targets per route run vs. separation score for WRs and TEs through Week 7, per @FantasyPtsData\n\nWhich pass-catchers are not only getting open, but also earning targets when they do? https://t.co/K2p9ZRxsyF",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 0,
-  "likeCount": 74,
-  "quoteCount": 0,
-  "viewCount": 16582,
-  "createdAt": "Wed Oct 28 16:00:00 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 26,
-  "isReply": false,
-  "conversationId": "2115473666192638386",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/K2p9ZRxsyF",
-     "expanded_url": "https://x.com/ffdataroma/status/2115473666192638386/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 79,
-         "w": 79,
-         "x": 651,
-         "y": 411
-        },
-        {
-         "h": 97,
-         "w": 97,
-         "x": 1141,
-         "y": 683
-        },
-        {
-         "h": 171,
-         "w": 171,
-         "x": 751,
-         "y": 403
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 46,
-         "w": 46,
-         "x": 381,
-         "y": 241
-        },
-        {
-         "h": 57,
-         "w": 57,
-         "x": 668,
-         "y": 400
-        },
-        {
-         "h": 100,
-         "w": 100,
-         "x": 440,
-         "y": 236
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 681,
-         "y": 430
-        },
-        {
-         "h": 102,
-         "w": 102,
-         "x": 1193,
-         "y": 714
-        },
-        {
-         "h": 179,
-         "w": 179,
-         "x": 785,
-         "y": 422
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 26,
-         "w": 26,
-         "x": 216,
-         "y": 136
-        },
-        {
-         "h": 32,
-         "w": 32,
-         "x": 379,
-         "y": 226
-        },
-        {
-         "h": 56,
-         "w": 56,
-         "x": 249,
-         "y": 134
-        }
-       ]
-      }
-     },
-     "id_str": "2115436565035986944",
-     "indices": [
-      182,
-      205
-     ],
-     "media_key": "3_2115436565035986944",
-     "media_results": {
-      "result": {
-       "media_key": "3_2115436565035986944"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HVuKWQvXsAA-eLT.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 1198,
-        "w": 2140,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 1220,
-        "x": 834,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 1070,
-        "x": 909,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 610,
-        "x": 1139,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 2140,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1220,
-      "width": 2140
-     },
-     "sizes": {
-      "large": {
-       "h": 1168,
-       "resize": "fit",
-       "w": 2048
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/K2p9ZRxsyF"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/K2p9ZRxsyF",
-     "expanded_url": "https://x.com/ffdataroma/status/2115473666192638386/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 79,
-         "w": 79,
-         "x": 651,
-         "y": 411
-        },
-        {
-         "h": 97,
-         "w": 97,
-         "x": 1141,
-         "y": 683
-        },
-        {
-         "h": 171,
-         "w": 171,
-         "x": 751,
-         "y": 403
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 46,
-         "w": 46,
-         "x": 381,
-         "y": 241
-        },
-        {
-         "h": 57,
-         "w": 57,
-         "x": 668,
-         "y": 400
-        },
-        {
-         "h": 100,
-         "w": 100,
-         "x": 440,
-         "y": 236
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 681,
-         "y": 430
-        },
-        {
-         "h": 102,
-         "w": 102,
-         "x": 1193,
-         "y": 714
-        },
-        {
-         "h": 179,
-         "w": 179,
-         "x": 785,
-         "y": 422
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 26,
-         "w": 26,
-         "x": 216,
-         "y": 136
-        },
-        {
-         "h": 32,
-         "w": 32,
-         "x": 379,
-         "y": 226
-        },
-        {
-         "h": 56,
-         "w": 56,
-         "x": 249,
-         "y": 134
-        }
-       ]
-      }
-     },
-     "id_str": "2115436565035986944",
-     "indices": [
-      182,
-      205
-     ],
-     "media_key": "3_2115436565035986944",
-     "media_results": {
-      "result": {
-       "media_key": "3_2115436565035986944"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HVuKWQvXsAA-eLT.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 1198,
-        "w": 2140,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 1220,
-        "x": 834,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 1070,
-        "x": 909,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 610,
-        "x": 1139,
-        "y": 0
-       },
-       {
-        "h": 1220,
-        "w": 2140,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1220,
-      "width": 2140
-     },
-     "sizes": {
-      "large": {
-       "h": 1168,
-       "resize": "fit",
-       "w": 2048
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/K2p9ZRxsyF"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      79,
-      94
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HVuKWQvXsAA-eLT.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2116680041614422334",
-  "url": "https://x.com/ffdataroma/status/2116680041614422334",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2116680041614422334",
-  "text": "Week 8: Players that you should FADE      \n\n\u2b07\ufe0f\ud83e\uddf5",
-  "fullText": "Week 8: Players that you should FADE      \n\n\u2b07\ufe0f\ud83e\uddf5",
-  "source": "",
-  "retweetCount": 0,
-  "replyCount": 1,
-  "likeCount": 27,
-  "quoteCount": 0,
-  "viewCount": 22041,
-  "createdAt": "Sat Oct 31 23:53:42 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 10,
-  "isReply": false,
-  "conversationId": "2116680041614422334",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21734,
-   "following": 429,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 6753,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 832,
-   "statusesCount": 10618,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2116294120658686047"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
-  "entities": {},
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": []
+  },
   "isRetweet": false,
   "isQuote": false,
   "media": [],
