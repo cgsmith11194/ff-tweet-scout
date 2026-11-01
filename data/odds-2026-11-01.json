@@ -61,13 +61,13 @@
    "game": "LAC @ LAR",
    "date": "2026-11-01T21:05Z",
    "spread": "LAR -6.5",
-   "over_under": 45.5,
+   "over_under": 46.5,
    "provider": "DraftKings"
   },
   {
    "game": "KC @ DEN",
    "date": "2026-11-01T21:25Z",
-   "spread": "KC -1.5",
+   "spread": "DEN -1.5",
    "over_under": 41.5,
    "provider": "DraftKings"
   },
