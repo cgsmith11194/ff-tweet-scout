@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T15:01:27.629724+00:00",
+ "generated_at": "2026-11-08T16:28:45.617994+00:00",
  "window": {
   "since": "2026-11-08",
   "until": "2026-11-09",
@@ -7,11 +7,12 @@
  },
  "counts": {
   "raw": 570,
-  "unique": 29,
-  "kept": 19,
+  "unique": 55,
+  "kept": 27,
   "kills": {
-   "out_of_window": 541,
-   "low_score": 9,
+   "retweet": 4,
+   "out_of_window": 514,
+   "low_score": 23,
    "reply": 1
   }
  },
@@ -22,36 +23,162 @@
    "url": "https://x.com/UnderdogNFL/status/2119401905600524553",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 24.3,
-   "likes": 63,
+   "score": 24.7,
+   "likes": 80,
    "text": "Rap: Jaylen Wright (quad) won't play Week 9."
   },
   {
-   "id": "2119400061368959105",
-   "url": "https://x.com/UnderdogNFL/status/2119400061368959105",
+   "id": "2119456752877932609",
+   "url": "https://x.com/UnderdogNFL/status/2119456752877932609",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 22.2,
-   "likes": 762,
-   "text": "Rapoport: Lamar Jackson (thumb) has told teammates he plans to return this season."
+   "score": 24.6,
+   "likes": 1107,
+   "text": "Schefter: Sounds like Jaguars will listen to trade offers for Brian Thomas Jr. before deadline."
+  },
+  {
+   "id": "2119464252276928787",
+   "url": "https://x.com/UnderdogNFL/status/2119464252276928787",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.1,
+   "likes": 245,
+   "text": "Glazer: Giants offered Colts a 2nd and 5th-round pick for Jonathan Taylor but pulled the offer."
   },
   {
    "id": "2119442577011151061",
    "url": "https://x.com/Ihartitz/status/2119442577011151061",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 16.9,
-   "likes": 124,
+   "score": 23.3,
+   "likes": 5737,
    "text": "Ja\u2019Marr Chase on AJ Terrell crime https://t.co/Z4KkYCxJg0"
+  },
+  {
+   "id": "2119466397390549345",
+   "url": "https://x.com/UnderdogNFL/status/2119466397390549345",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.0,
+   "likes": 122,
+   "text": "George Pickens (hamstring) won't play Week 9, per @toddarcher."
+  },
+  {
+   "id": "2119464813055430986",
+   "url": "https://x.com/UnderdogNFL/status/2119464813055430986",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.8,
+   "likes": 118,
+   "text": "Cam Skattebo (hamstring) won't play Week 9, per @JordanRaanan."
+  },
+  {
+   "id": "2119464001042063399",
+   "url": "https://x.com/UnderdogNFL/status/2119464001042063399",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.5,
+   "likes": 196,
+   "text": "Schefter: Tony Pollard won't be traded."
+  },
+  {
+   "id": "2119453959999938603",
+   "url": "https://x.com/SmolaDS/status/2119453959999938603",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.0,
+   "likes": 12,
+   "text": "Fastest- and slowest-paced games of the week.\n\nRaiders-49ers should be fun! https://t.co/hevhoBiPIY"
+  },
+  {
+   "id": "2119454002572149123",
+   "url": "https://x.com/UnderdogNFL/status/2119454002572149123",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.2,
+   "likes": 963,
+   "text": "JA'MARR CHASE\n\nhttps://t.co/AOiJS1HZfm"
+  },
+  {
+   "id": "2119455307961090260",
+   "url": "https://x.com/Ihartitz/status/2119455307961090260",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.2,
+   "likes": 1112,
+   "text": "Top four wide receivers in fantasy football this season https://t.co/qmvLzfO78t"
+  },
+  {
+   "id": "2119467006642868514",
+   "url": "https://x.com/YahooFantasy/status/2119467006642868514",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.2,
+   "likes": 3,
+   "text": "George Pickens (hamstring) won't play in Week 9, per @toddarcher. https://t.co/NSIXA6LPxA"
+  },
+  {
+   "id": "2119460182048772361",
+   "url": "https://x.com/Ihartitz/status/2119460182048772361",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.7,
+   "likes": 1,
+   "text": "Week 9 @betr picks!\n\nThese are all recommendations from my beautiful dachshund Lilly.\n\nhttps://t.co/G75tnNKUoe https://t.co/jrmRbvclnQ"
   },
   {
    "id": "2119443242202857495",
    "url": "https://x.com/Ihartitz/status/2119443242202857495",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 15.4,
-   "likes": 69,
+   "score": 18.2,
+   "likes": 341,
    "text": "Chop wood, carry water https://t.co/x4KdBmfNsK"
+  },
+  {
+   "id": "2119459389807497458",
+   "url": "https://x.com/CoopAFiasco/status/2119459389807497458",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.5,
+   "likes": 0,
+   "text": "Fantasy Football Week 9 Start/Sit, Best Bets &amp; DFS Picks &amp; NFL Inactives https://t.co/8BEoec6558"
+  },
+  {
+   "id": "2119465309140905998",
+   "url": "https://x.com/Ihartitz/status/2119465309140905998",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.8,
+   "likes": 22,
+   "text": "For years all I\u2019ve asked from NFL insiders is to do pushups while giving out information. Thank you @AdamSchefter"
+  },
+  {
+   "id": "2119460768781336947",
+   "url": "https://x.com/Ihartitz/status/2119460768781336947",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.6,
+   "likes": 76,
+   "text": "Ja'Marr Chase with the fifth highest-scoring first half in fantasy football this season https://t.co/adJG3cKqrU"
+  },
+  {
+   "id": "2119463608589713891",
+   "url": "https://x.com/YahooFantasy/status/2119463608589713891",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.4,
+   "likes": 60,
+   "text": "Chase Brown fantasy managers seeing Joe Burrow and Ja'Marr Chase go off https://t.co/uoGJeRF3ZO"
+  },
+  {
+   "id": "2119461284378714265",
+   "url": "https://x.com/SmolaDS/status/2119461284378714265",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.2,
+   "likes": 4,
+   "text": "Week 9 Matchups That Matter  \n\n\u2705 Projected points \n\u2705 Fastest and slowest-paced games \n\u2705 Best and worst positional matchups \n\u2705 WR-CB upgrades and downgrades \n\u2705 And more!\n\nhttps://t.co/kjRgH3A729"
   },
   {
    "id": "2119419561250582986",
@@ -59,25 +186,25 @@
    "handle": "SmolaDS",
    "reason": "low_score(analysis_hype)",
    "score": 14.0,
-   "likes": 18,
+   "likes": 20,
    "text": "Updated implied totals https://t.co/WYQLxvLWFx"
   },
   {
-   "id": "2119415148620247338",
-   "url": "https://x.com/Bengals/status/2119415148620247338",
-   "handle": "Bengals",
+   "id": "2119460372943913104",
+   "url": "https://x.com/CoopAFiasco/status/2119460372943913104",
+   "handle": "CoopAFiasco",
    "reason": "low_score(analysis_hype)",
-   "score": 3.7,
-   "likes": 204,
-   "text": "Inactives for #CINatATL https://t.co/LyxJyOK2Md"
+   "score": 14.0,
+   "likes": 0,
+   "text": "We are LIVE hitting all your start/sits, come hang!"
   },
   {
    "id": "2119415667774431561",
    "url": "https://x.com/AtlantaFalcons/status/2119415667774431561",
    "handle": "AtlantaFalcons",
    "reason": "low_score(analysis_hype)",
-   "score": 2.9,
-   "likes": 113,
+   "score": 3.0,
+   "likes": 121,
    "text": "Full list of today\u2019s inactives\n\nhttps://t.co/4U3rcV5efz https://t.co/YfuFBkew5S"
   },
   {
@@ -86,7 +213,7 @@
    "handle": "pauldehnerjr",
    "reason": "low_score(analysis_hype)",
    "score": 2.9,
-   "likes": 65,
+   "likes": 66,
    "text": "DE Cedric Johnson (ankle) is active for the #Bengals. \n\nInactives: \nS Kyle Dugger \nC Connor Lew\nOT Myles Hinton\nDT Landon Robinson"
   },
   {
@@ -94,8 +221,8 @@
    "url": "https://x.com/MySportsUpdate/status/2119438007501774981",
    "handle": "MySportsUpdate",
    "reason": "low_score(cold_water)",
-   "score": 17.4,
-   "likes": 205,
+   "score": 18.6,
+   "likes": 424,
    "text": "Is anyone else having struggles to watch NFL Network on @YouTubeTV to watch Bengals-Falcons right now?"
   },
   {
@@ -104,8 +231,44 @@
    "handle": "MySportsUpdate",
    "reason": "reply",
    "score": null,
-   "likes": 14,
+   "likes": 33,
    "text": "If anyone else is having an issue: Put it on multi-view and it\u2019ll work. \n\n(Thank you comment section)"
+  },
+  {
+   "id": "2119447691482824922",
+   "url": "https://x.com/ffdataroma/status/2119447691482824922",
+   "handle": "ffdataroma",
+   "reason": "retweet",
+   "score": null,
+   "likes": 30,
+   "text": "RT @ffdataroma: Week 9: Players that you should FADE\n\n\u2b07\ufe0f\ud83e\uddf5"
+  },
+  {
+   "id": "2119447679092805739",
+   "url": "https://x.com/ffdataroma/status/2119447679092805739",
+   "handle": "ffdataroma",
+   "reason": "retweet",
+   "score": null,
+   "likes": 60,
+   "text": "RT @ffdataroma: Week 9: Players that are set up to SMASH\n\n\u2b07\ufe0f\ud83e\uddf5"
+  },
+  {
+   "id": "2119455151656231373",
+   "url": "https://x.com/SmolaDS/status/2119455151656231373",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 64,
+   "text": "RT @SmolaDS: Week 9 Rushing Matchups\n\nEach team's Run Offense Power plotted against their opponent's Run Defense Power https://t.co/4SwVM4c\u2026"
+  },
+  {
+   "id": "2119455134354911488",
+   "url": "https://x.com/SmolaDS/status/2119455134354911488",
+   "handle": "SmolaDS",
+   "reason": "retweet",
+   "score": null,
+   "likes": 62,
+   "text": "RT @SmolaDS: Week 9 Passing Matchups\n\nEach team's Pass Offense Power plotted against their opponent's Pass Defense Power\n\nLions vs. Dolphin\u2026"
   }
  ]
 }

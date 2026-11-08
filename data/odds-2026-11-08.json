@@ -13,84 +13,84 @@
    "date": "2026-11-08T18:00Z",
    "spread": "DAL -4.5",
    "over_under": 51.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "NYJ @ KC",
    "date": "2026-11-08T18:00Z",
    "spread": "KC -9.5",
-   "over_under": 48.5,
-   "provider": "DraftKings"
+   "over_under": 47.5,
+   "provider": "Draft Kings"
   },
   {
    "game": "DET @ MIA",
    "date": "2026-11-08T18:00Z",
    "spread": "DET -6.5",
    "over_under": 50.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "CLE @ NO",
    "date": "2026-11-08T18:00Z",
-   "spread": "NO -3",
+   "spread": "NO -3.5",
    "over_under": 42.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "NYG @ PHI",
    "date": "2026-11-08T18:00Z",
    "spread": "NYG -3",
    "over_under": 38.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "LAR @ WSH",
    "date": "2026-11-08T18:00Z",
    "spread": "LAR -4.5",
    "over_under": 47.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "DEN @ CAR",
    "date": "2026-11-08T18:00Z",
    "spread": "DEN -2.5",
    "over_under": 44.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "HOU @ LAC",
    "date": "2026-11-08T21:05Z",
    "spread": "HOU -5.5",
    "over_under": 40.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "GB @ NE",
    "date": "2026-11-08T21:25Z",
    "spread": "NE -3",
    "over_under": 44.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "LV @ SF",
    "date": "2026-11-08T21:25Z",
    "spread": "SF -9.5",
    "over_under": 51.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "ARI @ SEA",
    "date": "2026-11-08T21:25Z",
    "spread": "SEA -8.5",
    "over_under": 39.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "TB @ CHI",
    "date": "2026-11-09T01:20Z",
    "spread": "CHI -6",
    "over_under": 47.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   },
   {
    "game": "JAX @ BAL",
@@ -104,7 +104,7 @@
    "date": "2026-11-10T01:15Z",
    "spread": "BUF -3",
    "over_under": 43.5,
-   "provider": "DraftKings"
+   "provider": "Draft Kings"
   }
  ]
 }
