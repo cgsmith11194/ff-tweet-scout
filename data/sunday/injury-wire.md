@@ -11,29 +11,40 @@
 #   - Locked rows first, not-locked rows last (renderer draws the divider).
 #   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 8 — 2026-11-01 — FINAL wire, 1:05 ET (1:00 slate fully official)
+# WEEK 9 — 2026-11-08 — EXPECTED wire, ships with the issue (byes: PIT, TEN; JAX-BAL played Thursday)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
-| Lamar Jackson | QB · BAL | IN | Ankle | Off the final report - first start since Week 4, at Buffalo at 1:00 |
-| Rashee Rice | WR · KC | IN | Hamstring | No designation - officially returns per Schefter after two missed games |
-| Saquon Barkley | RB · PHI | IN | Hamstring - back | No designation and "good to go" per Rapoport for Sunday night |
-| Zach Charbonnet | RB · SEA | IN | Knee (ACL rehab) | No designation - he and Jadarian Price both expected to play Monday per Schefter |
-| A.J. Brown | WR · NE | OUT | Knee - ankle | Downgraded Saturday per Schefter - second straight miss |
-| TreVeyon Henderson | RB · NE | OUT | Illness | Rare early illness rule-out - Rhamondre Stevenson inherits the Miami matchup |
-| DeVonta Smith | WR · PHI | OUT | Hamstring | Ruled out Friday per Schefter for Sunday night at Washington |
-| Emeka Egbuka | WR · TB | OUT | Concussion - foot | Ruled out again - Godwin keeps the 45% target share he ran without him last week |
-| R.J. Harvey | RB · DEN | OUT | Knee | Short-term IR Friday - out at least 4 games per Rapoport |
-| Brian Robinson Jr. | RB · ATL | OUT | Hamstring | Out - Bijan Robinson consolidates the Atlanta backfield |
-| Kyle Monangai | RB · CHI | OUT | Thumb - toe | Ruled out for Monday night - D'Andre Swift handles Seattle |
-| Rashid Shaheed | WR · SEA | OUT | Knee | Downgraded to out for Monday night vs Chicago |
-| Breece Hall | RB · NYJ | OUT | Quad | Officially inactive - Braelon Allen starts, "hoping" for Week 9 per Fowler |
-| Carnell Tate | WR · TEN | OUT | Shoulder | Ruled out vs Cincinnati |
-| George Pickens | WR · DAL | IN | Shoulder - hamstring | Active - not on the Cowboys official inactives list |
-| Tyjae Spears | RB · TEN | OUT | Knee | Officially inactive at Cincinnati - Pollard and Carter carry it |
-| D.J. Moore | WR · BUF | IN | Shoulder (AC) | Officially active vs Baltimore - the Allen downfield hinge is in |
-| Dalton Kincaid | TE · BUF | IN | Chest | Officially active, playing through the chest issue |
-| Jakobi Meyers | WR · JAX | IN | Hamstring - ankle | Officially active vs the Colts after a limited week |
-| Jeremiyah Love | RB · ARI | IN | Ankle | Playing at Dallas - back after two missed weeks |
-| Jaylen Waddle | WR · DEN | IN | Chest | Active - "will play" per Glazer, confirmed on the late-slate actives |
-| Treylon Burks | WR · WAS | EXP IN | Foot | Expected to play Sunday night per Schefter - actives ~6:50 |
+| Malik Nabers | WR · NYG | IN | Knee | "Full go" per Rapoport after a scare week |
+| Christian McCaffrey | RB · SF | IN | Shin | Removed from the injury report entirely |
+| Saquon Barkley | RB · PHI | IN | Hamstring - back | No tag this week - first clean report since the injury |
+| Michael Wilson | WR · ARI | IN | Ribs (fractured) | Playing through broken ribs again - not listed |
+| Pat Bryant | WR · DEN | IN | Ankle (IR return) | Activated from IR Saturday per Schefter |
+| Breece Hall | RB · NYJ | IN | Quad | Full practice all week and "ready to go" - first game since Week 7 - expect a split with Braelon |
+| Kyler Murray | QB · MIN | OUT | Hamstring | Week-to-week - Carson Wentz named the Monday night starter |
+| Sam Darnold | QB · SEA | OUT | Quad | Out - and Week 10 is also in jeopardy per Schefter |
+| Deshaun Watson | QB · CLE | OUT | Concussion | Shedeur Sanders makes his first start per Schefter - Watson targeted for Week 10 |
+| A.J. Brown | WR · NE | OUT | Knee | Ruled out again - has missed 6 of 8 |
+| TreVeyon Henderson | RB · NE | OUT | Medical (neurological) | Out indefinitely after what his statement calls an unexpected medical emergency |
+| Garrett Wilson | WR · NYJ | OUT | Concussion | Ruled out - from the Chinn hit that drew a fine |
+| Deebo Samuel | WR · SF | OUT | Hamstring | Out several weeks |
+| Christian Kirk | WR · SF | OUT | Knee (IR) | Tore meniscus in Thursday practice - at least 4 games |
+| DeVonta Smith | WR · PHI | OUT | Hamstring | Out again Sunday vs the Giants |
+| Dontayvion Wicks | WR · PHI | OUT | Ankle | Out - Eagles receiver room stays gutted |
+| Jeremiyah Love | RB · ARI | OUT | Ankle (IR) | Re-injured vs Dallas - IR - Allgeier inherits everything |
+| Bam Knight | RB · ARI | OUT | Concussion | Out - it is the Tyler Allgeier show in Seattle |
+| Treylon Burks | WR · WAS | OUT | Foot | He and Dyami Brown both ruled out - Antonio Williams and Diggs carry it vs the Rams |
+| Kyle Monangai | RB · CHI | OUT | Thumb - toe | Out for Sunday night - expected back Week 11 per Rapoport |
+| Josh Palmer | WR · BUF | OUT | Hamstring | Ruled out for Monday night |
+| Jauan Jennings | WR · MIN | OUT | Calf | Ruled out for Monday night |
+| David Montgomery | RB · HOU | OUT | Groin | Ruled out per Footballguys - Woody Marks leads the room at 4:05 |
+| Cam Skattebo | RB · NYG | EXP OUT | Hamstring | Doubtful - Devin Singletary expected to lead, locks ~11:30 |
+| Amon-Ra St. Brown | WR · DET | EXP IN | Ribs | Expected to play per Rapoport - limited all week, locks ~11:30 |
+| George Pickens | WR · DAL | EXP IN | Hamstring | Questionable but expected to play - locks ~11:30 |
+| Jake Ferguson | TE · DAL | EXP IN | Ankle | Trending active but the role was shrinking before the injury - ~11:30 |
+| Jordyn Tyson | WR · NO | EXP IN | Hamstring (IR) | Season debut expected - temper the first week, locks ~11:30 |
+| Hunter Henry | TE · NE | PENDING | Not disclosed | True game-time call in warmups - 4:25 window, actives ~3:55 |
+| MarShawn Lloyd | RB · GB | PENDING | Not disclosed | Warmup decision - 4:25 window, actives ~3:55 |
+| Emeka Egbuka | WR · TB | EXP IN | Foot | Expected to play per Pelissero - SNF actives ~6:50 |
+| D.J. Moore | WR · BUF | EXP IN | Shoulder - knee | Expected to play Monday - re-injury risk per McFarland |
+| Dalton Kincaid | TE · BUF | EXP IN | Chest | "Will play" Monday per McFarland |
