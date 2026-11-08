@@ -43,8 +43,8 @@
 | George Pickens | WR · DAL | OUT | Hamstring | FLIP - officially inactive after the expected-to-play lean - Flournoy bumps to WR3 per McFarland |
 | Jake Ferguson | TE · DAL | IN | Ankle | Active - not on the Cowboys official list - role still a question |
 | Jordyn Tyson | WR · NO | IN | Hamstring (IR) | Active - NFL debut is on vs Cleveland |
-| Hunter Henry | TE · NE | PENDING | Foot | True game-time call in warmups - 4:25 window, actives ~3:55 |
-| MarShawn Lloyd | RB · GB | PENDING | Not disclosed | Warmup decision - 4:25 window, actives ~3:55 |
+| Hunter Henry | TE · NE | IN | Foot | Active for the 4:25 vs Green Bay |
+| MarShawn Lloyd | RB · GB | OUT | Knee | Inactive for the 4:25 at New England |
 | Emeka Egbuka | WR · TB | EXP IN | Foot | Expected to play per Pelissero - SNF actives ~6:50 |
 | D.J. Moore | WR · BUF | EXP IN | Shoulder - knee | Expected to play Monday - re-injury risk per McFarland |
 | Dalton Kincaid | TE · BUF | EXP IN | Chest | "Will play" Monday per McFarland |
