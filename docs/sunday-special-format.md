@@ -32,6 +32,13 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
 - Useful over clever: no coined shorthand ("fence case"), no vague callbacks.
   Every line should tell the reader something they can act on.
 - Tier and matchup content renders as bulleted lists, never prose blobs.
+- **Source links inline (Chris, 11/8):** every "per X" attribution in the
+  letter carries an inline hyperlink on the attributing phrase, pointing to the
+  exact tweet (the candidate's `url` field) or article. Block embeds (bare
+  x.com URL on its own line) stay reserved for anchor tweets in
+  Weather/Lab/Threads/wire; everything else links inline so the issue doesn't
+  bloat with embeds. No URL is ever typed from memory or reconstructed - only
+  copied from a candidate `url` field or a fetched page.
 
 ## Sections, in order
 
@@ -114,6 +121,15 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
   from (a) the quoted tweet's own text, or (b) a fresh web check. A tweet that
   names a player without a team gets verified before the row is written — or
   the team is omitted. 2026 rosters have moved too much for priors.
+  **The same rule covers coaches, coordinators, and front-office roles (added
+  11/8 after "Jesse Minter defense" shipped as a Chargers note - he'd been the
+  Ravens' head coach since January):** never attach a role to a team from
+  memory; verify fresh before any "X's defense/offense" phrasing.
+- **Full-text rule (added 11/8):** never cite a number, name, or claim from a
+  truncated tweet preview. Before any stat from a candidate enters the letter,
+  print that tweet's complete `text` field and read it whole - "7-7X" and the
+  Minter misattribution both came from writing off truncated dumps, and the
+  truncation also hid that the tweet's subject was a different team.
 - **Wire exhaustiveness + two-tier sourcing:** the wire is built efficiently in
   two passes. (1) **1:00 games — official only:** statuses come from each
   team's official inactives post (~11:30 ET, via the inactives sweep); these
