@@ -11,7 +11,7 @@
 #   - Locked rows first, not-locked rows last (renderer draws the divider).
 #   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 9 — 2026-11-08 — EXPECTED wire, ships with the issue (byes: PIT, TEN; JAX-BAL played Thursday)
+# WEEK 9 — 2026-11-08 — FINAL wire, 12:15 ET (1:00 slate official; byes: PIT, TEN)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@
 | Josh Palmer | WR · BUF | OUT | Hamstring | Ruled out for Monday night |
 | Jauan Jennings | WR · MIN | OUT | Calf | Ruled out for Monday night |
 | David Montgomery | RB · HOU | OUT | Groin | Ruled out per Footballguys - Woody Marks leads the room at 4:05 |
-| Cam Skattebo | RB · NYG | EXP OUT | Hamstring | Doubtful - Devin Singletary expected to lead, locks ~11:30 |
-| Amon-Ra St. Brown | WR · DET | EXP IN | Ribs | Expected to play per Rapoport - limited all week, locks ~11:30 |
-| George Pickens | WR · DAL | EXP IN | Hamstring | Questionable but expected to play - locks ~11:30 |
-| Jake Ferguson | TE · DAL | EXP IN | Ankle | Trending active but the role was shrinking before the injury - ~11:30 |
-| Jordyn Tyson | WR · NO | EXP IN | Hamstring (IR) | Season debut expected - temper the first week, locks ~11:30 |
-| Hunter Henry | TE · NE | PENDING | Not disclosed | True game-time call in warmups - 4:25 window, actives ~3:55 |
+| Cam Skattebo | RB · NYG | OUT | Hamstring | Officially out - Devin Singletary leads the backfield |
+| Amon-Ra St. Brown | WR · DET | IN | Ribs | Officially active vs Miami |
+| George Pickens | WR · DAL | OUT | Hamstring | FLIP - officially inactive after the expected-to-play lean - Flournoy bumps to WR3 per McFarland |
+| Jake Ferguson | TE · DAL | IN | Ankle | Active - not on the Cowboys official list - role still a question |
+| Jordyn Tyson | WR · NO | IN | Hamstring (IR) | Active - NFL debut is on vs Cleveland |
+| Hunter Henry | TE · NE | PENDING | Foot | True game-time call in warmups - 4:25 window, actives ~3:55 |
 | MarShawn Lloyd | RB · GB | PENDING | Not disclosed | Warmup decision - 4:25 window, actives ~3:55 |
 | Emeka Egbuka | WR · TB | EXP IN | Foot | Expected to play per Pelissero - SNF actives ~6:50 |
 | D.J. Moore | WR · BUF | EXP IN | Shoulder - knee | Expected to play Monday - re-injury risk per McFarland |
