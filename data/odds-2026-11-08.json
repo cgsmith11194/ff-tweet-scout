@@ -2,6 +2,41 @@
  "captured_at": "2026-11-08",
  "games": [
   {
+   "game": "HOU @ LAC",
+   "date": "2026-11-08T21:05Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "GB @ NE",
+   "date": "2026-11-08T21:25Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "LV @ SF",
+   "date": "2026-11-08T21:25Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "ARI @ SEA",
+   "date": "2026-11-08T21:25Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "CIN VS ATL",
+   "date": "2026-11-08T14:30Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
    "game": "DAL @ IND",
    "date": "2026-11-08T18:00Z",
    "spread": null,
@@ -51,46 +86,11 @@
    "provider": null
   },
   {
-   "game": "CIN VS ATL",
-   "date": "2026-11-08T14:30Z",
-   "spread": null,
-   "over_under": null,
-   "provider": null
-  },
-  {
-   "game": "HOU @ LAC",
-   "date": "2026-11-08T21:05Z",
-   "spread": "HOU -5.5",
-   "over_under": 40.5,
-   "provider": "Draft Kings"
-  },
-  {
-   "game": "GB @ NE",
-   "date": "2026-11-08T21:25Z",
-   "spread": "NE -3",
-   "over_under": 44.5,
-   "provider": "Draft Kings"
-  },
-  {
-   "game": "LV @ SF",
-   "date": "2026-11-08T21:25Z",
-   "spread": "SF -8.5",
-   "over_under": 51.5,
-   "provider": "Draft Kings"
-  },
-  {
-   "game": "ARI @ SEA",
-   "date": "2026-11-08T21:25Z",
-   "spread": "SEA -8.5",
-   "over_under": 39.5,
-   "provider": "Draft Kings"
-  },
-  {
    "game": "TB @ CHI",
    "date": "2026-11-09T01:20Z",
    "spread": "CHI -6",
    "over_under": 47.5,
-   "provider": "Draft Kings"
+   "provider": "DraftKings"
   },
   {
    "game": "JAX @ BAL",
@@ -104,7 +104,7 @@
    "date": "2026-11-10T01:15Z",
    "spread": "BUF -3",
    "over_under": 43.5,
-   "provider": "Draft Kings"
+   "provider": "DraftKings"
   }
  ]
 }
