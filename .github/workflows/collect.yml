@@ -59,7 +59,7 @@ jobs:
             esac
           else
             # push poke / manual dispatch: .github/collect-now may name a mode
-            REQ=$(tr -d '[:space:]' < .github/collect-now 2>/dev/null || true)
+            REQ=$(head -1 .github/collect-now 2>/dev/null | tr -d '[:space:]' || true)
             case "$REQ" in
               sunday|inactives|weekly) MODE=$REQ ;;
             esac
