@@ -1,99 +1,116 @@
 [
  {
   "type": "tweet",
-  "id": "2118123184746635542",
-  "url": "https://x.com/Ihartitz/status/2118123184746635542",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118123184746635542",
-  "text": "Travis Kelce and Rashee Rice have *0* targets inside the 10-yard line this season https://t.co/dJd88W2hWu",
-  "fullText": "Travis Kelce and Rashee Rice have *0* targets inside the 10-yard line this season https://t.co/dJd88W2hWu",
+  "id": "2084046827205091662",
+  "url": "https://x.com/CoopAFiasco/status/2084046827205091662",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2084046827205091662",
+  "text": "Guess who\u2019s a dad - again!\n\nSay hello to Delilah June Cooper! https://t.co/VK5OtGxMhC",
+  "fullText": "Guess who\u2019s a dad - again!\n\nSay hello to Delilah June Cooper! https://t.co/VK5OtGxMhC",
   "source": "",
-  "retweetCount": 4,
-  "replyCount": 5,
-  "likeCount": 72,
-  "quoteCount": 1,
-  "viewCount": 12938,
-  "createdAt": "Wed Nov 04 23:28:14 +0000 2026",
+  "retweetCount": 6,
+  "replyCount": 132,
+  "likeCount": 630,
+  "quoteCount": 3,
+  "viewCount": 83110,
+  "createdAt": "Sun Aug 02 22:40:57 +0000 2026",
   "lang": "en",
+  "quoteId": "1685783919977766912",
   "bookmarkCount": 1,
   "isReply": false,
-  "conversationId": "2118123184746635542",
+  "conversationId": "2084046827205091662",
   "possiblySensitive": false,
+  "isPinned": true,
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
    "advertiserAccountType": "promotable_user",
    "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
    "entities": {
     "description": {
      "user_mentions": [
       {
        "id_str": "",
        "indices": [
-        0,
-        9
+        17,
+        30
        ],
        "name": "",
-       "screen_name": "RotoWire"
+       "screen_name": "FantasyAlarm"
       },
       {
        "id_str": "",
        "indices": [
-        12,
-        20
+        41,
+        50
        ],
        "name": "",
-       "screen_name": "OddsJam"
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
       }
      ]
     },
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/1YtxZPU59i"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 142057,
+   "favouritesCount": 86283,
    "geoEnabled": true,
    "hasCustomTimelines": true,
    "hasExtendedProfile": true,
    "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
    "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
   },
   "extendedEntities": {
    "media": [
     {
-     "display_url": "pic.x.com/dJd88W2hWu",
-     "expanded_url": "https://x.com/Ihartitz/status/2118123184746635542/photo/1",
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/VK5OtGxMhC",
+     "expanded_url": "https://x.com/CoopAFiasco/status/2084046827205091662/photo/1",
      "ext_master_playlist_only": [],
      "ext_media_availability": {
       "status": "Available"
@@ -101,60 +118,79 @@
      "ext_playlists": [],
      "features": {
       "large": {
-       "faces": []
+       "faces": [
+        {
+         "h": 78,
+         "w": 78,
+         "x": 880,
+         "y": 570
+        },
+        {
+         "h": 304,
+         "w": 304,
+         "x": 342,
+         "y": 1308
+        },
+        {
+         "h": 452,
+         "w": 452,
+         "x": 1104,
+         "y": 596
+        }
+       ]
       }
      },
-     "id_str": "2118123071022235648",
+     "id_str": "2084046823019147264",
      "indices": [
-      82,
-      105
+      62,
+      85
      ],
-     "media_key": "3_2118123071022235648",
-     "media_url_https": "https://pbs.twimg.com/media/HWUVtfbXAAAx8dL.png",
+     "media_key": "3_2084046823019147264",
+     "media_url_https": "https://pbs.twimg.com/media/HOwFizVWcAAP-c2.jpg",
      "original_info": {
       "focus_rects": [
        {
-        "h": 176,
-        "w": 315,
+        "h": 1068,
+        "w": 1907,
         "x": 0,
-        "y": 45
+        "y": 336
        },
        {
-        "h": 285,
-        "w": 285,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 285,
-        "w": 250,
+        "h": 1907,
+        "w": 1907,
         "x": 0,
         "y": 0
        },
        {
-        "h": 285,
-        "w": 143,
-        "x": 46,
+        "h": 2048,
+        "w": 1796,
+        "x": 111,
         "y": 0
        },
        {
-        "h": 285,
-        "w": 315,
+        "h": 2048,
+        "w": 1024,
+        "x": 767,
+        "y": 0
+       },
+       {
+        "h": 2048,
+        "w": 1907,
         "x": 0,
         "y": 0
        }
       ],
-      "height": 285,
-      "width": 315
+      "height": 2048,
+      "width": 1907
      },
      "sizes": {
       "large": {
-       "h": 285,
-       "w": 315
+       "h": 2048,
+       "w": 1907
       }
      },
      "type": "photo",
-     "url": "https://t.co/dJd88W2hWu"
+     "url": "https://t.co/VK5OtGxMhC"
     }
    ]
   },
@@ -162,1083 +198,496 @@
   "place": {},
   "entities": {},
   "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HWUVtfbXAAAx8dL.png"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2118120611834933673",
-  "url": "https://x.com/Ihartitz/status/2118120611834933673",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118120611834933673",
-  "text": "Seahawks defense has allowed a touchdown on an NFL-worst 83% of their opponent's red-zone drives. 15/18! https://t.co/XSwpEhDpiP",
-  "fullText": "Seahawks defense has allowed a touchdown on an NFL-worst 83% of their opponent's red-zone drives. 15/18! https://t.co/XSwpEhDpiP",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 6,
-  "likeCount": 97,
-  "quoteCount": 3,
-  "viewCount": 13567,
-  "createdAt": "Wed Nov 04 23:18:01 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 11,
-  "isReply": false,
-  "conversationId": "2118120611834933673",
-  "possiblySensitive": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "1685783919977766912",
+   "text": "Guess who\u2019s a dad?\n\nSay hello to Laney Jay Cooper! https://t.co/Qt6BTivlXc",
+   "source": "",
+   "retweetCount": 166,
+   "replyCount": 885,
+   "likeCount": 4061,
+   "quoteCount": 26,
+   "viewCount": 273833,
+   "createdAt": "Sun Jul 30 22:46:21 +0000 2023",
+   "lang": "en",
+   "bookmarkCount": 4,
+   "possiblySensitive": false,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "CoopAFiasco",
+    "url": "https://x.com/CoopAFiasco",
+    "twitterUrl": "https://twitter.com/CoopAFiasco",
+    "id": "35915798",
+    "name": "Andrew Cooper",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+    "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+    "location": "Yin & Yang Tight End",
+    "followers": 28789,
+    "following": 1129,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "enabled",
+    "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+    "entities": {
+     "description": {
+      "user_mentions": [
+       {
+        "id_str": "",
+        "indices": [
+         17,
+         30
+        ],
+        "name": "",
+        "screen_name": "FantasyAlarm"
+       },
+       {
+        "id_str": "",
+        "indices": [
+         41,
+         50
+        ],
+        "name": "",
+        "screen_name": "SiriusXM"
+       },
+       {
+        "id_str": "",
+        "indices": [
+         56,
+         61
+        ],
+        "name": "",
+        "screen_name": "FSWA"
+       }
+      ]
+     },
+     "url": {
+      "urls": [
+       {
+        "display_url": "fantasyalarm.com/features/contr\u2026",
+        "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/1YtxZPU59i"
+       }
+      ]
+     }
     },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
+    "fastFollowersCount": 0,
+    "favouritesCount": 86283,
+    "geoEnabled": true,
+    "hasCustomTimelines": true,
+    "hasExtendedProfile": true,
+    "isTranslator": false,
+    "mediaCount": 10789,
+    "profileBackgroundColor": "C0DEED",
+    "statusesCount": 64151,
+    "translatorTypeEnum": "None",
+    "affiliatesHighlightedLabel": {},
+    "pinnedTweetIds": [
+     "2084046827205091662"
+    ]
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142057,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/XSwpEhDpiP",
-     "expanded_url": "https://x.com/Ihartitz/status/2118120611834933673/photo/1",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "ext_playlists": [],
-     "features": {
-      "large": {
-       "faces": []
-      }
-     },
-     "id_str": "2118119833078312960",
-     "indices": [
-      105,
-      128
-     ],
-     "media_key": "3_2118119833078312960",
-     "media_url_https": "https://pbs.twimg.com/media/HWUSxBJXsAAN_-V.png",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 410,
-        "w": 732,
-        "x": 0,
-        "y": 40
-       },
-       {
-        "h": 450,
-        "w": 450,
-        "x": 282,
-        "y": 0
-       },
-       {
-        "h": 450,
-        "w": 395,
-        "x": 332,
-        "y": 0
-       },
-       {
-        "h": 450,
-        "w": 225,
-        "x": 417,
-        "y": 0
-       },
-       {
-        "h": 450,
-        "w": 732,
-        "x": 0,
-        "y": 0
+   "extendedEntities": {
+    "media": [
+     {
+      "display_url": "pic.x.com/Qt6BTivlXc",
+      "expanded_url": "https://x.com/CoopAFiasco/status/1685783919977766912/photo/1",
+      "ext_master_playlist_only": [],
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "ext_playlists": [],
+      "features": {
+       "large": {
+        "faces": [
+         {
+          "h": 350,
+          "w": 350,
+          "x": 736,
+          "y": 732
+         }
+        ]
        }
+      },
+      "id_str": "1685783916257361921",
+      "indices": [
+       51,
+       74
       ],
-      "height": 450,
-      "width": 732
-     },
-     "sizes": {
-      "large": {
-       "h": 450,
-       "w": 732
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/XSwpEhDpiP"
-    }
-   ]
+      "media_key": "3_1685783916257361921",
+      "media_url_https": "https://pbs.twimg.com/media/F2UbikiWQAEicGL.jpg",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 860,
+         "w": 1536,
+         "x": 0,
+         "y": 440
+        },
+        {
+         "h": 1536,
+         "w": 1536,
+         "x": 0,
+         "y": 102
+        },
+        {
+         "h": 1751,
+         "w": 1536,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 2048,
+         "w": 1024,
+         "x": 460,
+         "y": 0
+        },
+        {
+         "h": 2048,
+         "w": 1536,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 2048,
+       "width": 1536
+      },
+      "sizes": {
+       "large": {
+        "h": 2048,
+        "w": 1536
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/Qt6BTivlXc"
+     }
+    ]
+   },
+   "card": {},
+   "place": {},
+   "entities": {}
   },
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
   "media": [
-   "https://pbs.twimg.com/media/HWUSxBJXsAAN_-V.png"
+   "https://pbs.twimg.com/media/HOwFizVWcAAP-c2.jpg"
   ],
   "videos": [],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2118115011616768144",
-  "url": "https://x.com/Ihartitz/status/2118115011616768144",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118115011616768144",
-  "text": "Lions PPR points allowed to tight ends this season:\n\nWeek 1: 27.7\nWeek 2: 31\nWeek 3: 41.4\nWeek 4: 13.6\nWeek 5: 45.8\nWeek 7: 16.7\nWeek 8: 19.2 https://t.co/ohYQAnnUkt",
-  "fullText": "Lions PPR points allowed to tight ends this season:\n\nWeek 1: 27.7\nWeek 2: 31\nWeek 3: 41.4\nWeek 4: 13.6\nWeek 5: 45.8\nWeek 7: 16.7\nWeek 8: 19.2 https://t.co/ohYQAnnUkt",
+  "id": "2118877116225749355",
+  "url": "https://x.com/CoopAFiasco/status/2118877116225749355",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2118877116225749355",
+  "text": "As someone who grew up going to the Providence Place and Emerald Square malls when there was nothing to do, this rule would have legit ruined my childhood https://t.co/u87s8zUuIB",
+  "fullText": "As someone who grew up going to the Providence Place and Emerald Square malls when there was nothing to do, this rule would have legit ruined my childhood https://t.co/u87s8zUuIB",
   "source": "",
   "retweetCount": 0,
   "replyCount": 4,
-  "likeCount": 24,
-  "quoteCount": 1,
-  "viewCount": 11892,
-  "createdAt": "Wed Nov 04 22:55:46 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 5,
-  "isReply": false,
-  "conversationId": "2118115011616768144",
-  "possiblySensitive": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142057,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/ohYQAnnUkt",
-     "expanded_url": "https://x.com/Ihartitz/status/2118115011616768144/photo/1",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "ext_playlists": [],
-     "features": {
-      "large": {
-       "faces": []
-      }
-     },
-     "id_str": "2118114496510058496",
-     "indices": [
-      142,
-      165
-     ],
-     "media_key": "3_2118114496510058496",
-     "media_url_https": "https://pbs.twimg.com/media/HWUN6Y4WYAAnDuU.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 602,
-        "w": 1075,
-        "x": 53,
-        "y": 0
-       },
-       {
-        "h": 602,
-        "w": 602,
-        "x": 515,
-        "y": 0
-       },
-       {
-        "h": 602,
-        "w": 528,
-        "x": 552,
-        "y": 0
-       },
-       {
-        "h": 602,
-        "w": 301,
-        "x": 666,
-        "y": 0
-       },
-       {
-        "h": 602,
-        "w": 1128,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 602,
-      "width": 1128
-     },
-     "sizes": {
-      "large": {
-       "h": 602,
-       "w": 1128
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/ohYQAnnUkt"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HWUN6Y4WYAAnDuU.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2118108868228345887",
-  "url": "https://x.com/Ihartitz/status/2118108868228345887",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118108868228345887",
-  "text": "The tight end NFL record for most consecutive games with a receiving touchdown is 9 by Antonio Gates\n\nThere's a five-way tie for second (6) between Travis Kelce, Rob Gronkowski, Jimmy Graham, Tony Gonzalez and Mark Andrews\n\nMike Gesicki has caught a touchdown in 5 straight games",
-  "fullText": "The tight end NFL record for most consecutive games with a receiving touchdown is 9 by Antonio Gates\n\nThere's a five-way tie for second (6) between Travis Kelce, Rob Gronkowski, Jimmy Graham, Tony Gonzalez and Mark Andrews\n\nMike Gesicki has caught a touchdown in 5 straight games",
-  "source": "",
-  "retweetCount": 0,
-  "replyCount": 0,
-  "likeCount": 46,
+  "likeCount": 26,
   "quoteCount": 0,
-  "viewCount": 10958,
-  "createdAt": "Wed Nov 04 22:31:21 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 2,
-  "isReply": false,
-  "conversationId": "2118108868228345887",
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142057,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2118105621191163993",
-  "url": "https://x.com/Ihartitz/status/2118105621191163993",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118105621191163993",
-  "text": "Most receiving yards allowed to opposing tight ends this season:\n1. Lions (684)\n2. Bengals (621)\n\nTouchdowns allowed to opposing tight ends this season:\n-Lions (11)\n-Bengals (0)",
-  "fullText": "Most receiving yards allowed to opposing tight ends this season:\n1. Lions (684)\n2. Bengals (621)\n\nTouchdowns allowed to opposing tight ends this season:\n-Lions (11)\n-Bengals (0)",
-  "source": "",
-  "retweetCount": 34,
-  "replyCount": 17,
-  "likeCount": 628,
-  "quoteCount": 6,
-  "viewCount": 42455,
-  "createdAt": "Wed Nov 04 22:18:27 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 35,
-  "isReply": false,
-  "conversationId": "2118105621191163993",
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142057,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2118101147701670233",
-  "url": "https://x.com/Ihartitz/status/2118101147701670233",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118101147701670233",
-  "text": "George Kittle is the only ethical high-end fantasy football tight end https://t.co/hlepbRMK82",
-  "fullText": "George Kittle is the only ethical high-end fantasy football tight end https://t.co/hlepbRMK82",
-  "source": "",
-  "retweetCount": 4,
-  "replyCount": 6,
-  "likeCount": 349,
-  "quoteCount": 0,
-  "viewCount": 25560,
-  "createdAt": "Wed Nov 04 22:00:40 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 11,
-  "isReply": false,
-  "conversationId": "2118101147701670233",
-  "possiblySensitive": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142057,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/hlepbRMK82",
-     "expanded_url": "https://x.com/Ihartitz/status/2118101147701670233/photo/1",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "ext_playlists": [],
-     "features": {
-      "large": {
-       "faces": []
-      }
-     },
-     "id_str": "2118101080907116545",
-     "indices": [
-      70,
-      93
-     ],
-     "media_key": "3_2118101080907116545",
-     "media_url_https": "https://pbs.twimg.com/media/HWUBtf3W8AEn7wC.png",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 448,
-        "w": 800,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 500,
-        "w": 500,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 500,
-        "w": 439,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 500,
-        "w": 250,
-        "x": 15,
-        "y": 0
-       },
-       {
-        "h": 500,
-        "w": 800,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 500,
-      "width": 800
-     },
-     "sizes": {
-      "large": {
-       "h": 500,
-       "w": 800
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/hlepbRMK82"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HWUBtf3W8AEn7wC.png"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2118098839387226387",
-  "url": "https://x.com/Ihartitz/status/2118098839387226387",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118098839387226387",
-  "text": "Colston Loveland PPR points per game:\n\nWeeks 1-5: 4.8 (TE37)\n\n*Caleb Williams returns*\n\nWeeks 6-8: 16.6 (TE3)",
-  "fullText": "Colston Loveland PPR points per game:\n\nWeeks 1-5: 4.8 (TE37)\n\n*Caleb Williams returns*\n\nWeeks 6-8: 16.6 (TE3)",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 2,
-  "likeCount": 495,
-  "quoteCount": 0,
-  "viewCount": 19776,
-  "createdAt": "Wed Nov 04 21:51:30 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "conversationId": "2118098839387226387",
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142057,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2118070354732314885",
-  "url": "https://x.com/Ihartitz/status/2118070354732314885",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118070354732314885",
-  "text": "Worst NFL defense in terms of completion percentage on passes thrown 20+ yards downfield this season:\n\nDolphins (56.3%) https://t.co/ZHZB30GEh1",
-  "fullText": "Worst NFL defense in terms of completion percentage on passes thrown 20+ yards downfield this season:\n\nDolphins (56.3%) https://t.co/ZHZB30GEh1",
-  "source": "",
-  "retweetCount": 8,
-  "replyCount": 0,
-  "likeCount": 319,
-  "quoteCount": 2,
-  "viewCount": 24604,
-  "createdAt": "Wed Nov 04 19:58:19 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 14,
-  "isReply": false,
-  "conversationId": "2118070354732314885",
-  "possiblySensitive": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142057,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/ZHZB30GEh1",
-     "expanded_url": "https://x.com/Ihartitz/status/2118070354732314885/photo/1",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "ext_playlists": [],
-     "features": {
-      "large": {
-       "faces": []
-      }
-     },
-     "id_str": "2118070081494134784",
-     "indices": [
-      120,
-      143
-     ],
-     "media_key": "3_2118070081494134784",
-     "media_url_https": "https://pbs.twimg.com/media/HWTlhGDXMAARHQb.png",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 223,
-        "w": 399,
-        "x": 0,
-        "y": 76
-       },
-       {
-        "h": 399,
-        "w": 399,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 455,
-        "w": 399,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 501,
-        "w": 251,
-        "x": 87,
-        "y": 0
-       },
-       {
-        "h": 501,
-        "w": 399,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 501,
-      "width": 399
-     },
-     "sizes": {
-      "large": {
-       "h": 501,
-       "w": 399
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/ZHZB30GEh1"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HWTlhGDXMAARHQb.png"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2118059755763548305",
-  "url": "https://x.com/Ihartitz/status/2118059755763548305",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118059755763548305",
-  "text": "I like how Keon Coleman and Khalil Shakir are both averaging exactly 9.5 PPR points per game while operating in completely opposite roles",
-  "fullText": "I like how Keon Coleman and Khalil Shakir are both averaging exactly 9.5 PPR points per game while operating in completely opposite roles",
-  "source": "",
-  "retweetCount": 0,
-  "replyCount": 3,
-  "likeCount": 68,
-  "quoteCount": 0,
-  "viewCount": 16139,
-  "createdAt": "Wed Nov 04 19:16:12 +0000 2026",
+  "viewCount": 3959,
+  "createdAt": "Sat Nov 07 01:24:05 +0000 2026",
   "lang": "en",
   "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2118059755763548305",
+  "conversationId": "2118877116225749355",
+  "possiblySensitive": false,
+  "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
    "advertiserAccountType": "promotable_user",
    "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
    "entities": {
     "description": {
      "user_mentions": [
       {
        "id_str": "",
        "indices": [
-        0,
-        9
+        17,
+        30
        ],
        "name": "",
-       "screen_name": "RotoWire"
+       "screen_name": "FantasyAlarm"
       },
       {
        "id_str": "",
        "indices": [
-        12,
-        20
+        41,
+        50
        ],
        "name": "",
-       "screen_name": "OddsJam"
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
       }
      ]
     },
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/1YtxZPU59i"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 142057,
+   "favouritesCount": 86283,
    "geoEnabled": true,
    "hasCustomTimelines": true,
    "hasExtendedProfile": true,
    "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
    "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/u87s8zUuIB",
+     "expanded_url": "https://x.com/CoopAFiasco/status/2118877116225749355/photo/1",
+     "ext_master_playlist_only": [],
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "ext_playlists": [],
+     "features": {
+      "large": {
+       "faces": []
+      }
+     },
+     "id_str": "2118877112396328960",
+     "indices": [
+      155,
+      178
+     ],
+     "media_key": "3_2118877112396328960",
+     "media_url_https": "https://pbs.twimg.com/media/HWfDgecWsAAq9nR.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 660,
+        "w": 1179,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1179,
+        "w": 1179,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1344,
+        "w": 1179,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1354,
+        "w": 677,
+        "x": 502,
+        "y": 0
+       },
+       {
+        "h": 1354,
+        "w": 1179,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1354,
+      "width": 1179
+     },
+     "sizes": {
+      "large": {
+       "h": 1354,
+       "w": 1179
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/u87s8zUuIB"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HWfDgecWsAAq9nR.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2118765603213262942",
+  "url": "https://x.com/CoopAFiasco/status/2118765603213262942",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2118765603213262942",
+  "text": "The BEST Week 9 Fantasy Football Plays with guest Tyler Orginski! https://t.co/PpqbpabhHH",
+  "fullText": "The BEST Week 9 Fantasy Football Plays with guest Tyler Orginski! https://t.co/PpqbpabhHH",
+  "source": "",
+  "retweetCount": 2,
+  "replyCount": 1,
+  "likeCount": 6,
+  "quoteCount": 0,
+  "viewCount": 1793,
+  "createdAt": "Fri Nov 06 18:00:59 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2118765603213262942",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        17,
+        30
+       ],
+       "name": "",
+       "screen_name": "FantasyAlarm"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        41,
+        50
+       ],
+       "name": "",
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/1YtxZPU59i"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 86283,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
-  "entities": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/i/broadcasts/2\u2026",
+     "expanded_url": "https://x.com/i/broadcasts/2OdXEpAzrNbapP",
+     "indices": [
+      66,
+      89
+     ],
+     "url": "https://t.co/PpqbpabhHH"
+    }
+   ]
+  },
   "isRetweet": false,
   "isQuote": false,
   "media": [],
@@ -1247,97 +696,1462 @@
  },
  {
   "type": "tweet",
-  "id": "2118058738049507582",
-  "url": "https://x.com/Ihartitz/status/2118058738049507582",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2118058738049507582",
-  "text": "Ryan Flournoy is the PPR WR16 since Week 5 and has more fantasy points than Drake London, Michael Wilson and Garrett Wilson in the same number of games",
-  "fullText": "Ryan Flournoy is the PPR WR16 since Week 5 and has more fantasy points than Drake London, Michael Wilson and Garrett Wilson in the same number of games",
+  "id": "2118762908603527185",
+  "url": "https://x.com/CoopAFiasco/status/2118762908603527185",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2118762908603527185",
+  "text": "RT @FFTylerO: Lots of juicy talk about this week 9 slate incoming",
+  "fullText": "RT @FFTylerO: Lots of juicy talk about this week 9 slate incoming",
   "source": "",
-  "retweetCount": 10,
-  "replyCount": 7,
-  "likeCount": 464,
+  "retweetCount": 2,
+  "replyCount": 0,
+  "likeCount": 6,
   "quoteCount": 0,
-  "viewCount": 37681,
-  "createdAt": "Wed Nov 04 19:12:09 +0000 2026",
+  "viewCount": 1646,
+  "createdAt": "Fri Nov 06 17:50:16 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 16,
+  "quoteId": "2118758778300412340",
+  "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2118058738049507582",
+  "conversationId": "2118762908603527185",
+  "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 239590,
-   "following": 1579,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
    "protected": false,
    "status": "",
    "canDm": true,
    "canMediaTag": true,
    "advertiserAccountType": "promotable_user",
    "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
    "entities": {
     "description": {
      "user_mentions": [
       {
        "id_str": "",
        "indices": [
-        0,
-        9
+        17,
+        30
        ],
        "name": "",
-       "screen_name": "RotoWire"
+       "screen_name": "FantasyAlarm"
       },
       {
        "id_str": "",
        "indices": [
-        12,
-        20
+        41,
+        50
        ],
        "name": "",
-       "screen_name": "OddsJam"
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
       }
      ]
     },
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/1YtxZPU59i"
       }
      ]
     }
    },
    "fastFollowersCount": 0,
-   "favouritesCount": 142057,
+   "favouritesCount": 86283,
    "geoEnabled": true,
    "hasCustomTimelines": true,
    "hasExtendedProfile": true,
    "isTranslator": false,
-   "mediaCount": 19141,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 85783,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
    "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "user_mentions": [
+    {
+     "id_str": "856747490",
+     "indices": [
+      3,
+      12
+     ],
+     "name": "Tyler O",
+     "screen_name": "FFTylerO"
+    }
+   ]
+  },
+  "isRetweet": true,
+  "retweet": {
+   "type": "tweet",
+   "id": "2118760304951877795",
+   "text": "Lots of juicy talk about this week 9 slate incoming",
+   "source": "",
+   "retweetCount": 2,
+   "replyCount": 0,
+   "likeCount": 6,
+   "quoteCount": 0,
+   "viewCount": 1646,
+   "createdAt": "Fri Nov 06 17:39:56 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 0,
+   "author": {
+    "type": "user",
+    "userName": "FFTylerO",
+    "url": "https://x.com/FFTylerO",
+    "twitterUrl": "https://twitter.com/FFTylerO",
+    "id": "856747490",
+    "name": "Tyler O",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1540492273938464769/1sYAUMCz_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/856747490/1760561666",
+    "description": "Content @FTNFantasy | 4x Top 10 finish @FantasyPros Accuracy Contest - 1st in 2024 | Opinions are mine",
+    "location": "Philadelphia via Michigan",
+    "followers": 7448,
+    "following": 1746,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": false,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "enabled",
+    "createdAt": "Mon Oct 01 17:42:07 +0000 2012",
+    "entities": {
+     "description": {
+      "user_mentions": [
+       {
+        "id_str": "",
+        "indices": [
+         8,
+         19
+        ],
+        "name": "",
+        "screen_name": "FTNFantasy"
+       },
+       {
+        "id_str": "",
+        "indices": [
+         39,
+         51
+        ],
+        "name": "",
+        "screen_name": "FantasyPros"
+       }
+      ]
+     },
+     "url": {
+      "urls": [
+       {
+        "display_url": "ftnfantasy.com",
+        "expanded_url": "http://ftnfantasy.com",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/1IUNgn7Sqf"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 45528,
+    "geoEnabled": true,
+    "hasCustomTimelines": true,
+    "hasExtendedProfile": true,
+    "isTranslator": false,
+    "mediaCount": 1732,
+    "profileBackgroundColor": "C0DEED",
+    "statusesCount": 24512,
+    "translatorTypeEnum": "None",
+    "affiliatesHighlightedLabel": {}
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2118758778300412340",
+  "url": "https://x.com/CoopAFiasco/status/2118758778300412340",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2118758778300412340",
+  "text": "One of my absolute favorites, @FFTylerO, is joining me today at 1 PM ET to cover the slate and make an @FFPC Weekly Challenge lineup.\n\nWhat an absolute treat - see you at 1 PM ET!\n\nhttps://t.co/4ukDUpeOfR",
+  "fullText": "One of my absolute favorites, @FFTylerO, is joining me today at 1 PM ET to cover the slate and make an @FFPC Weekly Challenge lineup.\n\nWhat an absolute treat - see you at 1 PM ET!\n\nhttps://t.co/4ukDUpeOfR",
+  "source": "",
+  "retweetCount": 2,
+  "replyCount": 0,
+  "likeCount": 9,
+  "quoteCount": 1,
+  "viewCount": 3191,
+  "createdAt": "Fri Nov 06 17:33:52 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2118758778300412340",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        17,
+        30
+       ],
+       "name": "",
+       "screen_name": "FantasyAlarm"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        41,
+        50
+       ],
+       "name": "",
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/1YtxZPU59i"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 86283,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "youtube.com/watch?v=XlpqcH\u2026",
+     "expanded_url": "https://www.youtube.com/watch?v=XlpqcHJFQeo",
+     "indices": [
+      181,
+      204
+     ],
+     "url": "https://t.co/4ukDUpeOfR"
+    }
+   ],
+   "user_mentions": [
+    {
+     "id_str": "856747490",
+     "indices": [
+      30,
+      39
+     ],
+     "name": "Tyler O",
+     "screen_name": "FFTylerO"
+    },
+    {
+     "id_str": "26636713",
+     "indices": [
+      103,
+      108
+     ],
+     "name": "The FFPC",
+     "screen_name": "FFPC"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2118730390634418437",
+  "url": "https://x.com/CoopAFiasco/status/2118730390634418437",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2118730390634418437",
+  "text": "Wow this TreVeyon Henderson situation sounds scary. Hopefully he makes a full recovery.",
+  "fullText": "Wow this TreVeyon Henderson situation sounds scary. Hopefully he makes a full recovery.",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 3,
+  "likeCount": 39,
+  "quoteCount": 0,
+  "viewCount": 6228,
+  "createdAt": "Fri Nov 06 15:41:03 +0000 2026",
+  "lang": "en",
+  "quoteId": "2118726881679978736",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2118730390634418437",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        17,
+        30
+       ],
+       "name": "",
+       "screen_name": "FantasyAlarm"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        41,
+        50
+       ],
+       "name": "",
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/1YtxZPU59i"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 86283,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
   "entities": {},
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "2118726881679978736",
+   "text": "\ud83d\ude4f\ud83c\udffd https://t.co/l52XuixPOc",
+   "source": "",
+   "retweetCount": 2365,
+   "replyCount": 2250,
+   "likeCount": 48241,
+   "quoteCount": 772,
+   "viewCount": 7936898,
+   "createdAt": "Fri Nov 06 15:27:07 +0000 2026",
+   "lang": "qme",
+   "bookmarkCount": 1912,
+   "possiblySensitive": false,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "TreVeyonH4",
+    "url": "https://x.com/TreVeyonH4",
+    "twitterUrl": "https://twitter.com/TreVeyonH4",
+    "id": "730535641352704000",
+    "name": "TreVeyon Henderson",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2083928002354634752/BiZBLxO6_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/730535641352704000/1697381942",
+    "description": "Jesus Saved My Life | Husband | Football Is What I Do, A Child Of God Is Who I Am",
+    "location": "",
+    "followers": 131023,
+    "following": 347,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "disabled",
+    "createdAt": "Wed May 11 23:10:44 +0000 2016",
+    "entities": {
+     "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4239,
+    "geoEnabled": false,
+    "hasCustomTimelines": false,
+    "hasExtendedProfile": true,
+    "isTranslator": false,
+    "mediaCount": 73,
+    "profileBackgroundColor": "F5F8FA",
+    "statusesCount": 2861,
+    "translatorTypeEnum": "None",
+    "affiliatesHighlightedLabel": {},
+    "pinnedTweetIds": [
+     "1818686774870184406"
+    ]
+   },
+   "extendedEntities": {
+    "media": [
+     {
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/l52XuixPOc",
+      "expanded_url": "https://x.com/TreVeyonH4/status/2118726881679978736/photo/1",
+      "ext_master_playlist_only": [],
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "ext_playlists": [],
+      "features": {
+       "large": {
+        "faces": [
+         {
+          "h": 75,
+          "w": 75,
+          "x": 457,
+          "y": 579
+         }
+        ]
+       }
+      },
+      "id_str": "2118726876927545346",
+      "indices": [
+       3,
+       26
+      ],
+      "media_key": "3_2118726876927545346",
+      "media_url_https": "https://pbs.twimg.com/media/HWc63ntW0AIh5fx.jpg",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 628,
+         "w": 1122,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 1122,
+         "w": 1122,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 1279,
+         "w": 1122,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 1402,
+         "w": 701,
+         "x": 211,
+         "y": 0
+        },
+        {
+         "h": 1402,
+         "w": 1122,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 1402,
+       "width": 1122
+      },
+      "sizes": {
+       "large": {
+        "h": 1402,
+        "w": 1122
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/l52XuixPOc"
+     }
+    ]
+   },
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2118707489583579487",
+  "url": "https://x.com/CoopAFiasco/status/2118707489583579487",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2118707489583579487",
+  "text": "RT @FrontYardFYF: Show starts at 9:15am ET.\n\nTE Tickler @CoopAFiasco joins us in the 2nd half. \n\nhttps://t.co/ib5hfamxcb https://t.co/H3jxt\u2026",
+  "fullText": "RT @FrontYardFYF: Show starts at 9:15am ET.\n\nTE Tickler @CoopAFiasco joins us in the 2nd half. \n\nhttps://t.co/ib5hfamxcb https://t.co/H3jxt\u2026",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 1074,
+  "createdAt": "Fri Nov 06 14:10:03 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2118707489583579487",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        17,
+        30
+       ],
+       "name": "",
+       "screen_name": "FantasyAlarm"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        41,
+        50
+       ],
+       "name": "",
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/1YtxZPU59i"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 86283,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "youtube.com/@fyf/live",
+     "expanded_url": "https://youtube.com/@fyf/live",
+     "indices": [
+      97,
+      120
+     ],
+     "url": "https://t.co/ib5hfamxcb"
+    },
+    {
+     "display_url": "t.co/H3jxt",
+     "indices": [
+      121,
+      139
+     ],
+     "url": "https://t.co/H3jxt"
+    }
+   ],
+   "user_mentions": [
+    {
+     "id_str": "965950701431029761",
+     "indices": [
+      3,
+      16
+     ],
+     "name": "Front Yard Fantasy",
+     "screen_name": "FrontYardFYF"
+    },
+    {
+     "id_str": "35915798",
+     "indices": [
+      56,
+      68
+     ],
+     "name": "Andrew Cooper",
+     "screen_name": "CoopAFiasco"
+    }
+   ]
+  },
+  "isRetweet": true,
+  "retweet": {
+   "type": "tweet",
+   "id": "2118690110547914919",
+   "text": "Show starts at 9:15am ET.\n\nTE Tickler @CoopAFiasco joins us in the 2nd half. \n\nhttps://t.co/ib5hfamxcb https://t.co/H3jxtY2RkN",
+   "source": "",
+   "retweetCount": 1,
+   "replyCount": 0,
+   "likeCount": 2,
+   "quoteCount": 0,
+   "viewCount": 1074,
+   "createdAt": "Fri Nov 06 13:01:00 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 0,
+   "possiblySensitive": false,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "FrontYardFYF",
+    "url": "https://x.com/FrontYardFYF",
+    "twitterUrl": "https://twitter.com/FrontYardFYF",
+    "id": "965950701431029761",
+    "name": "Front Yard Fantasy",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1680939696124317697/d2l3t0n1_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/965950701431029761/1689602229",
+    "description": "Fantasy Football for Moms. Live streams every business day.",
+    "location": "",
+    "followers": 2434,
+    "following": 723,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "disabled",
+    "createdAt": "Tue Feb 20 14:06:08 +0000 2018",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "jobs.frontyardfantasy.com",
+        "expanded_url": "http://jobs.frontyardfantasy.com",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/Ha403WHQTB"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2916,
+    "geoEnabled": true,
+    "hasCustomTimelines": true,
+    "hasExtendedProfile": false,
+    "isTranslator": false,
+    "mediaCount": 2425,
+    "profileBackgroundColor": "000000",
+    "statusesCount": 4204,
+    "translatorTypeEnum": "None",
+    "affiliatesHighlightedLabel": {},
+    "pinnedTweetIds": [
+     "2091921846954275302"
+    ]
+   },
+   "extendedEntities": {
+    "media": [
+     {
+      "display_url": "pic.x.com/H3jxtY2RkN",
+      "expanded_url": "https://x.com/FrontYardFYF/status/2118690110547914919/photo/1",
+      "ext_master_playlist_only": [],
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "ext_playlists": [],
+      "features": {
+       "large": {
+        "faces": []
+       }
+      },
+      "id_str": "2118474924020899840",
+      "indices": [
+       103,
+       126
+      ],
+      "media_key": "3_2118474924020899840",
+      "media_url_https": "https://pbs.twimg.com/media/HWZVuB_WoAAsHhe.jpg",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 717,
+         "w": 1280,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 720,
+         "w": 720,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 720,
+         "w": 632,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 720,
+         "w": 360,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 720,
+         "w": 1280,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 720,
+       "width": 1280
+      },
+      "sizes": {
+       "large": {
+        "h": 720,
+        "w": 1280
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/H3jxtY2RkN"
+     }
+    ]
+   },
+   "card": {},
+   "place": {},
+   "entities": {
+    "urls": [
+     {
+      "display_url": "youtube.com/@fyf/live",
+      "expanded_url": "https://youtube.com/@fyf/live",
+      "indices": [
+       79,
+       102
+      ],
+      "url": "https://t.co/ib5hfamxcb"
+     }
+    ],
+    "user_mentions": [
+     {
+      "id_str": "35915798",
+      "indices": [
+       38,
+       50
+      ],
+      "name": "Andrew Cooper",
+      "screen_name": "CoopAFiasco"
+     }
+    ]
+   }
+  },
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2118503276878422200",
+  "url": "https://x.com/CoopAFiasco/status/2118503276878422200",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2118503276878422200",
+  "text": "Matt Hibner (4th Round)\nJosh Cuevas (5th Round)\n\nDoes history repeat itself with the classic Ravens tight end double tap switcharoo? The stage is set!",
+  "fullText": "Matt Hibner (4th Round)\nJosh Cuevas (5th Round)\n\nDoes history repeat itself with the classic Ravens tight end double tap switcharoo? The stage is set!",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 5,
+  "likeCount": 20,
+  "quoteCount": 0,
+  "viewCount": 11300,
+  "createdAt": "Fri Nov 06 00:38:35 +0000 2026",
+  "lang": "en",
+  "quoteId": "1912597687951560920",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2118503276878422200",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        17,
+        30
+       ],
+       "name": "",
+       "screen_name": "FantasyAlarm"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        41,
+        50
+       ],
+       "name": "",
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/1YtxZPU59i"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 86283,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "1912597687951560920",
+   "text": "Here's a crazy NFL Draft stat\n\nThe Baltimore Ravens have \"double-tapped\" the tight end position four times over the last 15 years. In all four instances, the second TE drafted has been more productive. https://t.co/u6MVJgPxZT",
+   "source": "",
+   "retweetCount": 8,
+   "replyCount": 13,
+   "likeCount": 165,
+   "quoteCount": 5,
+   "viewCount": 81495,
+   "createdAt": "Wed Apr 16 20:03:17 +0000 2025",
+   "lang": "en",
+   "bookmarkCount": 12,
+   "possiblySensitive": false,
+   "isPinned": false,
+   "author": {
+    "type": "user",
+    "userName": "CoopAFiasco",
+    "url": "https://x.com/CoopAFiasco",
+    "twitterUrl": "https://twitter.com/CoopAFiasco",
+    "id": "35915798",
+    "name": "Andrew Cooper",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+    "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+    "location": "Yin & Yang Tight End",
+    "followers": 28789,
+    "following": 1129,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "advertiserAccountType": "promotable_user",
+    "analyticsType": "enabled",
+    "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+    "entities": {
+     "description": {
+      "user_mentions": [
+       {
+        "id_str": "",
+        "indices": [
+         17,
+         30
+        ],
+        "name": "",
+        "screen_name": "FantasyAlarm"
+       },
+       {
+        "id_str": "",
+        "indices": [
+         41,
+         50
+        ],
+        "name": "",
+        "screen_name": "SiriusXM"
+       },
+       {
+        "id_str": "",
+        "indices": [
+         56,
+         61
+        ],
+        "name": "",
+        "screen_name": "FSWA"
+       }
+      ]
+     },
+     "url": {
+      "urls": [
+       {
+        "display_url": "fantasyalarm.com/features/contr\u2026",
+        "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/1YtxZPU59i"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 86283,
+    "geoEnabled": true,
+    "hasCustomTimelines": true,
+    "hasExtendedProfile": true,
+    "isTranslator": false,
+    "mediaCount": 10789,
+    "profileBackgroundColor": "C0DEED",
+    "statusesCount": 64151,
+    "translatorTypeEnum": "None",
+    "affiliatesHighlightedLabel": {},
+    "pinnedTweetIds": [
+     "2084046827205091662"
+    ]
+   },
+   "extendedEntities": {
+    "media": [
+     {
+      "allow_download_status": {
+       "allow_download": true
+      },
+      "display_url": "pic.x.com/u6MVJgPxZT",
+      "expanded_url": "https://x.com/CoopAFiasco/status/1912597687951560920/photo/1",
+      "ext_master_playlist_only": [],
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "ext_playlists": [],
+      "features": {
+       "large": {
+        "faces": []
+       }
+      },
+      "id_str": "1912597683539234820",
+      "indices": [
+       202,
+       225
+      ],
+      "media_key": "3_1912597683539234820",
+      "media_url_https": "https://pbs.twimg.com/media/GorpdbWXUAQA7Fa.png",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 225,
+         "w": 401,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 246,
+         "w": 246,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 246,
+         "w": 216,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 246,
+         "w": 123,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 246,
+         "w": 401,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 246,
+       "width": 401
+      },
+      "sizes": {
+       "large": {
+        "h": 246,
+        "w": 401
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/u6MVJgPxZT"
+     }
+    ]
+   },
+   "card": {},
+   "place": {},
+   "entities": {}
+  },
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2118453670350090602",
+  "url": "https://x.com/CoopAFiasco/status/2118453670350090602",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2118453670350090602",
+  "text": "Last year, I wrote a full tight end rankings article each week. This year, I figured it would be easier to just post the list but I was actually doing MORE writing in the Reddit comments than the article took.\n\nSo guess what? The full article is back.\n\nhttps://t.co/Oj7bYkImGX",
+  "fullText": "Last year, I wrote a full tight end rankings article each week. This year, I figured it would be easier to just post the list but I was actually doing MORE writing in the Reddit comments than the article took.\n\nSo guess what? The full article is back.\n\nhttps://t.co/Oj7bYkImGX",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 0,
+  "likeCount": 14,
+  "quoteCount": 0,
+  "viewCount": 2958,
+  "createdAt": "Thu Nov 05 21:21:28 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2118453670350090602",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        17,
+        30
+       ],
+       "name": "",
+       "screen_name": "FantasyAlarm"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        41,
+        50
+       ],
+       "name": "",
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/1YtxZPU59i"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 86283,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "fantasyalarm.com/articles/nfl/f\u2026",
+     "expanded_url": "https://www.fantasyalarm.com/articles/nfl/fantasy-football-tight-end/fantasy-football-week-9-tight-end-rankings-2026/198321",
+     "indices": [
+      253,
+      276
+     ],
+     "url": "https://t.co/Oj7bYkImGX"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2118403478410215455",
+  "url": "https://x.com/CoopAFiasco/status/2118403478410215455",
+  "twitterUrl": "https://twitter.com/CoopAFiasco/status/2118403478410215455",
+  "text": "Week 9 NFL DFS Picks, Props, and YOUR Start/Sit Questions! https://t.co/qvabYxH7eV",
+  "fullText": "Week 9 NFL DFS Picks, Props, and YOUR Start/Sit Questions! https://t.co/qvabYxH7eV",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 2,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 1842,
+  "createdAt": "Thu Nov 05 18:02:01 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2118403478410215455",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "CoopAFiasco",
+   "url": "https://x.com/CoopAFiasco",
+   "twitterUrl": "https://twitter.com/CoopAFiasco",
+   "id": "35915798",
+   "name": "Andrew Cooper",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1645835524307812380/AgdWZGKk_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/35915798/1769809621",
+   "description": "Lead NFL Analyst @FantasyAlarm | Host on @SiriusXM | 4X @FSWA Award Winner",
+   "location": "Yin & Yang Tight End",
+   "followers": 28789,
+   "following": 1129,
+   "protected": false,
+   "status": "",
+   "canDm": true,
+   "canMediaTag": true,
+   "advertiserAccountType": "promotable_user",
+   "analyticsType": "enabled",
+   "createdAt": "Tue Apr 28 00:06:21 +0000 2009",
+   "entities": {
+    "description": {
+     "user_mentions": [
+      {
+       "id_str": "",
+       "indices": [
+        17,
+        30
+       ],
+       "name": "",
+       "screen_name": "FantasyAlarm"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        41,
+        50
+       ],
+       "name": "",
+       "screen_name": "SiriusXM"
+      },
+      {
+       "id_str": "",
+       "indices": [
+        56,
+        61
+       ],
+       "name": "",
+       "screen_name": "FSWA"
+      }
+     ]
+    },
+    "url": {
+     "urls": [
+      {
+       "display_url": "fantasyalarm.com/features/contr\u2026",
+       "expanded_url": "https://www.fantasyalarm.com/features/contributor/AndrewCooper",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/1YtxZPU59i"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 86283,
+   "geoEnabled": true,
+   "hasCustomTimelines": true,
+   "hasExtendedProfile": true,
+   "isTranslator": false,
+   "mediaCount": 10789,
+   "profileBackgroundColor": "C0DEED",
+   "statusesCount": 64151,
+   "translatorTypeEnum": "None",
+   "affiliatesHighlightedLabel": {},
+   "pinnedTweetIds": [
+    "2084046827205091662"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/i/broadcasts/2\u2026",
+     "expanded_url": "https://x.com/i/broadcasts/2EmrWNnznKYPPV",
+     "indices": [
+      59,
+      82
+     ],
+     "url": "https://t.co/qvabYxH7eV"
+    }
+   ]
+  },
   "isRetweet": false,
   "isQuote": false,
   "media": [],

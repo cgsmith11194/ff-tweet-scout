@@ -1,0 +1,111 @@
+{
+ "generated_at": "2026-11-08T15:01:27.629724+00:00",
+ "window": {
+  "since": "2026-11-08",
+  "until": "2026-11-09",
+  "days": 0.292
+ },
+ "counts": {
+  "raw": 570,
+  "unique": 29,
+  "kept": 19,
+  "kills": {
+   "out_of_window": 541,
+   "low_score": 9,
+   "reply": 1
+  }
+ },
+ "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
+ "rejects": [
+  {
+   "id": "2119401905600524553",
+   "url": "https://x.com/UnderdogNFL/status/2119401905600524553",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.3,
+   "likes": 63,
+   "text": "Rap: Jaylen Wright (quad) won't play Week 9."
+  },
+  {
+   "id": "2119400061368959105",
+   "url": "https://x.com/UnderdogNFL/status/2119400061368959105",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.2,
+   "likes": 762,
+   "text": "Rapoport: Lamar Jackson (thumb) has told teammates he plans to return this season."
+  },
+  {
+   "id": "2119442577011151061",
+   "url": "https://x.com/Ihartitz/status/2119442577011151061",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 16.9,
+   "likes": 124,
+   "text": "Ja\u2019Marr Chase on AJ Terrell crime https://t.co/Z4KkYCxJg0"
+  },
+  {
+   "id": "2119443242202857495",
+   "url": "https://x.com/Ihartitz/status/2119443242202857495",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.4,
+   "likes": 69,
+   "text": "Chop wood, carry water https://t.co/x4KdBmfNsK"
+  },
+  {
+   "id": "2119419561250582986",
+   "url": "https://x.com/SmolaDS/status/2119419561250582986",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 18,
+   "text": "Updated implied totals https://t.co/WYQLxvLWFx"
+  },
+  {
+   "id": "2119415148620247338",
+   "url": "https://x.com/Bengals/status/2119415148620247338",
+   "handle": "Bengals",
+   "reason": "low_score(analysis_hype)",
+   "score": 3.7,
+   "likes": 204,
+   "text": "Inactives for #CINatATL https://t.co/LyxJyOK2Md"
+  },
+  {
+   "id": "2119415667774431561",
+   "url": "https://x.com/AtlantaFalcons/status/2119415667774431561",
+   "handle": "AtlantaFalcons",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.9,
+   "likes": 113,
+   "text": "Full list of today\u2019s inactives\n\nhttps://t.co/4U3rcV5efz https://t.co/YfuFBkew5S"
+  },
+  {
+   "id": "2119415266320748874",
+   "url": "https://x.com/pauldehnerjr/status/2119415266320748874",
+   "handle": "pauldehnerjr",
+   "reason": "low_score(analysis_hype)",
+   "score": 2.9,
+   "likes": 65,
+   "text": "DE Cedric Johnson (ankle) is active for the #Bengals. \n\nInactives: \nS Kyle Dugger \nC Connor Lew\nOT Myles Hinton\nDT Landon Robinson"
+  },
+  {
+   "id": "2119438007501774981",
+   "url": "https://x.com/MySportsUpdate/status/2119438007501774981",
+   "handle": "MySportsUpdate",
+   "reason": "low_score(cold_water)",
+   "score": 17.4,
+   "likes": 205,
+   "text": "Is anyone else having struggles to watch NFL Network on @YouTubeTV to watch Bengals-Falcons right now?"
+  },
+  {
+   "id": "2119442634636689649",
+   "url": "https://x.com/MySportsUpdate/status/2119442634636689649",
+   "handle": "MySportsUpdate",
+   "reason": "reply",
+   "score": null,
+   "likes": 14,
+   "text": "If anyone else is having an issue: Put it on multi-view and it\u2019ll work. \n\n(Thank you comment section)"
+  }
+ ]
+}
