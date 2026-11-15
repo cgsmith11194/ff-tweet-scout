@@ -1,1252 +1,81 @@
 [
  {
   "type": "tweet",
-  "id": "2122050945349537985",
-  "url": "https://x.com/Ihartitz/status/2122050945349537985",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122050945349537985",
-  "text": "Colts traded Josh Downs and Keenan Allen ... and Tyler Warren has 0 targets at halftime",
-  "fullText": "Colts traded Josh Downs and Keenan Allen ... and Tyler Warren has 0 targets at halftime",
-  "source": "",
-  "retweetCount": 8,
-  "replyCount": 10,
-  "likeCount": 201,
-  "quoteCount": 4,
-  "viewCount": 13656,
-  "createdAt": "Sun Nov 15 19:35:45 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 3,
-  "isReply": false,
-  "conversationId": "2122050945349537985",
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122049881191661748",
-  "url": "https://x.com/Ihartitz/status/2122049881191661748",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122049881191661748",
-  "text": "Parker Washington this season:\n\nFirst half of games: 103 fantasy points (WR2 behind only Jaxon Smith-Njigba!)\n\nSecond half of games: 29.2 (WR61)",
-  "fullText": "Parker Washington this season:\n\nFirst half of games: 103 fantasy points (WR2 behind only Jaxon Smith-Njigba!)\n\nSecond half of games: 29.2 (WR61)",
-  "source": "",
-  "retweetCount": 4,
-  "replyCount": 4,
-  "likeCount": 163,
-  "quoteCount": 0,
-  "viewCount": 12126,
-  "createdAt": "Sun Nov 15 19:31:32 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 6,
-  "isReply": false,
-  "conversationId": "2122049881191661748",
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122049240025407874",
-  "url": "https://x.com/Ihartitz/status/2122049240025407874",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122049240025407874",
-  "text": "Geno Smith just got jacked up\n\n https://t.co/7yXRSgkiBI",
-  "fullText": "Geno Smith just got jacked up\n\n https://t.co/7yXRSgkiBI",
-  "source": "",
-  "retweetCount": 9,
-  "replyCount": 13,
-  "likeCount": 82,
-  "quoteCount": 4,
-  "viewCount": 20473,
-  "createdAt": "Sun Nov 15 19:28:59 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 5,
-  "isReply": false,
-  "conversationId": "2122049240025407874",
-  "possiblySensitive": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "additional_media_info": {
-      "graphql_source_user": {
-       "user_results": {
-        "result": {
-         "__typename": "User",
-         "affiliates_highlighted_label": {
-          "label": {
-           "badge": {
-            "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-           },
-           "description": "Underdog",
-           "url": {
-            "url": "https://twitter.com/Underdog",
-            "urlType": "DeepLink"
-           },
-           "userLabelDisplayType": "Badge",
-           "userLabelType": "BusinessLabel"
-          }
-         },
-         "exclusive_tweet_following": false,
-         "is_blue_verified": true,
-         "legacy": {
-          "advertiser_account_service_levels": [
-           "smb"
-          ],
-          "advertiser_account_type": "promotable_user",
-          "analytics_type": "disabled",
-          "blocked_by": false,
-          "blocking": false,
-          "can_dm": true,
-          "can_media_tag": true,
-          "created_at": "Thu Sep 15 15:53:12 +0000 2022",
-          "customer_service_state": "",
-          "description": "NFL Reporter @UnderdogNFL | @TheSaintsWire (USA TODAY) + @BengalsTalkSI (Sports Illustrated) | @PFWAWriters | \nNews/tips: DM or email apulli.tsp@gmail.com",
-          "entities": {
-           "description": {
-            "user_mentions": [
-             {
-              "id_str": "",
-              "indices": [
-               13,
-               25
-              ],
-              "name": "",
-              "screen_name": "UnderdogNFL"
-             },
-             {
-              "id_str": "",
-              "indices": [
-               28,
-               42
-              ],
-              "name": "",
-              "screen_name": "TheSaintsWire"
-             },
-             {
-              "id_str": "",
-              "indices": [
-               57,
-               71
-              ],
-              "name": "",
-              "screen_name": "BengalsTalkSI"
-             },
-             {
-              "id_str": "",
-              "indices": [
-               95,
-               107
-              ],
-              "name": "",
-              "screen_name": "PFWAWriters"
-             }
-            ]
-           },
-           "url": {
-            "urls": [
-             {
-              "display_url": "link.me/aryepulli",
-              "expanded_url": "https://link.me/aryepulli",
-              "indices": [
-               0,
-               23
-              ],
-              "url": "https://t.co/IJOtFwoNNB"
-             }
-            ]
-           }
-          },
-          "fast_followers_count": 0,
-          "favourites_count": 14004,
-          "follow_request_sent": false,
-          "followed_by": false,
-          "followers_count": 11621,
-          "following": false,
-          "friends_count": 5712,
-          "geo_enabled": false,
-          "has_custom_timelines": true,
-          "has_extended_profile": true,
-          "has_no_screen_name": false,
-          "id_str": "1570440574070669313",
-          "is_lifeline_institution": false,
-          "is_translator": false,
-          "live_following": false,
-          "location": "New York",
-          "media_count": 9118,
-          "muting": false,
-          "name": "Arye Pulli",
-          "needs_phone_verification": false,
-          "normal_followers_count": 11621,
-          "notifications": false,
-          "pinned_tweet_ids_str": [
-           "2020224927475921033"
-          ],
-          "profile_background_color": "F5F8FA",
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570440574070669313/1735500793",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1974234137947938816/C4uKoqCO_normal.jpg",
-          "profile_interstitial_type": "",
-          "profile_link_color": "1DA1F2",
-          "protected": false,
-          "screen_name": "AryePulliNFL",
-          "statuses_count": 15889,
-          "suspended": false,
-          "translator_type_enum": "None",
-          "url": "https://t.co/IJOtFwoNNB",
-          "verified": false,
-          "want_retweets": false,
-          "withheld_copyright": false,
-          "withheld_description": "",
-          "withheld_scope": ""
-         },
-         "parody_commentary_fan_label": "None",
-         "private_super_following": false,
-         "profile_image_shape": "Circle",
-         "rest_id": "1570440574070669313",
-         "super_follow_eligible": false,
-         "super_followed_by": false,
-         "super_following": false
-        }
-       }
-      },
-      "monetizable": false
-     },
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/7yXRSgkiBI",
-     "expanded_url": "https://x.com/AryePulliNFL/status/2122048718950285810/video/1",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "ext_playlists": [],
-     "id_str": "2122048673332723712",
-     "indices": [
-      32,
-      55
-     ],
-     "media_key": "13_2122048673332723712",
-     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2122048673332723712/img/w4LxnXueEf3QjKgY.jpg",
-     "original_info": {
-      "focus_rects": [],
-      "height": 1080,
-      "width": 1920
-     },
-     "sizes": {
-      "large": {
-       "h": 1080,
-       "w": 1920
-      }
-     },
-     "source_status_id_str": "2122048718950285810",
-     "source_user_id_str": "1570440574070669313",
-     "type": "video",
-     "url": "https://t.co/7yXRSgkiBI",
-     "video_info": {
-      "aspect_ratio": [
-       16,
-       9
-      ],
-      "duration_millis": 6389,
-      "variants": [
-       {
-        "content_type": "application/x-mpegURL",
-        "url": "https://video.twimg.com/amplify_video/2122048673332723712/pl/QcDxMSNpEexsNNWB.m3u8"
-       },
-       {
-        "bitrate": 256000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122048673332723712/vid/avc1/480x270/pqWAQ7lA1qtfPoL_.mp4"
-       },
-       {
-        "bitrate": 832000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122048673332723712/vid/avc1/640x360/kSEcHHyf6opyZ_tr.mp4"
-       },
-       {
-        "bitrate": 2176000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122048673332723712/vid/avc1/1280x720/sKuiZi_0POx1kPaR.mp4"
-       },
-       {
-        "bitrate": 10368000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122048673332723712/vid/avc1/1920x1080/eqoL0SkLelloNRhk.mp4"
-       }
-      ]
-     }
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/amplify_video_thumb/2122048673332723712/img/w4LxnXueEf3QjKgY.jpg"
-  ],
-  "videos": [
-   {
-    "durationMillis": 6389,
-    "aspectRatio": [
-     16,
-     9
-    ],
-    "variants": [
-     {
-      "contentType": "application/x-mpegURL",
-      "url": "https://video.twimg.com/amplify_video/2122048673332723712/pl/QcDxMSNpEexsNNWB.m3u8"
-     },
-     {
-      "bitrate": 256000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122048673332723712/vid/avc1/480x270/pqWAQ7lA1qtfPoL_.mp4"
-     },
-     {
-      "bitrate": 832000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122048673332723712/vid/avc1/640x360/kSEcHHyf6opyZ_tr.mp4"
-     },
-     {
-      "bitrate": 2176000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122048673332723712/vid/avc1/1280x720/sKuiZi_0POx1kPaR.mp4"
-     },
-     {
-      "bitrate": 10368000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122048673332723712/vid/avc1/1920x1080/eqoL0SkLelloNRhk.mp4"
-     }
-    ]
-   }
-  ],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122048085018972282",
-  "url": "https://x.com/Ihartitz/status/2122048085018972282",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122048085018972282",
-  "text": "Josh Downs this season:\n\n-57 targets from Daniel Jones, 1 TD\n-4 targets from Patrick Mahomes, 1 TD\n\n https://t.co/XkGrTym523",
-  "fullText": "Josh Downs this season:\n\n-57 targets from Daniel Jones, 1 TD\n-4 targets from Patrick Mahomes, 1 TD\n\n https://t.co/XkGrTym523",
-  "source": "",
-  "retweetCount": 14,
-  "replyCount": 4,
-  "likeCount": 294,
-  "quoteCount": 1,
-  "viewCount": 15621,
-  "createdAt": "Sun Nov 15 19:24:23 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 7,
-  "isReply": false,
-  "conversationId": "2122048085018972282",
-  "possiblySensitive": false,
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "additional_media_info": {
-      "description": "",
-      "graphql_source_user": {
-       "user_results": {
-        "result": {
-         "__typename": "User",
-         "affiliates_highlighted_label": {},
-         "exclusive_tweet_following": false,
-         "is_blue_verified": true,
-         "legacy": {
-          "advertiser_account_service_levels": [
-           "dso",
-           "dso",
-           "dso",
-           "dso",
-           "dso",
-           "dso",
-           "dso",
-           "dso",
-           "dso",
-           "dso",
-           "dso",
-           "mms",
-           "mms",
-           "mms",
-           "smb",
-           "media_studio"
-          ],
-          "advertiser_account_type": "promotable_user",
-          "analytics_type": "enabled",
-          "blocked_by": false,
-          "blocking": false,
-          "can_dm": false,
-          "can_media_tag": true,
-          "created_at": "Sat Jan 24 01:28:06 +0000 2009",
-          "customer_service_state": "",
-          "description": "Danke, Munich!",
-          "entities": {
-           "description": {},
-           "url": {
-            "urls": [
-             {
-              "display_url": "linktr.ee/nfl",
-              "expanded_url": "https://linktr.ee/nfl",
-              "indices": [
-               0,
-               23
-              ],
-              "url": "https://t.co/5ianypESib"
-             }
-            ]
-           }
-          },
-          "fast_followers_count": 0,
-          "favourites_count": 4638,
-          "follow_request_sent": false,
-          "followed_by": false,
-          "followers_count": 36967648,
-          "following": false,
-          "friends_count": 2800,
-          "geo_enabled": true,
-          "has_custom_timelines": true,
-          "has_extended_profile": false,
-          "has_no_screen_name": false,
-          "id_str": "19426551",
-          "is_lifeline_institution": false,
-          "is_translator": false,
-          "live_following": false,
-          "location": "",
-          "media_count": 161656,
-          "muting": false,
-          "name": "NFL",
-          "needs_phone_verification": false,
-          "normal_followers_count": 36967648,
-          "notifications": false,
-          "pinned_tweet_ids_str": [
-           "2114898970812264900"
-          ],
-          "profile_background_color": "FFFFFF",
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/19426551/1794767322",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-          "profile_interstitial_type": "",
-          "profile_link_color": "0084B4",
-          "protected": false,
-          "screen_name": "NFL",
-          "statuses_count": 310941,
-          "suspended": false,
-          "translator_type_enum": "Regular",
-          "url": "https://t.co/5ianypESib",
-          "verified": false,
-          "verified_type": "Business",
-          "want_retweets": false,
-          "withheld_copyright": false,
-          "withheld_description": "",
-          "withheld_scope": ""
-         },
-         "parody_commentary_fan_label": "None",
-         "private_super_following": false,
-         "profile_image_shape": "Square",
-         "rest_id": "19426551",
-         "super_follow_eligible": false,
-         "super_followed_by": false,
-         "super_following": false
-        }
-       }
-      },
-      "monetizable": true,
-      "title": ""
-     },
-     "allow_download_status": {
-      "allow_download": false
-     },
-     "display_url": "pic.x.com/XkGrTym523",
-     "expanded_url": "https://x.com/NFL/status/2122047973597274429/video/1",
-     "ext_master_playlist_only": [],
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "ext_playlists": [],
-     "id_str": "2122047807909769216",
-     "indices": [
-      101,
-      124
-     ],
-     "media_key": "13_2122047807909769216",
-     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2122047807909769216/img/bfoiMB_vIINwWEsE.jpg",
-     "original_info": {
-      "focus_rects": [],
-      "height": 1080,
-      "width": 1920
-     },
-     "sizes": {
-      "large": {
-       "h": 1080,
-       "w": 1920
-      }
-     },
-     "source_status_id_str": "2122047973597274429",
-     "source_user_id_str": "19426551",
-     "type": "video",
-     "url": "https://t.co/XkGrTym523",
-     "video_info": {
-      "aspect_ratio": [
-       16,
-       9
-      ],
-      "duration_millis": 10550,
-      "variants": [
-       {
-        "content_type": "application/x-mpegURL",
-        "url": "https://video.twimg.com/amplify_video/2122047807909769216/pl/eyJ9j6BeTWJ7_4cv.m3u8?v=d76"
-       },
-       {
-        "bitrate": 256000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122047807909769216/vid/avc1/480x270/Ft2RdxycEhbKyqoN.mp4"
-       },
-       {
-        "bitrate": 832000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122047807909769216/vid/avc1/640x360/42u3KoSELGRg0zUA.mp4"
-       },
-       {
-        "bitrate": 2176000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122047807909769216/vid/avc1/1280x720/D4kiuU9gtVm_YGzt.mp4"
-       },
-       {
-        "bitrate": 10368000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122047807909769216/vid/avc1/1920x1080/7qRs-LSmVCoLC3k5.mp4"
-       }
-      ]
-     }
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/amplify_video_thumb/2122047807909769216/img/bfoiMB_vIINwWEsE.jpg"
-  ],
-  "videos": [
-   {
-    "durationMillis": 10550,
-    "aspectRatio": [
-     16,
-     9
-    ],
-    "variants": [
-     {
-      "contentType": "application/x-mpegURL",
-      "url": "https://video.twimg.com/amplify_video/2122047807909769216/pl/eyJ9j6BeTWJ7_4cv.m3u8?v=d76"
-     },
-     {
-      "bitrate": 256000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122047807909769216/vid/avc1/480x270/Ft2RdxycEhbKyqoN.mp4"
-     },
-     {
-      "bitrate": 832000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122047807909769216/vid/avc1/640x360/42u3KoSELGRg0zUA.mp4"
-     },
-     {
-      "bitrate": 2176000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122047807909769216/vid/avc1/1280x720/D4kiuU9gtVm_YGzt.mp4"
-     },
-     {
-      "bitrate": 10368000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122047807909769216/vid/avc1/1920x1080/7qRs-LSmVCoLC3k5.mp4"
-     }
-    ]
-   }
-  ],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122047218496758207",
-  "url": "https://x.com/Ihartitz/status/2122047218496758207",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122047218496758207",
-  "text": "Up and down first half for the Bills. Just think they need to get Dawson Knox more involved.",
-  "fullText": "Up and down first half for the Bills. Just think they need to get Dawson Knox more involved.",
-  "source": "",
-  "retweetCount": 3,
-  "replyCount": 5,
-  "likeCount": 46,
-  "quoteCount": 1,
-  "viewCount": 11034,
-  "createdAt": "Sun Nov 15 19:20:57 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "conversationId": "2122047218496758207",
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122046539480932468",
-  "url": "https://x.com/Ihartitz/status/2122046539480932468",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122046539480932468",
-  "text": "This season:\n\nEmmett Johnson: 292 receiving yards on 18 receptions \n\nChristian McCaffrey: 270 receiving yards on 36 receptions",
-  "fullText": "This season:\n\nEmmett Johnson: 292 receiving yards on 18 receptions \n\nChristian McCaffrey: 270 receiving yards on 36 receptions",
-  "source": "",
-  "retweetCount": 6,
-  "replyCount": 4,
-  "likeCount": 166,
-  "quoteCount": 1,
-  "viewCount": 14028,
-  "createdAt": "Sun Nov 15 19:18:15 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 4,
-  "isReply": false,
-  "conversationId": "2122046539480932468",
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122046062277853462",
-  "url": "https://x.com/Ihartitz/status/2122046062277853462",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122046062277853462",
-  "text": "Matthew Golden with his 10th and 11th drops of the season. Nobody else has more than 6.",
-  "fullText": "Matthew Golden with his 10th and 11th drops of the season. Nobody else has more than 6.",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 6,
-  "likeCount": 140,
-  "quoteCount": 3,
-  "viewCount": 11185,
-  "createdAt": "Sun Nov 15 19:16:21 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 3,
-  "isReply": false,
-  "conversationId": "2122046062277853462",
-  "author": {
-   "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
-   "protected": false,
-   "status": "",
-   "canDm": true,
-   "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
-   "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
-    "url": {
-     "urls": [
-      {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/sgF9v0Ib0b"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
-   "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122044332370743576",
-  "url": "https://x.com/Ihartitz/status/2122044332370743576",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122044332370743576",
-  "text": "65+ yard receptions this season:\n\nJerry Jeudy: 1\n...\nJa'Marr Chase, CeeDee Lamb, and Justin Jefferson combined: 0",
-  "fullText": "65+ yard receptions this season:\n\nJerry Jeudy: 1\n...\nJa'Marr Chase, CeeDee Lamb, and Justin Jefferson combined: 0",
+  "id": "2122021067028115668",
+  "url": "https://x.com/GuruFantasyWrld/status/2122021067028115668",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2122021067028115668",
+  "text": "And draft Brock Bowers at 2.12",
+  "fullText": "And draft Brock Bowers at 2.12",
   "source": "",
   "retweetCount": 0,
-  "replyCount": 1,
-  "likeCount": 37,
+  "replyCount": 0,
+  "likeCount": 81,
   "quoteCount": 0,
-  "viewCount": 11921,
-  "createdAt": "Sun Nov 15 19:09:29 +0000 2026",
+  "viewCount": 5505,
+  "createdAt": "Sun Nov 15 17:37:02 +0000 2026",
   "lang": "en",
-  "quoteId": "2122043657885012293",
-  "bookmarkCount": 3,
+  "quoteId": "2122020512272466071",
+  "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2122044332370743576",
+  "conversationId": "2122021067028115668",
+  "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
    "protected": false,
    "status": "",
-   "canDm": true,
+   "canDm": false,
    "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
    "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
+    "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/W4BebDE0ID"
       }
      ]
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
+   "favouritesCount": 83819,
    "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
   },
   "extendedEntities": {},
   "card": {},
@@ -1256,162 +85,70 @@
   "isQuote": true,
   "quote": {
    "type": "tweet",
-   "id": "2122043657885012293",
-   "text": "65 yards for Jerry Jeudy!\n\nHOUvsCLE on FOX/FOX One\nStream on @NFLPlus https://t.co/GOSJ7PsssP",
+   "id": "2122020512272466071",
+   "text": "Turns out all you had to do to be good at fantasy football this season was get the 1.01 pick",
    "source": "",
-   "retweetCount": 76,
-   "replyCount": 23,
-   "likeCount": 862,
-   "quoteCount": 23,
-   "viewCount": 182249,
-   "createdAt": "Sun Nov 15 19:06:48 +0000 2026",
+   "retweetCount": 19,
+   "replyCount": 27,
+   "likeCount": 2384,
+   "quoteCount": 3,
+   "viewCount": 73536,
+   "createdAt": "Sun Nov 15 17:34:50 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 35,
-   "possiblySensitive": false,
-   "isPinned": false,
+   "bookmarkCount": 23,
    "author": {
     "type": "user",
-    "userName": "NFL",
-    "url": "https://x.com/NFL",
-    "twitterUrl": "https://twitter.com/NFL",
-    "id": "19426551",
-    "name": "NFL",
+    "userName": "Ihartitz",
+    "url": "https://x.com/Ihartitz",
+    "twitterUrl": "https://twitter.com/Ihartitz",
+    "id": "43192090",
+    "name": "Ian Hartitz",
     "isVerified": false,
-    "verifiedType": "Business",
     "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/19426551/1794767322",
-    "description": "Danke, Munich!",
-    "location": "",
-    "followers": 36967648,
-    "following": 2800,
+    "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+    "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+    "location": "Columbus, OH",
+    "followers": 240013,
+    "following": 1584,
     "protected": false,
     "status": "",
     "canDm": false,
     "canMediaTag": true,
-    "advertiserAccountType": "promotable_user",
-    "analyticsType": "enabled",
-    "createdAt": "Sat Jan 24 01:28:06 +0000 2009",
+    "createdAt": "Thu May 28 20:43:55 +0000 2009",
     "entities": {
      "description": {},
      "url": {
       "urls": [
        {
-        "display_url": "linktr.ee/nfl",
-        "expanded_url": "https://linktr.ee/nfl",
+        "display_url": "youtube.com/@ihartitz?si=H\u2026",
+        "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
         "indices": [
          0,
          23
         ],
-        "url": "https://t.co/5ianypESib"
+        "url": "https://t.co/sgF9v0Ib0b"
        }
       ]
      }
     },
-    "fastFollowersCount": 0,
-    "favouritesCount": 4638,
-    "geoEnabled": true,
-    "hasCustomTimelines": true,
-    "hasExtendedProfile": false,
+    "favouritesCount": 142612,
     "isTranslator": false,
-    "mediaCount": 161656,
-    "profileBackgroundColor": "FFFFFF",
-    "statusesCount": 310941,
-    "translatorTypeEnum": "Regular",
+    "mediaCount": 19248,
+    "statusesCount": 86243,
+    "translatorTypeEnum": "none",
     "affiliatesHighlightedLabel": {},
-    "pinnedTweetIds": [
-     "2114898970812264900"
-    ]
+    "possiblySensitive": false,
+    "professional": {
+     "category": [],
+     "professional_type": "Creator",
+     "rest_id": "1643289126379089921"
+    }
    },
-   "extendedEntities": {
-    "media": [
-     {
-      "additional_media_info": {
-       "description": "",
-       "monetizable": true,
-       "title": ""
-      },
-      "allow_download_status": {
-       "allow_download": false
-      },
-      "display_url": "pic.x.com/GOSJ7PsssP",
-      "expanded_url": "https://x.com/NFL/status/2122043657885012293/video/1",
-      "ext_master_playlist_only": [],
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "ext_playlists": [],
-      "id_str": "2122043509318483968",
-      "indices": [
-       70,
-       93
-      ],
-      "media_key": "13_2122043509318483968",
-      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2122043509318483968/img/iAyCDVwyvZ--11l1.jpg",
-      "original_info": {
-       "focus_rects": [],
-       "height": 1080,
-       "width": 1920
-      },
-      "sizes": {
-       "large": {
-        "h": 1080,
-        "w": 1920
-       }
-      },
-      "type": "video",
-      "url": "https://t.co/GOSJ7PsssP",
-      "video_info": {
-       "aspect_ratio": [
-        16,
-        9
-       ],
-       "duration_millis": 12270,
-       "variants": [
-        {
-         "content_type": "application/x-mpegURL",
-         "url": "https://video.twimg.com/amplify_video/2122043509318483968/pl/wljB7WKmQqofOyg8.m3u8?v=23d"
-        },
-        {
-         "bitrate": 256000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2122043509318483968/vid/avc1/480x270/e0KxsHgOv8W4r1UQ.mp4"
-        },
-        {
-         "bitrate": 832000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2122043509318483968/vid/avc1/640x360/YW5Fb5mWSAs_D41O.mp4"
-        },
-        {
-         "bitrate": 2176000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2122043509318483968/vid/avc1/1280x720/__ZOFSNP0zeuqJp6.mp4"
-        },
-        {
-         "bitrate": 10368000,
-         "content_type": "video/mp4",
-         "url": "https://video.twimg.com/amplify_video/2122043509318483968/vid/avc1/1920x1080/cztLZk19eA21iL8r.mp4"
-        }
-       ]
-      }
-     }
-    ]
-   },
+   "extendedEntities": {},
    "card": {},
    "place": {},
-   "entities": {
-    "user_mentions": [
-     {
-      "id_str": "771160003793170432",
-      "indices": [
-       61,
-       69
-      ],
-      "name": "NFL+",
-      "screen_name": "NFLPlus"
-     }
-    ]
-   }
+   "entities": {}
   },
   "media": [],
   "videos": [],
@@ -1419,92 +156,705 @@
  },
  {
   "type": "tweet",
-  "id": "2122036938995868141",
-  "url": "https://x.com/Ihartitz/status/2122036938995868141",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122036938995868141",
-  "text": "Colts continuing to give Seth McGowan goal line carries over Jonathan Taylor despite Taylor presumably having both of his shoes",
-  "fullText": "Colts continuing to give Seth McGowan goal line carries over Jonathan Taylor despite Taylor presumably having both of his shoes",
+  "id": "2122003109652115639",
+  "url": "https://x.com/GuruFantasyWrld/status/2122003109652115639",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2122003109652115639",
+  "text": "Inserting AJ Brown back into all of my lineups https://t.co/DPQlxw3OVj",
+  "fullText": "Inserting AJ Brown back into all of my lineups https://t.co/DPQlxw3OVj",
   "source": "",
-  "retweetCount": 7,
+  "retweetCount": 12,
   "replyCount": 3,
-  "likeCount": 309,
-  "quoteCount": 1,
-  "viewCount": 20778,
-  "createdAt": "Sun Nov 15 18:40:06 +0000 2026",
+  "likeCount": 403,
+  "quoteCount": 0,
+  "viewCount": 15774,
+  "createdAt": "Sun Nov 15 16:25:40 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 1,
+  "bookmarkCount": 6,
   "isReply": false,
-  "conversationId": "2122036938995868141",
+  "conversationId": "2122003109652115639",
+  "possiblySensitive": false,
+  "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
    "protected": false,
    "status": "",
-   "canDm": true,
+   "canDm": false,
    "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
    "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
+    "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/W4BebDE0ID"
       }
      ]
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
+   "favouritesCount": 83819,
    "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/DPQlxw3OVj",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2122003109652115639/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2122003103205457920",
+     "indices": [
+      47,
+      70
+     ],
+     "media_key": "16_2122003103205457920",
+     "media_results": {
+      "result": {
+       "media_key": "16_2122003103205457920"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/HXLelFrWgAAiPCb.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 228,
+      "width": 450
+     },
+     "sizes": {
+      "large": {
+       "h": 228,
+       "resize": "fit",
+       "w": 450
+      },
+      "medium": {
+       "h": 228,
+       "resize": "fit",
+       "w": 450
+      },
+      "small": {
+       "h": 228,
+       "resize": "fit",
+       "w": 450
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "animated_gif",
+     "url": "https://t.co/DPQlxw3OVj",
+     "video_info": {
+      "aspect_ratio": [
+       75,
+       38
+      ],
+      "variants": [
+       {
+        "bitrate": 0,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/tweet_video/HXLelFrWgAAiPCb.mp4"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/DPQlxw3OVj",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2122003109652115639/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2122003103205457920",
+     "indices": [
+      47,
+      70
+     ],
+     "media_key": "16_2122003103205457920",
+     "media_results": {
+      "result": {
+       "media_key": "16_2122003103205457920"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/HXLelFrWgAAiPCb.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 228,
+      "width": 450
+     },
+     "sizes": {
+      "large": {
+       "h": 228,
+       "resize": "fit",
+       "w": 450
+      },
+      "medium": {
+       "h": 228,
+       "resize": "fit",
+       "w": 450
+      },
+      "small": {
+       "h": 228,
+       "resize": "fit",
+       "w": 450
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "animated_gif",
+     "url": "https://t.co/DPQlxw3OVj",
+     "video_info": {
+      "aspect_ratio": [
+       75,
+       38
+      ],
+      "variants": [
+       {
+        "bitrate": 0,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/tweet_video/HXLelFrWgAAiPCb.mp4"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/tweet_video_thumb/HXLelFrWgAAiPCb.jpg"
+  ],
+  "videos": [
+   {
+    "durationMillis": null,
+    "aspectRatio": [
+     75,
+     38
+    ],
+    "variants": [
+     {
+      "bitrate": 0,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/tweet_video/HXLelFrWgAAiPCb.mp4"
+     }
+    ]
+   }
+  ],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121990631417422222",
+  "url": "https://x.com/GuruFantasyWrld/status/2121990631417422222",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2121990631417422222",
+  "text": "Trying to trade in Dynasty be like\u2026 https://t.co/p65WRoexPK",
+  "fullText": "Trying to trade in Dynasty be like\u2026 https://t.co/p65WRoexPK",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 11,
+  "likeCount": 109,
+  "quoteCount": 0,
+  "viewCount": 25927,
+  "createdAt": "Sun Nov 15 15:36:05 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "2121990631417422222",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 83819,
+   "isTranslator": false,
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/p65WRoexPK",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121990631417422222/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 100,
+         "w": 100,
+         "x": 35,
+         "y": 977
+        },
+        {
+         "h": 123,
+         "w": 123,
+         "x": 804,
+         "y": 1211
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 61,
+         "w": 61,
+         "x": 21,
+         "y": 604
+        },
+        {
+         "h": 76,
+         "w": 76,
+         "x": 497,
+         "y": 749
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 100,
+         "w": 100,
+         "x": 35,
+         "y": 977
+        },
+        {
+         "h": 123,
+         "w": 123,
+         "x": 804,
+         "y": 1211
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 35,
+         "w": 35,
+         "x": 12,
+         "y": 342
+        },
+        {
+         "h": 43,
+         "w": 43,
+         "x": 281,
+         "y": 424
+        }
+       ]
+      }
+     },
+     "id_str": "2121990626480685056",
+     "indices": [
+      36,
+      59
+     ],
+     "media_key": "3_2121990626480685056",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121990626480685056"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXLTO2QXAAAYJzO.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 655,
+        "w": 1170,
+        "x": 0,
+        "y": 787
+       },
+       {
+        "h": 1170,
+        "w": 1170,
+        "x": 0,
+        "y": 529
+       },
+       {
+        "h": 1334,
+        "w": 1170,
+        "x": 0,
+        "y": 447
+       },
+       {
+        "h": 1939,
+        "w": 970,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1939,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1939,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 1939,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 724
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 410
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/p65WRoexPK"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/p65WRoexPK",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121990631417422222/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 100,
+         "w": 100,
+         "x": 35,
+         "y": 977
+        },
+        {
+         "h": 123,
+         "w": 123,
+         "x": 804,
+         "y": 1211
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 61,
+         "w": 61,
+         "x": 21,
+         "y": 604
+        },
+        {
+         "h": 76,
+         "w": 76,
+         "x": 497,
+         "y": 749
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 100,
+         "w": 100,
+         "x": 35,
+         "y": 977
+        },
+        {
+         "h": 123,
+         "w": 123,
+         "x": 804,
+         "y": 1211
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 35,
+         "w": 35,
+         "x": 12,
+         "y": 342
+        },
+        {
+         "h": 43,
+         "w": 43,
+         "x": 281,
+         "y": 424
+        }
+       ]
+      }
+     },
+     "id_str": "2121990626480685056",
+     "indices": [
+      36,
+      59
+     ],
+     "media_key": "3_2121990626480685056",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121990626480685056"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXLTO2QXAAAYJzO.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 655,
+        "w": 1170,
+        "x": 0,
+        "y": 787
+       },
+       {
+        "h": 1170,
+        "w": 1170,
+        "x": 0,
+        "y": 529
+       },
+       {
+        "h": 1334,
+        "w": 1170,
+        "x": 0,
+        "y": 447
+       },
+       {
+        "h": 1939,
+        "w": 970,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1939,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1939,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 1939,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 724
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 410
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/p65WRoexPK"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HXLTO2QXAAAYJzO.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121985810534969486",
+  "url": "https://x.com/GuruFantasyWrld/status/2121985810534969486",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2121985810534969486",
+  "text": "Starting hobbled Rhamondre &amp; AJB on a day Drake Maye goes down to injury is going to be my villain origin story",
+  "fullText": "Starting hobbled Rhamondre &amp; AJB on a day Drake Maye goes down to injury is going to be my villain origin story",
+  "source": "",
+  "retweetCount": 8,
+  "replyCount": 14,
+  "likeCount": 733,
+  "quoteCount": 1,
+  "viewCount": 38106,
+  "createdAt": "Sun Nov 15 15:16:56 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "2121985810534969486",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 83819,
+   "isTranslator": false,
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
   },
   "extendedEntities": {},
   "card": {},
@@ -1518,92 +868,2707 @@
  },
  {
   "type": "tweet",
-  "id": "2122034471767855174",
-  "url": "https://x.com/Ihartitz/status/2122034471767855174",
-  "twitterUrl": "https://twitter.com/Ihartitz/status/2122034471767855174",
-  "text": "Vikings had 3rd and 8 at the Packers' 23-yard line. Green Bay got the stop, then accepted a 15-yard facemask to push them back and do the 3rd down again ... immediate 38-yard touchdown",
-  "fullText": "Vikings had 3rd and 8 at the Packers' 23-yard line. Green Bay got the stop, then accepted a 15-yard facemask to push them back and do the 3rd down again ... immediate 38-yard touchdown",
+  "id": "2121980949009146168",
+  "url": "https://x.com/GuruFantasyWrld/status/2121980949009146168",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2121980949009146168",
+  "text": "1 down \u2705\n\n4 to go\u2026 https://t.co/RAHHyyRdqk",
+  "fullText": "1 down \u2705\n\n4 to go\u2026 https://t.co/RAHHyyRdqk",
   "source": "",
-  "retweetCount": 15,
-  "replyCount": 7,
-  "likeCount": 495,
-  "quoteCount": 5,
-  "viewCount": 25018,
-  "createdAt": "Sun Nov 15 18:30:18 +0000 2026",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 17,
+  "quoteCount": 0,
+  "viewCount": 13378,
+  "createdAt": "Sun Nov 15 14:57:37 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 3,
+  "bookmarkCount": 2,
   "isReply": false,
-  "conversationId": "2122034471767855174",
+  "conversationId": "2121980949009146168",
+  "possiblySensitive": false,
+  "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "Ihartitz",
-   "url": "https://x.com/Ihartitz",
-   "twitterUrl": "https://twitter.com/Ihartitz",
-   "id": "43192090",
-   "name": "Ian Hartitz",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
-   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
-   "location": "Columbus, OH",
-   "followers": 240009,
-   "following": 1584,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
    "protected": false,
    "status": "",
-   "canDm": true,
+   "canDm": false,
    "canMediaTag": true,
-   "advertiserAccountType": "promotable_user",
-   "analyticsType": "enabled",
-   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
    "entities": {
-    "description": {
-     "user_mentions": [
-      {
-       "id_str": "",
-       "indices": [
-        0,
-        9
-       ],
-       "name": "",
-       "screen_name": "RotoWire"
-      },
-      {
-       "id_str": "",
-       "indices": [
-        12,
-        20
-       ],
-       "name": "",
-       "screen_name": "OddsJam"
-      }
-     ]
-    },
+    "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "youtube.com/@ihartitz?si=H\u2026",
-       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/sgF9v0Ib0b"
+       "url": "https://t.co/W4BebDE0ID"
       }
      ]
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 142604,
-   "geoEnabled": true,
-   "hasCustomTimelines": true,
-   "hasExtendedProfile": true,
+   "favouritesCount": 83819,
    "isTranslator": false,
-   "mediaCount": 19247,
-   "profileBackgroundColor": "000000",
-   "statusesCount": 86235,
-   "translatorTypeEnum": "None",
-   "affiliatesHighlightedLabel": {}
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/RAHHyyRdqk",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121980949009146168/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2121980945590796288",
+     "indices": [
+      19,
+      42
+     ],
+     "media_key": "3_2121980945590796288",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121980945590796288"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXLKbWIWQAAbSUB.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 655,
+        "w": 1170,
+        "x": 0,
+        "y": 105
+       },
+       {
+        "h": 1170,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1334,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1575,
+        "w": 788,
+        "x": 191,
+        "y": 0
+       },
+       {
+        "h": 1575,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1575,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 1575,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 891
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 505
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/RAHHyyRdqk"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/RAHHyyRdqk",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121980949009146168/photo/2",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2121980945590837248",
+     "indices": [
+      19,
+      42
+     ],
+     "media_key": "3_2121980945590837248",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121980945590837248"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXLKbWIW4AAjOXT.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 655,
+        "w": 1170,
+        "x": 0,
+        "y": 130
+       },
+       {
+        "h": 1170,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1219,
+        "w": 1069,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1219,
+        "w": 610,
+        "x": 91,
+        "y": 0
+       },
+       {
+        "h": 1219,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1219,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 1219,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 1152
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 653
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/RAHHyyRdqk"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/RAHHyyRdqk",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121980949009146168/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2121980945590796288",
+     "indices": [
+      19,
+      42
+     ],
+     "media_key": "3_2121980945590796288",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121980945590796288"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXLKbWIWQAAbSUB.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 655,
+        "w": 1170,
+        "x": 0,
+        "y": 105
+       },
+       {
+        "h": 1170,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1334,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1575,
+        "w": 788,
+        "x": 191,
+        "y": 0
+       },
+       {
+        "h": 1575,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1575,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 1575,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 891
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 505
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/RAHHyyRdqk"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/RAHHyyRdqk",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121980949009146168/photo/2",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2121980945590837248",
+     "indices": [
+      19,
+      42
+     ],
+     "media_key": "3_2121980945590837248",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121980945590837248"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXLKbWIW4AAjOXT.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 655,
+        "w": 1170,
+        "x": 0,
+        "y": 130
+       },
+       {
+        "h": 1170,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1219,
+        "w": 1069,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 1219,
+        "w": 610,
+        "x": 91,
+        "y": 0
+       },
+       {
+        "h": 1219,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 1219,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 1219,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 1200,
+       "resize": "fit",
+       "w": 1152
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 653
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/RAHHyyRdqk"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HXLKbWIWQAAbSUB.jpg",
+   "https://pbs.twimg.com/media/HXLKbWIW4AAjOXT.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121931907365769439",
+  "url": "https://x.com/GuruFantasyWrld/status/2121931907365769439",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2121931907365769439",
+  "text": "Love the smell of napalm in the morning \n\n#Dynasty #Contending https://t.co/mgN2n127R0",
+  "fullText": "Love the smell of napalm in the morning \n\n#Dynasty #Contending https://t.co/mgN2n127R0",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 2,
+  "likeCount": 71,
+  "quoteCount": 0,
+  "viewCount": 8587,
+  "createdAt": "Sun Nov 15 11:42:44 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2121931907365769439",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 83819,
+   "isTranslator": false,
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/mgN2n127R0",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121931907365769439/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 50,
+         "w": 50,
+         "x": 263,
+         "y": 254
+        },
+        {
+         "h": 45,
+         "w": 45,
+         "x": 266,
+         "y": 485
+        },
+        {
+         "h": 42,
+         "w": 42,
+         "x": 720,
+         "y": 267
+        },
+        {
+         "h": 47,
+         "w": 47,
+         "x": 719,
+         "y": 483
+        },
+        {
+         "h": 103,
+         "w": 103,
+         "x": 35,
+         "y": 19
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 50,
+         "w": 50,
+         "x": 263,
+         "y": 254
+        },
+        {
+         "h": 45,
+         "w": 45,
+         "x": 266,
+         "y": 485
+        },
+        {
+         "h": 42,
+         "w": 42,
+         "x": 720,
+         "y": 267
+        },
+        {
+         "h": 47,
+         "w": 47,
+         "x": 719,
+         "y": 483
+        },
+        {
+         "h": 103,
+         "w": 103,
+         "x": 35,
+         "y": 19
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 50,
+         "w": 50,
+         "x": 263,
+         "y": 254
+        },
+        {
+         "h": 45,
+         "w": 45,
+         "x": 266,
+         "y": 485
+        },
+        {
+         "h": 42,
+         "w": 42,
+         "x": 720,
+         "y": 267
+        },
+        {
+         "h": 47,
+         "w": 47,
+         "x": 719,
+         "y": 483
+        },
+        {
+         "h": 103,
+         "w": 103,
+         "x": 35,
+         "y": 19
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 29,
+         "w": 29,
+         "x": 152,
+         "y": 147
+        },
+        {
+         "h": 26,
+         "w": 26,
+         "x": 154,
+         "y": 281
+        },
+        {
+         "h": 24,
+         "w": 24,
+         "x": 418,
+         "y": 155
+        },
+        {
+         "h": 27,
+         "w": 27,
+         "x": 417,
+         "y": 280
+        },
+        {
+         "h": 59,
+         "w": 59,
+         "x": 20,
+         "y": 11
+        }
+       ]
+      }
+     },
+     "id_str": "2121931903292911616",
+     "indices": [
+      63,
+      86
+     ],
+     "media_key": "3_2121931903292911616",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121931903292911616"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXKd0tVXsAA9jWg.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 624,
+        "w": 1114,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 624,
+        "w": 624,
+        "x": 9,
+        "y": 0
+       },
+       {
+        "h": 624,
+        "w": 547,
+        "x": 48,
+        "y": 0
+       },
+       {
+        "h": 624,
+        "w": 312,
+        "x": 165,
+        "y": 0
+       },
+       {
+        "h": 624,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 624,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 624,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 624,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 363,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/mgN2n127R0"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      42,
+      50
+     ],
+     "text": "Dynasty"
+    },
+    {
+     "indices": [
+      51,
+      62
+     ],
+     "text": "Contending"
+    }
+   ],
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/mgN2n127R0",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121931907365769439/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 50,
+         "w": 50,
+         "x": 263,
+         "y": 254
+        },
+        {
+         "h": 45,
+         "w": 45,
+         "x": 266,
+         "y": 485
+        },
+        {
+         "h": 42,
+         "w": 42,
+         "x": 720,
+         "y": 267
+        },
+        {
+         "h": 47,
+         "w": 47,
+         "x": 719,
+         "y": 483
+        },
+        {
+         "h": 103,
+         "w": 103,
+         "x": 35,
+         "y": 19
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 50,
+         "w": 50,
+         "x": 263,
+         "y": 254
+        },
+        {
+         "h": 45,
+         "w": 45,
+         "x": 266,
+         "y": 485
+        },
+        {
+         "h": 42,
+         "w": 42,
+         "x": 720,
+         "y": 267
+        },
+        {
+         "h": 47,
+         "w": 47,
+         "x": 719,
+         "y": 483
+        },
+        {
+         "h": 103,
+         "w": 103,
+         "x": 35,
+         "y": 19
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 50,
+         "w": 50,
+         "x": 263,
+         "y": 254
+        },
+        {
+         "h": 45,
+         "w": 45,
+         "x": 266,
+         "y": 485
+        },
+        {
+         "h": 42,
+         "w": 42,
+         "x": 720,
+         "y": 267
+        },
+        {
+         "h": 47,
+         "w": 47,
+         "x": 719,
+         "y": 483
+        },
+        {
+         "h": 103,
+         "w": 103,
+         "x": 35,
+         "y": 19
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 29,
+         "w": 29,
+         "x": 152,
+         "y": 147
+        },
+        {
+         "h": 26,
+         "w": 26,
+         "x": 154,
+         "y": 281
+        },
+        {
+         "h": 24,
+         "w": 24,
+         "x": 418,
+         "y": 155
+        },
+        {
+         "h": 27,
+         "w": 27,
+         "x": 417,
+         "y": 280
+        },
+        {
+         "h": 59,
+         "w": 59,
+         "x": 20,
+         "y": 11
+        }
+       ]
+      }
+     },
+     "id_str": "2121931903292911616",
+     "indices": [
+      63,
+      86
+     ],
+     "media_key": "3_2121931903292911616",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121931903292911616"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXKd0tVXsAA9jWg.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 624,
+        "w": 1114,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 624,
+        "w": 624,
+        "x": 9,
+        "y": 0
+       },
+       {
+        "h": 624,
+        "w": 547,
+        "x": 48,
+        "y": 0
+       },
+       {
+        "h": 624,
+        "w": 312,
+        "x": 165,
+        "y": 0
+       },
+       {
+        "h": 624,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 624,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 624,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 624,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 363,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/mgN2n127R0"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HXKd0tVXsAA9jWg.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121619790603460698",
+  "url": "https://x.com/GuruFantasyWrld/status/2121619790603460698",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2121619790603460698",
+  "text": "Don\u2019t you love when you get an offer you don\u2019t even have to counter?\n\n#Dynasty #Contending https://t.co/s6FOaZngm9",
+  "fullText": "Don\u2019t you love when you get an offer you don\u2019t even have to counter?\n\n#Dynasty #Contending https://t.co/s6FOaZngm9",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 5,
+  "likeCount": 332,
+  "quoteCount": 0,
+  "viewCount": 39322,
+  "createdAt": "Sat Nov 14 15:02:30 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "2121619790603460698",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 83819,
+   "isTranslator": false,
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/s6FOaZngm9",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619790603460698/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 43,
+         "w": 43,
+         "x": 722,
+         "y": 425
+        },
+        {
+         "h": 109,
+         "w": 109,
+         "x": 233,
+         "y": 388
+        },
+        {
+         "h": 129,
+         "w": 129,
+         "x": 215,
+         "y": 148
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 43,
+         "w": 43,
+         "x": 722,
+         "y": 425
+        },
+        {
+         "h": 109,
+         "w": 109,
+         "x": 233,
+         "y": 388
+        },
+        {
+         "h": 129,
+         "w": 129,
+         "x": 215,
+         "y": 148
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 43,
+         "w": 43,
+         "x": 722,
+         "y": 425
+        },
+        {
+         "h": 109,
+         "w": 109,
+         "x": 233,
+         "y": 388
+        },
+        {
+         "h": 129,
+         "w": 129,
+         "x": 215,
+         "y": 148
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 24,
+         "w": 24,
+         "x": 419,
+         "y": 247
+        },
+        {
+         "h": 63,
+         "w": 63,
+         "x": 135,
+         "y": 225
+        },
+        {
+         "h": 74,
+         "w": 74,
+         "x": 124,
+         "y": 86
+        }
+       ]
+      }
+     },
+     "id_str": "2121619785368641536",
+     "indices": [
+      91,
+      114
+     ],
+     "media_key": "3_2121619785368641536",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619785368641536"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGB9DdWoAApx_T.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 566,
+        "w": 1011,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 566,
+        "w": 566,
+        "x": 38,
+        "y": 0
+       },
+       {
+        "h": 566,
+        "w": 496,
+        "x": 73,
+        "y": 0
+       },
+       {
+        "h": 566,
+        "w": 283,
+        "x": 180,
+        "y": 0
+       },
+       {
+        "h": 566,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 566,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 566,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 566,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 329,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/s6FOaZngm9"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      70,
+      78
+     ],
+     "text": "Dynasty"
+    },
+    {
+     "indices": [
+      79,
+      90
+     ],
+     "text": "Contending"
+    }
+   ],
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/s6FOaZngm9",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619790603460698/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 43,
+         "w": 43,
+         "x": 722,
+         "y": 425
+        },
+        {
+         "h": 109,
+         "w": 109,
+         "x": 233,
+         "y": 388
+        },
+        {
+         "h": 129,
+         "w": 129,
+         "x": 215,
+         "y": 148
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 43,
+         "w": 43,
+         "x": 722,
+         "y": 425
+        },
+        {
+         "h": 109,
+         "w": 109,
+         "x": 233,
+         "y": 388
+        },
+        {
+         "h": 129,
+         "w": 129,
+         "x": 215,
+         "y": 148
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 43,
+         "w": 43,
+         "x": 722,
+         "y": 425
+        },
+        {
+         "h": 109,
+         "w": 109,
+         "x": 233,
+         "y": 388
+        },
+        {
+         "h": 129,
+         "w": 129,
+         "x": 215,
+         "y": 148
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 24,
+         "w": 24,
+         "x": 419,
+         "y": 247
+        },
+        {
+         "h": 63,
+         "w": 63,
+         "x": 135,
+         "y": 225
+        },
+        {
+         "h": 74,
+         "w": 74,
+         "x": 124,
+         "y": 86
+        }
+       ]
+      }
+     },
+     "id_str": "2121619785368641536",
+     "indices": [
+      91,
+      114
+     ],
+     "media_key": "3_2121619785368641536",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619785368641536"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGB9DdWoAApx_T.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 566,
+        "w": 1011,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 566,
+        "w": 566,
+        "x": 38,
+        "y": 0
+       },
+       {
+        "h": 566,
+        "w": 496,
+        "x": 73,
+        "y": 0
+       },
+       {
+        "h": 566,
+        "w": 283,
+        "x": 180,
+        "y": 0
+       },
+       {
+        "h": 566,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 566,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 566,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 566,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 329,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/s6FOaZngm9"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HXGB9DdWoAApx_T.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121619099834814971",
+  "url": "https://x.com/GuruFantasyWrld/status/2121619099834814971",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2121619099834814971",
+  "text": "Don\u2019t you love when @SleeperHQ\u2019s ADP has multiple Offensive Coordinators &amp; retired TV Analysts above players on actual NFL rosters??? https://t.co/8fbMIVRUcN",
+  "fullText": "Don\u2019t you love when @SleeperHQ\u2019s ADP has multiple Offensive Coordinators &amp; retired TV Analysts above players on actual NFL rosters??? https://t.co/8fbMIVRUcN",
+  "source": "",
+  "retweetCount": 3,
+  "replyCount": 7,
+  "likeCount": 113,
+  "quoteCount": 1,
+  "viewCount": 101733,
+  "createdAt": "Sat Nov 14 14:59:45 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "2121619099834814971",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 83819,
+   "isTranslator": false,
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/8fbMIVRUcN",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619099834814971/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 37,
+         "w": 37,
+         "x": 278,
+         "y": 82
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 37,
+         "w": 37,
+         "x": 278,
+         "y": 82
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 37,
+         "w": 37,
+         "x": 278,
+         "y": 82
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 21,
+         "w": 21,
+         "x": 161,
+         "y": 47
+        }
+       ]
+      }
+     },
+     "id_str": "2121619094893998080",
+     "indices": [
+      138,
+      161
+     ],
+     "media_key": "3_2121619094893998080",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619094893998080"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGBU3PXsAA0vHD.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 347,
+        "w": 620,
+        "x": 128,
+        "y": 0
+       },
+       {
+        "h": 347,
+        "w": 347,
+        "x": 265,
+        "y": 0
+       },
+       {
+        "h": 347,
+        "w": 304,
+        "x": 286,
+        "y": 0
+       },
+       {
+        "h": 347,
+        "w": 174,
+        "x": 351,
+        "y": 0
+       },
+       {
+        "h": 347,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 347,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 347,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 347,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 202,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/8fbMIVRUcN"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/8fbMIVRUcN",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619099834814971/photo/2",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 42,
+         "w": 42,
+         "x": 875,
+         "y": 173
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 42,
+         "w": 42,
+         "x": 875,
+         "y": 173
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 42,
+         "w": 42,
+         "x": 875,
+         "y": 173
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 24,
+         "w": 24,
+         "x": 508,
+         "y": 100
+        }
+       ]
+      }
+     },
+     "id_str": "2121619094893907968",
+     "indices": [
+      138,
+      161
+     ],
+     "media_key": "3_2121619094893907968",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619094893907968"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGBU3PWUAA87v9.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 289,
+        "w": 516,
+        "x": 122,
+        "y": 0
+       },
+       {
+        "h": 289,
+        "w": 289,
+        "x": 236,
+        "y": 0
+       },
+       {
+        "h": 289,
+        "w": 254,
+        "x": 253,
+        "y": 0
+       },
+       {
+        "h": 289,
+        "w": 145,
+        "x": 308,
+        "y": 0
+       },
+       {
+        "h": 289,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 289,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 289,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 289,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 168,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/8fbMIVRUcN"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/8fbMIVRUcN",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619099834814971/photo/3",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2121619094906511360",
+     "indices": [
+      138,
+      161
+     ],
+     "media_key": "3_2121619094906511360",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619094906511360"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGBU3SWoAAjjDV.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 297,
+        "w": 530,
+        "x": 115,
+        "y": 0
+       },
+       {
+        "h": 297,
+        "w": 297,
+        "x": 232,
+        "y": 0
+       },
+       {
+        "h": 297,
+        "w": 261,
+        "x": 250,
+        "y": 0
+       },
+       {
+        "h": 297,
+        "w": 149,
+        "x": 306,
+        "y": 0
+       },
+       {
+        "h": 297,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 297,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 297,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 297,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 173,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/8fbMIVRUcN"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/8fbMIVRUcN",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619099834814971/photo/4",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 38,
+         "w": 38,
+         "x": 278,
+         "y": 84
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 38,
+         "w": 38,
+         "x": 278,
+         "y": 84
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 38,
+         "w": 38,
+         "x": 278,
+         "y": 84
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 22,
+         "w": 22,
+         "x": 161,
+         "y": 48
+        }
+       ]
+      }
+     },
+     "id_str": "2121619094893936642",
+     "indices": [
+      138,
+      161
+     ],
+     "media_key": "3_2121619094893936642",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619094893936642"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGBU3PWwAIYA_h.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 332,
+        "w": 593,
+        "x": 141,
+        "y": 0
+       },
+       {
+        "h": 332,
+        "w": 332,
+        "x": 271,
+        "y": 0
+       },
+       {
+        "h": 332,
+        "w": 291,
+        "x": 292,
+        "y": 0
+       },
+       {
+        "h": 332,
+        "w": 166,
+        "x": 354,
+        "y": 0
+       },
+       {
+        "h": 332,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 332,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 332,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 332,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 193,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/8fbMIVRUcN"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/8fbMIVRUcN",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619099834814971/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 37,
+         "w": 37,
+         "x": 278,
+         "y": 82
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 37,
+         "w": 37,
+         "x": 278,
+         "y": 82
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 37,
+         "w": 37,
+         "x": 278,
+         "y": 82
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 21,
+         "w": 21,
+         "x": 161,
+         "y": 47
+        }
+       ]
+      }
+     },
+     "id_str": "2121619094893998080",
+     "indices": [
+      138,
+      161
+     ],
+     "media_key": "3_2121619094893998080",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619094893998080"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGBU3PXsAA0vHD.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 347,
+        "w": 620,
+        "x": 128,
+        "y": 0
+       },
+       {
+        "h": 347,
+        "w": 347,
+        "x": 265,
+        "y": 0
+       },
+       {
+        "h": 347,
+        "w": 304,
+        "x": 286,
+        "y": 0
+       },
+       {
+        "h": 347,
+        "w": 174,
+        "x": 351,
+        "y": 0
+       },
+       {
+        "h": 347,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 347,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 347,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 347,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 202,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/8fbMIVRUcN"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/8fbMIVRUcN",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619099834814971/photo/2",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 42,
+         "w": 42,
+         "x": 875,
+         "y": 173
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 42,
+         "w": 42,
+         "x": 875,
+         "y": 173
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 42,
+         "w": 42,
+         "x": 875,
+         "y": 173
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 24,
+         "w": 24,
+         "x": 508,
+         "y": 100
+        }
+       ]
+      }
+     },
+     "id_str": "2121619094893907968",
+     "indices": [
+      138,
+      161
+     ],
+     "media_key": "3_2121619094893907968",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619094893907968"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGBU3PWUAA87v9.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 289,
+        "w": 516,
+        "x": 122,
+        "y": 0
+       },
+       {
+        "h": 289,
+        "w": 289,
+        "x": 236,
+        "y": 0
+       },
+       {
+        "h": 289,
+        "w": 254,
+        "x": 253,
+        "y": 0
+       },
+       {
+        "h": 289,
+        "w": 145,
+        "x": 308,
+        "y": 0
+       },
+       {
+        "h": 289,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 289,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 289,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 289,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 168,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/8fbMIVRUcN"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/8fbMIVRUcN",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619099834814971/photo/3",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2121619094906511360",
+     "indices": [
+      138,
+      161
+     ],
+     "media_key": "3_2121619094906511360",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619094906511360"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGBU3SWoAAjjDV.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 297,
+        "w": 530,
+        "x": 115,
+        "y": 0
+       },
+       {
+        "h": 297,
+        "w": 297,
+        "x": 232,
+        "y": 0
+       },
+       {
+        "h": 297,
+        "w": 261,
+        "x": 250,
+        "y": 0
+       },
+       {
+        "h": 297,
+        "w": 149,
+        "x": 306,
+        "y": 0
+       },
+       {
+        "h": 297,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 297,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 297,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 297,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 173,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/8fbMIVRUcN"
+    },
+    {
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/8fbMIVRUcN",
+     "expanded_url": "https://x.com/GuruFantasyWrld/status/2121619099834814971/photo/4",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": [
+        {
+         "h": 38,
+         "w": 38,
+         "x": 278,
+         "y": 84
+        }
+       ]
+      },
+      "medium": {
+       "faces": [
+        {
+         "h": 38,
+         "w": 38,
+         "x": 278,
+         "y": 84
+        }
+       ]
+      },
+      "orig": {
+       "faces": [
+        {
+         "h": 38,
+         "w": 38,
+         "x": 278,
+         "y": 84
+        }
+       ]
+      },
+      "small": {
+       "faces": [
+        {
+         "h": 22,
+         "w": 22,
+         "x": 161,
+         "y": 48
+        }
+       ]
+      }
+     },
+     "id_str": "2121619094893936642",
+     "indices": [
+      138,
+      161
+     ],
+     "media_key": "3_2121619094893936642",
+     "media_results": {
+      "result": {
+       "media_key": "3_2121619094893936642"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXGBU3PWwAIYA_h.jpg",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 332,
+        "w": 593,
+        "x": 141,
+        "y": 0
+       },
+       {
+        "h": 332,
+        "w": 332,
+        "x": 271,
+        "y": 0
+       },
+       {
+        "h": 332,
+        "w": 291,
+        "x": 292,
+        "y": 0
+       },
+       {
+        "h": 332,
+        "w": 166,
+        "x": 354,
+        "y": 0
+       },
+       {
+        "h": 332,
+        "w": 1170,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 332,
+      "width": 1170
+     },
+     "sizes": {
+      "large": {
+       "h": 332,
+       "resize": "fit",
+       "w": 1170
+      },
+      "medium": {
+       "h": 332,
+       "resize": "fit",
+       "w": 1170
+      },
+      "small": {
+       "h": 193,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/8fbMIVRUcN"
+    }
+   ],
+   "user_mentions": [
+    {
+     "id_str": "27098695",
+     "indices": [
+      20,
+      30
+     ],
+     "name": "Sleeper",
+     "screen_name": "SleeperHQ"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HXGBU3PXsAA0vHD.jpg",
+   "https://pbs.twimg.com/media/HXGBU3PWUAA87v9.jpg",
+   "https://pbs.twimg.com/media/HXGBU3SWoAAjjDV.jpg",
+   "https://pbs.twimg.com/media/HXGBU3PWwAIYA_h.jpg"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121109107532833275",
+  "url": "https://x.com/GuruFantasyWrld/status/2121109107532833275",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2121109107532833275",
+  "text": "Let\u2019s be honest about Jayden Daniels.\n\nHis team\u2019s starting RB hasn\u2019t eclipsed 850 rushing yards going on 3 seasons now.\n\nHis WR1 targets (Terry, Deebo, Diggs) have all been Age 29+; 30+ the past 2 years.\n\nHis team has not drafted a WR higher than RD3.\n\nThe only TE they\u2019ve drafted (Ben Sinnott) has been a total bust.\n\nHis offensive-line has ranked outside the Top-20 in Pass-Block Grade in 2/3 seasons.\n\nHe\u2019s gotten very little help.",
+  "fullText": "Let\u2019s be honest about Jayden Daniels.\n\nHis team\u2019s starting RB hasn\u2019t eclipsed 850 rushing yards going on 3 seasons now.\n\nHis WR1 targets (Terry, Deebo, Diggs) have all been Age 29+; 30+ the past 2 years.\n\nHis team has not drafted a WR higher than RD3.\n\nThe only TE they\u2019ve drafted",
+  "source": "",
+  "retweetCount": 110,
+  "replyCount": 40,
+  "likeCount": 1951,
+  "quoteCount": 12,
+  "viewCount": 140101,
+  "createdAt": "Fri Nov 13 05:13:14 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 132,
+  "isReply": false,
+  "conversationId": "2121109107532833275",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 83819,
+   "isTranslator": false,
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [],
+   "symbols": [],
+   "urls": [],
+   "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121086382131265769",
+  "url": "https://x.com/GuruFantasyWrld/status/2121086382131265769",
+  "twitterUrl": "https://twitter.com/GuruFantasyWrld/status/2121086382131265769",
+  "text": "JJ McCarthy throwing TD\u2019s to Isaiah Likely while BAL &amp; MIN decided to keep Mark Andrews &amp; Kyler Murray instead.\n\nIt\u2019s almost poetic.",
+  "fullText": "JJ McCarthy throwing TD\u2019s to Isaiah Likely while BAL &amp; MIN decided to keep Mark Andrews &amp; Kyler Murray instead.\n\nIt\u2019s almost poetic.",
+  "source": "",
+  "retweetCount": 5,
+  "replyCount": 3,
+  "likeCount": 632,
+  "quoteCount": 0,
+  "viewCount": 21975,
+  "createdAt": "Fri Nov 13 03:42:56 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 11,
+  "isReply": false,
+  "conversationId": "2121086382131265769",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "GuruFantasyWrld",
+   "url": "https://x.com/GuruFantasyWrld",
+   "twitterUrl": "https://twitter.com/GuruFantasyWrld",
+   "id": "55166168",
+   "name": "David J. Gautieri",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1539605709989580800/a8BJqown_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/55166168/1655905596",
+   "description": "A Top TE Means More Than You Think, Write It On My Tombstone | Luther Burden Stan | Dynasty \u2764\ufe0f | Ageist | Creator of @GuruFFWrld",
+   "location": "GuruFantasyWorld.com",
+   "followers": 50829,
+   "following": 1440,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu Jul 09 06:46:03 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "Patreon.com/GuruFantasyWor\u2026",
+       "expanded_url": "http://Patreon.com/GuruFantasyWorld",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/W4BebDE0ID"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 83819,
+   "isTranslator": false,
+   "mediaCount": 4300,
+   "statusesCount": 45307,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "1751305543136772591"
+   ],
+   "professional": {
+    "category": [
+     {
+      "icon_name": "IconBriefcaseStroke",
+      "id": 1042,
+      "name": "Content Creator"
+     }
+    ],
+    "professional_type": "Business",
+    "rest_id": "1689040535741247763"
+   }
   },
   "extendedEntities": {},
   "card": {},
