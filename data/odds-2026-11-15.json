@@ -60,16 +60,16 @@
   {
    "game": "SEA @ LV",
    "date": "2026-11-15T21:05Z",
-   "spread": "SEA -6.5",
-   "over_under": 40.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "LAR @ ARI",
    "date": "2026-11-15T21:05Z",
-   "spread": "LAR -10",
-   "over_under": 38.5,
-   "provider": "DraftKings"
+   "spread": null,
+   "over_under": null,
+   "provider": null
   },
   {
    "game": "SF @ DAL",
