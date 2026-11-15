@@ -87,7 +87,12 @@ injury wire). Never paraphrase what a linked website says when a tweet exists.
    lean. Any player who FLIPS when the ~11:30 ET official inactives post gets
    trued up in the Trophy Room Discord (Chris posts; the session supplies the
    flip list from the post-officials sweeps). The issue's wire intro tells
-   readers to watch the Discord for the true-up. Format: a TABLE: Player | Status | Injury |
+   readers to watch the Discord for the true-up. **After every true-up sweep
+   (Chris, 11/15): the working paste file is re-delivered with the wire
+   section's surrounding text (intro, alt text, pending-by-window line) AND
+   the letter-body changelog applied — the hosted PNG updating is not enough,
+   because the paste file is what Chris sends from. The ◆ FINAL from the test
+   email remains a separate, additional pass.** Format: a TABLE: Player | Status | Injury |
    Prognosis, sorted by fantasy relevance; offense only; skip pre-existing
    season-enders. **Rendering:** Substack has no native tables and its LaTeX
    block is single-line MathJax, so the wire ships as an image. Source of
