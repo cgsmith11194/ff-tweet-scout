@@ -11,7 +11,7 @@
 #   - Locked rows first, not-locked rows last (renderer draws the divider).
 #   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 10 — 2026-11-15 — EXPECTED wire (byes: CHI, DEN, PHI, TB; WAS-NYG played Thu; NE-DET in Munich kicked 9:30 ET)
+# WEEK 10 — 2026-11-15 — FINAL wire, 12:00 ET (1:00 slate official) (byes: CHI, DEN, PHI, TB; WAS-NYG played Thu; NE-DET in Munich kicked 9:30 ET)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@
 | Davante Adams | WR · LAR | OUT | Hamstring (IR) | McVay points to after the Week 12 Packers game - Higbee and Parkinson carry the TE-heavy tree |
 | Terrance Ferguson | TE · LAR | OUT | Hamstring - ankle | Out again |
 | Andrei Iosivas | WR · CIN | OUT | Thumb | Downgraded to out for Sunday night |
-| Garrett Wilson | WR · NYJ | EXP IN | Concussion | Full Friday practice, trending the right way - locks ~11:30 |
-| Tyjae Spears | RB · TEN | EXP IN | Knee | Expected to play per Fowler - locks ~11:30 |
-| Travis Etienne | RB · NO | EXP IN | Hamstring | Activated from IR Saturday, in line to play per Pelissero - locks ~11:30 |
-| Denzel Boston | WR · CLE | EXP IN | Toe | Expected to play per Fowler - locks ~11:30 |
-| Jordan Addison | WR · MIN | PENDING | Thumb | Added to the report Friday, no lean public - locks ~11:30 |
+| Garrett Wilson | WR · NYJ | IN | Concussion | Cleared protocol - "will play" per Rapoport |
+| Tyjae Spears | RB · TEN | IN | Knee | Officially active vs Jacksonville |
+| Travis Etienne | RB · NO | IN | Hamstring | Officially active - first game since Week 3 |
+| Denzel Boston | WR · CLE | IN | Toe | Officially active vs Houston |
+| Jordan Addison | WR · MIN | OUT | Thumb | Officially inactive - the Cousins debut loses another weapon |
 | Pat Freiermuth | TE · PIT | PENDING | Illness | Late add, warm-up call - SNF actives ~6:50 |
 | Ladd McConkey | WR · LAC | PENDING | Back | Did not practice Friday, no status given - Monday actives ~6:50 |
 | David Njoku | TE · LAC | PENDING | Fibula | Questionable for Monday night - actives ~6:50 |
