@@ -1,2187 +1,1307 @@
 [
  {
   "type": "tweet",
-  "id": "2121644365244223768",
-  "url": "https://x.com/LateRoundQB/status/2121644365244223768",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2121644365244223768",
-  "text": "The ZAP Model adored Emmett Johnson. Can\u2019t wait to see him as a featured back on Sunday.",
-  "fullText": "The ZAP Model adored Emmett Johnson. Can\u2019t wait to see him as a featured back on Sunday.",
+  "id": "2122003653762400289",
+  "url": "https://x.com/UnderdogNFL/status/2122003653762400289",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122003653762400289",
+  "text": "AJ Brown so far:\n\n4 targets\n0 receptions\n0 yards\n1 drop\n1 false start on 3rd down",
+  "fullText": "AJ Brown so far:\n\n4 targets\n0 receptions\n0 yards\n1 drop\n1 false start on 3rd down",
   "source": "",
-  "retweetCount": 0,
-  "replyCount": 8,
-  "likeCount": 238,
-  "quoteCount": 0,
-  "viewCount": 29224,
-  "createdAt": "Sat Nov 14 16:40:09 +0000 2026",
+  "retweetCount": 10,
+  "replyCount": 16,
+  "likeCount": 113,
+  "quoteCount": 5,
+  "viewCount": 15625,
+  "createdAt": "Sun Nov 15 16:27:50 +0000 2026",
   "lang": "en",
-  "quoteId": "2121641748015513948",
-  "bookmarkCount": 2,
+  "bookmarkCount": 1,
   "isReply": false,
-  "conversationId": "2121644365244223768",
+  "conversationId": "2122003653762400289",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
    "isVerified": false,
+   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
    "location": "",
-   "followers": 237778,
-   "following": 976,
+   "followers": 432659,
+   "following": 12,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/gGsrTQey7m"
+       "url": "https://t.co/3wHuxASkII"
       }
      ]
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
+   "favouritesCount": 10,
    "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
   "entities": {},
   "isRetweet": false,
-  "isQuote": true,
-  "quote": {
-   "type": "tweet",
-   "id": "2121641748015513948",
-   "text": "Chiefs are going to hold out RB Kenneth Walker for Sunday\u2019s game at Atlanta after he injured his groin during Thursday\u2019s practice, per source. The Chiefs, in the words of a source, \u201cwant to give him a week.\u201d https://t.co/aA54MxDIpd",
-   "source": "",
-   "retweetCount": 400,
-   "replyCount": 232,
-   "likeCount": 7794,
-   "quoteCount": 325,
-   "viewCount": 1844788,
-   "createdAt": "Sat Nov 14 16:29:45 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 170,
-   "possiblySensitive": false,
-   "author": {
-    "type": "user",
-    "userName": "AdamSchefter",
-    "url": "https://x.com/AdamSchefter",
-    "twitterUrl": "https://twitter.com/AdamSchefter",
-    "id": "51263592",
-    "name": "Adam Schefter",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
-    "description": "ESPN Senior NFL Insider. Host of the Adam Schefter Podcast https://t.co/Rrty23Lfn7",
-    "location": "New York",
-    "followers": 11878943,
-    "following": 4104,
-    "protected": false,
-    "status": "",
-    "canDm": false,
-    "canMediaTag": true,
-    "createdAt": "Fri Jun 26 22:55:28 +0000 2009",
-    "entities": {
-     "description": {
-      "urls": [
-       {
-        "display_url": "Instagram.com/AdamSchefter",
-        "expanded_url": "http://Instagram.com/AdamSchefter",
-        "indices": [
-         59,
-         82
-        ],
-        "url": "https://t.co/Rrty23Lfn7"
-       }
-      ]
-     },
-     "url": {
-      "urls": [
-       {
-        "display_url": "espn.smart.link/p68e9wvbd",
-        "expanded_url": "https://espn.smart.link/p68e9wvbd",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/XrpOlYiRin"
-       }
-      ]
-     }
-    },
-    "fastFollowersCount": 0,
-    "favouritesCount": 1046,
-    "hasCustomTimelines": true,
-    "isTranslator": false,
-    "mediaCount": 9955,
-    "statusesCount": 89682,
-    "affiliatesHighlightedLabel": {},
-    "possiblySensitive": false
-   },
-   "extendedEntities": {
-    "media": [
-     {
-      "display_url": "pic.x.com/aA54MxDIpd",
-      "expanded_url": "https://x.com/AdamSchefter/status/2121641748015513948/photo/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "features": {
-       "large": {
-        "faces": []
-       },
-       "medium": {
-        "faces": []
-       },
-       "orig": {
-        "faces": []
-       },
-       "small": {
-        "faces": []
-       }
-      },
-      "id_str": "2121641744601104385",
-      "indices": [
-       208,
-       231
-      ],
-      "media_key": "3_2121641744601104385",
-      "media_results": {
-       "result": {
-        "media_key": "3_2121641744601104385"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/media/HXGV7P-WwAE8ZOh.jpg",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 343,
-         "w": 612,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 408,
-         "w": 408,
-         "x": 86,
-         "y": 0
-        },
-        {
-         "h": 408,
-         "w": 358,
-         "x": 111,
-         "y": 0
-        },
-        {
-         "h": 408,
-         "w": 204,
-         "x": 188,
-         "y": 0
-        },
-        {
-         "h": 408,
-         "w": 612,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 408,
-       "width": 612
-      },
-      "sizes": {
-       "large": {
-        "h": 408,
-        "resize": "fit",
-        "w": 612
-       },
-       "medium": {
-        "h": 408,
-        "resize": "fit",
-        "w": 612
-       },
-       "small": {
-        "h": 408,
-        "resize": "fit",
-        "w": 612
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/aA54MxDIpd"
-     }
-    ]
-   },
-   "card": {},
-   "place": {},
-   "entities": {
-    "media": [
-     {
-      "display_url": "pic.x.com/aA54MxDIpd",
-      "expanded_url": "https://x.com/AdamSchefter/status/2121641748015513948/photo/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "features": {
-       "large": {
-        "faces": []
-       },
-       "medium": {
-        "faces": []
-       },
-       "orig": {
-        "faces": []
-       },
-       "small": {
-        "faces": []
-       }
-      },
-      "id_str": "2121641744601104385",
-      "indices": [
-       208,
-       231
-      ],
-      "media_key": "3_2121641744601104385",
-      "media_results": {
-       "result": {
-        "media_key": "3_2121641744601104385"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/media/HXGV7P-WwAE8ZOh.jpg",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 343,
-         "w": 612,
-         "x": 0,
-         "y": 0
-        },
-        {
-         "h": 408,
-         "w": 408,
-         "x": 86,
-         "y": 0
-        },
-        {
-         "h": 408,
-         "w": 358,
-         "x": 111,
-         "y": 0
-        },
-        {
-         "h": 408,
-         "w": 204,
-         "x": 188,
-         "y": 0
-        },
-        {
-         "h": 408,
-         "w": 612,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 408,
-       "width": 612
-      },
-      "sizes": {
-       "large": {
-        "h": 408,
-        "resize": "fit",
-        "w": 612
-       },
-       "medium": {
-        "h": 408,
-        "resize": "fit",
-        "w": 612
-       },
-       "small": {
-        "h": 408,
-        "resize": "fit",
-        "w": 612
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/aA54MxDIpd"
-     }
-    ]
-   }
-  },
+  "isQuote": false,
   "media": [],
   "videos": [],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2121301235382849580",
-  "url": "https://x.com/LateRoundQB/status/2121301235382849580",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2121301235382849580",
-  "text": "We're live with the Late-Round Show in 3 minutes. Join us: https://t.co/HphXaZCSpz",
-  "fullText": "We're live with the Late-Round Show in 3 minutes. Join us: https://t.co/HphXaZCSpz",
+  "id": "2122001903001186806",
+  "url": "https://x.com/UnderdogNFL/status/2122001903001186806",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122001903001186806",
+  "text": "Darlington: Chiefs believe Emmett Johnson is ready to take on Kenneth Walker's usual workload in Week 10.",
+  "fullText": "Darlington: Chiefs believe Emmett Johnson is ready to take on Kenneth Walker's usual workload in Week 10.",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 0,
-  "likeCount": 5,
-  "quoteCount": 0,
-  "viewCount": 18842,
-  "createdAt": "Fri Nov 13 17:56:41 +0000 2026",
+  "retweetCount": 13,
+  "replyCount": 8,
+  "likeCount": 269,
+  "quoteCount": 7,
+  "viewCount": 34986,
+  "createdAt": "Sun Nov 15 16:20:53 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 0,
+  "bookmarkCount": 6,
   "isReply": false,
-  "conversationId": "2121301235382849580",
-  "possiblySensitive": false,
+  "conversationId": "2122001903001186806",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
    "isVerified": false,
+   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
    "location": "",
-   "followers": 237778,
-   "following": 976,
+   "followers": 432659,
+   "following": 12,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/gGsrTQey7m"
+       "url": "https://t.co/3wHuxASkII"
       }
      ]
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
+   "favouritesCount": 10,
    "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
   },
   "extendedEntities": {},
-  "card": {
-   "legacy": {
-    "binding_values": [
-     {
-      "key": "photo_image_full_size_large",
-      "value": {
-       "image_value": {
-        "height": 419,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=800x419",
-        "width": 800
-       },
-       "type": "IMAGE"
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2122001675015590381",
+  "url": "https://x.com/UnderdogNFL/status/2122001675015590381",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122001675015590381",
+  "text": "Darlington: Josh Downs will play an immediate role in Chiefs offense.",
+  "fullText": "Darlington: Josh Downs will play an immediate role in Chiefs offense.",
+  "source": "",
+  "retweetCount": 10,
+  "replyCount": 14,
+  "likeCount": 171,
+  "quoteCount": 11,
+  "viewCount": 36842,
+  "createdAt": "Sun Nov 15 16:19:58 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2122001675015590381",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 432659,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 10,
+   "isTranslator": false,
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121997550752239714",
+  "url": "https://x.com/UnderdogNFL/status/2121997550752239714",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2121997550752239714",
+  "text": "Garafolo: Baker Mayfield uncertain for next week after suffering an injury to foot/ankle area.\n\nNot considered a long-term issue.",
+  "fullText": "Garafolo: Baker Mayfield uncertain for next week after suffering an injury to foot/ankle area.\n\nNot considered a long-term issue.",
+  "source": "",
+  "retweetCount": 12,
+  "replyCount": 18,
+  "likeCount": 201,
+  "quoteCount": 3,
+  "viewCount": 62783,
+  "createdAt": "Sun Nov 15 16:03:35 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 7,
+  "isReply": false,
+  "conversationId": "2121997550752239714",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 432659,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 10,
+   "isTranslator": false,
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121994248060817460",
+  "url": "https://x.com/UnderdogNFL/status/2121994248060817460",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2121994248060817460",
+  "text": "Jahmyr Gibbs:\n\n16 touches\n166 total yards\n1 TD\n\n.... it's not even halftime yet.",
+  "fullText": "Jahmyr Gibbs:\n\n16 touches\n166 total yards\n1 TD\n\n.... it's not even halftime yet.",
+  "source": "",
+  "retweetCount": 75,
+  "replyCount": 21,
+  "likeCount": 1110,
+  "quoteCount": 12,
+  "viewCount": 86556,
+  "createdAt": "Sun Nov 15 15:50:28 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 14,
+  "isReply": false,
+  "conversationId": "2121994248060817460",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 432659,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 10,
+   "isTranslator": false,
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121991079230853271",
+  "url": "https://x.com/UnderdogNFL/status/2121991079230853271",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2121991079230853271",
+  "text": "Status alert: Drake Maye (ankle) won't return Sunday.",
+  "fullText": "Status alert: Drake Maye (ankle) won't return Sunday.",
+  "source": "",
+  "retweetCount": 31,
+  "replyCount": 64,
+  "likeCount": 496,
+  "quoteCount": 48,
+  "viewCount": 131370,
+  "createdAt": "Sun Nov 15 15:37:52 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 10,
+  "isReply": false,
+  "conversationId": "2121991079230853271",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 432659,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 10,
+   "isTranslator": false,
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121990761554354213",
+  "url": "https://x.com/UnderdogNFL/status/2121990761554354213",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2121990761554354213",
+  "text": "Rap: Chiefs believe Kenneth Walker (groin) will be able to play next week as of now.\n\nHe's out for Week 10.",
+  "fullText": "Rap: Chiefs believe Kenneth Walker (groin) will be able to play next week as of now.\n\nHe's out for Week 10.",
+  "source": "",
+  "retweetCount": 33,
+  "replyCount": 19,
+  "likeCount": 692,
+  "quoteCount": 3,
+  "viewCount": 93734,
+  "createdAt": "Sun Nov 15 15:36:36 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 15,
+  "isReply": false,
+  "conversationId": "2121990761554354213",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 432659,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 10,
+   "isTranslator": false,
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2121987749507223953",
+  "url": "https://x.com/UnderdogNFL/status/2121987749507223953",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2121987749507223953",
+  "text": "Another AJ Brown drop\n\nhttps://t.co/d1Z7yUxW40",
+  "fullText": "Another AJ Brown drop\n\nhttps://t.co/d1Z7yUxW40",
+  "source": "",
+  "retweetCount": 122,
+  "replyCount": 133,
+  "likeCount": 2190,
+  "quoteCount": 115,
+  "viewCount": 221092,
+  "createdAt": "Sun Nov 15 15:24:38 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 88,
+  "isReply": false,
+  "conversationId": "2121987749507223953",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
+   "isVerified": false,
+   "verifiedType": "Business",
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+   "location": "",
+   "followers": 432659,
+   "following": 12,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/3wHuxASkII"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 10,
+   "isTranslator": false,
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+     },
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
+   },
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/d1Z7yUxW40",
+     "expanded_url": "https://x.com/AryePulliNFL/status/2121987644938961390/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2121987598340034560",
+     "indices": [
+      23,
+      46
+     ],
+     "media_key": "13_2121987598340034560",
+     "media_results": {
+      "result": {
+       "media_key": "13_2121987598340034560"
       }
      },
-     {
-      "key": "app_star_rating",
-      "value": {
-       "string_value": "4.66374",
-       "type": "STRING"
-      }
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2121987598340034560/img/SETjg2a3QxDkIEFj.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 1080,
+      "width": 1920
      },
-     {
-      "key": "thumbnail_image",
-      "value": {
-       "image_value": {
-        "height": 150,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=280x150",
-        "width": 267
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "description",
-      "value": {
-       "string_value": "JJ Zachariason (@LateroundQB on X) teams up with David Kitchen (@da...",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "domain",
-      "value": {
-       "string_value": "www.youtube.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "app_is_free",
-      "value": {
-       "string_value": "true",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_large",
-      "value": {
-       "image_value": {
-        "height": 320,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=800x320_1",
-        "width": 569
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "summary_photo_image_small",
-      "value": {
-       "image_value": {
-        "height": 202,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=386x202",
-        "width": 386
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_original",
-      "value": {
-       "image_value": {
-        "height": 720,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=orig",
-        "width": 1280
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "site",
-      "value": {
-       "scribe_key": "publisher_id",
-       "type": "USER",
-       "user_value": {
-        "id_str": "10228272",
-        "path": []
-       }
-      }
-     },
-     {
-      "key": "photo_image_full_size_small",
-      "value": {
-       "image_value": {
-        "height": 202,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=386x202",
-        "width": 386
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "summary_photo_image_large",
-      "value": {
-       "image_value": {
-        "height": 419,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=800x419",
-        "width": 800
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_small",
-      "value": {
-       "image_value": {
-        "height": 81,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=144x144",
-        "width": 144
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "app_num_ratings",
-      "value": {
-       "string_value": "49,875,901",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "app_price_amount",
-      "value": {
-       "string_value": "0.0",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_x_large",
-      "value": {
-       "image_value": {
-        "height": 720,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=png&name=2048x2048_2_exp",
-        "width": 1280
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "photo_image_full_size_original",
-      "value": {
-       "image_value": {
-        "height": 720,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=orig",
-        "width": 1280
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "vanity_url",
-      "value": {
-       "scribe_key": "vanity_url",
-       "string_value": "youtube.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "photo_image_full_size",
-      "value": {
-       "image_value": {
-        "height": 314,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=600x314",
-        "width": 600
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "app_name",
-      "value": {
-       "string_value": "YouTube",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_color",
-      "value": {
-       "image_color_value": {
-        "palette": [
-         {
-          "percentage": 32.78,
-          "rgb": {
-           "blue": 205,
-           "green": 216,
-           "red": 220
-          }
-         },
-         {
-          "percentage": 17.5,
-          "rgb": {
-           "blue": 108,
-           "green": 118,
-           "red": 123
-          }
-         },
-         {
-          "percentage": 14.56,
-          "rgb": {
-           "blue": 35,
-           "green": 31,
-           "red": 27
-          }
-         },
-         {
-          "percentage": 11.11,
-          "rgb": {
-           "blue": 72,
-           "green": 235,
-           "red": 1
-          }
-         },
-         {
-          "percentage": 3.45,
-          "rgb": {
-           "blue": 21,
-           "green": 205,
-           "red": 245
-          }
-         }
-        ]
-       },
-       "type": "IMAGE_COLOR"
-      }
-     },
-     {
-      "key": "title",
-      "value": {
-       "string_value": "Week 10 Bold Predictions and More: The Late-Round Fantasy Football Show",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "app_price_currency",
-      "value": {
-       "string_value": "USD",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "summary_photo_image_color",
-      "value": {
-       "image_color_value": {
-        "palette": [
-         {
-          "percentage": 32.78,
-          "rgb": {
-           "blue": 205,
-           "green": 216,
-           "red": 220
-          }
-         },
-         {
-          "percentage": 17.5,
-          "rgb": {
-           "blue": 108,
-           "green": 118,
-           "red": 123
-          }
-         },
-         {
-          "percentage": 14.56,
-          "rgb": {
-           "blue": 35,
-           "green": 31,
-           "red": 27
-          }
-         },
-         {
-          "percentage": 11.11,
-          "rgb": {
-           "blue": 72,
-           "green": 235,
-           "red": 1
-          }
-         },
-         {
-          "percentage": 3.45,
-          "rgb": {
-           "blue": 21,
-           "green": 205,
-           "red": 245
-          }
-         }
-        ]
-       },
-       "type": "IMAGE_COLOR"
-      }
-     },
-     {
-      "key": "summary_photo_image_x_large",
-      "value": {
-       "image_value": {
-        "height": 720,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=png&name=2048x2048_2_exp",
-        "width": 1280
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "summary_photo_image",
-      "value": {
-       "image_value": {
-        "height": 314,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=600x314",
-        "width": 600
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "photo_image_full_size_color",
-      "value": {
-       "image_color_value": {
-        "palette": [
-         {
-          "percentage": 32.78,
-          "rgb": {
-           "blue": 205,
-           "green": 216,
-           "red": 220
-          }
-         },
-         {
-          "percentage": 17.5,
-          "rgb": {
-           "blue": 108,
-           "green": 118,
-           "red": 123
-          }
-         },
-         {
-          "percentage": 14.56,
-          "rgb": {
-           "blue": 35,
-           "green": 31,
-           "red": 27
-          }
-         },
-         {
-          "percentage": 11.11,
-          "rgb": {
-           "blue": 72,
-           "green": 235,
-           "red": 1
-          }
-         },
-         {
-          "percentage": 3.45,
-          "rgb": {
-           "blue": 21,
-           "green": 205,
-           "red": 245
-          }
-         }
-        ]
-       },
-       "type": "IMAGE_COLOR"
-      }
-     },
-     {
-      "key": "photo_image_full_size_x_large",
-      "value": {
-       "image_value": {
-        "height": 720,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=png&name=2048x2048_2_exp",
-        "width": 1280
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "card_url",
-      "value": {
-       "scribe_key": "card_url",
-       "string_value": "https://t.co/HphXaZCSpz",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "summary_photo_image_original",
-      "value": {
-       "image_value": {
-        "height": 720,
-        "url": "https://pbs.twimg.com/card_img/2121301236498444288/wr6gZ5qB?format=jpg&name=orig",
-        "width": 1280
-       },
-       "type": "IMAGE"
-      }
-     }
-    ],
-    "card_platform": {
-     "platform": {
-      "audience": {
-       "name": "production"
+     "sizes": {
+      "large": {
+       "h": 1080,
+       "resize": "fit",
+       "w": 1920
       },
-      "device": {
-       "name": "Swift",
-       "version": "12"
+      "medium": {
+       "h": 675,
+       "resize": "fit",
+       "w": 1200
+      },
+      "small": {
+       "h": 383,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
       }
-     }
-    },
-    "name": "summary_large_image",
-    "url": "https://t.co/HphXaZCSpz",
-    "user_refs_results": [
-     {
+     },
+     "source_status_id_str": "2121987644938961390",
+     "source_user_id_str": "1570440574070669313",
+     "source_user_results": {
       "result": {
        "__typename": "User",
-       "affiliates_highlighted_label": {},
+       "action_counts": {
+        "favorites_count": 14004
+       },
+       "affiliates_highlighted_label": {
+        "label": {
+         "badge": {
+          "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+         },
+         "description": "Underdog",
+         "url": {
+          "url": "https://twitter.com/Underdog",
+          "urlType": "DeepLink"
+         },
+         "userLabelDisplayType": "Badge",
+         "userLabelType": "BusinessLabel"
+        }
+       },
+       "avatar": {
+        "image_url": "https://pbs.twimg.com/profile_images/1974234137947938816/C4uKoqCO_normal.jpg"
+       },
+       "banner": {
+        "image_url": "https://pbs.twimg.com/profile_banners/1570440574070669313/1735500793"
+       },
+       "core": {
+        "created_at": "Thu Sep 15 15:53:12 +0000 2022",
+        "name": "Arye Pulli",
+        "screen_name": "AryePulliNFL"
+       },
+       "follow_request_sent": false,
        "has_graduated_access": true,
-       "id": "VXNlcjoxMDIyODI3Mg==",
+       "id": "VXNlcjoxNTcwNDQwNTc0MDcwNjY5MzEz",
        "is_blue_verified": true,
-       "legacy": {
-        "blocked_by": false,
-        "blocking": false,
-        "can_dm": false,
-        "can_media_tag": true,
-        "created_at": "Tue Nov 13 21:43:46 +0000 2007",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "like and subscribe",
+       "location": {
+        "location": "New York"
+       },
+       "media_permissions": {
+        "can_media_tag": true
+       },
+       "notifications_settings": {
+        "notifications_enabled": false
+       },
+       "parody_commentary_fan_label": "None",
+       "pinned_items": {
+        "tweet_ids_str": [
+         "2020224927475921033"
+        ]
+       },
+       "possibly_sensitive": false,
+       "privacy": {
+        "protected": false
+       },
+       "professional": {
+        "category": [],
+        "professional_type": "Creator",
+        "rest_id": "1592913544948981760"
+       },
+       "profile_bio": {
+        "description": "NFL Reporter @UnderdogNFL | @TheSaintsWire (USA TODAY) + @BengalsTalkSI (Sports Illustrated) | @PFWAWriters | \nNews/tips: DM or email apulli.tsp@gmail.com",
         "entities": {
          "description": {},
          "url": {
           "urls": [
            {
-            "display_url": "youtube.com",
-            "expanded_url": "http://youtube.com/",
+            "display_url": "link.me/aryepulli",
+            "expanded_url": "https://link.me/aryepulli",
             "indices": [
              0,
              23
             ],
-            "url": "https://t.co/GIOK0JwagA"
+            "url": "https://t.co/IJOtFwoNNB"
            }
           ]
          }
-        },
-        "fast_followers_count": 0,
-        "favourites_count": 6018,
-        "follow_request_sent": false,
-        "followed_by": false,
-        "followers_count": 68708988,
-        "following": false,
-        "friends_count": 1140,
-        "has_custom_timelines": true,
-        "is_translator": false,
-        "listed_count": 73815,
-        "location": "San Bruno, CA",
-        "media_count": 16217,
-        "muting": false,
-        "name": "YouTube",
-        "needs_phone_verification": false,
-        "normal_followers_count": 68708988,
-        "notifications": false,
-        "pinned_tweet_ids_str": [
-         "2102412606308757511"
-        ],
-        "possibly_sensitive": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1794339718",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1984471345854566400/5pd8GpgC_normal.jpg",
-        "profile_interstitial_type": "",
-        "protected": false,
-        "screen_name": "YouTube",
-        "statuses_count": 61691,
-        "time_zone": "",
-        "translator_type": "regular",
-        "url": "https://t.co/GIOK0JwagA",
-        "utc_offset": 0,
-        "verified": false,
-        "verified_type": "Business",
-        "want_retweets": false,
-        "withheld_description": "",
-        "withheld_scope": ""
+        }
        },
-       "profile_image_shape": "Square",
-       "rest_id": "10228272",
+       "profile_description_language": "en",
+       "profile_image_shape": "Circle",
+       "profile_metadata": {
+        "profile_interstitial_type": ""
+       },
+       "profile_translation": {
+        "translator_type": "none"
+       },
+       "relationship_counts": {
+        "followers": 11600,
+        "following": 5712
+       },
+       "relationship_perspectives": {
+        "blocked_by": false,
+        "blocking": false,
+        "followed_by": false,
+        "following": false,
+        "live_following": false,
+        "muting": false
+       },
+       "rest_id": "1570440574070669313",
        "super_follow_eligible": false,
        "super_followed_by": false,
        "super_following": false,
-       "tipjar_settings": {}
-      }
-     }
-    ]
-   },
-   "rest_id": "https://t.co/HphXaZCSpz"
-  },
-  "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "youtube.com/watch?v=No4eQd\u2026",
-     "expanded_url": "https://www.youtube.com/watch?v=No4eQdCAXpY",
-     "indices": [
-      59,
-      82
-     ],
-     "url": "https://t.co/HphXaZCSpz"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2121284426399453458",
-  "url": "https://x.com/LateRoundQB/status/2121284426399453458",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2121284426399453458",
-  "text": "Always love doing shows with @peteroverzet, and this week\u2019s Perspectives was no different. We chat trade deadline, injuries, Pete\u2019s crazy journey in the space, and so much more.\n\nListen: https://t.co/cXoE6p4nc8\n\nWatch: https://t.co/zklCOmegBi",
-  "fullText": "Always love doing shows with @peteroverzet, and this week\u2019s Perspectives was no different. We chat trade deadline, injuries, Pete\u2019s crazy journey in the space, and so much more.\n\nListen: https://t.co/cXoE6p4nc8\n\nWatch: https://t.co/zklCOmegBi",
-  "source": "",
-  "retweetCount": 3,
-  "replyCount": 4,
-  "likeCount": 24,
-  "quoteCount": 0,
-  "viewCount": 12510,
-  "createdAt": "Fri Nov 13 16:49:53 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 2,
-  "isReply": false,
-  "conversationId": "2121284426399453458",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237778,
-   "following": 976,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {
-   "legacy": {
-    "binding_values": [
-     {
-      "key": "thumbnail_image",
-      "value": {
-       "image_value": {
-        "height": 144,
-        "url": "https://pbs.twimg.com/card_img/2121284427754225664/HzWmlim_?format=jpg&name=144x144_2",
-        "width": 144
+       "tipjar_settings": {},
+       "tweet_counts": {
+        "media_tweets": 9110,
+        "tweets": 15881
        },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "description",
-      "value": {
-       "string_value": "The Late-Round Fantasy Football Podcast \u00b7 Episode",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "domain",
-      "value": {
-       "string_value": "open.spotify.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_large",
-      "value": {
-       "image_value": {
-        "height": 420,
-        "url": "https://pbs.twimg.com/card_img/2121284427754225664/HzWmlim_?format=jpg&name=420x420_2",
-        "width": 420
+       "verification": {
+        "verified": false
        },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_original",
-      "value": {
-       "image_value": {
-        "height": 640,
-        "url": "https://pbs.twimg.com/card_img/2121284427754225664/HzWmlim_?format=jpg&name=orig",
-        "width": 640
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "site",
-      "value": {
-       "scribe_key": "publisher_id",
-       "type": "USER",
-       "user_value": {
-        "id_str": "17230018",
-        "path": []
+       "website": {
+        "url": "https://t.co/IJOtFwoNNB"
        }
       }
      },
-     {
-      "key": "thumbnail_image_small",
-      "value": {
-       "image_value": {
-        "height": 100,
-        "url": "https://pbs.twimg.com/card_img/2121284427754225664/HzWmlim_?format=jpg&name=100x100_2",
-        "width": 100
+     "type": "video",
+     "url": "https://t.co/d1Z7yUxW40",
+     "video_info": {
+      "aspect_ratio": [
+       16,
+       9
+      ],
+      "duration_millis": 5889,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/pl/bYVagPy1F2hLX0G8.m3u8?tag=29"
        },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_x_large",
-      "value": {
-       "image_value": {
-        "height": 640,
-        "url": "https://pbs.twimg.com/card_img/2121284427754225664/HzWmlim_?format=png&name=2048x2048_2_exp",
-        "width": 640
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/480x270/JkVZOQcE0w1YnGBC.mp4?tag=29"
        },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "vanity_url",
-      "value": {
-       "scribe_key": "vanity_url",
-       "string_value": "open.spotify.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_color",
-      "value": {
-       "image_color_value": {
-        "palette": [
-         {
-          "percentage": 22.05,
-          "rgb": {
-           "blue": 131,
-           "green": 52,
-           "red": 242
-          }
-         },
-         {
-          "percentage": 16.07,
-          "rgb": {
-           "blue": 235,
-           "green": 247,
-           "red": 247
-          }
-         },
-         {
-          "percentage": 12.57,
-          "rgb": {
-           "blue": 63,
-           "green": 75,
-           "red": 236
-          }
-         },
-         {
-          "percentage": 12.35,
-          "rgb": {
-           "blue": 37,
-           "green": 35,
-           "red": 41
-          }
-         },
-         {
-          "percentage": 3.69,
-          "rgb": {
-           "blue": 101,
-           "green": 255,
-           "red": 90
-          }
-         }
-        ]
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/640x360/7f7n0V9l0i57VXAZ.mp4?tag=29"
        },
-       "type": "IMAGE_COLOR"
-      }
-     },
-     {
-      "key": "title",
-      "value": {
-       "string_value": "Late-Round Perspectives: Peter Overzet",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "card_url",
-      "value": {
-       "scribe_key": "card_url",
-       "string_value": "https://t.co/cXoE6p4nc8",
-       "type": "STRING"
-      }
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/1280x720/-pHU2FMNEmgT2-4Q.mp4?tag=29"
+       },
+       {
+        "bitrate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/1920x1080/_pMX-bNJJqZByIRq.mp4?tag=29"
+       }
+      ]
      }
-    ],
-    "card_platform": {
-     "platform": {
-      "audience": {
-       "name": "production"
-      },
-      "device": {
-       "name": "Swift",
-       "version": "12"
-      }
-     }
-    },
-    "name": "summary",
-    "url": "https://t.co/cXoE6p4nc8",
-    "user_refs_results": [
-     {
-      "result": {
-       "__typename": "User",
-       "affiliates_highlighted_label": {},
-       "has_graduated_access": true,
-       "id": "VXNlcjoxNzIzMDAxOA==",
-       "is_blue_verified": true,
-       "legacy": {
-        "blocked_by": false,
-        "blocking": false,
-        "can_dm": false,
-        "can_media_tag": true,
-        "created_at": "Fri Nov 07 12:14:28 +0000 2008",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "your fall listening arc starts here",
-        "entities": {
-         "description": {}
-        },
-        "fast_followers_count": 0,
-        "favourites_count": 19195,
-        "follow_request_sent": false,
-        "followed_by": false,
-        "followers_count": 21742030,
-        "following": false,
-        "friends_count": 15535,
-        "has_custom_timelines": true,
-        "is_translator": false,
-        "listed_count": 16566,
-        "location": "",
-        "media_count": 11808,
-        "muting": false,
-        "name": "Spotify",
-        "needs_phone_verification": false,
-        "normal_followers_count": 21742030,
-        "notifications": false,
-        "possibly_sensitive": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1767711221",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1793315484961591301/DiEXUJEV_normal.jpg",
-        "profile_interstitial_type": "",
-        "protected": false,
-        "screen_name": "Spotify",
-        "statuses_count": 51493,
-        "time_zone": "",
-        "translator_type": "none",
-        "url": "",
-        "utc_offset": 0,
-        "verified": false,
-        "verified_type": "Business",
-        "want_retweets": false,
-        "withheld_description": "",
-        "withheld_scope": ""
-       },
-       "profile_image_shape": "Square",
-       "rest_id": "17230018",
-       "super_follow_eligible": false,
-       "super_followed_by": false,
-       "super_following": false,
-       "tipjar_settings": {}
-      }
-     }
-    ]
-   },
-   "rest_id": "https://t.co/cXoE6p4nc8"
+    }
+   ]
+  },
+  "card": {
+   "rest_id": "https://t.co/d1Z7yUxW40"
   },
   "place": {},
   "entities": {
-   "urls": [
+   "media": [
     {
-     "display_url": "open.spotify.com/episode/59NNup\u2026",
-     "expanded_url": "https://open.spotify.com/episode/59NNupbbOTGcQKEXQc0OWh?si=H2ukEI47QZS1E8B-C68kNg&utm_source=copy-link",
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "allow_download_status": {
+      "allow_download": true
+     },
+     "display_url": "pic.x.com/d1Z7yUxW40",
+     "expanded_url": "https://x.com/AryePulliNFL/status/2121987644938961390/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2121987598340034560",
      "indices": [
-      187,
-      210
+      23,
+      46
      ],
-     "url": "https://t.co/cXoE6p4nc8"
-    },
-    {
-     "display_url": "m.youtube.com/watch?v=pK0yZa\u2026",
-     "expanded_url": "https://m.youtube.com/watch?v=pK0yZaJujmQ&ra=m",
-     "indices": [
-      219,
-      242
-     ],
-     "url": "https://t.co/zklCOmegBi"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "21277939",
-     "indices": [
-      29,
-      42
-     ],
-     "name": "peter overzet",
-     "screen_name": "peteroverzet"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2120528001800798691",
-  "url": "https://x.com/LateRoundQB/status/2120528001800798691",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2120528001800798691",
-  "text": "Quinshon Judkins' usage, the Rams backfield, and more on this week's 10 Trends episode: https://t.co/6Bfvr2QMjB",
-  "fullText": "Quinshon Judkins' usage, the Rams backfield, and more on this week's 10 Trends episode: https://t.co/6Bfvr2QMjB",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 1,
-  "likeCount": 27,
-  "quoteCount": 0,
-  "viewCount": 14572,
-  "createdAt": "Wed Nov 11 14:44:07 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 5,
-  "isReply": false,
-  "conversationId": "2120528001800798691",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237778,
-   "following": 976,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
+     "media_key": "13_2121987598340034560",
+     "media_results": {
+      "result": {
+       "media_key": "13_2121987598340034560"
       }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {
-   "legacy": {
-    "binding_values": [
-     {
-      "key": "thumbnail_image",
-      "value": {
-       "image_value": {
-        "height": 144,
-        "url": "https://pbs.twimg.com/card_img/2120528044104540160/lDVAvPpy?format=jpg&name=144x144_2",
-        "width": 144
+     },
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2121987598340034560/img/SETjg2a3QxDkIEFj.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 1080,
+      "width": 1920
+     },
+     "sizes": {
+      "large": {
+       "h": 1080,
+       "resize": "fit",
+       "w": 1920
+      },
+      "medium": {
+       "h": 675,
+       "resize": "fit",
+       "w": 1200
+      },
+      "small": {
+       "h": 383,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "source_status_id_str": "2121987644938961390",
+     "source_user_id_str": "1570440574070669313",
+     "source_user_results": {
+      "result": {
+       "__typename": "User",
+       "action_counts": {
+        "favorites_count": 14004
        },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "description",
-      "value": {
-       "string_value": "The Late-Round Fantasy Football Podcast \u00b7 Episode",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "domain",
-      "value": {
-       "string_value": "open.spotify.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_large",
-      "value": {
-       "image_value": {
-        "height": 420,
-        "url": "https://pbs.twimg.com/card_img/2120528044104540160/lDVAvPpy?format=jpg&name=420x420_2",
-        "width": 420
+       "affiliates_highlighted_label": {
+        "label": {
+         "badge": {
+          "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+         },
+         "description": "Underdog",
+         "url": {
+          "url": "https://twitter.com/Underdog",
+          "urlType": "DeepLink"
+         },
+         "userLabelDisplayType": "Badge",
+         "userLabelType": "BusinessLabel"
+        }
        },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_original",
-      "value": {
-       "image_value": {
-        "height": 640,
-        "url": "https://pbs.twimg.com/card_img/2120528044104540160/lDVAvPpy?format=jpg&name=orig",
-        "width": 640
+       "avatar": {
+        "image_url": "https://pbs.twimg.com/profile_images/1974234137947938816/C4uKoqCO_normal.jpg"
        },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "site",
-      "value": {
-       "scribe_key": "publisher_id",
-       "type": "USER",
-       "user_value": {
-        "id_str": "17230018",
-        "path": []
+       "banner": {
+        "image_url": "https://pbs.twimg.com/profile_banners/1570440574070669313/1735500793"
+       },
+       "core": {
+        "created_at": "Thu Sep 15 15:53:12 +0000 2022",
+        "name": "Arye Pulli",
+        "screen_name": "AryePulliNFL"
+       },
+       "follow_request_sent": false,
+       "has_graduated_access": true,
+       "id": "VXNlcjoxNTcwNDQwNTc0MDcwNjY5MzEz",
+       "is_blue_verified": true,
+       "location": {
+        "location": "New York"
+       },
+       "media_permissions": {
+        "can_media_tag": true
+       },
+       "notifications_settings": {
+        "notifications_enabled": false
+       },
+       "parody_commentary_fan_label": "None",
+       "pinned_items": {
+        "tweet_ids_str": [
+         "2020224927475921033"
+        ]
+       },
+       "possibly_sensitive": false,
+       "privacy": {
+        "protected": false
+       },
+       "professional": {
+        "category": [],
+        "professional_type": "Creator",
+        "rest_id": "1592913544948981760"
+       },
+       "profile_bio": {
+        "description": "NFL Reporter @UnderdogNFL | @TheSaintsWire (USA TODAY) + @BengalsTalkSI (Sports Illustrated) | @PFWAWriters | \nNews/tips: DM or email apulli.tsp@gmail.com",
+        "entities": {
+         "description": {},
+         "url": {
+          "urls": [
+           {
+            "display_url": "link.me/aryepulli",
+            "expanded_url": "https://link.me/aryepulli",
+            "indices": [
+             0,
+             23
+            ],
+            "url": "https://t.co/IJOtFwoNNB"
+           }
+          ]
+         }
+        }
+       },
+       "profile_description_language": "en",
+       "profile_image_shape": "Circle",
+       "profile_metadata": {
+        "profile_interstitial_type": ""
+       },
+       "profile_translation": {
+        "translator_type": "none"
+       },
+       "relationship_counts": {
+        "followers": 11600,
+        "following": 5712
+       },
+       "relationship_perspectives": {
+        "blocked_by": false,
+        "blocking": false,
+        "followed_by": false,
+        "following": false,
+        "live_following": false,
+        "muting": false
+       },
+       "rest_id": "1570440574070669313",
+       "super_follow_eligible": false,
+       "super_followed_by": false,
+       "super_following": false,
+       "tipjar_settings": {},
+       "tweet_counts": {
+        "media_tweets": 9110,
+        "tweets": 15881
+       },
+       "verification": {
+        "verified": false
+       },
+       "website": {
+        "url": "https://t.co/IJOtFwoNNB"
        }
       }
      },
-     {
-      "key": "thumbnail_image_small",
-      "value": {
-       "image_value": {
-        "height": 100,
-        "url": "https://pbs.twimg.com/card_img/2120528044104540160/lDVAvPpy?format=jpg&name=100x100_2",
-        "width": 100
+     "type": "video",
+     "url": "https://t.co/d1Z7yUxW40",
+     "video_info": {
+      "aspect_ratio": [
+       16,
+       9
+      ],
+      "duration_millis": 5889,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/pl/bYVagPy1F2hLX0G8.m3u8?tag=29"
        },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_x_large",
-      "value": {
-       "image_value": {
-        "height": 640,
-        "url": "https://pbs.twimg.com/card_img/2120528044104540160/lDVAvPpy?format=png&name=2048x2048_2_exp",
-        "width": 640
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/480x270/JkVZOQcE0w1YnGBC.mp4?tag=29"
        },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "vanity_url",
-      "value": {
-       "scribe_key": "vanity_url",
-       "string_value": "open.spotify.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_color",
-      "value": {
-       "image_color_value": {
-        "palette": [
-         {
-          "percentage": 64.4,
-          "rgb": {
-           "blue": 91,
-           "green": 215,
-           "red": 22
-          }
-         },
-         {
-          "percentage": 15.6,
-          "rgb": {
-           "blue": 32,
-           "green": 31,
-           "red": 35
-          }
-         },
-         {
-          "percentage": 8.92,
-          "rgb": {
-           "blue": 67,
-           "green": 147,
-           "red": 14
-          }
-         },
-         {
-          "percentage": 4.99,
-          "rgb": {
-           "blue": 213,
-           "green": 225,
-           "red": 228
-          }
-         },
-         {
-          "percentage": 2.17,
-          "rgb": {
-           "blue": 147,
-           "green": 202,
-           "red": 252
-          }
-         }
-        ]
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/640x360/7f7n0V9l0i57VXAZ.mp4?tag=29"
        },
-       "type": "IMAGE_COLOR"
-      }
-     },
-     {
-      "key": "title",
-      "value": {
-       "string_value": "1158: 10 Trends for Week 10",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "card_url",
-      "value": {
-       "scribe_key": "card_url",
-       "string_value": "https://t.co/6Bfvr2QMjB",
-       "type": "STRING"
-      }
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/1280x720/-pHU2FMNEmgT2-4Q.mp4?tag=29"
+       },
+       {
+        "bitrate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/1920x1080/_pMX-bNJJqZByIRq.mp4?tag=29"
+       }
+      ]
      }
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/amplify_video_thumb/2121987598340034560/img/SETjg2a3QxDkIEFj.jpg"
+  ],
+  "videos": [
+   {
+    "durationMillis": 5889,
+    "aspectRatio": [
+     16,
+     9
     ],
-    "card_platform": {
-     "platform": {
-      "audience": {
-       "name": "production"
-      },
-      "device": {
-       "name": "Swift",
-       "version": "12"
-      }
-     }
-    },
-    "name": "summary",
-    "url": "https://t.co/6Bfvr2QMjB",
-    "user_refs_results": [
+    "variants": [
      {
-      "result": {
-       "__typename": "User",
-       "affiliates_highlighted_label": {},
-       "has_graduated_access": true,
-       "id": "VXNlcjoxNzIzMDAxOA==",
-       "is_blue_verified": true,
-       "legacy": {
-        "blocked_by": false,
-        "blocking": false,
-        "can_dm": false,
-        "can_media_tag": true,
-        "created_at": "Fri Nov 07 12:14:28 +0000 2008",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "your fall listening arc starts here",
-        "entities": {
-         "description": {}
-        },
-        "fast_followers_count": 0,
-        "favourites_count": 19195,
-        "follow_request_sent": false,
-        "followed_by": false,
-        "followers_count": 21742030,
-        "following": false,
-        "friends_count": 15535,
-        "has_custom_timelines": true,
-        "is_translator": false,
-        "listed_count": 16566,
-        "location": "",
-        "media_count": 11808,
-        "muting": false,
-        "name": "Spotify",
-        "needs_phone_verification": false,
-        "normal_followers_count": 21742030,
-        "notifications": false,
-        "possibly_sensitive": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1767711221",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1793315484961591301/DiEXUJEV_normal.jpg",
-        "profile_interstitial_type": "",
-        "protected": false,
-        "screen_name": "Spotify",
-        "statuses_count": 51493,
-        "time_zone": "",
-        "translator_type": "none",
-        "url": "",
-        "utc_offset": 0,
-        "verified": false,
-        "verified_type": "Business",
-        "want_retweets": false,
-        "withheld_description": "",
-        "withheld_scope": ""
-       },
-       "profile_image_shape": "Square",
-       "rest_id": "17230018",
-       "super_follow_eligible": false,
-       "super_followed_by": false,
-       "super_following": false,
-       "tipjar_settings": {}
-      }
+      "contentType": "application/x-mpegURL",
+      "url": "https://video.twimg.com/amplify_video/2121987598340034560/pl/bYVagPy1F2hLX0G8.m3u8?tag=29"
+     },
+     {
+      "bitrate": 256000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/480x270/JkVZOQcE0w1YnGBC.mp4?tag=29"
+     },
+     {
+      "bitrate": 832000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/640x360/7f7n0V9l0i57VXAZ.mp4?tag=29"
+     },
+     {
+      "bitrate": 2176000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/1280x720/-pHU2FMNEmgT2-4Q.mp4?tag=29"
+     },
+     {
+      "bitrate": 10368000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2121987598340034560/vid/avc1/1920x1080/_pMX-bNJJqZByIRq.mp4?tag=29"
      }
     ]
-   },
-   "rest_id": "https://t.co/6Bfvr2QMjB"
-  },
-  "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "open.spotify.com/episode/553XFQ\u2026",
-     "expanded_url": "https://open.spotify.com/episode/553XFQY998SvMAa7UUSlpH?si=bf5d16fd0d464c80",
-     "indices": [
-      88,
-      111
-     ],
-     "url": "https://t.co/6Bfvr2QMjB"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
+   }
+  ],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2120515266803126392",
-  "url": "https://x.com/LateRoundQB/status/2120515266803126392",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2120515266803126392",
-  "text": "If you have any non-start/sit questions for this week's mailbag, send them my way.",
-  "fullText": "If you have any non-start/sit questions for this week's mailbag, send them my way.",
+  "id": "2121981021285765563",
+  "url": "https://x.com/UnderdogNFL/status/2121981021285765563",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2121981021285765563",
+  "text": "Status alert: Drake Maye (ankle) questionable to return Sunday.",
+  "fullText": "Status alert: Drake Maye (ankle) questionable to return Sunday.",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 35,
-  "likeCount": 18,
-  "quoteCount": 0,
-  "viewCount": 27434,
-  "createdAt": "Wed Nov 11 13:53:31 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 0,
-  "isReply": false,
-  "conversationId": "2120515266803126392",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237778,
-   "following": 976,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2120257814866366949",
-  "url": "https://x.com/LateRoundQB/status/2120257814866366949",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2120257814866366949",
-  "text": "Colts-Dolphins this weekend. Battle of the \"What the fuck are these rosters?\"",
-  "fullText": "Colts-Dolphins this weekend. Battle of the \"What the fuck are these rosters?\"",
-  "source": "",
-  "retweetCount": 60,
-  "replyCount": 37,
-  "likeCount": 1626,
-  "quoteCount": 5,
-  "viewCount": 79156,
-  "createdAt": "Tue Nov 10 20:50:30 +0000 2026",
+  "retweetCount": 20,
+  "replyCount": 64,
+  "likeCount": 487,
+  "quoteCount": 24,
+  "viewCount": 187659,
+  "createdAt": "Sun Nov 15 14:57:54 +0000 2026",
   "lang": "en",
   "bookmarkCount": 11,
   "isReply": false,
-  "conversationId": "2120257814866366949",
+  "conversationId": "2121981021285765563",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
    "isVerified": false,
+   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
    "location": "",
-   "followers": 237778,
-   "following": 976,
+   "followers": 432659,
+   "following": 12,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/gGsrTQey7m"
+       "url": "https://t.co/3wHuxASkII"
       }
      ]
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
+   "favouritesCount": 10,
    "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2120245158738632826",
-  "url": "https://x.com/LateRoundQB/status/2120245158738632826",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2120245158738632826",
-  "text": "Justin Jefferson with Kirk Cousins across his career:\n0.55 PPR points per route run, 2.76 yards per route run, 27% targets per route run\n\nJustin Jefferson without Kirk Cousins across his career:\n0.47 PPR points per route run, 2.33 yards per route run, 27% targets per route run",
-  "fullText": "Justin Jefferson with Kirk Cousins across his career:\n0.55 PPR points per route run, 2.76 yards per route run, 27% targets per route run\n\nJustin Jefferson without Kirk Cousins across his career:\n0.47 PPR points per route run, 2.33 yards per route run, 27% targets per route run",
-  "source": "",
-  "retweetCount": 3,
-  "replyCount": 15,
-  "likeCount": 240,
-  "quoteCount": 2,
-  "viewCount": 89007,
-  "createdAt": "Tue Nov 10 20:00:12 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 4,
-  "isReply": false,
-  "conversationId": "2120245158738632826",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237778,
-   "following": 976,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2120168320934826422",
-  "url": "https://x.com/LateRoundQB/status/2120168320934826422",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2120168320934826422",
-  "text": "RT @Jimetrics: \ud83d\udc99 My wife is just 36 and facing Stage III colon cancer. Watching someone you love go through this is heartbreaking. We\u2019re ta\u2026",
-  "fullText": "RT @Jimetrics: \ud83d\udc99 My wife is just 36 and facing Stage III colon cancer. Watching someone you love go through this is heartbreaking. We\u2019re ta\u2026",
-  "source": "Twitter Web App",
-  "retweetCount": 251,
-  "replyCount": 91,
-  "likeCount": 1059,
-  "quoteCount": 12,
-  "viewCount": 70989,
-  "createdAt": "Tue Nov 10 14:54:53 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 34,
-  "isReply": false,
-  "conversationId": "2120168320934826422",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237778,
-   "following": 976,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "197993587",
-     "indices": [
-      3,
-      13
-     ],
-     "name": "Jim Cobern",
-     "screen_name": "Jimetrics"
-    }
-   ]
-  },
-  "isRetweet": true,
-  "retweet": {
-   "type": "tweet",
-   "id": "2119139392090775796",
-   "text": "\ud83d\udc99 My wife is just 36 and facing Stage III colon cancer. Watching someone you love go through this is heartbreaking. We\u2019re taking things one day at a time, holding onto faith and hope for brighter days ahead. Even just $1 can make a tremendous impact. Please consider donating or sharing our GoFundMe. \u2764\ufe0f\ud83d\ude4f https://t.co/szFPjYiYpL",
-   "source": "",
-   "retweetCount": 251,
-   "replyCount": 91,
-   "likeCount": 1059,
-   "quoteCount": 12,
-   "viewCount": 70989,
-   "createdAt": "Sat Nov 07 18:46:17 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 34,
-   "possiblySensitive": false,
-   "isPinned": false,
-   "author": {
-    "type": "user",
-    "userName": "Jimetrics",
-    "url": "https://x.com/Jimetrics",
-    "twitterUrl": "https://twitter.com/Jimetrics",
-    "id": "197993587",
-    "name": "Jim Cobern",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/2057095827428868096/N-lhOGM8_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/197993587/1779284850",
-    "description": "I create NFL Draft and CFB analytics. Creator of All Pro Football Data YouTube channel and my favorite food is pizza, though I rarely use pie charts.",
-    "location": "Gulf Shores, AL",
-    "followers": 6958,
-    "following": 1244,
-    "protected": false,
-    "status": "",
-    "canDm": true,
-    "canMediaTag": true,
-    "createdAt": "Sun Oct 03 01:45:13 +0000 2010",
-    "entities": {
-     "description": {},
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
+     },
+     "description": "Underdog",
      "url": {
-      "urls": [
-       {
-        "display_url": "patreon.com/jcobern",
-        "expanded_url": "https://patreon.com/jcobern",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/bTAFUyGfS1"
-       }
-      ]
-     }
-    },
-    "fastFollowersCount": 0,
-    "favouritesCount": 40390,
-    "hasCustomTimelines": true,
-    "isTranslator": false,
-    "mediaCount": 12945,
-    "statusesCount": 70288,
-    "affiliatesHighlightedLabel": {},
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2051355067727384699"
-    ]
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
+     },
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
+    }
    },
-   "extendedEntities": {
-    "media": [
-     {
-      "allow_download_status": {
-       "allow_download": true
-      },
-      "display_url": "pic.x.com/IyB0nco0Hc",
-      "expanded_url": "https://x.com/Jimetrics/status/2119139392090775796/photo/1",
-      "ext_media_availability": {
-       "status": "Available"
-      },
-      "features": {
-       "large": {
-        "faces": [
-         {
-          "h": 384,
-          "w": 384,
-          "x": 1044,
-          "y": 1232
-         },
-         {
-          "h": 318,
-          "w": 318,
-          "x": 24,
-          "y": 642
-         },
-         {
-          "h": 474,
-          "w": 474,
-          "x": 296,
-          "y": 670
-         }
-        ]
-       },
-       "medium": {
-        "faces": [
-         {
-          "h": 225,
-          "w": 225,
-          "x": 611,
-          "y": 721
-         },
-         {
-          "h": 186,
-          "w": 186,
-          "x": 14,
-          "y": 376
-         },
-         {
-          "h": 277,
-          "w": 277,
-          "x": 173,
-          "y": 392
-         }
-        ]
-       },
-       "orig": {
-        "faces": [
-         {
-          "h": 384,
-          "w": 384,
-          "x": 1044,
-          "y": 1232
-         },
-         {
-          "h": 318,
-          "w": 318,
-          "x": 24,
-          "y": 642
-         },
-         {
-          "h": 474,
-          "w": 474,
-          "x": 296,
-          "y": 670
-         }
-        ]
-       },
-       "small": {
-        "faces": [
-         {
-          "h": 127,
-          "w": 127,
-          "x": 346,
-          "y": 409
-         },
-         {
-          "h": 105,
-          "w": 105,
-          "x": 7,
-          "y": 213
-         },
-         {
-          "h": 157,
-          "w": 157,
-          "x": 98,
-          "y": 222
-         }
-        ]
-       }
-      },
-      "id_str": "2119139384662335488",
-      "indices": [
-       279,
-       302
-      ],
-      "media_key": "3_2119139384662335488",
-      "media_results": {
-       "result": {
-        "media_key": "3_2119139384662335488"
-       }
-      },
-      "media_url_https": "https://pbs.twimg.com/media/HWiyCuxWoAA9LkA.jpg",
-      "original_info": {
-       "focus_rects": [
-        {
-         "h": 860,
-         "w": 1536,
-         "x": 0,
-         "y": 952
-        },
-        {
-         "h": 1536,
-         "w": 1536,
-         "x": 0,
-         "y": 512
-        },
-        {
-         "h": 1751,
-         "w": 1536,
-         "x": 0,
-         "y": 297
-        },
-        {
-         "h": 2048,
-         "w": 1024,
-         "x": 512,
-         "y": 0
-        },
-        {
-         "h": 2048,
-         "w": 1536,
-         "x": 0,
-         "y": 0
-        }
-       ],
-       "height": 2048,
-       "width": 1536
-      },
-      "sizes": {
-       "large": {
-        "h": 2048,
-        "resize": "fit",
-        "w": 1536
-       },
-       "medium": {
-        "h": 1200,
-        "resize": "fit",
-        "w": 900
-       },
-       "small": {
-        "h": 680,
-        "resize": "fit",
-        "w": 510
-       },
-       "thumb": {
-        "h": 150,
-        "resize": "crop",
-        "w": 150
-       }
-      },
-      "type": "photo",
-      "url": "https://t.co/IyB0nco0Hc"
-     }
-    ]
-   },
-   "card": {},
-   "place": {},
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "timestamps": [],
-    "urls": [
-     {
-      "display_url": "gofund.me/76b35ce25",
-      "expanded_url": "https://gofund.me/76b35ce25",
-      "indices": [
-       305,
-       328
-      ],
-      "url": "https://t.co/szFPjYiYpL"
-     }
-    ],
-    "user_mentions": []
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
    }
   },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
   "isQuote": false,
   "media": [],
   "videos": [],
@@ -2189,476 +1309,94 @@
  },
  {
   "type": "tweet",
-  "id": "2120156453818503433",
-  "url": "https://x.com/LateRoundQB/status/2120156453818503433",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2120156453818503433",
-  "text": "Buys, sells, and adds on this week's 15 Transactions episode. Now live: https://t.co/TgZ8LYYiCC",
-  "fullText": "Buys, sells, and adds on this week's 15 Transactions episode. Now live: https://t.co/TgZ8LYYiCC",
+  "id": "2121980791890510305",
+  "url": "https://x.com/UnderdogNFL/status/2121980791890510305",
+  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2121980791890510305",
+  "text": "Lineup alert: Tommy DeVito enters game in place of injured Drake Maye on Sunday.",
+  "fullText": "Lineup alert: Tommy DeVito enters game in place of injured Drake Maye on Sunday.",
   "source": "",
-  "retweetCount": 0,
-  "replyCount": 3,
-  "likeCount": 15,
-  "quoteCount": 0,
-  "viewCount": 15430,
-  "createdAt": "Tue Nov 10 14:07:43 +0000 2026",
+  "retweetCount": 4,
+  "replyCount": 15,
+  "likeCount": 226,
+  "quoteCount": 8,
+  "viewCount": 139778,
+  "createdAt": "Sun Nov 15 14:56:59 +0000 2026",
   "lang": "en",
   "bookmarkCount": 1,
   "isReply": false,
-  "conversationId": "2120156453818503433",
-  "possiblySensitive": false,
+  "conversationId": "2121980791890510305",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
+   "userName": "UnderdogNFL",
+   "url": "https://x.com/UnderdogNFL",
+   "twitterUrl": "https://twitter.com/UnderdogNFL",
+   "id": "1449054490062110725",
+   "name": "Underdog NFL",
    "isVerified": false,
+   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
+   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
    "location": "",
-   "followers": 237778,
-   "following": 976,
+   "followers": 432659,
+   "following": 12,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "canMediaTag": true,
+   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
+       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
+       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/gGsrTQey7m"
+       "url": "https://t.co/3wHuxASkII"
       }
      ]
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
+   "favouritesCount": 10,
    "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
-  },
-  "extendedEntities": {},
-  "card": {
-   "legacy": {
-    "binding_values": [
-     {
-      "key": "thumbnail_image",
-      "value": {
-       "image_value": {
-        "height": 144,
-        "url": "https://pbs.twimg.com/card_img/2120156496176779265/cE9jbeUA?format=jpg&name=144x144_2",
-        "width": 144
-       },
-       "type": "IMAGE"
-      }
+   "mediaCount": 6315,
+   "statusesCount": 37010,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {
+    "label": {
+     "badge": {
+      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
      },
-     {
-      "key": "description",
-      "value": {
-       "string_value": "The Late-Round Fantasy Football Podcast \u00b7 Episode",
-       "type": "STRING"
-      }
+     "description": "Underdog",
+     "url": {
+      "url": "https://twitter.com/Underdog",
+      "urlType": "DeepLink"
      },
-     {
-      "key": "domain",
-      "value": {
-       "string_value": "open.spotify.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_large",
-      "value": {
-       "image_value": {
-        "height": 420,
-        "url": "https://pbs.twimg.com/card_img/2120156496176779265/cE9jbeUA?format=jpg&name=420x420_2",
-        "width": 420
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_original",
-      "value": {
-       "image_value": {
-        "height": 640,
-        "url": "https://pbs.twimg.com/card_img/2120156496176779265/cE9jbeUA?format=jpg&name=orig",
-        "width": 640
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "site",
-      "value": {
-       "scribe_key": "publisher_id",
-       "type": "USER",
-       "user_value": {
-        "id_str": "17230018",
-        "path": []
-       }
-      }
-     },
-     {
-      "key": "thumbnail_image_small",
-      "value": {
-       "image_value": {
-        "height": 100,
-        "url": "https://pbs.twimg.com/card_img/2120156496176779265/cE9jbeUA?format=jpg&name=100x100_2",
-        "width": 100
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "thumbnail_image_x_large",
-      "value": {
-       "image_value": {
-        "height": 640,
-        "url": "https://pbs.twimg.com/card_img/2120156496176779265/cE9jbeUA?format=png&name=2048x2048_2_exp",
-        "width": 640
-       },
-       "type": "IMAGE"
-      }
-     },
-     {
-      "key": "vanity_url",
-      "value": {
-       "scribe_key": "vanity_url",
-       "string_value": "open.spotify.com",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "thumbnail_image_color",
-      "value": {
-       "image_color_value": {
-        "palette": [
-         {
-          "percentage": 64.4,
-          "rgb": {
-           "blue": 91,
-           "green": 215,
-           "red": 22
-          }
-         },
-         {
-          "percentage": 15.6,
-          "rgb": {
-           "blue": 32,
-           "green": 31,
-           "red": 35
-          }
-         },
-         {
-          "percentage": 8.92,
-          "rgb": {
-           "blue": 67,
-           "green": 147,
-           "red": 14
-          }
-         },
-         {
-          "percentage": 4.99,
-          "rgb": {
-           "blue": 213,
-           "green": 225,
-           "red": 228
-          }
-         },
-         {
-          "percentage": 2.17,
-          "rgb": {
-           "blue": 147,
-           "green": 202,
-           "red": 252
-          }
-         }
-        ]
-       },
-       "type": "IMAGE_COLOR"
-      }
-     },
-     {
-      "key": "title",
-      "value": {
-       "string_value": "1157: 15 Transactions for Week 10",
-       "type": "STRING"
-      }
-     },
-     {
-      "key": "card_url",
-      "value": {
-       "scribe_key": "card_url",
-       "string_value": "https://t.co/TgZ8LYYiCC",
-       "type": "STRING"
-      }
-     }
-    ],
-    "card_platform": {
-     "platform": {
-      "audience": {
-       "name": "production"
-      },
-      "device": {
-       "name": "Swift",
-       "version": "12"
-      }
-     }
-    },
-    "name": "summary",
-    "url": "https://t.co/TgZ8LYYiCC",
-    "user_refs_results": [
-     {
-      "result": {
-       "__typename": "User",
-       "affiliates_highlighted_label": {},
-       "has_graduated_access": true,
-       "id": "VXNlcjoxNzIzMDAxOA==",
-       "is_blue_verified": true,
-       "legacy": {
-        "blocked_by": false,
-        "blocking": false,
-        "can_dm": false,
-        "can_media_tag": true,
-        "created_at": "Fri Nov 07 12:14:28 +0000 2008",
-        "default_profile": false,
-        "default_profile_image": false,
-        "description": "your fall listening arc starts here",
-        "entities": {
-         "description": {}
-        },
-        "fast_followers_count": 0,
-        "favourites_count": 19195,
-        "follow_request_sent": false,
-        "followed_by": false,
-        "followers_count": 21742030,
-        "following": false,
-        "friends_count": 15535,
-        "has_custom_timelines": true,
-        "is_translator": false,
-        "listed_count": 16566,
-        "location": "",
-        "media_count": 11808,
-        "muting": false,
-        "name": "Spotify",
-        "needs_phone_verification": false,
-        "normal_followers_count": 21742030,
-        "notifications": false,
-        "possibly_sensitive": false,
-        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17230018/1767711221",
-        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1793315484961591301/DiEXUJEV_normal.jpg",
-        "profile_interstitial_type": "",
-        "protected": false,
-        "screen_name": "Spotify",
-        "statuses_count": 51493,
-        "time_zone": "",
-        "translator_type": "none",
-        "url": "",
-        "utc_offset": 0,
-        "verified": false,
-        "verified_type": "Business",
-        "want_retweets": false,
-        "withheld_description": "",
-        "withheld_scope": ""
-       },
-       "profile_image_shape": "Square",
-       "rest_id": "17230018",
-       "super_follow_eligible": false,
-       "super_followed_by": false,
-       "super_following": false,
-       "tipjar_settings": {}
-      }
-     }
-    ]
-   },
-   "rest_id": "https://t.co/TgZ8LYYiCC"
-  },
-  "place": {},
-  "entities": {
-   "urls": [
-    {
-     "display_url": "open.spotify.com/episode/6yCj6j\u2026",
-     "expanded_url": "https://open.spotify.com/episode/6yCj6jSDiarFmj15HIbplr?si=a0829afebd3149c3",
-     "indices": [
-      72,
-      95
-     ],
-     "url": "https://t.co/TgZ8LYYiCC"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2119948772130136086",
-  "url": "https://x.com/LateRoundQB/status/2119948772130136086",
-  "twitterUrl": "https://twitter.com/LateRoundQB/status/2119948772130136086",
-  "text": "RT @kyletweetshere: The haters were right. Luther Burden's yards per route run in 2025 was unsustainable, buoyed by a small number of big p\u2026",
-  "fullText": "RT @kyletweetshere: The haters were right. Luther Burden's yards per route run in 2025 was unsustainable, buoyed by a small number of big p\u2026",
-  "source": "Twitter for iPhone",
-  "retweetCount": 29,
-  "replyCount": 3,
-  "likeCount": 743,
-  "quoteCount": 5,
-  "viewCount": 68967,
-  "createdAt": "Tue Nov 10 00:22:28 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 9,
-  "isReply": false,
-  "conversationId": "2119948772130136086",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "LateRoundQB",
-   "url": "https://x.com/LateRoundQB",
-   "twitterUrl": "https://twitter.com/LateRoundQB",
-   "id": "596744235",
-   "name": "JJ Zachariason",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
-   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
-   "location": "",
-   "followers": 237778,
-   "following": 976,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": false,
-   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "LateRound.com",
-       "expanded_url": "http://LateRound.com",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/gGsrTQey7m"
-      }
-     ]
+     "userLabelDisplayType": "Badge",
+     "userLabelType": "BusinessLabel"
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 43583,
-   "hasCustomTimelines": true,
-   "isTranslator": false,
-   "mediaCount": 5352,
-   "statusesCount": 138086,
-   "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2119791900773552584"
-   ]
+    "2121979031847403954"
+   ],
+   "professional": {
+    "category": [],
+    "professional_type": "Business",
+    "rest_id": "2093064754826977383"
+   }
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "862804901180698624",
-     "indices": [
-      3,
-      18
-     ],
-     "name": "Kyle Dvorchak",
-     "screen_name": "kyletweetshere"
-    }
-   ]
-  },
-  "isRetweet": true,
-  "retweet": {
-   "type": "tweet",
-   "id": "2119616074199273586",
-   "text": "The haters were right. Luther Burden's yards per route run in 2025 was unsustainable, buoyed by a small number of big plays. It was, of course, unsustainably low. It is now buoyed by a large number of big plays.",
-   "source": "",
-   "retweetCount": 29,
-   "replyCount": 3,
-   "likeCount": 743,
-   "quoteCount": 5,
-   "viewCount": 68967,
-   "createdAt": "Mon Nov 09 02:20:27 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 9,
-   "author": {
-    "type": "user",
-    "userName": "kyletweetshere",
-    "url": "https://x.com/kyletweetshere",
-    "twitterUrl": "https://twitter.com/kyletweetshere",
-    "id": "862804901180698624",
-    "name": "Kyle Dvorchak",
-    "isVerified": false,
-    "isBlueVerified": false,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1307133728402083842/cryg73aL_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/862804901180698624/1724725489",
-    "description": "Vibes based fantasy content at @Rotoworld_FB.",
-    "location": "",
-    "followers": 8444,
-    "following": 1201,
-    "protected": false,
-    "status": "",
-    "canDm": true,
-    "canMediaTag": true,
-    "createdAt": "Thu May 11 23:01:33 +0000 2017",
-    "entities": {
-     "description": {},
-     "url": {
-      "urls": [
-       {
-        "display_url": "rotoworld.com/football/nfl/p\u2026",
-        "expanded_url": "https://www.rotoworld.com/football/nfl/player-news",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/tWqGsUxSHu"
-       }
-      ]
-     }
-    },
-    "fastFollowersCount": 0,
-    "favouritesCount": 35766,
-    "hasCustomTimelines": true,
-    "isTranslator": false,
-    "mediaCount": 2727,
-    "statusesCount": 20047,
-    "affiliatesHighlightedLabel": {},
-    "possiblySensitive": false
-   },
-   "extendedEntities": {},
-   "card": {},
-   "place": {},
-   "entities": {}
-  },
+  "entities": {},
+  "isRetweet": false,
   "isQuote": false,
   "media": [],
   "videos": [],
