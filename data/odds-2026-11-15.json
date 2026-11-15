@@ -2,6 +2,34 @@
  "captured_at": "2026-11-15",
  "games": [
   {
+   "game": "SEA @ LV",
+   "date": "2026-11-15T21:05Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "LAR @ ARI",
+   "date": "2026-11-15T21:05Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "SF @ DAL",
+   "date": "2026-11-15T21:25Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "NE VS DET",
+   "date": "2026-11-15T14:30Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
    "game": "KC @ ATL",
    "date": "2026-11-15T18:00Z",
    "spread": null,
@@ -49,34 +77,6 @@
    "spread": null,
    "over_under": null,
    "provider": null
-  },
-  {
-   "game": "NE VS DET",
-   "date": "2026-11-15T14:30Z",
-   "spread": null,
-   "over_under": null,
-   "provider": null
-  },
-  {
-   "game": "SEA @ LV",
-   "date": "2026-11-15T21:05Z",
-   "spread": null,
-   "over_under": null,
-   "provider": null
-  },
-  {
-   "game": "LAR @ ARI",
-   "date": "2026-11-15T21:05Z",
-   "spread": null,
-   "over_under": null,
-   "provider": null
-  },
-  {
-   "game": "SF @ DAL",
-   "date": "2026-11-15T21:25Z",
-   "spread": "SF -3.5",
-   "over_under": 55.5,
-   "provider": "DraftKings"
   },
   {
    "game": "PIT @ CIN",

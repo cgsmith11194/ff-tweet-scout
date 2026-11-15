@@ -1,379 +1,69 @@
 [
  {
   "type": "tweet",
-  "id": "2122073972506313103",
-  "url": "https://x.com/UnderdogNFL/status/2122073972506313103",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122073972506313103",
-  "text": "The Vikings had 8 sacks today.\n\nBrock Purdy has been sacked 8 times all season. https://t.co/03AvbkpMpa",
-  "fullText": "The Vikings had 8 sacks today.\n\nBrock Purdy has been sacked 8 times all season. https://t.co/03AvbkpMpa",
+  "id": "2122110135074275330",
+  "url": "https://x.com/Ihartitz/status/2122110135074275330",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122110135074275330",
+  "text": "Cowboys defense has done a lot of really good things today other than the multiple 70 yard touchdowns",
+  "fullText": "Cowboys defense has done a lot of really good things today other than the multiple 70 yard touchdowns",
   "source": "",
-  "retweetCount": 2,
+  "retweetCount": 3,
   "replyCount": 3,
-  "likeCount": 40,
+  "likeCount": 90,
   "quoteCount": 0,
-  "viewCount": 3527,
-  "createdAt": "Sun Nov 15 21:07:15 +0000 2026",
+  "viewCount": 6991,
+  "createdAt": "Sun Nov 15 23:30:57 +0000 2026",
   "lang": "en",
   "bookmarkCount": 2,
   "isReply": false,
-  "conversationId": "2122073972506313103",
-  "possiblySensitive": false,
-  "isPinned": false,
+  "conversationId": "2122110135074275330",
   "author": {
    "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
    "isVerified": false,
-   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
    "protected": false,
    "status": "",
    "canDm": false,
    "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/3wHuxASkII"
+       "url": "https://t.co/sgF9v0Ib0b"
       }
      ]
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
+   "favouritesCount": 142624,
    "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
    "professional": {
     "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/03AvbkpMpa",
-     "expanded_url": "https://x.com/UnderdogNFL/status/2122073972506313103/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2122073901005938688",
-     "indices": [
-      80,
-      103
-     ],
-     "media_key": "3_2122073901005938688",
-     "media_results": {
-      "result": {
-       "media_key": "3_2122073901005938688"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXMe-ECWIAAfRYj.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 605,
-        "w": 1080,
-        "x": 0,
-        "y": 1
-       },
-       {
-        "h": 1080,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1231,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 675,
-        "x": 169,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1350,
-      "width": 1080
-     },
-     "sizes": {
-      "large": {
-       "h": 1350,
-       "resize": "fit",
-       "w": 1080
-      },
-      "medium": {
-       "h": 1200,
-       "resize": "fit",
-       "w": 960
-      },
-      "small": {
-       "h": 680,
-       "resize": "fit",
-       "w": 544
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/03AvbkpMpa"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/03AvbkpMpa",
-     "expanded_url": "https://x.com/UnderdogNFL/status/2122073972506313103/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2122073901005938688",
-     "indices": [
-      80,
-      103
-     ],
-     "media_key": "3_2122073901005938688",
-     "media_results": {
-      "result": {
-       "media_key": "3_2122073901005938688"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXMe-ECWIAAfRYj.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 605,
-        "w": 1080,
-        "x": 0,
-        "y": 1
-       },
-       {
-        "h": 1080,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1231,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 675,
-        "x": 169,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1350,
-      "width": 1080
-     },
-     "sizes": {
-      "large": {
-       "h": 1350,
-       "resize": "fit",
-       "w": 1080
-      },
-      "medium": {
-       "h": 1200,
-       "resize": "fit",
-       "w": 960
-      },
-      "small": {
-       "h": 680,
-       "resize": "fit",
-       "w": 544
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/03AvbkpMpa"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HXMe-ECWIAAfRYj.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122072787720257691",
-  "url": "https://x.com/UnderdogNFL/status/2122072787720257691",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122072787720257691",
-  "text": "Status alert: Wan'Dale Robinson (ankle) questionable to return Sunday.",
-  "fullText": "Status alert: Wan'Dale Robinson (ankle) questionable to return Sunday.",
-  "source": "",
-  "retweetCount": 3,
-  "replyCount": 2,
-  "likeCount": 16,
-  "quoteCount": 0,
-  "viewCount": 19965,
-  "createdAt": "Sun Nov 15 21:02:33 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 0,
-  "isReply": false,
-  "conversationId": "2122072787720257691",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
-   "isVerified": false,
-   "verifiedType": "Business",
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3wHuxASkII"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
    }
   },
   "extendedEntities": {},
@@ -388,89 +78,2187 @@
  },
  {
   "type": "tweet",
-  "id": "2122072369993007407",
-  "url": "https://x.com/UnderdogNFL/status/2122072369993007407",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122072369993007407",
-  "text": "Status alert: Denzel Boston has returned to Sunday's game.",
-  "fullText": "Status alert: Denzel Boston has returned to Sunday's game.",
+  "id": "2122107503190102291",
+  "url": "https://x.com/Ihartitz/status/2122107503190102291",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122107503190102291",
+  "text": "Fred Warner at least once every Sunday: https://t.co/d4PxzveApt",
+  "fullText": "Fred Warner at least once every Sunday: https://t.co/d4PxzveApt",
   "source": "",
-  "retweetCount": 2,
+  "retweetCount": 28,
   "replyCount": 2,
-  "likeCount": 34,
-  "quoteCount": 0,
-  "viewCount": 23410,
-  "createdAt": "Sun Nov 15 21:00:53 +0000 2026",
+  "likeCount": 190,
+  "quoteCount": 2,
+  "viewCount": 10363,
+  "createdAt": "Sun Nov 15 23:20:30 +0000 2026",
   "lang": "en",
-  "quoteId": "2122072153726026017",
   "bookmarkCount": 2,
   "isReply": false,
-  "conversationId": "2122072369993007407",
-  "isPinned": false,
+  "conversationId": "2122107503190102291",
+  "possiblySensitive": false,
   "author": {
    "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
    "isVerified": false,
-   "verifiedType": "Business",
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
    "protected": false,
    "status": "",
    "canDm": false,
    "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/3wHuxASkII"
+       "url": "https://t.co/sgF9v0Ib0b"
       }
      ]
     }
    },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
+   "favouritesCount": 142624,
    "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
    "professional": {
     "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/d4PxzveApt",
+     "expanded_url": "https://x.com/Ihartitz/status/2122107503190102291/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2122107499335520256",
+     "indices": [
+      40,
+      63
+     ],
+     "media_key": "3_2122107499335520256",
+     "media_results": {
+      "result": {
+       "media_key": "3_2122107499335520256"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXM9hvkWEAAYPFk.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 381,
+        "w": 680,
+        "x": 0,
+        "y": 132
+       },
+       {
+        "h": 573,
+        "w": 573,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 573,
+        "w": 503,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 573,
+        "w": 287,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 573,
+        "w": 680,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 573,
+      "width": 680
+     },
+     "sizes": {
+      "large": {
+       "h": 573,
+       "resize": "fit",
+       "w": 680
+      },
+      "medium": {
+       "h": 573,
+       "resize": "fit",
+       "w": 680
+      },
+      "small": {
+       "h": 573,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/d4PxzveApt"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/d4PxzveApt",
+     "expanded_url": "https://x.com/Ihartitz/status/2122107503190102291/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2122107499335520256",
+     "indices": [
+      40,
+      63
+     ],
+     "media_key": "3_2122107499335520256",
+     "media_results": {
+      "result": {
+       "media_key": "3_2122107499335520256"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXM9hvkWEAAYPFk.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 381,
+        "w": 680,
+        "x": 0,
+        "y": 132
+       },
+       {
+        "h": 573,
+        "w": 573,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 573,
+        "w": 503,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 573,
+        "w": 287,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 573,
+        "w": 680,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 573,
+      "width": 680
+     },
+     "sizes": {
+      "large": {
+       "h": 573,
+       "resize": "fit",
+       "w": 680
+      },
+      "medium": {
+       "h": 573,
+       "resize": "fit",
+       "w": 680
+      },
+      "small": {
+       "h": 573,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/d4PxzveApt"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HXM9hvkWEAAYPFk.png"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2122106711888572599",
+  "url": "https://x.com/Ihartitz/status/2122106711888572599",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122106711888572599",
+  "text": ".@KyleBrandt \n https://t.co/x9Ah3HU2NJ",
+  "fullText": ".@KyleBrandt \n https://t.co/x9Ah3HU2NJ",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 2,
+  "likeCount": 35,
+  "quoteCount": 0,
+  "viewCount": 7942,
+  "createdAt": "Sun Nov 15 23:17:21 +0000 2026",
+  "lang": "und",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2122106711888572599",
+  "possiblySensitive": false,
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/sgF9v0Ib0b"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 142624,
+   "isTranslator": false,
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "description": "",
+      "embeddable": false,
+      "monetizable": true,
+      "title": ""
+     },
+     "allow_download_status": {
+      "allow_download": false
+     },
+     "display_url": "pic.x.com/x9Ah3HU2NJ",
+     "expanded_url": "https://x.com/NFL/status/2122106168776782203/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2122106065026478080",
+     "indices": [
+      15,
+      38
+     ],
+     "media_key": "13_2122106065026478080",
+     "media_results": {
+      "result": {
+       "media_key": "13_2122106065026478080"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2122106065026478080/img/UNXicVRdgZtcTdzl.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 1080,
+      "width": 1920
+     },
+     "sizes": {
+      "large": {
+       "h": 1080,
+       "resize": "fit",
+       "w": 1920
+      },
+      "medium": {
+       "h": 675,
+       "resize": "fit",
+       "w": 1200
+      },
+      "small": {
+       "h": 383,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "source_status_id_str": "2122106168776782203",
+     "source_user_id_str": "19426551",
+     "source_user_results": {
+      "result": {
+       "__typename": "User",
+       "action_counts": {
+        "favorites_count": 4638
+       },
+       "affiliates_highlighted_label": {},
+       "avatar": {
+        "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg"
+       },
+       "banner": {
+        "image_url": "https://pbs.twimg.com/profile_banners/19426551/1794767322"
+       },
+       "core": {
+        "created_at": "Sat Jan 24 01:28:06 +0000 2009",
+        "name": "NFL",
+        "screen_name": "NFL"
+       },
+       "follow_request_sent": false,
+       "has_graduated_access": true,
+       "id": "VXNlcjoxOTQyNjU1MQ==",
+       "is_blue_verified": true,
+       "location": {
+        "location": ""
+       },
+       "media_permissions": {
+        "can_media_tag": true
+       },
+       "notifications_settings": {
+        "notifications_enabled": false
+       },
+       "parody_commentary_fan_label": "None",
+       "pinned_items": {
+        "tweet_ids_str": [
+         "2114898970812264900"
+        ]
+       },
+       "possibly_sensitive": false,
+       "privacy": {
+        "protected": false
+       },
+       "professional": {
+        "category": [
+         {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1003,
+          "name": "Professional Sports League"
+         }
+        ],
+        "professional_type": "Business",
+        "rest_id": "1559645300599373824"
+       },
+       "profile_bio": {
+        "description": "Danke, Munich!",
+        "entities": {
+         "description": {},
+         "url": {
+          "urls": [
+           {
+            "display_url": "linktr.ee/nfl",
+            "expanded_url": "https://linktr.ee/nfl",
+            "indices": [
+             0,
+             23
+            ],
+            "url": "https://t.co/5ianypESib"
+           }
+          ]
+         }
+        }
+       },
+       "profile_image_shape": "Square",
+       "profile_metadata": {
+        "profile_interstitial_type": ""
+       },
+       "profile_translation": {
+        "translator_type": "regular"
+       },
+       "relationship_counts": {
+        "followers": 36968569,
+        "following": 2800
+       },
+       "relationship_perspectives": {
+        "blocked_by": false,
+        "blocking": false,
+        "followed_by": false,
+        "following": false,
+        "live_following": false,
+        "muting": false
+       },
+       "rest_id": "19426551",
+       "super_follow_eligible": false,
+       "super_followed_by": false,
+       "super_following": false,
+       "tipjar_settings": {},
+       "tweet_counts": {
+        "media_tweets": 161780,
+        "tweets": 311065
+       },
+       "verification": {
+        "verified": false,
+        "verified_type": "Business"
+       },
+       "website": {
+        "url": "https://t.co/5ianypESib"
+       }
+      }
+     },
+     "type": "video",
+     "url": "https://t.co/x9Ah3HU2NJ",
+     "video_info": {
+      "aspect_ratio": [
+       16,
+       9
+      ],
+      "duration_millis": 11690,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/pl/p68DZvXsxmPL8I3u.m3u8?tag=29&v=bf9"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/480x270/TsHxTtdx5K40xICe.mp4?tag=29"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/640x360/OFeexQurlqWmkUea.mp4?tag=29"
+       },
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/1280x720/_QOFOPBofPe3ZVnY.mp4?tag=29"
+       },
+       {
+        "bitrate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/1920x1080/ZbnJQ1UIgkVPQsLE.mp4?tag=29"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "card": {
+   "rest_id": "https://t.co/x9Ah3HU2NJ"
+  },
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "description": "",
+      "embeddable": false,
+      "monetizable": true,
+      "title": ""
+     },
+     "allow_download_status": {
+      "allow_download": false
+     },
+     "display_url": "pic.x.com/x9Ah3HU2NJ",
+     "expanded_url": "https://x.com/NFL/status/2122106168776782203/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "2122106065026478080",
+     "indices": [
+      15,
+      38
+     ],
+     "media_key": "13_2122106065026478080",
+     "media_results": {
+      "result": {
+       "media_key": "13_2122106065026478080"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2122106065026478080/img/UNXicVRdgZtcTdzl.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 1080,
+      "width": 1920
+     },
+     "sizes": {
+      "large": {
+       "h": 1080,
+       "resize": "fit",
+       "w": 1920
+      },
+      "medium": {
+       "h": 675,
+       "resize": "fit",
+       "w": 1200
+      },
+      "small": {
+       "h": 383,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "source_status_id_str": "2122106168776782203",
+     "source_user_id_str": "19426551",
+     "source_user_results": {
+      "result": {
+       "__typename": "User",
+       "action_counts": {
+        "favorites_count": 4638
+       },
+       "affiliates_highlighted_label": {},
+       "avatar": {
+        "image_url": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg"
+       },
+       "banner": {
+        "image_url": "https://pbs.twimg.com/profile_banners/19426551/1794767322"
+       },
+       "core": {
+        "created_at": "Sat Jan 24 01:28:06 +0000 2009",
+        "name": "NFL",
+        "screen_name": "NFL"
+       },
+       "follow_request_sent": false,
+       "has_graduated_access": true,
+       "id": "VXNlcjoxOTQyNjU1MQ==",
+       "is_blue_verified": true,
+       "location": {
+        "location": ""
+       },
+       "media_permissions": {
+        "can_media_tag": true
+       },
+       "notifications_settings": {
+        "notifications_enabled": false
+       },
+       "parody_commentary_fan_label": "None",
+       "pinned_items": {
+        "tweet_ids_str": [
+         "2114898970812264900"
+        ]
+       },
+       "possibly_sensitive": false,
+       "privacy": {
+        "protected": false
+       },
+       "professional": {
+        "category": [
+         {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1003,
+          "name": "Professional Sports League"
+         }
+        ],
+        "professional_type": "Business",
+        "rest_id": "1559645300599373824"
+       },
+       "profile_bio": {
+        "description": "Danke, Munich!",
+        "entities": {
+         "description": {},
+         "url": {
+          "urls": [
+           {
+            "display_url": "linktr.ee/nfl",
+            "expanded_url": "https://linktr.ee/nfl",
+            "indices": [
+             0,
+             23
+            ],
+            "url": "https://t.co/5ianypESib"
+           }
+          ]
+         }
+        }
+       },
+       "profile_image_shape": "Square",
+       "profile_metadata": {
+        "profile_interstitial_type": ""
+       },
+       "profile_translation": {
+        "translator_type": "regular"
+       },
+       "relationship_counts": {
+        "followers": 36968569,
+        "following": 2800
+       },
+       "relationship_perspectives": {
+        "blocked_by": false,
+        "blocking": false,
+        "followed_by": false,
+        "following": false,
+        "live_following": false,
+        "muting": false
+       },
+       "rest_id": "19426551",
+       "super_follow_eligible": false,
+       "super_followed_by": false,
+       "super_following": false,
+       "tipjar_settings": {},
+       "tweet_counts": {
+        "media_tweets": 161780,
+        "tweets": 311065
+       },
+       "verification": {
+        "verified": false,
+        "verified_type": "Business"
+       },
+       "website": {
+        "url": "https://t.co/5ianypESib"
+       }
+      }
+     },
+     "type": "video",
+     "url": "https://t.co/x9Ah3HU2NJ",
+     "video_info": {
+      "aspect_ratio": [
+       16,
+       9
+      ],
+      "duration_millis": 11690,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/pl/p68DZvXsxmPL8I3u.m3u8?tag=29&v=bf9"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/480x270/TsHxTtdx5K40xICe.mp4?tag=29"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/640x360/OFeexQurlqWmkUea.mp4?tag=29"
+       },
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/1280x720/_QOFOPBofPe3ZVnY.mp4?tag=29"
+       },
+       {
+        "bitrate": 10368000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/1920x1080/ZbnJQ1UIgkVPQsLE.mp4?tag=29"
+       }
+      ]
+     }
+    }
+   ],
+   "user_mentions": [
+    {
+     "id_str": "105909196",
+     "indices": [
+      1,
+      12
+     ],
+     "name": "Kyle Brandt",
+     "screen_name": "KyleBrandt"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/amplify_video_thumb/2122106065026478080/img/UNXicVRdgZtcTdzl.jpg"
+  ],
+  "videos": [
+   {
+    "durationMillis": 11690,
+    "aspectRatio": [
+     16,
+     9
+    ],
+    "variants": [
+     {
+      "contentType": "application/x-mpegURL",
+      "url": "https://video.twimg.com/amplify_video/2122106065026478080/pl/p68DZvXsxmPL8I3u.m3u8?tag=29&v=bf9"
+     },
+     {
+      "bitrate": 256000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/480x270/TsHxTtdx5K40xICe.mp4?tag=29"
+     },
+     {
+      "bitrate": 832000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/640x360/OFeexQurlqWmkUea.mp4?tag=29"
+     },
+     {
+      "bitrate": 2176000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/1280x720/_QOFOPBofPe3ZVnY.mp4?tag=29"
+     },
+     {
+      "bitrate": 10368000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/amplify_video/2122106065026478080/vid/avc1/1920x1080/ZbnJQ1UIgkVPQsLE.mp4?tag=29"
+     }
+    ]
+   }
+  ],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2122103275810148499",
+  "url": "https://x.com/Ihartitz/status/2122103275810148499",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122103275810148499",
+  "text": "Blake Corum might just be the captain now",
+  "fullText": "Blake Corum might just be the captain now",
+  "source": "",
+  "retweetCount": 2,
+  "replyCount": 5,
+  "likeCount": 141,
+  "quoteCount": 0,
+  "viewCount": 11370,
+  "createdAt": "Sun Nov 15 23:03:42 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2122103275810148499",
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/sgF9v0Ib0b"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 142624,
+   "isTranslator": false,
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2122102451213910077",
+  "url": "https://x.com/Ihartitz/status/2122102451213910077",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122102451213910077",
+  "text": "Maybe Sam Darnold just takes the next few months off to make sure he's super duper healthy https://t.co/F1ttjAayns",
+  "fullText": "Maybe Sam Darnold just takes the next few months off to make sure he's super duper healthy https://t.co/F1ttjAayns",
+  "source": "",
+  "retweetCount": 9,
+  "replyCount": 10,
+  "likeCount": 409,
+  "quoteCount": 0,
+  "viewCount": 15399,
+  "createdAt": "Sun Nov 15 23:00:25 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "2122102451213910077",
+  "possiblySensitive": false,
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/sgF9v0Ib0b"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 142624,
+   "isTranslator": false,
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/F1ttjAayns",
+     "expanded_url": "https://x.com/Ihartitz/status/2122102451213910077/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2122102362357497856",
+     "indices": [
+      91,
+      114
+     ],
+     "media_key": "3_2122102362357497856",
+     "media_results": {
+      "result": {
+       "media_key": "3_2122102362357497856"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXM42u1WAAAiOyQ.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 100,
+        "w": 179,
+        "x": 193,
+        "y": 0
+       },
+       {
+        "h": 100,
+        "w": 100,
+        "x": 272,
+        "y": 0
+       },
+       {
+        "h": 100,
+        "w": 88,
+        "x": 281,
+        "y": 0
+       },
+       {
+        "h": 100,
+        "w": 50,
+        "x": 300,
+        "y": 0
+       },
+       {
+        "h": 100,
+        "w": 372,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 100,
+      "width": 372
+     },
+     "sizes": {
+      "large": {
+       "h": 100,
+       "resize": "fit",
+       "w": 372
+      },
+      "medium": {
+       "h": 100,
+       "resize": "fit",
+       "w": 372
+      },
+      "small": {
+       "h": 100,
+       "resize": "fit",
+       "w": 372
+      },
+      "thumb": {
+       "h": 100,
+       "resize": "crop",
+       "w": 100
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/F1ttjAayns"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/F1ttjAayns",
+     "expanded_url": "https://x.com/Ihartitz/status/2122102451213910077/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2122102362357497856",
+     "indices": [
+      91,
+      114
+     ],
+     "media_key": "3_2122102362357497856",
+     "media_results": {
+      "result": {
+       "media_key": "3_2122102362357497856"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXM42u1WAAAiOyQ.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 100,
+        "w": 179,
+        "x": 193,
+        "y": 0
+       },
+       {
+        "h": 100,
+        "w": 100,
+        "x": 272,
+        "y": 0
+       },
+       {
+        "h": 100,
+        "w": 88,
+        "x": 281,
+        "y": 0
+       },
+       {
+        "h": 100,
+        "w": 50,
+        "x": 300,
+        "y": 0
+       },
+       {
+        "h": 100,
+        "w": 372,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 100,
+      "width": 372
+     },
+     "sizes": {
+      "large": {
+       "h": 100,
+       "resize": "fit",
+       "w": 372
+      },
+      "medium": {
+       "h": 100,
+       "resize": "fit",
+       "w": 372
+      },
+      "small": {
+       "h": 100,
+       "resize": "fit",
+       "w": 372
+      },
+      "thumb": {
+       "h": 100,
+       "resize": "crop",
+       "w": 100
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/F1ttjAayns"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HXM42u1WAAAiOyQ.png"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2122101997234999777",
+  "url": "https://x.com/Ihartitz/status/2122101997234999777",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122101997234999777",
+  "text": "https://t.co/IkgOKqMUJl",
+  "fullText": "https://t.co/IkgOKqMUJl",
+  "source": "",
+  "retweetCount": 13,
+  "replyCount": 4,
+  "likeCount": 202,
+  "quoteCount": 0,
+  "viewCount": 11056,
+  "createdAt": "Sun Nov 15 22:58:37 +0000 2026",
+  "lang": "zxx",
+  "bookmarkCount": 6,
+  "isReply": false,
+  "conversationId": "2122101997234999777",
+  "possiblySensitive": false,
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/sgF9v0Ib0b"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 142624,
+   "isTranslator": false,
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "display_url": "pic.x.com/IkgOKqMUJl",
+     "expanded_url": "https://x.com/orezjc/status/1211501581927165955/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "1211501445536780288",
+     "indices": [
+      0,
+      23
+     ],
+     "media_key": "7_1211501445536780288",
+     "media_results": {
+      "result": {
+       "media_key": "7_1211501445536780288"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211501445536780288/pu/img/Av8c3gDLMO0yzaEx.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 720,
+      "width": 720
+     },
+     "sizes": {
+      "large": {
+       "h": 720,
+       "resize": "fit",
+       "w": 720
+      },
+      "medium": {
+       "h": 720,
+       "resize": "fit",
+       "w": 720
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "source_status_id_str": "1211501581927165955",
+     "source_user_id_str": "1168679575448096775",
+     "source_user_results": {
+      "result": {
+       "__typename": "User",
+       "action_counts": {
+        "favorites_count": 0
+       },
+       "affiliates_highlighted_label": {},
+       "avatar": {
+        "image_url": "https://pbs.twimg.com/profile_images/1256721674441052161/lFM2-LxJ_normal.jpg"
+       },
+       "banner": {
+        "image_url": ""
+       },
+       "core": {
+        "created_at": "Tue Sep 03 00:18:33 +0000 2019",
+        "name": "Random Guy",
+        "screen_name": "orezjc"
+       },
+       "follow_request_sent": false,
+       "has_graduated_access": true,
+       "id": "VXNlcjoxMTY4Njc5NTc1NDQ4MDk2Nzc1",
+       "is_blue_verified": false,
+       "location": {
+        "location": ""
+       },
+       "media_permissions": {
+        "can_media_tag": false
+       },
+       "notifications_settings": {
+        "notifications_enabled": false
+       },
+       "parody_commentary_fan_label": "None",
+       "pinned_items": {},
+       "possibly_sensitive": false,
+       "privacy": {
+        "protected": false
+       },
+       "profile_bio": {
+        "description": "If you don't know, now you know",
+        "entities": {
+         "description": {}
+        }
+       },
+       "profile_description_language": "en",
+       "profile_image_shape": "Circle",
+       "profile_metadata": {
+        "profile_interstitial_type": ""
+       },
+       "profile_translation": {
+        "translator_type": "none"
+       },
+       "relationship_counts": {
+        "followers": 198,
+        "following": 0
+       },
+       "relationship_perspectives": {
+        "blocked_by": false,
+        "blocking": false,
+        "followed_by": false,
+        "following": false,
+        "live_following": false,
+        "muting": false
+       },
+       "rest_id": "1168679575448096775",
+       "super_follow_eligible": false,
+       "super_followed_by": false,
+       "super_following": false,
+       "tipjar_settings": {},
+       "tweet_counts": {
+        "media_tweets": 232,
+        "tweets": 233
+       },
+       "verification": {
+        "verified": false
+       },
+       "website": {
+        "url": ""
+       }
+      }
+     },
+     "type": "video",
+     "url": "https://t.co/IkgOKqMUJl",
+     "video_info": {
+      "aspect_ratio": [
+       1,
+       1
+      ],
+      "duration_millis": 12129,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/pl/tUm4UB7IR8EMOA8J.m3u8?tag=10&v=e2f"
+       },
+       {
+        "bitrate": 432000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/vid/320x320/peUBjN6pV-lP0xGL.mp4?tag=10"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/vid/480x480/98Pvj9I43D1T2bMz.mp4?tag=10"
+       },
+       {
+        "bitrate": 1280000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/vid/720x720/z9OhDh5y-Xqucfe4.mp4?tag=10"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "card": {
+   "rest_id": "https://t.co/IkgOKqMUJl"
+  },
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "display_url": "pic.x.com/IkgOKqMUJl",
+     "expanded_url": "https://x.com/orezjc/status/1211501581927165955/video/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "id_str": "1211501445536780288",
+     "indices": [
+      0,
+      23
+     ],
+     "media_key": "7_1211501445536780288",
+     "media_results": {
+      "result": {
+       "media_key": "7_1211501445536780288"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211501445536780288/pu/img/Av8c3gDLMO0yzaEx.jpg",
+     "original_info": {
+      "focus_rects": [],
+      "height": 720,
+      "width": 720
+     },
+     "sizes": {
+      "large": {
+       "h": 720,
+       "resize": "fit",
+       "w": 720
+      },
+      "medium": {
+       "h": 720,
+       "resize": "fit",
+       "w": 720
+      },
+      "small": {
+       "h": 680,
+       "resize": "fit",
+       "w": 680
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "source_status_id_str": "1211501581927165955",
+     "source_user_id_str": "1168679575448096775",
+     "source_user_results": {
+      "result": {
+       "__typename": "User",
+       "action_counts": {
+        "favorites_count": 0
+       },
+       "affiliates_highlighted_label": {},
+       "avatar": {
+        "image_url": "https://pbs.twimg.com/profile_images/1256721674441052161/lFM2-LxJ_normal.jpg"
+       },
+       "banner": {
+        "image_url": ""
+       },
+       "core": {
+        "created_at": "Tue Sep 03 00:18:33 +0000 2019",
+        "name": "Random Guy",
+        "screen_name": "orezjc"
+       },
+       "follow_request_sent": false,
+       "has_graduated_access": true,
+       "id": "VXNlcjoxMTY4Njc5NTc1NDQ4MDk2Nzc1",
+       "is_blue_verified": false,
+       "location": {
+        "location": ""
+       },
+       "media_permissions": {
+        "can_media_tag": false
+       },
+       "notifications_settings": {
+        "notifications_enabled": false
+       },
+       "parody_commentary_fan_label": "None",
+       "pinned_items": {},
+       "possibly_sensitive": false,
+       "privacy": {
+        "protected": false
+       },
+       "profile_bio": {
+        "description": "If you don't know, now you know",
+        "entities": {
+         "description": {}
+        }
+       },
+       "profile_description_language": "en",
+       "profile_image_shape": "Circle",
+       "profile_metadata": {
+        "profile_interstitial_type": ""
+       },
+       "profile_translation": {
+        "translator_type": "none"
+       },
+       "relationship_counts": {
+        "followers": 198,
+        "following": 0
+       },
+       "relationship_perspectives": {
+        "blocked_by": false,
+        "blocking": false,
+        "followed_by": false,
+        "following": false,
+        "live_following": false,
+        "muting": false
+       },
+       "rest_id": "1168679575448096775",
+       "super_follow_eligible": false,
+       "super_followed_by": false,
+       "super_following": false,
+       "tipjar_settings": {},
+       "tweet_counts": {
+        "media_tweets": 232,
+        "tweets": 233
+       },
+       "verification": {
+        "verified": false
+       },
+       "website": {
+        "url": ""
+       }
+      }
+     },
+     "type": "video",
+     "url": "https://t.co/IkgOKqMUJl",
+     "video_info": {
+      "aspect_ratio": [
+       1,
+       1
+      ],
+      "duration_millis": 12129,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/pl/tUm4UB7IR8EMOA8J.m3u8?tag=10&v=e2f"
+       },
+       {
+        "bitrate": 432000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/vid/320x320/peUBjN6pV-lP0xGL.mp4?tag=10"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/vid/480x480/98Pvj9I43D1T2bMz.mp4?tag=10"
+       },
+       {
+        "bitrate": 1280000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/vid/720x720/z9OhDh5y-Xqucfe4.mp4?tag=10"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/ext_tw_video_thumb/1211501445536780288/pu/img/Av8c3gDLMO0yzaEx.jpg"
+  ],
+  "videos": [
+   {
+    "durationMillis": 12129,
+    "aspectRatio": [
+     1,
+     1
+    ],
+    "variants": [
+     {
+      "contentType": "application/x-mpegURL",
+      "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/pl/tUm4UB7IR8EMOA8J.m3u8?tag=10&v=e2f"
+     },
+     {
+      "bitrate": 432000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/vid/320x320/peUBjN6pV-lP0xGL.mp4?tag=10"
+     },
+     {
+      "bitrate": 832000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/vid/480x480/98Pvj9I43D1T2bMz.mp4?tag=10"
+     },
+     {
+      "bitrate": 1280000,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/ext_tw_video/1211501445536780288/pu/vid/720x720/z9OhDh5y-Xqucfe4.mp4?tag=10"
+     }
+    ]
+   }
+  ],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2122099846022627470",
+  "url": "https://x.com/Ihartitz/status/2122099846022627470",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122099846022627470",
+  "text": "Konata Mumpfield might be a dude",
+  "fullText": "Konata Mumpfield might be a dude",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 35,
+  "quoteCount": 0,
+  "viewCount": 9404,
+  "createdAt": "Sun Nov 15 22:50:04 +0000 2026",
+  "lang": "de",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2122099846022627470",
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/sgF9v0Ib0b"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 142624,
+   "isTranslator": false,
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2122097930580680883",
+  "url": "https://x.com/Ihartitz/status/2122097930580680883",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122097930580680883",
+  "text": "RT @CPW11_: Chop Wood, Carry Water. #DUUUVAL",
+  "fullText": "RT @CPW11_: Chop Wood, Carry Water. #DUUUVAL",
+  "source": "Twitter for iPhone",
+  "retweetCount": 636,
+  "replyCount": 124,
+  "likeCount": 6563,
+  "quoteCount": 32,
+  "viewCount": 75354,
+  "createdAt": "Sun Nov 15 22:42:27 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 34,
+  "isReply": false,
+  "conversationId": "2122097930580680883",
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/sgF9v0Ib0b"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 142624,
+   "isTranslator": false,
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
+   }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+   "hashtags": [
+    {
+     "indices": [
+      36,
+      44
+     ],
+     "text": "DUUUVAL"
+    }
+   ],
+   "user_mentions": [
+    {
+     "id_str": "1356296562490617866",
+     "indices": [
+      3,
+      10
+     ],
+     "name": "Parker Washington",
+     "screen_name": "CPW11_"
+    }
+   ]
+  },
+  "isRetweet": true,
+  "retweet": {
+   "type": "tweet",
+   "id": "2122076883454153015",
+   "text": "Chop Wood, Carry Water. #DUUUVAL",
+   "source": "",
+   "retweetCount": 636,
+   "replyCount": 124,
+   "likeCount": 6563,
+   "quoteCount": 32,
+   "viewCount": 75354,
+   "createdAt": "Sun Nov 15 21:18:49 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 34,
+   "author": {
+    "type": "user",
+    "userName": "CPW11_",
+    "url": "https://x.com/CPW11_",
+    "twitterUrl": "https://twitter.com/CPW11_",
+    "id": "1356296562490617866",
+    "name": "Parker Washington",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2103214032643637248/fULioGOB_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1356296562490617866/1785514619",
+    "description": "Chop Wood, Carry Water.",
+    "location": "Jacksonville Beach, FL",
+    "followers": 15451,
+    "following": 10,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 01 17:41:19 +0000 2021",
+    "entities": {
+     "description": {},
+     "url": {
+      "urls": [
+       {
+        "display_url": "link.me/cpw?utm_source\u2026",
+        "expanded_url": "https://link.me/cpw?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/jUN90YBF2k"
+       }
+      ]
+     }
+    },
+    "favouritesCount": 2752,
+    "isTranslator": false,
+    "mediaCount": 30,
+    "statusesCount": 347,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+     "category": [],
+     "professional_type": "Creator",
+     "rest_id": "1578365904970211329"
+    }
+   },
+   "extendedEntities": {},
+   "card": {},
+   "place": {},
+   "entities": {
+    "hashtags": [
+     {
+      "indices": [
+       24,
+       32
+      ],
+      "text": "DUUUVAL"
+     }
+    ]
+   }
+  },
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2122090432616337476",
+  "url": "https://x.com/Ihartitz/status/2122090432616337476",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122090432616337476",
+  "text": "Chuba Hubbard is now averaging more fantasy points per game than Bijan Robinson. Madness! https://t.co/FV5enU53zM",
+  "fullText": "Chuba Hubbard is now averaging more fantasy points per game than Bijan Robinson. Madness! https://t.co/FV5enU53zM",
+  "source": "",
+  "retweetCount": 22,
+  "replyCount": 10,
+  "likeCount": 1063,
+  "quoteCount": 4,
+  "viewCount": 28672,
+  "createdAt": "Sun Nov 15 22:12:40 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 16,
+  "isReply": false,
+  "conversationId": "2122090432616337476",
+  "possiblySensitive": false,
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/sgF9v0Ib0b"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 142624,
+   "isTranslator": false,
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
+   }
+  },
+  "extendedEntities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/FV5enU53zM",
+     "expanded_url": "https://x.com/Ihartitz/status/2122090432616337476/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2122090358750289920",
+     "indices": [
+      90,
+      113
+     ],
+     "media_key": "3_2122090358750289920",
+     "media_results": {
+      "result": {
+       "media_key": "3_2122090358750289920"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXMt8B6XoAAWFz0.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 195,
+        "w": 348,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 195,
+        "w": 195,
+        "x": 21,
+        "y": 0
+       },
+       {
+        "h": 195,
+        "w": 171,
+        "x": 33,
+        "y": 0
+       },
+       {
+        "h": 195,
+        "w": 98,
+        "x": 69,
+        "y": 0
+       },
+       {
+        "h": 195,
+        "w": 366,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 195,
+      "width": 366
+     },
+     "sizes": {
+      "large": {
+       "h": 195,
+       "resize": "fit",
+       "w": 366
+      },
+      "medium": {
+       "h": 195,
+       "resize": "fit",
+       "w": 366
+      },
+      "small": {
+       "h": 195,
+       "resize": "fit",
+       "w": 366
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/FV5enU53zM"
+    }
+   ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+   "media": [
+    {
+     "display_url": "pic.x.com/FV5enU53zM",
+     "expanded_url": "https://x.com/Ihartitz/status/2122090432616337476/photo/1",
+     "ext_media_availability": {
+      "status": "Available"
+     },
+     "features": {
+      "large": {
+       "faces": []
+      },
+      "medium": {
+       "faces": []
+      },
+      "orig": {
+       "faces": []
+      },
+      "small": {
+       "faces": []
+      }
+     },
+     "id_str": "2122090358750289920",
+     "indices": [
+      90,
+      113
+     ],
+     "media_key": "3_2122090358750289920",
+     "media_results": {
+      "result": {
+       "media_key": "3_2122090358750289920"
+      }
+     },
+     "media_url_https": "https://pbs.twimg.com/media/HXMt8B6XoAAWFz0.png",
+     "original_info": {
+      "focus_rects": [
+       {
+        "h": 195,
+        "w": 348,
+        "x": 0,
+        "y": 0
+       },
+       {
+        "h": 195,
+        "w": 195,
+        "x": 21,
+        "y": 0
+       },
+       {
+        "h": 195,
+        "w": 171,
+        "x": 33,
+        "y": 0
+       },
+       {
+        "h": 195,
+        "w": 98,
+        "x": 69,
+        "y": 0
+       },
+       {
+        "h": 195,
+        "w": 366,
+        "x": 0,
+        "y": 0
+       }
+      ],
+      "height": 195,
+      "width": 366
+     },
+     "sizes": {
+      "large": {
+       "h": 195,
+       "resize": "fit",
+       "w": 366
+      },
+      "medium": {
+       "h": 195,
+       "resize": "fit",
+       "w": 366
+      },
+      "small": {
+       "h": 195,
+       "resize": "fit",
+       "w": 366
+      },
+      "thumb": {
+       "h": 150,
+       "resize": "crop",
+       "w": 150
+      }
+     },
+     "type": "photo",
+     "url": "https://t.co/FV5enU53zM"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+   "https://pbs.twimg.com/media/HXMt8B6XoAAWFz0.png"
+  ],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2122083450215694353",
+  "url": "https://x.com/Ihartitz/status/2122083450215694353",
+  "twitterUrl": "https://twitter.com/Ihartitz/status/2122083450215694353",
+  "text": "49ers getting quite the crowd pop at Jerry World lmao",
+  "fullText": "49ers getting quite the crowd pop at Jerry World lmao",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 34,
+  "quoteCount": 0,
+  "viewCount": 12444,
+  "createdAt": "Sun Nov 15 21:44:55 +0000 2026",
+  "lang": "en",
+  "quoteId": "2122083277712523336",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2122083450215694353",
+  "author": {
+   "type": "user",
+   "userName": "Ihartitz",
+   "url": "https://x.com/Ihartitz",
+   "twitterUrl": "https://twitter.com/Ihartitz",
+   "id": "43192090",
+   "name": "Ian Hartitz",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/758008372549525504/dNk28IvA_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/43192090/1720906603",
+   "description": "@RotoWire + @OddsJam | In Jalen Coker we trust | Great day to be great!",
+   "location": "Columbus, OH",
+   "followers": 240035,
+   "following": 1584,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Thu May 28 20:43:55 +0000 2009",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "youtube.com/@ihartitz?si=H\u2026",
+       "expanded_url": "https://youtube.com/@ihartitz?si=HPB7vuwlNn2CAO87",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/sgF9v0Ib0b"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 142624,
+   "isTranslator": false,
+   "mediaCount": 19255,
+   "statusesCount": 86262,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "professional": {
+    "category": [],
+    "professional_type": "Creator",
+    "rest_id": "1643289126379089921"
    }
   },
   "extendedEntities": {},
@@ -481,1567 +2269,280 @@
   "isQuote": true,
   "quote": {
    "type": "tweet",
-   "id": "2122072153726026017",
-   "text": "Status alert: Denzel Boston headed to medical tent Sunday.",
+   "id": "2122083277712523336",
+   "text": "Deebo is IN and the 49ers make a statement on the opening drive\n\nSFvsDAL on FOX/FOX One\nStream on @NFLPlus https://t.co/RJJg2M4KpS",
    "source": "",
-   "retweetCount": 1,
-   "replyCount": 1,
-   "likeCount": 24,
-   "quoteCount": 0,
-   "viewCount": 29649,
-   "createdAt": "Sun Nov 15 21:00:02 +0000 2026",
+   "retweetCount": 163,
+   "replyCount": 41,
+   "likeCount": 1248,
+   "quoteCount": 40,
+   "viewCount": 311333,
+   "createdAt": "Sun Nov 15 21:44:14 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 1,
+   "bookmarkCount": 23,
+   "possiblySensitive": false,
    "isPinned": false,
    "author": {
     "type": "user",
-    "userName": "UnderdogNFL",
-    "url": "https://x.com/UnderdogNFL",
-    "twitterUrl": "https://twitter.com/UnderdogNFL",
-    "id": "1449054490062110725",
-    "name": "Underdog NFL",
+    "userName": "NFL",
+    "url": "https://x.com/NFL",
+    "twitterUrl": "https://twitter.com/NFL",
+    "id": "19426551",
+    "name": "NFL",
     "isVerified": false,
     "verifiedType": "Business",
     "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-    "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/19426551/1794767322",
+    "description": "Danke, Munich!",
     "location": "",
-    "followers": 432883,
-    "following": 12,
+    "followers": 36968569,
+    "following": 2800,
     "protected": false,
     "status": "",
     "canDm": false,
     "canMediaTag": true,
-    "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
+    "createdAt": "Sat Jan 24 01:28:06 +0000 2009",
     "entities": {
      "description": {},
      "url": {
       "urls": [
        {
-        "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-        "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
+        "display_url": "linktr.ee/nfl",
+        "expanded_url": "https://linktr.ee/nfl",
         "indices": [
          0,
          23
         ],
-        "url": "https://t.co/3wHuxASkII"
+        "url": "https://t.co/5ianypESib"
        }
       ]
      }
     },
-    "fastFollowersCount": 0,
-    "favouritesCount": 10,
-    "hasCustomTimelines": false,
-    "isTranslator": false,
-    "mediaCount": 6339,
-    "statusesCount": 37079,
-    "affiliatesHighlightedLabel": {
-     "label": {
-      "badge": {
-       "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-      },
-      "description": "Underdog",
-      "url": {
-       "url": "https://twitter.com/Underdog",
-       "urlType": "DeepLink"
-      },
-      "userLabelDisplayType": "Badge",
-      "userLabelType": "BusinessLabel"
-     }
-    },
+    "favouritesCount": 4638,
+    "isTranslator": true,
+    "mediaCount": 161780,
+    "statusesCount": 311065,
+    "translatorTypeEnum": "regular",
+    "affiliatesHighlightedLabel": {},
     "possiblySensitive": false,
     "pinnedTweetIds": [
-     "2122051375043653778"
+     "2114898970812264900"
     ],
     "professional": {
-     "category": [],
+     "category": [
+      {
+       "icon_name": "IconBriefcaseStroke",
+       "id": 1003,
+       "name": "Professional Sports League"
+      }
+     ],
      "professional_type": "Business",
-     "rest_id": "2093064754826977383"
+     "rest_id": "1559645300599373824"
     }
    },
-   "extendedEntities": {},
+   "extendedEntities": {
+    "media": [
+     {
+      "additional_media_info": {
+       "description": "",
+       "embeddable": false,
+       "monetizable": true,
+       "title": ""
+      },
+      "allow_download_status": {
+       "allow_download": false
+      },
+      "display_url": "pic.x.com/RJJg2M4KpS",
+      "expanded_url": "https://x.com/NFL/status/2122083277712523336/video/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "id_str": "2122083162641793024",
+      "indices": [
+       107,
+       130
+      ],
+      "media_key": "13_2122083162641793024",
+      "media_results": {
+       "result": {
+        "media_key": "13_2122083162641793024"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2122083162641793024/img/HHvwV6lTxC-ErrFk.jpg",
+      "original_info": {
+       "focus_rects": [],
+       "height": 1080,
+       "width": 1920
+      },
+      "sizes": {
+       "large": {
+        "h": 1080,
+        "resize": "fit",
+        "w": 1920
+       },
+       "medium": {
+        "h": 675,
+        "resize": "fit",
+        "w": 1200
+       },
+       "small": {
+        "h": 383,
+        "resize": "fit",
+        "w": 680
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "video",
+      "url": "https://t.co/RJJg2M4KpS",
+      "video_info": {
+       "aspect_ratio": [
+        16,
+        9
+       ],
+       "duration_millis": 8680,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/pl/S_OiHYH8OE2oeWN3.m3u8?tag=29"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/vid/avc1/480x270/ll-9tc1A8Cb3aqwG.mp4?tag=29"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/vid/avc1/640x360/V6DpdoGf77xe_KMJ.mp4?tag=29"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/vid/avc1/1280x720/W7430zNE1FQu8LIS.mp4?tag=29"
+        },
+        {
+         "bitrate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/vid/avc1/1920x1080/b0POez4zkBPqE7A2.mp4?tag=29"
+        }
+       ]
+      }
+     }
+    ]
+   },
    "card": {},
    "place": {},
-   "entities": {}
-  },
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122072153726026017",
-  "url": "https://x.com/UnderdogNFL/status/2122072153726026017",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122072153726026017",
-  "text": "Status alert: Denzel Boston headed to medical tent Sunday.",
-  "fullText": "Status alert: Denzel Boston headed to medical tent Sunday.",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 1,
-  "likeCount": 24,
-  "quoteCount": 0,
-  "viewCount": 29649,
-  "createdAt": "Sun Nov 15 21:00:02 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "conversationId": "2122072153726026017",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
-   "isVerified": false,
-   "verifiedType": "Business",
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
    "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3wHuxASkII"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122072054719549523",
-  "url": "https://x.com/UnderdogNFL/status/2122072054719549523",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122072054719549523",
-  "text": "Status alert: Drake London being evaluated for a concussion and is questionable to return Sunday.",
-  "fullText": "Status alert: Drake London being evaluated for a concussion and is questionable to return Sunday.",
-  "source": "",
-  "retweetCount": 4,
-  "replyCount": 7,
-  "likeCount": 56,
-  "quoteCount": 1,
-  "viewCount": 29607,
-  "createdAt": "Sun Nov 15 20:59:38 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 0,
-  "isReply": false,
-  "conversationId": "2122072054719549523",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
-   "isVerified": false,
-   "verifiedType": "Business",
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3wHuxASkII"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122070939705688106",
-  "url": "https://x.com/UnderdogNFL/status/2122070939705688106",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122070939705688106",
-  "text": "NFC North Standings:\n\nLions (7-2)\nBears (7-2)\nVikings (7-2)\nPackers (6-4) https://t.co/zBYHogsig6",
-  "fullText": "NFC North Standings:\n\nLions (7-2)\nBears (7-2)\nVikings (7-2)\nPackers (6-4) https://t.co/zBYHogsig6",
-  "source": "",
-  "retweetCount": 20,
-  "replyCount": 17,
-  "likeCount": 269,
-  "quoteCount": 10,
-  "viewCount": 40875,
-  "createdAt": "Sun Nov 15 20:55:12 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 6,
-  "isReply": false,
-  "conversationId": "2122070939705688106",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
-   "isVerified": false,
-   "verifiedType": "Business",
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3wHuxASkII"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/zBYHogsig6",
-     "expanded_url": "https://x.com/UnderdogNFL/status/2122070939705688106/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
+    "media": [
+     {
+      "additional_media_info": {
+       "description": "",
+       "embeddable": false,
+       "monetizable": true,
+       "title": ""
       },
-      "medium": {
-       "faces": []
+      "allow_download_status": {
+       "allow_download": false
       },
-      "orig": {
-       "faces": []
+      "display_url": "pic.x.com/RJJg2M4KpS",
+      "expanded_url": "https://x.com/NFL/status/2122083277712523336/video/1",
+      "ext_media_availability": {
+       "status": "Available"
       },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2122069292334170112",
-     "indices": [
-      74,
-      97
-     ],
-     "media_key": "3_2122069292334170112",
-     "media_results": {
-      "result": {
-       "media_key": "3_2122069292334170112"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXMaxzZXwAAzotE.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 605,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
+      "id_str": "2122083162641793024",
+      "indices": [
+       107,
+       130
+      ],
+      "media_key": "13_2122083162641793024",
+      "media_results": {
+       "result": {
+        "media_key": "13_2122083162641793024"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2122083162641793024/img/HHvwV6lTxC-ErrFk.jpg",
+      "original_info": {
+       "focus_rects": [],
+       "height": 1080,
+       "width": 1920
+      },
+      "sizes": {
+       "large": {
         "h": 1080,
-        "w": 1080,
-        "x": 0,
-        "y": 0
+        "resize": "fit",
+        "w": 1920
        },
-       {
-        "h": 1231,
-        "w": 1080,
-        "x": 0,
-        "y": 0
+       "medium": {
+        "h": 675,
+        "resize": "fit",
+        "w": 1200
        },
-       {
-        "h": 1350,
-        "w": 675,
-        "x": 304,
-        "y": 0
+       "small": {
+        "h": 383,
+        "resize": "fit",
+        "w": 680
        },
-       {
-        "h": 1350,
-        "w": 1080,
-        "x": 0,
-        "y": 0
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
        }
-      ],
-      "height": 1350,
-      "width": 1080
-     },
-     "sizes": {
-      "large": {
-       "h": 1350,
-       "resize": "fit",
-       "w": 1080
       },
-      "medium": {
-       "h": 1200,
-       "resize": "fit",
-       "w": 960
-      },
-      "small": {
-       "h": 680,
-       "resize": "fit",
-       "w": 544
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/zBYHogsig6"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/zBYHogsig6",
-     "expanded_url": "https://x.com/UnderdogNFL/status/2122070939705688106/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2122069292334170112",
-     "indices": [
-      74,
-      97
-     ],
-     "media_key": "3_2122069292334170112",
-     "media_results": {
-      "result": {
-       "media_key": "3_2122069292334170112"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXMaxzZXwAAzotE.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 605,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1080,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1231,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 675,
-        "x": 304,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1350,
-      "width": 1080
-     },
-     "sizes": {
-      "large": {
-       "h": 1350,
-       "resize": "fit",
-       "w": 1080
-      },
-      "medium": {
-       "h": 1200,
-       "resize": "fit",
-       "w": 960
-      },
-      "small": {
-       "h": 680,
-       "resize": "fit",
-       "w": 544
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/zBYHogsig6"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HXMaxzZXwAAzotE.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122070481222369791",
-  "url": "https://x.com/UnderdogNFL/status/2122070481222369791",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122070481222369791",
-  "text": "JAMES COOK 74 YARDS TO THE CRIB\n\nhttps://t.co/64bPw2cvIE",
-  "fullText": "JAMES COOK 74 YARDS TO THE CRIB\n\nhttps://t.co/64bPw2cvIE",
-  "source": "",
-  "retweetCount": 32,
-  "replyCount": 8,
-  "likeCount": 406,
-  "quoteCount": 9,
-  "viewCount": 49337,
-  "createdAt": "Sun Nov 15 20:53:23 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 11,
-  "isReply": false,
-  "conversationId": "2122070481222369791",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
-   "isVerified": false,
-   "verifiedType": "Business",
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
-       "indices": [
-        0,
-        23
+      "type": "video",
+      "url": "https://t.co/RJJg2M4KpS",
+      "video_info": {
+       "aspect_ratio": [
+        16,
+        9
        ],
-       "url": "https://t.co/3wHuxASkII"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "additional_media_info": {
-      "description": "",
-      "embeddable": false,
-      "monetizable": true,
-      "source_user": {
-       "user_results": {
-        "result": {
-         "__typename": "User",
-         "affiliates_highlighted_label": {},
-         "has_graduated_access": true,
-         "id": "VXNlcjoxOTQyNjU1MQ==",
-         "is_blue_verified": true,
-         "legacy": {
-          "blocked_by": false,
-          "blocking": false,
-          "can_dm": false,
-          "can_media_tag": true,
-          "created_at": "Sat Jan 24 01:28:06 +0000 2009",
-          "default_profile": false,
-          "default_profile_image": false,
-          "description": "Danke, Munich!",
-          "entities": {
-           "description": {},
-           "url": {
-            "urls": [
-             {
-              "display_url": "linktr.ee/nfl",
-              "expanded_url": "https://linktr.ee/nfl",
-              "indices": [
-               0,
-               23
-              ],
-              "url": "https://t.co/5ianypESib"
-             }
-            ]
-           }
-          },
-          "fast_followers_count": 0,
-          "favourites_count": 4638,
-          "follow_request_sent": false,
-          "followed_by": false,
-          "followers_count": 36967339,
-          "following": false,
-          "friends_count": 2800,
-          "has_custom_timelines": true,
-          "is_translator": false,
-          "listed_count": 52977,
-          "location": "",
-          "media_count": 161703,
-          "muting": false,
-          "name": "NFL",
-          "needs_phone_verification": false,
-          "normal_followers_count": 36967339,
-          "notifications": false,
-          "pinned_tweet_ids_str": [
-           "2114898970812264900"
-          ],
-          "possibly_sensitive": false,
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/19426551/1794767322",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-          "profile_interstitial_type": "",
-          "protected": false,
-          "screen_name": "NFL",
-          "statuses_count": 310988,
-          "time_zone": "",
-          "translator_type": "regular",
-          "url": "https://t.co/5ianypESib",
-          "utc_offset": 0,
-          "verified": false,
-          "verified_type": "Business",
-          "want_retweets": false,
-          "withheld_description": "",
-          "withheld_scope": ""
-         },
-         "professional": {
-          "category": [
-           {
-            "icon_name": "IconBriefcaseStroke",
-            "id": 1003,
-            "name": "Professional Sports League"
-           }
-          ],
-          "professional_type": "Business",
-          "rest_id": "1559645300599373824"
-         },
-         "profile_image_shape": "Square",
-         "rest_id": "19426551",
-         "super_follow_eligible": false,
-         "super_followed_by": false,
-         "super_following": false,
-         "tipjar_settings": {}
+       "duration_millis": 8680,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/pl/S_OiHYH8OE2oeWN3.m3u8?tag=29"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/vid/avc1/480x270/ll-9tc1A8Cb3aqwG.mp4?tag=29"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/vid/avc1/640x360/V6DpdoGf77xe_KMJ.mp4?tag=29"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/vid/avc1/1280x720/W7430zNE1FQu8LIS.mp4?tag=29"
+        },
+        {
+         "bitrate": 10368000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/amplify_video/2122083162641793024/vid/avc1/1920x1080/b0POez4zkBPqE7A2.mp4?tag=29"
         }
-       }
-      },
-      "title": ""
-     },
-     "allow_download_status": {
-      "allow_download": false
-     },
-     "display_url": "pic.x.com/64bPw2cvIE",
-     "expanded_url": "https://x.com/NFL/status/2122070337542369365/video/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "id_str": "2122070281057705984",
-     "indices": [
-      33,
-      56
-     ],
-     "media_key": "13_2122070281057705984",
-     "media_results": {
-      "result": {
-       "media_key": "13_2122070281057705984"
+       ]
       }
-     },
-     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2122070281057705984/img/cpUPlgkXBI7MyaD-.jpg",
-     "original_info": {
-      "focus_rects": [],
-      "height": 1080,
-      "width": 1920
-     },
-     "sizes": {
-      "large": {
-       "h": 1080,
-       "resize": "fit",
-       "w": 1920
-      },
-      "medium": {
-       "h": 675,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 383,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "source_status_id_str": "2122070337542369365",
-     "source_user_id_str": "19426551",
-     "type": "video",
-     "url": "https://t.co/64bPw2cvIE",
-     "video_info": {
-      "aspect_ratio": [
-       16,
-       9
-      ],
-      "duration_millis": 13780,
-      "variants": [
-       {
-        "content_type": "application/x-mpegURL",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/pl/uXLbU_X3XbLp60q9.m3u8?tag=29&v=e81"
-       },
-       {
-        "bitrate": 256000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/480x270/ugn7TmDDeklGvXac.mp4?tag=29"
-       },
-       {
-        "bitrate": 832000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/640x360/3I1qBr5pkY4DzTI5.mp4?tag=29"
-       },
-       {
-        "bitrate": 2176000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/1280x720/267DEfKpltwyKxfp.mp4?tag=29"
-       },
-       {
-        "bitrate": 10368000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/1920x1080/Se2a837oiki0o1te.mp4?tag=29"
-       }
-      ]
      }
-    }
-   ]
-  },
-  "card": {
-   "rest_id": "https://t.co/64bPw2cvIE"
-  },
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "additional_media_info": {
-      "description": "",
-      "embeddable": false,
-      "monetizable": true,
-      "source_user": {
-       "user_results": {
-        "result": {
-         "__typename": "User",
-         "affiliates_highlighted_label": {},
-         "has_graduated_access": true,
-         "id": "VXNlcjoxOTQyNjU1MQ==",
-         "is_blue_verified": true,
-         "legacy": {
-          "blocked_by": false,
-          "blocking": false,
-          "can_dm": false,
-          "can_media_tag": true,
-          "created_at": "Sat Jan 24 01:28:06 +0000 2009",
-          "default_profile": false,
-          "default_profile_image": false,
-          "description": "Danke, Munich!",
-          "entities": {
-           "description": {},
-           "url": {
-            "urls": [
-             {
-              "display_url": "linktr.ee/nfl",
-              "expanded_url": "https://linktr.ee/nfl",
-              "indices": [
-               0,
-               23
-              ],
-              "url": "https://t.co/5ianypESib"
-             }
-            ]
-           }
-          },
-          "fast_followers_count": 0,
-          "favourites_count": 4638,
-          "follow_request_sent": false,
-          "followed_by": false,
-          "followers_count": 36967339,
-          "following": false,
-          "friends_count": 2800,
-          "has_custom_timelines": true,
-          "is_translator": false,
-          "listed_count": 52977,
-          "location": "",
-          "media_count": 161703,
-          "muting": false,
-          "name": "NFL",
-          "needs_phone_verification": false,
-          "normal_followers_count": 36967339,
-          "notifications": false,
-          "pinned_tweet_ids_str": [
-           "2114898970812264900"
-          ],
-          "possibly_sensitive": false,
-          "profile_banner_url": "https://pbs.twimg.com/profile_banners/19426551/1794767322",
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1619895559334273028/PHKS_mjX_normal.jpg",
-          "profile_interstitial_type": "",
-          "protected": false,
-          "screen_name": "NFL",
-          "statuses_count": 310988,
-          "time_zone": "",
-          "translator_type": "regular",
-          "url": "https://t.co/5ianypESib",
-          "utc_offset": 0,
-          "verified": false,
-          "verified_type": "Business",
-          "want_retweets": false,
-          "withheld_description": "",
-          "withheld_scope": ""
-         },
-         "professional": {
-          "category": [
-           {
-            "icon_name": "IconBriefcaseStroke",
-            "id": 1003,
-            "name": "Professional Sports League"
-           }
-          ],
-          "professional_type": "Business",
-          "rest_id": "1559645300599373824"
-         },
-         "profile_image_shape": "Square",
-         "rest_id": "19426551",
-         "super_follow_eligible": false,
-         "super_followed_by": false,
-         "super_following": false,
-         "tipjar_settings": {}
-        }
-       }
-      },
-      "title": ""
-     },
-     "allow_download_status": {
-      "allow_download": false
-     },
-     "display_url": "pic.x.com/64bPw2cvIE",
-     "expanded_url": "https://x.com/NFL/status/2122070337542369365/video/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "id_str": "2122070281057705984",
-     "indices": [
-      33,
-      56
-     ],
-     "media_key": "13_2122070281057705984",
-     "media_results": {
-      "result": {
-       "media_key": "13_2122070281057705984"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2122070281057705984/img/cpUPlgkXBI7MyaD-.jpg",
-     "original_info": {
-      "focus_rects": [],
-      "height": 1080,
-      "width": 1920
-     },
-     "sizes": {
-      "large": {
-       "h": 1080,
-       "resize": "fit",
-       "w": 1920
-      },
-      "medium": {
-       "h": 675,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 383,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "source_status_id_str": "2122070337542369365",
-     "source_user_id_str": "19426551",
-     "type": "video",
-     "url": "https://t.co/64bPw2cvIE",
-     "video_info": {
-      "aspect_ratio": [
-       16,
-       9
-      ],
-      "duration_millis": 13780,
-      "variants": [
-       {
-        "content_type": "application/x-mpegURL",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/pl/uXLbU_X3XbLp60q9.m3u8?tag=29&v=e81"
-       },
-       {
-        "bitrate": 256000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/480x270/ugn7TmDDeklGvXac.mp4?tag=29"
-       },
-       {
-        "bitrate": 832000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/640x360/3I1qBr5pkY4DzTI5.mp4?tag=29"
-       },
-       {
-        "bitrate": 2176000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/1280x720/267DEfKpltwyKxfp.mp4?tag=29"
-       },
-       {
-        "bitrate": 10368000,
-        "content_type": "video/mp4",
-        "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/1920x1080/Se2a837oiki0o1te.mp4?tag=29"
-       }
-      ]
-     }
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/amplify_video_thumb/2122070281057705984/img/cpUPlgkXBI7MyaD-.jpg"
-  ],
-  "videos": [
-   {
-    "durationMillis": 13780,
-    "aspectRatio": [
-     16,
-     9
     ],
-    "variants": [
+    "user_mentions": [
      {
-      "contentType": "application/x-mpegURL",
-      "url": "https://video.twimg.com/amplify_video/2122070281057705984/pl/uXLbU_X3XbLp60q9.m3u8?tag=29&v=e81"
-     },
-     {
-      "bitrate": 256000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/480x270/ugn7TmDDeklGvXac.mp4?tag=29"
-     },
-     {
-      "bitrate": 832000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/640x360/3I1qBr5pkY4DzTI5.mp4?tag=29"
-     },
-     {
-      "bitrate": 2176000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/1280x720/267DEfKpltwyKxfp.mp4?tag=29"
-     },
-     {
-      "bitrate": 10368000,
-      "contentType": "video/mp4",
-      "url": "https://video.twimg.com/amplify_video/2122070281057705984/vid/avc1/1920x1080/Se2a837oiki0o1te.mp4?tag=29"
+      "id_str": "771160003793170432",
+      "indices": [
+       98,
+       106
+      ],
+      "name": "NFL+",
+      "screen_name": "NFLPlus"
      }
     ]
    }
-  ],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122070080787992773",
-  "url": "https://x.com/UnderdogNFL/status/2122070080787992773",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122070080787992773",
-  "text": "Pat Mahomes in Week 10:\n\n348 passing yards\n5 TDs\n0 INTs\n141.2 passer rating https://t.co/1dQ6fTmRYF",
-  "fullText": "Pat Mahomes in Week 10:\n\n348 passing yards\n5 TDs\n0 INTs\n141.2 passer rating https://t.co/1dQ6fTmRYF",
-  "source": "",
-  "retweetCount": 110,
-  "replyCount": 30,
-  "likeCount": 634,
-  "quoteCount": 27,
-  "viewCount": 47805,
-  "createdAt": "Sun Nov 15 20:51:48 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 21,
-  "isReply": false,
-  "conversationId": "2122070080787992773",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
-   "isVerified": false,
-   "verifiedType": "Business",
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3wHuxASkII"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
-   }
   },
-  "extendedEntities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/1dQ6fTmRYF",
-     "expanded_url": "https://x.com/UnderdogNFL/status/2122070080787992773/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2122070044947402752",
-     "indices": [
-      76,
-      99
-     ],
-     "media_key": "3_2122070044947402752",
-     "media_results": {
-      "result": {
-       "media_key": "3_2122070044947402752"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXMbdnGWUAAMRtp.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 605,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1080,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1231,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 675,
-        "x": 34,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1350,
-      "width": 1080
-     },
-     "sizes": {
-      "large": {
-       "h": 1350,
-       "resize": "fit",
-       "w": 1080
-      },
-      "medium": {
-       "h": 1200,
-       "resize": "fit",
-       "w": 960
-      },
-      "small": {
-       "h": 680,
-       "resize": "fit",
-       "w": 544
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/1dQ6fTmRYF"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "display_url": "pic.x.com/1dQ6fTmRYF",
-     "expanded_url": "https://x.com/UnderdogNFL/status/2122070080787992773/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2122070044947402752",
-     "indices": [
-      76,
-      99
-     ],
-     "media_key": "3_2122070044947402752",
-     "media_results": {
-      "result": {
-       "media_key": "3_2122070044947402752"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXMbdnGWUAAMRtp.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 605,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1080,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1231,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 675,
-        "x": 34,
-        "y": 0
-       },
-       {
-        "h": 1350,
-        "w": 1080,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 1350,
-      "width": 1080
-     },
-     "sizes": {
-      "large": {
-       "h": 1350,
-       "resize": "fit",
-       "w": 1080
-      },
-      "medium": {
-       "h": 1200,
-       "resize": "fit",
-       "w": 960
-      },
-      "small": {
-       "h": 680,
-       "resize": "fit",
-       "w": 544
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/1dQ6fTmRYF"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HXMbdnGWUAAMRtp.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122068860232724582",
-  "url": "https://x.com/UnderdogNFL/status/2122068860232724582",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122068860232724582",
-  "text": "Status alert: Geno Smith (ankle) won't return Sunday.",
-  "fullText": "Status alert: Geno Smith (ankle) won't return Sunday.",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 3,
-  "likeCount": 29,
-  "quoteCount": 0,
-  "viewCount": 40090,
-  "createdAt": "Sun Nov 15 20:46:57 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 0,
-  "isReply": false,
-  "conversationId": "2122068860232724582",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
-   "isVerified": false,
-   "verifiedType": "Business",
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3wHuxASkII"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2122066897969545344",
-  "url": "https://x.com/UnderdogNFL/status/2122066897969545344",
-  "twitterUrl": "https://twitter.com/UnderdogNFL/status/2122066897969545344",
-  "text": "Status alert: Keon Coleman (head) cleared to return Sunday.",
-  "fullText": "Status alert: Keon Coleman (head) cleared to return Sunday.",
-  "source": "",
-  "retweetCount": 3,
-  "replyCount": 1,
-  "likeCount": 40,
-  "quoteCount": 2,
-  "viewCount": 47991,
-  "createdAt": "Sun Nov 15 20:39:09 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "conversationId": "2122066897969545344",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "UnderdogNFL",
-   "url": "https://x.com/UnderdogNFL",
-   "twitterUrl": "https://twitter.com/UnderdogNFL",
-   "id": "1449054490062110725",
-   "name": "Underdog NFL",
-   "isVerified": false,
-   "verifiedType": "Business",
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/2089376088556494848/6qJjQx5n_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1449054490062110725/1786981064",
-   "description": "Breaking NFL news and storylines. Pick a side on @Underdog.",
-   "location": "",
-   "followers": 432883,
-   "following": 12,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Fri Oct 15 16:48:15 +0000 2021",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "underdogfantasy.onelink.me/vgwg/UDNFL",
-       "expanded_url": "https://underdogfantasy.onelink.me/vgwg/UDNFL",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/3wHuxASkII"
-      }
-     ]
-    }
-   },
-   "fastFollowersCount": 0,
-   "favouritesCount": 10,
-   "hasCustomTimelines": false,
-   "isTranslator": false,
-   "mediaCount": 6339,
-   "statusesCount": 37079,
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2116931327245127680/vecU9l8D_bigger.jpg"
-     },
-     "description": "Underdog",
-     "url": {
-      "url": "https://twitter.com/Underdog",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2122051375043653778"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Business",
-    "rest_id": "2093064754826977383"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {},
-  "isRetweet": false,
-  "isQuote": false,
   "media": [],
   "videos": [],
   "isConversationControlled": false
