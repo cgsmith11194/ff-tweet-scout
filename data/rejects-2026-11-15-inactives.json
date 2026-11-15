@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T16:29:05.914101+00:00",
+ "generated_at": "2026-11-15T16:43:23.719069+00:00",
  "window": {
   "since": "2026-11-15",
   "until": "2026-11-16",
@@ -7,24 +7,52 @@
  },
  "counts": {
   "raw": 570,
-  "unique": 73,
-  "kept": 37,
+  "unique": 89,
+  "kept": 45,
   "kills": {
-   "low_score": 31,
-   "retweet": 5,
-   "out_of_window": 491
+   "retweet": 6,
+   "out_of_window": 477,
+   "low_score": 37,
+   "promo": 1
   }
  },
  "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
  "rejects": [
   {
+   "id": "2122006321079665005",
+   "url": "https://x.com/MySportsUpdate/status/2122006321079665005",
+   "handle": "MySportsUpdate",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.9,
+   "likes": 953,
+   "text": "A human centipede celebration is INSANE. \ud83d\ude02\ud83d\ude02https://t.co/1iPHEVhFQJ"
+  },
+  {
+   "id": "2122006480723591430",
+   "url": "https://x.com/UnderdogNFL/status/2122006480723591430",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.6,
+   "likes": 465,
+   "text": "Lions hit the human centipede after Amon-Ra St. Brown scores his 2nd TD\n\nhttps://t.co/Xb6CozqYY1"
+  },
+  {
    "id": "2122001903001186806",
    "url": "https://x.com/UnderdogNFL/status/2122001903001186806",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 23.6,
-   "likes": 269,
+   "score": 24.5,
+   "likes": 459,
    "text": "Darlington: Chiefs believe Emmett Johnson is ready to take on Kenneth Walker's usual workload in Week 10."
+  },
+  {
+   "id": "2122003810528985195",
+   "url": "https://x.com/HaydenWinks/status/2122003810528985195",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.2,
+   "likes": 2,
+   "text": "Live for the next 90 minutes answering fantasy football Qs.\nhttps://t.co/UB941oFfCI"
   },
   {
    "id": "2121991985569665158",
@@ -32,7 +60,7 @@
    "handle": "CoopAFiasco",
    "reason": "low_score(analysis_hype)",
    "score": 23.6,
-   "likes": 2,
+   "likes": 3,
    "text": "In case you missed it on the SXM show this morning, here is my favorite play today:\n\n\ud83d\udd38Elijah Higgins over 2.5 receptions +104 https://t.co/FB4v5sWQRn"
   },
   {
@@ -41,7 +69,7 @@
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
    "score": 22.8,
-   "likes": 496,
+   "likes": 510,
    "text": "Status alert: Drake Maye (ankle) won't return Sunday."
   },
   {
@@ -50,7 +78,7 @@
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
    "score": 22.4,
-   "likes": 420,
+   "likes": 423,
    "text": "Status alert: Drake Maye headed to locker room Sunday."
   },
   {
@@ -58,8 +86,8 @@
    "url": "https://x.com/MySportsUpdate/status/2121979328950907190",
    "handle": "MySportsUpdate",
    "reason": "low_score(analysis_hype)",
-   "score": 22.0,
-   "likes": 575,
+   "score": 22.1,
+   "likes": 582,
    "text": "Aidan Hutchinson is now going to the locker room after being evaluated."
   },
   {
@@ -67,8 +95,8 @@
    "url": "https://x.com/UnderdogNFL/status/2121987749507223953",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 21.5,
-   "likes": 2190,
+   "score": 21.8,
+   "likes": 2499,
    "text": "Another AJ Brown drop\n\nhttps://t.co/d1Z7yUxW40"
   },
   {
@@ -76,9 +104,18 @@
    "url": "https://x.com/Ihartitz/status/2121979687672922233",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 21.4,
-   "likes": 2176,
+   "score": 21.6,
+   "likes": 2411,
    "text": "Congrats son!!"
+  },
+  {
+   "id": "2121982175545589871",
+   "url": "https://x.com/Ihartitz/status/2121982175545589871",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.5,
+   "likes": 2256,
+   "text": "Aidan Hutchinson sacking Drake Maye https://t.co/TB0KnyVEMh"
   },
   {
    "id": "2121951646708359557",
@@ -86,53 +123,35 @@
    "handle": "Patriots",
    "reason": "low_score(analysis_hype)",
    "score": 21.2,
-   "likes": 527,
+   "likes": 532,
    "text": "Patriots inactives for NE vs. DET. https://t.co/AeU6HbqRQZ"
-  },
-  {
-   "id": "2121982175545589871",
-   "url": "https://x.com/Ihartitz/status/2121982175545589871",
-   "handle": "Ihartitz",
-   "reason": "low_score(analysis_hype)",
-   "score": 21.1,
-   "likes": 1760,
-   "text": "Aidan Hutchinson sacking Drake Maye https://t.co/TB0KnyVEMh"
-  },
-  {
-   "id": "2121977863427531018",
-   "url": "https://x.com/UnderdogNFL/status/2121977863427531018",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 20.7,
-   "likes": 1345,
-   "text": "Did Aidan Hutchinson just get hurt celebrating? https://t.co/Dda2hStJU8"
-  },
-  {
-   "id": "2121997550752239714",
-   "url": "https://x.com/UnderdogNFL/status/2121997550752239714",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 20.5,
-   "likes": 201,
-   "text": "Garafolo: Baker Mayfield uncertain for next week after suffering an injury to foot/ankle area.\n\nNot considered a long-term issue."
-  },
-  {
-   "id": "2121979307316719719",
-   "url": "https://x.com/UnderdogNFL/status/2121979307316719719",
-   "handle": "UnderdogNFL",
-   "reason": "low_score(analysis_hype)",
-   "score": 20.3,
-   "likes": 146,
-   "text": "Status alert: Aidan Hutchinson headed to locker room Sunday."
   },
   {
    "id": "2122001675015590381",
    "url": "https://x.com/UnderdogNFL/status/2122001675015590381",
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
-   "score": 20.0,
-   "likes": 171,
+   "score": 21.1,
+   "likes": 309,
    "text": "Darlington: Josh Downs will play an immediate role in Chiefs offense."
+  },
+  {
+   "id": "2122005151162790328",
+   "url": "https://x.com/Ihartitz/status/2122005151162790328",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.0,
+   "likes": 0,
+   "text": "Week 10 @betr picks!\n\nThese are all recommendations from my beautiful dachshund Lilly.\n\nhttps://t.co/G75tnNKUoe https://t.co/h05VLZu4xD"
+  },
+  {
+   "id": "2121997550752239714",
+   "url": "https://x.com/UnderdogNFL/status/2121997550752239714",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.9,
+   "likes": 257,
+   "text": "Garafolo: Baker Mayfield uncertain for next week after suffering an injury to foot/ankle area.\n\nNot considered a long-term issue."
   },
   {
    "id": "2121980791890510305",
@@ -140,8 +159,26 @@
    "handle": "UnderdogNFL",
    "reason": "low_score(analysis_hype)",
    "score": 20.0,
-   "likes": 226,
+   "likes": 230,
    "text": "Lineup alert: Tommy DeVito enters game in place of injured Drake Maye on Sunday."
+  },
+  {
+   "id": "2121970449206972892",
+   "url": "https://x.com/HaydenWinks/status/2121970449206972892",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.5,
+   "likes": 85,
+   "text": "These aren't exactly my rankings, but here are market-based half PPR projections. Helpful for FLEX decisions. https://t.co/MUL89XdZZt"
+  },
+  {
+   "id": "2121973350537007401",
+   "url": "https://x.com/HaydenWinks/status/2121973350537007401",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.2,
+   "likes": 46,
+   "text": "Great interview. Shanahan speaks so highly of Brock Purdy's understanding of the offense."
   },
   {
    "id": "2121996403559804956",
@@ -157,27 +194,45 @@
    "url": "https://x.com/GuruFantasyWrld/status/2121985810534969486",
    "handle": "GuruFantasyWrld",
    "reason": "low_score(analysis_hype)",
-   "score": 18.4,
-   "likes": 394,
+   "score": 18.6,
+   "likes": 446,
    "text": "Starting hobbled Rhamondre &amp; AJB on a day Drake Maye goes down to injury is going to be my villain origin story"
+  },
+  {
+   "id": "2121993313725362392",
+   "url": "https://x.com/HaydenWinks/status/2121993313725362392",
+   "handle": "HaydenWinks",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.5,
+   "likes": 38,
+   "text": "Texans, amongst others, are alive for the 3rd wild card spot if Drake Maye's ankle injury lingers. https://t.co/d5P3ar5kgL"
   },
   {
    "id": "2121980915249471792",
    "url": "https://x.com/Ihartitz/status/2121980915249471792",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 17.6,
-   "likes": 248,
+   "score": 17.7,
+   "likes": 268,
    "text": "MASSIVE boos from the German crowd as Tommy DeVito enters the game"
   },
   {
-   "id": "2121943489717866806",
-   "url": "https://x.com/MikeClayNFL/status/2121943489717866806",
-   "handle": "MikeClayNFL",
+   "id": "2121987424763138553",
+   "url": "https://x.com/HaydenWinks/status/2121987424763138553",
+   "handle": "HaydenWinks",
    "reason": "low_score(analysis_hype)",
-   "score": 17.5,
-   "likes": 56,
-   "text": "Looking good for Stevenson and Brown. Check those lineups - Projections are updated!"
+   "score": 17.7,
+   "likes": 246,
+   "text": "https://t.co/dd3qppJ7A3"
+  },
+  {
+   "id": "2122006212740829617",
+   "url": "https://x.com/Ihartitz/status/2122006212740829617",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.0,
+   "likes": 155,
+   "text": "Lions just did the first human centipede team celebration https://t.co/9vU2amwtHI"
   },
   {
    "id": "2121970926237405509",
@@ -185,34 +240,34 @@
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
    "score": 16.2,
-   "likes": 111,
+   "likes": 113,
    "text": "Me and the fellas ready to watch Patriots-Lions https://t.co/MtIysjUo98"
-  },
-  {
-   "id": "2121931907365769439",
-   "url": "https://x.com/GuruFantasyWrld/status/2121931907365769439",
-   "handle": "GuruFantasyWrld",
-   "reason": "low_score(analysis_hype)",
-   "score": 14.6,
-   "likes": 44,
-   "text": "Love the smell of napalm in the morning \n\n#Dynasty #Contending https://t.co/mgN2n127R0"
   },
   {
    "id": "2121990631417422222",
    "url": "https://x.com/GuruFantasyWrld/status/2121990631417422222",
    "handle": "GuruFantasyWrld",
    "reason": "low_score(analysis_hype)",
-   "score": 14.4,
-   "likes": 39,
+   "score": 15.0,
+   "likes": 54,
    "text": "Trying to trade in Dynasty be like\u2026 https://t.co/p65WRoexPK"
+  },
+  {
+   "id": "2121931907365769439",
+   "url": "https://x.com/GuruFantasyWrld/status/2121931907365769439",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.8,
+   "likes": 49,
+   "text": "Love the smell of napalm in the morning \n\n#Dynasty #Contending https://t.co/mgN2n127R0"
   },
   {
    "id": "2121998312547205319",
    "url": "https://x.com/Ihartitz/status/2121998312547205319",
    "handle": "Ihartitz",
    "reason": "low_score(analysis_hype)",
-   "score": 14.1,
-   "likes": 32,
+   "score": 14.3,
+   "likes": 37,
    "text": "Kevin Byard:\n\n-Knocks what should\u2019ve been a touchdown out of Sam LaPorta\u2019s hands \n-Picks off Jared Goff on the very next play"
   },
   {
@@ -221,7 +276,7 @@
    "handle": "CoopAFiasco",
    "reason": "low_score(analysis_hype)",
    "score": 14.0,
-   "likes": 12,
+   "likes": 14,
    "text": "Guys, I'm starting to worry that Tommy DeVito might not be that good"
   },
   {
@@ -239,7 +294,7 @@
    "handle": "SleeperNFL",
    "reason": "low_score(analysis_hype)",
    "score": 11.9,
-   "likes": 86,
+   "likes": 87,
    "text": "Garrett Wilson has cleared the concussion protocol and will play Sunday against the Bills.\n\n(@RapSheet)"
   },
   {
@@ -248,7 +303,7 @@
    "handle": "Savageboston",
    "reason": "low_score(analysis_hype)",
    "score": 11.1,
-   "likes": 1097,
+   "likes": 1098,
    "text": "AJ Brown is officially ACTIVE today.  \n\n\ud83d\udc40 https://t.co/P3ec8fLsyY"
   },
   {
@@ -274,36 +329,36 @@
    "url": "https://x.com/Lions/status/2121951552197873952",
    "handle": "Lions",
    "reason": "low_score(analysis_hype)",
-   "score": 4.6,
-   "likes": 374,
+   "score": 4.7,
+   "likes": 379,
    "text": "#NEvsDET inactives https://t.co/yJBg9RKqjc"
   },
   {
-   "id": "2121953162357625178",
-   "url": "https://x.com/MikeReiss/status/2121953162357625178",
-   "handle": "MikeReiss",
+   "id": "2122004987857313960",
+   "url": "https://x.com/HoustonTexans/status/2122004987857313960",
+   "handle": "HoustonTexans",
    "reason": "low_score(analysis_hype)",
-   "score": 4.6,
-   "likes": 187,
-   "text": "Patriots inactives:\n\nST Brenden Schooler (hamstring)\nLG Walter Rouse (concussion)\nOT Dametrious Crownover\n3rd QB Behren Morton\nC/G Ben Brown (knee)\nCB Carlton Davis (knee)"
+   "score": 1.2,
+   "likes": 53,
+   "text": "Our inactives for #HOUvsCLE \u2b07\ufe0f https://t.co/uwGLCApubE"
   },
   {
    "id": "2121966108336848897",
    "url": "https://x.com/theGLgrind/status/2121966108336848897",
    "handle": "theGLgrind",
    "reason": "low_score(cold_water)",
-   "score": 10.4,
-   "likes": 138,
+   "score": 10.5,
+   "likes": 143,
    "text": "AJ Brown is active for Sunday's game against the Lions.\n\nBrown has only played three times this season, catching 9 of 20 targets for 101 yards. He still hasn't found the end zone.\n\nThe numbers haven't been there yet, but he should get plenty of chances with Drake Maye today.\n\nI'd still treat him as a WR2, with some risk in his first game back."
   },
   {
-   "id": "2121977501497082140",
-   "url": "https://x.com/CoopAFiasco/status/2121977501497082140",
-   "handle": "CoopAFiasco",
-   "reason": "retweet",
+   "id": "2121989349726159295",
+   "url": "https://x.com/trendscenterapp/status/2121989349726159295",
+   "handle": "trendscenterapp",
+   "reason": "promo",
    "score": null,
-   "likes": 3,
-   "text": "RT @FantasyAlarm: Up early for Lions vs. Patriots? Don't forget to check out our AWARD-WINNING \n@SiriusXMFantasy radio show on Channel 87 f\u2026"
+   "likes": 50,
+   "text": "\ud83c\udfc8 25-1 NFL trend is active\n\nONE loss in 15 years \ud83d\udcc8\n\n\ud83d\udcf1 See it now only in the TrendsCenter App! Enter code TAKE30 for 30% OFF any Premium subscription for instant access! https://t.co/J0lWgped5e"
   },
   {
    "id": "2121985376869040300",
@@ -324,6 +379,15 @@
    "text": "RT @ffdataroma: Week 10: Players that are set up to SMASH  \n\n\u2b07\ufe0f\ud83e\uddf5"
   },
   {
+   "id": "2121977501497082140",
+   "url": "https://x.com/CoopAFiasco/status/2121977501497082140",
+   "handle": "CoopAFiasco",
+   "reason": "retweet",
+   "score": null,
+   "likes": 3,
+   "text": "RT @FantasyAlarm: Up early for Lions vs. Patriots? Don't forget to check out our AWARD-WINNING \n@SiriusXMFantasy radio show on Channel 87 f\u2026"
+  },
+  {
    "id": "2121949264930615450",
    "url": "https://x.com/SmolaDS/status/2121949264930615450",
    "handle": "SmolaDS",
@@ -338,8 +402,17 @@
    "handle": "SmolaDS",
    "reason": "retweet",
    "score": null,
-   "likes": 2574,
+   "likes": 2632,
    "text": "RT @AdamSchefter: When Cincinnati hosts Pittsburgh tonight, it will be the sixth time a team coming off an international game like the Beng\u2026"
+  },
+  {
+   "id": "2121984965558837462",
+   "url": "https://x.com/HaydenWinks/status/2121984965558837462",
+   "handle": "HaydenWinks",
+   "reason": "retweet",
+   "score": null,
+   "likes": 168,
+   "text": "RT @JoeLFGPatsPod: This season has been our nightmare. Prayers up for Maye, but it doesn\u2019t look good. https://t.co/Gu185Bt3Bf"
   }
  ]
 }
