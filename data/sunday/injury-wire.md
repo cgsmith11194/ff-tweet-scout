@@ -11,40 +11,40 @@
 #   - Locked rows first, not-locked rows last (renderer draws the divider).
 #   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 9 — 2026-11-08 — FINAL wire, 12:15 ET (1:00 slate official; byes: PIT, TEN)
+# WEEK 10 — 2026-11-15 — EXPECTED wire (byes: CHI, DEN, PHI, TB; WAS-NYG played Thu; NE-DET in Munich kicked 9:30 ET)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
-| Malik Nabers | WR · NYG | IN | Knee | "Full go" per Rapoport after a scare week |
-| Christian McCaffrey | RB · SF | IN | Shin | Removed from the injury report entirely |
-| Saquon Barkley | RB · PHI | IN | Hamstring - back | No tag this week - first clean report since the injury |
-| Michael Wilson | WR · ARI | IN | Ribs (fractured) | Playing through broken ribs again - not listed |
-| Pat Bryant | WR · DEN | IN | Ankle (IR return) | Activated from IR Saturday per Schefter |
-| Breece Hall | RB · NYJ | IN | Quad | Full practice all week and "ready to go" - first game since Week 7 - expect a split with Braelon |
-| Kyler Murray | QB · MIN | OUT | Hamstring | Week-to-week - Carson Wentz named the Monday night starter |
-| Sam Darnold | QB · SEA | OUT | Quad | Out - and Week 10 is also in jeopardy per Schefter |
-| Deshaun Watson | QB · CLE | OUT | Concussion | Shedeur Sanders makes his first start per Schefter - Watson targeted for Week 10 |
-| A.J. Brown | WR · NE | OUT | Knee | Ruled out again - has missed 6 of 8 |
-| TreVeyon Henderson | RB · NE | OUT | Medical (neurological) | Out indefinitely after what his statement calls an unexpected medical emergency |
-| Garrett Wilson | WR · NYJ | OUT | Concussion | Ruled out - from the Chinn hit that drew a fine |
-| Deebo Samuel | WR · SF | OUT | Hamstring | Out several weeks |
-| Christian Kirk | WR · SF | OUT | Knee (IR) | Tore meniscus in Thursday practice - at least 4 games |
-| DeVonta Smith | WR · PHI | OUT | Hamstring | Out again Sunday vs the Giants |
-| Dontayvion Wicks | WR · PHI | OUT | Ankle | Out - Eagles receiver room stays gutted |
-| Jeremiyah Love | RB · ARI | OUT | Ankle (IR) | Re-injured vs Dallas - IR - Allgeier inherits everything |
-| Bam Knight | RB · ARI | OUT | Concussion | Out - it is the Tyler Allgeier show in Seattle |
-| Treylon Burks | WR · WAS | OUT | Foot | He and Dyami Brown both ruled out - Antonio Williams and Diggs carry it vs the Rams |
-| Kyle Monangai | RB · CHI | OUT | Thumb - toe | Out for Sunday night - expected back Week 11 per Rapoport |
-| Josh Palmer | WR · BUF | OUT | Hamstring | Ruled out for Monday night |
-| Jauan Jennings | WR · MIN | OUT | Calf | Ruled out for Monday night |
-| David Montgomery | RB · HOU | OUT | Groin | Ruled out per Footballguys - Woody Marks leads the room at 4:05 |
-| Cam Skattebo | RB · NYG | OUT | Hamstring | Officially out - Devin Singletary leads the backfield |
-| Amon-Ra St. Brown | WR · DET | IN | Ribs | Officially active vs Miami |
-| George Pickens | WR · DAL | OUT | Hamstring | FLIP - officially inactive after the expected-to-play lean - Flournoy bumps to WR3 per McFarland |
-| Jake Ferguson | TE · DAL | IN | Ankle | Active - not on the Cowboys official list - role still a question |
-| Jordyn Tyson | WR · NO | IN | Hamstring (IR) | Active - NFL debut is on vs Cleveland |
-| Hunter Henry | TE · NE | IN | Foot | Active for the 4:25 vs Green Bay |
-| MarShawn Lloyd | RB · GB | OUT | Knee | Inactive for the 4:25 at New England |
-| Emeka Egbuka | WR · TB | EXP IN | Foot | Expected to play per Pelissero - SNF actives ~6:50 |
-| D.J. Moore | WR · BUF | EXP IN | Shoulder - knee | Expected to play Monday - re-injury risk per McFarland |
-| Dalton Kincaid | TE · BUF | EXP IN | Chest | "Will play" Monday per McFarland |
+| A.J. Brown | WR · NE | IN | Ankle - knee | Officially active in Munich - first game since Week 6 |
+| Rhamondre Stevenson | RB · NE | IN | Knee | Officially active in Munich - back from the Week 9 scare |
+| Amon-Ra St. Brown | WR · DET | IN | Ribs | Officially active in Munich - already has a 56-yard TD |
+| George Pickens | WR · DAL | IN | Hamstring | Off the injury report entirely after last week's late scratch |
+| Deebo Samuel | WR · SF | IN | Hamstring | Off the report and "good to go" per Schefter |
+| Woody Marks | RB · HOU | IN | Knee | Not listed - leads the room with Montgomery out |
+| Xavier Legette | WR · CAR | IN | Knee (IR return) | Activated from IR ahead of Sunday |
+| Kenneth Walker | RB · KC | OUT | Groin | Ruled out per Schultz - rookie Emmett Johnson gets the showcase vs Atlanta |
+| Josh Jacobs | RB · GB | OUT | Finger (surgery) | Broken ring finger - out 2-3 weeks, not IR - Kaleb Johnson leads the backfield |
+| Kyler Murray | QB · MIN | OUT | Hamstring | Ruled out - Kirk Cousins starts at Lambeau four days after the trade |
+| Sam Darnold | QB · SEA | OUT | Ribs - quad | Out again - Drew Lock starts at Las Vegas |
+| Lamar Jackson | QB · BAL | OUT | Thumb (6-10 wks) | Jacoby Brissett makes his first Ravens start Monday night |
+| T.J. Hockenson | TE · MIN | OUT | Wrist - chest | Ruled out for Lambeau |
+| Jauan Jennings | WR · MIN | OUT | Calf | Ruled out again |
+| Mike Evans | WR · SF | OUT | Achilles | Ruled out - third straight miss |
+| Marvin Harrison Jr. | WR · HOU | OUT | Hamstring | Ruled out by the Texans Thursday |
+| David Montgomery | RB · HOU | OUT | Groin | Ruled out - did not travel to Cleveland per Rapoport |
+| Jonathon Brooks | RB · CAR | OUT | Groin | Downgraded to out Friday - Chuba keeps the backfield |
+| Carnell Tate | WR · TEN | OUT | Shoulder | Ruled out - second straight miss |
+| Jake Ferguson | TE · DAL | OUT | Ankle | Out and expected to miss multiple weeks |
+| TreVeyon Henderson | RB · NE | OUT | Medical (IR) | Placed on IR Saturday - at least 4 games |
+| Puka Nacua | WR · LAR | OUT | Knee - toe (IR) | On IR with the Week 11 bye next - earliest return Week 15 |
+| Davante Adams | WR · LAR | OUT | Hamstring (IR) | McVay points to after the Week 12 Packers game - Higbee and Parkinson carry the TE-heavy tree |
+| Terrance Ferguson | TE · LAR | OUT | Hamstring - ankle | Out again |
+| Andrei Iosivas | WR · CIN | OUT | Thumb | Downgraded to out for Sunday night |
+| Garrett Wilson | WR · NYJ | EXP IN | Concussion | Full Friday practice, trending the right way - locks ~11:30 |
+| Tyjae Spears | RB · TEN | EXP IN | Knee | Expected to play per Fowler - locks ~11:30 |
+| Travis Etienne | RB · NO | EXP IN | Hamstring | Activated from IR Saturday, in line to play per Pelissero - locks ~11:30 |
+| Denzel Boston | WR · CLE | EXP IN | Toe | Expected to play per Fowler - locks ~11:30 |
+| Jordan Addison | WR · MIN | PENDING | Thumb | Added to the report Friday, no lean public - locks ~11:30 |
+| Pat Freiermuth | TE · PIT | PENDING | Illness | Late add, warm-up call - SNF actives ~6:50 |
+| Ladd McConkey | WR · LAC | PENDING | Back | Did not practice Friday, no status given - Monday actives ~6:50 |
+| David Njoku | TE · LAC | PENDING | Fibula | Questionable for Monday night - actives ~6:50 |
