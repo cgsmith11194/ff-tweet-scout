@@ -11,7 +11,7 @@
 #   - Locked rows first, not-locked rows last (renderer draws the divider).
 #   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 11 — 2026-11-22 — TRUE-UP 11:45 ET (byes: ATL, CLE, GB, LAR, NE, SEA; IND-HOU played Thu; MIN-SF in Mexico City)
+# WEEK 11 — 2026-11-22 — FINAL for 1:00 games 12:10 ET (byes: ATL, CLE, GB, LAR, NE, SEA; IND-HOU played Thu; MIN-SF in Mexico City)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@
 | Baker Mayfield | QB · TB | IN | Foot (plantar) | Will play per NFL Network - rushing may be limited |
 | DeVonta Smith | WR · PHI | IN | Hamstring | No injury designation - first game back, first with Joe Milton |
 | Kyle Monangai | RB · CHI | IN | Thumb - toe | No injury designation - splits with Swift vs a bad run defense |
+| Carnell Tate | WR · TEN | IN | Shoulder | Officially active at Dallas - takes over Wan'Dale Robinson's targets |
+| Tyjae Spears | RB · TEN | IN | Knee | Active - Pollard keeps his usual share, no boost |
+| Jordyn Tyson | WR · NO | IN | Chest | Active - wind and rain in Chicago, flex only |
 | Treylon Burks | WR · WAS | EXP OUT | Not disclosed | Doubtful for Monday night |
-| Carnell Tate | WR · TEN | EXP IN | Shoulder | Expected to play per Rapoport - Titans list not confirmed as of 11:45 |
 | Ladd McConkey | WR · LAC | EXP IN | Back | Expected back per CBS, but ESPN flags a risk he leaves early - 4:05 actives ~2:35 |
 | Mike Evans | WR · SF | EXP IN | Achilles | Set to return Sunday night in Mexico City per Garafolo - actives ~6:50 |
 | Brock Bowers | TE · LV | PENDING | Ankle | Left last week's game - true game-time call at Denver, status ~3:55 |
-| Tyjae Spears | RB · TEN | PENDING | Knee | Questionable - Tony Pollard gains if he sits |
-| Jordyn Tyson | WR · NO | PENDING | Chest | Questionable after limited practices - wind and rain in Chicago either way |
