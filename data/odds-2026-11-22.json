@@ -2,6 +2,27 @@
  "captured_at": "2026-11-22",
  "games": [
   {
+   "game": "NYJ @ LAC",
+   "date": "2026-11-22T21:05Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "LV @ DEN",
+   "date": "2026-11-22T21:25Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
+   "game": "JAX @ NYG",
+   "date": "2026-11-22T21:25Z",
+   "spread": null,
+   "over_under": null,
+   "provider": null
+  },
+  {
    "game": "MIA @ BUF",
    "date": "2026-11-22T18:00Z",
    "spread": null,
@@ -49,27 +70,6 @@
    "spread": null,
    "over_under": null,
    "provider": null
-  },
-  {
-   "game": "NYJ @ LAC",
-   "date": "2026-11-22T21:05Z",
-   "spread": "LAC -3",
-   "over_under": 43.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "LV @ DEN",
-   "date": "2026-11-22T21:25Z",
-   "spread": "DEN -10.5",
-   "over_under": 40.5,
-   "provider": "DraftKings"
-  },
-  {
-   "game": "JAX @ NYG",
-   "date": "2026-11-22T21:25Z",
-   "spread": "JAX -6",
-   "over_under": 45.5,
-   "provider": "DraftKings"
   },
   {
    "game": "MIN VS SF",
