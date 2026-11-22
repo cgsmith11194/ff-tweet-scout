@@ -3,731 +3,148 @@
   "noResults": true,
   "error": true,
   "code": "C017",
-  "message": "User: jagibbs_23 not found"
+  "message": "User: SmolaDS not found"
+ },
+ {
+  "noResults": true,
+  "error": true,
+  "code": "C017",
+  "message": "User: ffdataroma not found"
+ },
+ {
+  "noResults": true,
+  "error": true,
+  "code": "C020",
+  "message": "No results found for UnderdogNFL."
  },
  {
   "type": "tweet",
-  "id": "2123639887324688642",
-  "url": "https://x.com/ffdataroma/status/2123639887324688642",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123639887324688642",
-  "text": "\ud83c\udf7d\ufe0f\n\no14.5 rush att\u2705\n18+ rush att (+235)\u2705\n20+ rush att (+500)\u2705\no8.5 rec yards\u2705 https://t.co/GwI1z7KSgu",
-  "fullText": "\ud83c\udf7d\ufe0f\n\no14.5 rush att\u2705\n18+ rush att (+235)\u2705\n20+ rush att (+500)\u2705\no8.5 rec yards\u2705 https://t.co/GwI1z7KSgu",
+  "id": "2124604689991778378",
+  "url": "https://x.com/BenjaminSolak/status/2124604689991778378",
+  "twitterUrl": "https://twitter.com/BenjaminSolak/status/2124604689991778378",
+  "text": "another forced fumble! fourth quarter up by 6. Huge performance today by the rookie corner",
+  "fullText": "another forced fumble! fourth quarter up by 6. Huge performance today by the rookie corner",
   "source": "",
   "retweetCount": 1,
   "replyCount": 1,
-  "likeCount": 73,
+  "likeCount": 26,
   "quoteCount": 0,
-  "viewCount": 7142,
-  "createdAt": "Fri Nov 20 04:49:39 +0000 2026",
+  "viewCount": 4106,
+  "createdAt": "Sun Nov 22 20:43:25 +0000 2026",
   "lang": "en",
-  "quoteId": "2123455434929381677",
-  "bookmarkCount": 1,
+  "quoteId": "2124576980175601706",
+  "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2123639887324688642",
-  "possiblySensitive": false,
-  "isPinned": false,
+  "conversationId": "2124604689991778378",
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "BenjaminSolak",
+   "url": "https://x.com/BenjaminSolak",
+   "twitterUrl": "https://twitter.com/BenjaminSolak",
+   "id": "2784183660",
+   "name": "Benjamin Solak",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "profilePicture": "https://pbs.twimg.com/profile_images/1829516174549258241/dtUjiX4Q_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2784183660/1727030657",
+   "description": "NFL analyst @ ESPN // IG: benjamin.solak // TikTok: benjaminsolak\n\nListen to Leaguewide: https://t.co/qI2vyH1Mha",
    "location": "",
-   "followers": 21878,
-   "following": 430,
+   "followers": 191049,
+   "following": 2077,
    "protected": false,
    "status": "",
    "canDm": false,
    "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "createdAt": "Mon Sep 01 14:44:39 +0000 2014",
    "entities": {
-    "description": {},
-    "url": {
+    "description": {
      "urls": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "display_url": "podcasts.apple.com/us/podcast/esp\u2026",
+       "expanded_url": "https://podcasts.apple.com/us/podcast/espns-leaguewide/id6817090042",
        "indices": [
-        0,
-        23
+        89,
+        112
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "url": "https://t.co/qI2vyH1Mha"
       }
      ]
     }
    },
-   "favouritesCount": 6753,
+   "favouritesCount": 81676,
    "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10768,
+   "mediaCount": 8431,
+   "statusesCount": 62139,
    "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/GwI1z7KSgu",
-     "expanded_url": "https://x.com/ffdataroma/status/2123639887324688642/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 22,
-         "w": 22,
-         "x": 314,
-         "y": 45
-        },
-        {
-         "h": 33,
-         "w": 33,
-         "x": 542,
-         "y": 88
-        },
-        {
-         "h": 119,
-         "w": 119,
-         "x": 58,
-         "y": 60
-        }
-       ]
-      }
-     },
-     "id_str": "2123639883017199616",
-     "indices": [
-      78,
-      101
-     ],
-     "media_key": "3_2123639883017199616",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123639883017199616"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXivONoXoAAx7m-.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 622,
-        "w": 1110,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 963,
-        "x": 100,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 845,
-        "x": 159,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 482,
-        "x": 340,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 1110,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 963,
-      "width": 1110
-     },
-     "sizes": {
-      "large": {
-       "h": 963,
-       "resize": "fit",
-       "w": 1110
-      },
-      "medium": {
-       "h": 963,
-       "resize": "fit",
-       "w": 1110
-      },
-      "small": {
-       "h": 590,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/GwI1z7KSgu"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/GwI1z7KSgu",
-     "expanded_url": "https://x.com/ffdataroma/status/2123639887324688642/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 22,
-         "w": 22,
-         "x": 314,
-         "y": 45
-        },
-        {
-         "h": 33,
-         "w": 33,
-         "x": 542,
-         "y": 88
-        },
-        {
-         "h": 119,
-         "w": 119,
-         "x": 58,
-         "y": 60
-        }
-       ]
-      }
-     },
-     "id_str": "2123639883017199616",
-     "indices": [
-      78,
-      101
-     ],
-     "media_key": "3_2123639883017199616",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123639883017199616"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXivONoXoAAx7m-.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 622,
-        "w": 1110,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 963,
-        "x": 100,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 845,
-        "x": 159,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 482,
-        "x": 340,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 1110,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 963,
-      "width": 1110
-     },
-     "sizes": {
-      "large": {
-       "h": 963,
-       "resize": "fit",
-       "w": 1110
-      },
-      "medium": {
-       "h": 963,
-       "resize": "fit",
-       "w": 1110
-      },
-      "small": {
-       "h": 590,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/GwI1z7KSgu"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": true,
-  "quote": {
-   "type": "tweet",
-   "id": "2123455434929381677",
-   "text": "David Montgomery has been a full participant at practice all week, and with Woody Marks inactive here, should step right into a hefty workload. \n\nThe market is suggesting Demercado could earn roughly 30% of the RB rushing work here, but my guess is he goes under that. The Texans were not giving Demercado anything on the ground until Marks got hurt last week, and Marks similarly got 18 of 20 carries in Week 9 prior to extreme garbage time (per @FantasyPtsData). Montgomery should come in and take that work, in an expected game script set up extremely well for rushing volume (spread + Indy poor vs. run). \n\nI also like Montgomery to cross his modest 8.5 receiving-yard o/u. Stroud doesn\u2019t often target RBs, but Monty should run most of the routes (as Marks had been without him) and Indy has been very vulnerable to backfield receiving (dead last in YPG allowed out of the backfield).\n\nGive me the over on 14.5 rush attempts and over 8.5 receiving yards. I also am a fan of alt rush attempts at 18+ (+235) and 20+ (+500), along with betting on a multi-TD performance (2+ TDs at +500).",
-   "source": "",
-   "retweetCount": 0,
-   "replyCount": 1,
-   "likeCount": 23,
-   "quoteCount": 1,
-   "viewCount": 12472,
-   "createdAt": "Thu Nov 19 16:36:42 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 6,
-   "isPinned": false,
-   "author": {
-    "type": "user",
-    "userName": "ffdataroma",
-    "url": "https://x.com/ffdataroma",
-    "twitterUrl": "https://twitter.com/ffdataroma",
-    "id": "1673448826340798465",
-    "name": "Dataroma",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-    "location": "",
-    "followers": 21878,
-    "following": 430,
-    "protected": false,
-    "status": "",
-    "canDm": false,
-    "canMediaTag": true,
-    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-    "entities": {
-     "description": {},
-     "url": {
-      "urls": [
-       {
-        "display_url": "beacons.ai/ffdataroma",
-        "expanded_url": "https://beacons.ai/ffdataroma",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/4QmVXjPECs"
-       }
-      ]
-     }
-    },
-    "favouritesCount": 6753,
-    "isTranslator": false,
-    "mediaCount": 844,
-    "statusesCount": 10768,
-    "translatorTypeEnum": "none",
-    "affiliatesHighlightedLabel": {
-     "label": {
-      "badge": {
-       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-      },
-      "description": "Sleeper",
-      "url": {
-       "url": "https://twitter.com/SleeperHQ",
-       "urlType": "DeepLink"
-      },
-      "userLabelDisplayType": "Badge",
-      "userLabelType": "BusinessLabel"
-     }
-    },
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2123909485865369723"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
-   },
-   "extendedEntities": {},
-   "card": {},
-   "place": {},
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "urls": [],
-    "user_mentions": [
-     {
-      "id_str": "1512168033011306496",
-      "indices": [
-       447,
-       462
-      ],
-      "name": "Fantasy Points Data",
-      "screen_name": "FantasyPtsData"
-     }
-    ]
-   }
-  },
-  "media": [
-   "https://pbs.twimg.com/media/HXivONoXoAAx7m-.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2123195202605056067",
-  "url": "https://x.com/ffdataroma/status/2123195202605056067",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123195202605056067",
-  "text": "Re: Golden v. Watson volume\n\n1. Targets are earned - Golden has been getting open constantly, not force fed\n\n2. Golden is a much better man beater than Watson, while both are good against zone. Nearly the entirety of the target gap between the two comes from their difference in volume vs. man coverage.\n\n3. While both get targeted deep downfield on average, Watson is targeted further downfield on average (15 vs. 13.5 aDOT). Further downfield targets = less overall volume generally, and both are targeted at an elite rate given their aDOTs",
-  "fullText": "Re: Golden v. Watson volume\n\n1. Targets are earned - Golden has been getting open constantly, not force fed\n\n2. Golden is a much better man beater than Watson, while both are good against zone. Nearly the entirety of the target gap between the two comes from their difference in",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 8,
-  "likeCount": 216,
-  "quoteCount": 0,
-  "viewCount": 46839,
-  "createdAt": "Wed Nov 18 23:22:38 +0000 2026",
-  "lang": "en",
-  "quoteId": "2123176382432006280",
-  "bookmarkCount": 25,
-  "isReply": false,
-  "conversationId": "2123195202605056067",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21878,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10768,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "urls": [],
-   "user_mentions": []
-  },
+  "entities": {},
   "isRetweet": false,
   "isQuote": true,
   "quote": {
    "type": "tweet",
-   "id": "2123176382432006280",
-   "text": "I can't deny that, despite his drops, Matthew Golden has been impressive and exceeded all expectations this season\n\nBut at what point do the Packers stop force-feeding him targets in the hope that his brick hands just disappear? \n\nGolden leads the league with 13 drops, 5 more than the next closest WR (per @FantasyPtsData) \n\nYou know who hasn't had any drop issues this season? Christian Watson \n\nIn fact, Watson has the most targets of any WR without recording a single dropped pass (75)\n\nAnd that isn't the only area where Watson has been much better than Golden... \n\nYPRR :  2.99 to 2.55 \nPasser Rating :  136.3 to 92.1 \nExplosive Reception Rate :  36.2% to 30.9% \nContested Catch Rate :  61.9% to 27.3% \nYPTOE :  3.30 to -0.10 \nEPA/Target :  0.7474 to 0.286\n\nIt's not like Golden is getting open at a much higher rate than Watson either \u2014 0.088 ASS to 0.077 and 14.3% Route Win Rate to 13.1%",
+   "id": "2124576980175601706",
+   "text": "Awesome effort play from Panthers CB Will Lee III. Was getting stiff-armed into the end zone and swung at the ball in Justice Hill's pocket. Got the forced fumble and touchback.",
    "source": "",
-   "retweetCount": 3,
-   "replyCount": 25,
-   "likeCount": 91,
-   "quoteCount": 2,
-   "viewCount": 68528,
-   "createdAt": "Wed Nov 18 22:07:50 +0000 2026",
+   "retweetCount": 5,
+   "replyCount": 3,
+   "likeCount": 177,
+   "quoteCount": 3,
+   "viewCount": 20571,
+   "createdAt": "Sun Nov 22 18:53:19 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 14,
-   "isPinned": false,
+   "bookmarkCount": 1,
    "author": {
     "type": "user",
-    "userName": "KyleM_FF",
-    "url": "https://x.com/KyleM_FF",
-    "twitterUrl": "https://twitter.com/KyleM_FF",
-    "id": "1890803581818716161",
-    "name": "Kyle",
+    "userName": "BenjaminSolak",
+    "url": "https://x.com/BenjaminSolak",
+    "twitterUrl": "https://twitter.com/BenjaminSolak",
+    "id": "2784183660",
+    "name": "Benjamin Solak",
     "isVerified": false,
     "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/2055789233173037056/Xxnfw0bN_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1890803581818716161/1764110869",
-    "description": "Helping you win your Fantasy Football Leagues through data driven analytics, insight, and guidance. \"The Crown Prince of Dank Stats\" at @FantasyPts",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1829516174549258241/dtUjiX4Q_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2784183660/1727030657",
+    "description": "NFL analyst @ ESPN // IG: benjamin.solak // TikTok: benjaminsolak\n\nListen to Leaguewide: https://t.co/qI2vyH1Mha",
     "location": "",
-    "followers": 26378,
-    "following": 79,
+    "followers": 191049,
+    "following": 2077,
     "protected": false,
     "status": "",
     "canDm": false,
     "canMediaTag": true,
-    "createdAt": "Sat Feb 15 16:41:27 +0000 2025",
+    "createdAt": "Mon Sep 01 14:44:39 +0000 2014",
     "entities": {
-     "description": {},
-     "url": {
+     "description": {
       "urls": [
        {
-        "display_url": "reddit.com/u/KyonFantasyF\u2026",
-        "expanded_url": "https://www.reddit.com/u/KyonFantasyFootball/s/PPohqi1Oc5",
+        "display_url": "podcasts.apple.com/us/podcast/esp\u2026",
+        "expanded_url": "https://podcasts.apple.com/us/podcast/espns-leaguewide/id6817090042",
         "indices": [
-         0,
-         23
+         89,
+         112
         ],
-        "url": "https://t.co/qASjLKk4Tk"
+        "url": "https://t.co/qI2vyH1Mha"
        }
       ]
      }
     },
-    "favouritesCount": 3423,
+    "favouritesCount": 81676,
     "isTranslator": false,
-    "mediaCount": 499,
-    "statusesCount": 5463,
+    "mediaCount": 8431,
+    "statusesCount": 62139,
     "translatorTypeEnum": "none",
     "affiliatesHighlightedLabel": {},
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2094440080391991788"
-    ]
+    "possiblySensitive": false
    },
    "extendedEntities": {},
    "card": {},
    "place": {},
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "urls": [],
-    "user_mentions": [
-     {
-      "id_str": "1512168033011306496",
-      "indices": [
-       307,
-       322
-      ],
-      "name": "Fantasy Points Data",
-      "screen_name": "FantasyPtsData"
-     }
-    ]
-   }
+   "entities": {}
   },
   "media": [],
   "videos": [],
@@ -735,1134 +152,140 @@
  },
  {
   "type": "tweet",
-  "id": "2123146725627941203",
-  "url": "https://x.com/ffdataroma/status/2123146725627941203",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123146725627941203",
-  "text": "Explosive rush rate (10+ yard runs) vs. missed tackles forced per attempt through Week 10, per @FantasyPtsData\n\nWhich RBs are both making defenders miss and breaking off chunk runs consistently? https://t.co/xMpDtZtO7H",
-  "fullText": "Explosive rush rate (10+ yard runs) vs. missed tackles forced per attempt through Week 10, per @FantasyPtsData\n\nWhich RBs are both making defenders miss and breaking off chunk runs consistently? https://t.co/xMpDtZtO7H",
+  "id": "2124597310558711868",
+  "url": "https://x.com/BenjaminSolak/status/2124597310558711868",
+  "twitterUrl": "https://twitter.com/BenjaminSolak/status/2124597310558711868",
+  "text": "Week 11 and the Ravens defense is still giving up big passing plays with defenders barking at one another after the play. Roquan and Trenton Simpson there after the big Darren Waller catch. Miscommunications abound.",
+  "fullText": "Week 11 and the Ravens defense is still giving up big passing plays with defenders barking at one another after the play. Roquan and Trenton Simpson there after the big Darren Waller catch. Miscommunications abound.",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 1,
-  "likeCount": 30,
-  "quoteCount": 0,
-  "viewCount": 11570,
-  "createdAt": "Wed Nov 18 20:10:00 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 10,
-  "isReply": false,
-  "conversationId": "2123146725627941203",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21878,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10768,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/xMpDtZtO7H",
-     "expanded_url": "https://x.com/ffdataroma/status/2123146725627941203/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 35,
-         "w": 35,
-         "x": 376,
-         "y": 238
-        }
-       ]
-      }
-     },
-     "id_str": "2123080424817557505",
-     "indices": [
-      195,
-      218
-     ],
-     "media_key": "3_2123080424817557505",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080424817557505"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayZdbWAAEzJyK.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 12
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 99,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/xMpDtZtO7H"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/xMpDtZtO7H",
-     "expanded_url": "https://x.com/ffdataroma/status/2123146725627941203/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 35,
-         "w": 35,
-         "x": 376,
-         "y": 238
-        }
-       ]
-      }
-     },
-     "id_str": "2123080424817557505",
-     "indices": [
-      195,
-      218
-     ],
-     "media_key": "3_2123080424817557505",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080424817557505"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayZdbWAAEzJyK.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 12
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 99,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/xMpDtZtO7H"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      95,
-      110
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HXayZdbWAAEzJyK.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2123144208928362529",
-  "url": "https://x.com/ffdataroma/status/2123144208928362529",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123144208928362529",
-  "text": "Targets per route run vs. separation score for WRs and TEs through Week 10, per @FantasyPtsData\n\nWhich pass-catchers are not only getting open, but also earning targets when they do? https://t.co/HpvH5ivXWS",
-  "fullText": "Targets per route run vs. separation score for WRs and TEs through Week 10, per @FantasyPtsData\n\nWhich pass-catchers are not only getting open, but also earning targets when they do? https://t.co/HpvH5ivXWS",
-  "source": "",
-  "retweetCount": 5,
+  "retweetCount": 3,
   "replyCount": 3,
-  "likeCount": 42,
+  "likeCount": 77,
   "quoteCount": 0,
-  "viewCount": 14394,
-  "createdAt": "Wed Nov 18 20:00:00 +0000 2026",
+  "viewCount": 12463,
+  "createdAt": "Sun Nov 22 20:14:06 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 23,
+  "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2123144208928362529",
-  "possiblySensitive": false,
-  "isPinned": false,
+  "conversationId": "2124597310558711868",
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "BenjaminSolak",
+   "url": "https://x.com/BenjaminSolak",
+   "twitterUrl": "https://twitter.com/BenjaminSolak",
+   "id": "2784183660",
+   "name": "Benjamin Solak",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "profilePicture": "https://pbs.twimg.com/profile_images/1829516174549258241/dtUjiX4Q_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2784183660/1727030657",
+   "description": "NFL analyst @ ESPN // IG: benjamin.solak // TikTok: benjaminsolak\n\nListen to Leaguewide: https://t.co/qI2vyH1Mha",
    "location": "",
-   "followers": 21878,
-   "following": 430,
+   "followers": 191049,
+   "following": 2077,
    "protected": false,
    "status": "",
    "canDm": false,
    "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "createdAt": "Mon Sep 01 14:44:39 +0000 2014",
    "entities": {
-    "description": {},
-    "url": {
+    "description": {
      "urls": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "display_url": "podcasts.apple.com/us/podcast/esp\u2026",
+       "expanded_url": "https://podcasts.apple.com/us/podcast/espns-leaguewide/id6817090042",
        "indices": [
-        0,
-        23
+        89,
+        112
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "url": "https://t.co/qI2vyH1Mha"
       }
      ]
     }
    },
-   "favouritesCount": 6753,
+   "favouritesCount": 81676,
    "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10768,
+   "mediaCount": 8431,
+   "statusesCount": 62139,
    "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false
   },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/HpvH5ivXWS",
-     "expanded_url": "https://x.com/ffdataroma/status/2123144208928362529/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 47,
-         "w": 47,
-         "x": 232,
-         "y": 249
-        }
-       ]
-      }
-     },
-     "id_str": "2123080216209657856",
-     "indices": [
-      183,
-      206
-     ],
-     "media_key": "3_2123080216209657856",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080216209657856"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayNUTWEAA3KAh.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 30,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 159,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/HpvH5ivXWS"
-    }
-   ]
-  },
+  "extendedEntities": {},
   "card": {},
   "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/HpvH5ivXWS",
-     "expanded_url": "https://x.com/ffdataroma/status/2123144208928362529/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 47,
-         "w": 47,
-         "x": 232,
-         "y": 249
-        }
-       ]
-      }
-     },
-     "id_str": "2123080216209657856",
-     "indices": [
-      183,
-      206
-     ],
-     "media_key": "3_2123080216209657856",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080216209657856"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayNUTWEAA3KAh.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 30,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 159,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/HpvH5ivXWS"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      80,
-      95
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
+  "entities": {},
   "isRetweet": false,
   "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HXayNUTWEAA3KAh.jpg"
-  ],
+  "media": [],
   "videos": [],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2123140434767790332",
-  "url": "https://x.com/ffdataroma/status/2123140434767790332",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123140434767790332",
-  "text": "QB Adjusted net yards per attempt (ANY/A) and completion % over expected (CPOE) through Week 10, per @FantasyPtsData:\n\nWhich QBs have been both efficient and accurate this year? https://t.co/xkZj61jrXV",
-  "fullText": "QB Adjusted net yards per attempt (ANY/A) and completion % over expected (CPOE) through Week 10, per @FantasyPtsData:\n\nWhich QBs have been both efficient and accurate this year? https://t.co/xkZj61jrXV",
+  "id": "2124596308551905609",
+  "url": "https://x.com/BenjaminSolak/status/2124596308551905609",
+  "twitterUrl": "https://twitter.com/BenjaminSolak/status/2124596308551905609",
+  "text": "Through three quarters against the Titans, Dak Prescott has four total incompletions and four total touchdowns",
+  "fullText": "Through three quarters against the Titans, Dak Prescott has four total incompletions and four total touchdowns",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 0,
-  "likeCount": 10,
+  "retweetCount": 18,
+  "replyCount": 4,
+  "likeCount": 197,
   "quoteCount": 1,
-  "viewCount": 5391,
-  "createdAt": "Wed Nov 18 19:45:00 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 3,
-  "isReply": false,
-  "conversationId": "2123140434767790332",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21878,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10768,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/xkZj61jrXV",
-     "expanded_url": "https://x.com/ffdataroma/status/2123140434767790332/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2123080130847289344",
-     "indices": [
-      178,
-      201
-     ],
-     "media_key": "3_2123080130847289344",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080130847289344"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayIWTXsAAfo8e.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 468,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 510,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 639,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/xkZj61jrXV"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/xkZj61jrXV",
-     "expanded_url": "https://x.com/ffdataroma/status/2123140434767790332/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2123080130847289344",
-     "indices": [
-      178,
-      201
-     ],
-     "media_key": "3_2123080130847289344",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080130847289344"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayIWTXsAAfo8e.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 468,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 510,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 639,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/xkZj61jrXV"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      101,
-      116
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HXayIWTXsAAfo8e.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2123096394018046265",
-  "url": "https://x.com/ffdataroma/status/2123096394018046265",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123096394018046265",
-  "text": "Adjusted Net Yards Per Attempt leaders through 10 weeks, per @FantasyPtsData:\n\n1. Brock Purdy (8.94)\n2. Trevor Lawrence (8.63)\n3. Joe Burrow (8.31)\n4. Patrick Mahomes (8.10)\n5. C.J. Stroud (7.70)\n6. Jared Goff (7.63)\n7. Josh Allen (7.46)",
-  "fullText": "Adjusted Net Yards Per Attempt leaders through 10 weeks, per @FantasyPtsData:\n\n1. Brock Purdy (8.94)\n2. Trevor Lawrence (8.63)\n3. Joe Burrow (8.31)\n4. Patrick Mahomes (8.10)\n5. C.J. Stroud (7.70)\n6. Jared Goff (7.63)\n7. Josh Allen (7.46)",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 0,
-  "likeCount": 10,
-  "quoteCount": 0,
-  "viewCount": 4541,
-  "createdAt": "Wed Nov 18 16:50:00 +0000 2026",
+  "viewCount": 16264,
+  "createdAt": "Sun Nov 22 20:10:07 +0000 2026",
   "lang": "en",
   "bookmarkCount": 2,
   "isReply": false,
-  "conversationId": "2123096394018046265",
-  "isPinned": false,
+  "conversationId": "2124596308551905609",
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "BenjaminSolak",
+   "url": "https://x.com/BenjaminSolak",
+   "twitterUrl": "https://twitter.com/BenjaminSolak",
+   "id": "2784183660",
+   "name": "Benjamin Solak",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "profilePicture": "https://pbs.twimg.com/profile_images/1829516174549258241/dtUjiX4Q_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2784183660/1727030657",
+   "description": "NFL analyst @ ESPN // IG: benjamin.solak // TikTok: benjaminsolak\n\nListen to Leaguewide: https://t.co/qI2vyH1Mha",
    "location": "",
-   "followers": 21878,
-   "following": 430,
+   "followers": 191049,
+   "following": 2077,
    "protected": false,
    "status": "",
    "canDm": false,
    "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "createdAt": "Mon Sep 01 14:44:39 +0000 2014",
    "entities": {
-    "description": {},
-    "url": {
+    "description": {
      "urls": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "display_url": "podcasts.apple.com/us/podcast/esp\u2026",
+       "expanded_url": "https://podcasts.apple.com/us/podcast/espns-leaguewide/id6817090042",
        "indices": [
-        0,
-        23
+        89,
+        112
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "url": "https://t.co/qI2vyH1Mha"
       }
      ]
     }
    },
-   "favouritesCount": 6753,
+   "favouritesCount": 81676,
    "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10768,
+   "mediaCount": 8431,
+   "statusesCount": 62139,
    "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      61,
-      76
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
+  "entities": {},
   "isRetweet": false,
   "isQuote": false,
   "media": [],
@@ -1871,87 +294,65 @@
  },
  {
   "type": "tweet",
-  "id": "2123095136401846320",
-  "url": "https://x.com/ffdataroma/status/2123095136401846320",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123095136401846320",
-  "text": "TE Yards per route run leaders through 10 weeks, per @FantasyPtsData:\n\n1. Dalton Kincaid (2.83)\n2. Brock Bowers (2.74)\n3. George Kittle (2.45)\n4. Travis Kelce (2.30)\n5. Isaiah Likely (2.02)\n6. T.J. Hockenson (2.01)",
-  "fullText": "TE Yards per route run leaders through 10 weeks, per @FantasyPtsData:\n\n1. Dalton Kincaid (2.83)\n2. Brock Bowers (2.74)\n3. George Kittle (2.45)\n4. Travis Kelce (2.30)\n5. Isaiah Likely (2.02)\n6. T.J. Hockenson (2.01)",
+  "id": "2124592781926473830",
+  "url": "https://x.com/BenjaminSolak/status/2124592781926473830",
+  "twitterUrl": "https://twitter.com/BenjaminSolak/status/2124592781926473830",
+  "text": "Benjamin Morrison, per @NextGenStats \n19 coverage snaps\n6 targets\n5 receptions allowed\n131 yards allowed\n2 touchdowns allowed",
+  "fullText": "Benjamin Morrison, per @NextGenStats \n19 coverage snaps\n6 targets\n5 receptions allowed\n131 yards allowed\n2 touchdowns allowed",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 2,
-  "likeCount": 13,
-  "quoteCount": 1,
-  "viewCount": 7364,
-  "createdAt": "Wed Nov 18 16:45:00 +0000 2026",
+  "retweetCount": 16,
+  "replyCount": 6,
+  "likeCount": 158,
+  "quoteCount": 14,
+  "viewCount": 29242,
+  "createdAt": "Sun Nov 22 19:56:06 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 3,
+  "quoteId": "2124591694628741261",
+  "bookmarkCount": 6,
   "isReply": false,
-  "conversationId": "2123095136401846320",
-  "isPinned": false,
+  "conversationId": "2124592781926473830",
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "BenjaminSolak",
+   "url": "https://x.com/BenjaminSolak",
+   "twitterUrl": "https://twitter.com/BenjaminSolak",
+   "id": "2784183660",
+   "name": "Benjamin Solak",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "profilePicture": "https://pbs.twimg.com/profile_images/1829516174549258241/dtUjiX4Q_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2784183660/1727030657",
+   "description": "NFL analyst @ ESPN // IG: benjamin.solak // TikTok: benjaminsolak\n\nListen to Leaguewide: https://t.co/qI2vyH1Mha",
    "location": "",
-   "followers": 21878,
-   "following": 430,
+   "followers": 191049,
+   "following": 2077,
    "protected": false,
    "status": "",
    "canDm": false,
    "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "createdAt": "Mon Sep 01 14:44:39 +0000 2014",
    "entities": {
-    "description": {},
-    "url": {
+    "description": {
      "urls": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "display_url": "podcasts.apple.com/us/podcast/esp\u2026",
+       "expanded_url": "https://podcasts.apple.com/us/podcast/espns-leaguewide/id6817090042",
        "indices": [
-        0,
-        23
+        89,
+        112
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "url": "https://t.co/qI2vyH1Mha"
       }
      ]
     }
    },
-   "favouritesCount": 6753,
+   "favouritesCount": 81676,
    "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10768,
+   "mediaCount": 8431,
+   "statusesCount": 62139,
    "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false
   },
   "extendedEntities": {},
   "card": {},
@@ -1959,232 +360,13 @@
   "entities": {
    "user_mentions": [
     {
-     "id_str": "1512168033011306496",
+     "id_str": "1049399617782083584",
      "indices": [
-      53,
-      68
+      23,
+      36
      ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2123094380781154570",
-  "url": "https://x.com/ffdataroma/status/2123094380781154570",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123094380781154570",
-  "text": "WR Yards per route run leaders through Week 10, per @FantasyPtsData:\n\n1. Jaxon Smith-Njigba (4.09)\n2. Christian Watson (2.99)\n3. Puka Nacua (2.99)\n4. Drake London (2.87)\n5. Parker Washington (2.84)\n6. Ja'Marr Chase (2.82)\n7. Luther Burden III (2.80)\n8. Zay Flowers (2.79)\n9. CeeDee Lamb (2.78)\n10. Tee Higgins (2.68)",
-  "fullText": "WR Yards per route run leaders through Week 10, per @FantasyPtsData:\n\n1. Jaxon Smith-Njigba (4.09)\n2. Christian Watson (2.99)\n3. Puka Nacua (2.99)\n4. Drake London (2.87)\n5. Parker Washington (2.84)\n6. Ja'Marr Chase (2.82)\n7. Luther Burden III (2.80)\n8. Zay Flowers (2.79)\n9.",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 0,
-  "likeCount": 28,
-  "quoteCount": 0,
-  "viewCount": 6437,
-  "createdAt": "Wed Nov 18 16:42:00 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 4,
-  "isReply": false,
-  "conversationId": "2123094380781154570",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21878,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10768,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "urls": [],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      52,
-      67
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2123080014958584142",
-  "url": "https://x.com/ffdataroma/status/2123080014958584142",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123080014958584142",
-  "text": "Bottom of the NFL in YACoe/Rec through Week 10 (min. 25 rec), using data points from @FantasyPtsData:\n\n1. Chase Brown (-2.16)\n2. Wan'Dale Robinson (-2.03)\n3. Mark Andrews (-1.95)\n4. DeVonta Smith (-1.76)\n5. Trey McBride (-1.75)\n6. Michael Wilson (-1.65)\n7. Javonte Williams (-1.64)\n8. Jakobi Meyers (-1.62)\n9. Kyren Williams (-1.57)\n10. Tyler Higbee (-1.47)",
-  "fullText": "Bottom of the NFL in YACoe/Rec through Week 10 (min. 25 rec), using data points from @FantasyPtsData:\n\n1. Chase Brown (-2.16)\n2. Wan'Dale Robinson (-2.03)\n3. Mark Andrews (-1.95)\n4. DeVonta Smith (-1.76)\n5. Trey McBride (-1.75)\n6. Michael Wilson (-1.65)\n7. Javonte Williams",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 0,
-  "likeCount": 12,
-  "quoteCount": 0,
-  "viewCount": 6227,
-  "createdAt": "Wed Nov 18 15:44:55 +0000 2026",
-  "lang": "en",
-  "quoteId": "2123079848079863901",
-  "bookmarkCount": 1,
-  "isReply": false,
-  "conversationId": "2123080014958584142",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21878,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10768,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "urls": [],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      85,
-      100
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
+     "name": "Next Gen Stats",
+     "screen_name": "NextGenStats"
     }
    ]
   },
@@ -2192,103 +374,278 @@
   "isQuote": true,
   "quote": {
    "type": "tweet",
-   "id": "2123079848079863901",
-   "text": "YAC over expected per reception (YACoe/Rec) leaders through Week 10 (min. 25 rec), using data points from @FantasyPtsData:\n\n1. Travis Kelce (+4.30)\n2. Jaylen Warren (+4.18)\n3. Khalil Shakir (+3.36)\n4. Drake London (+3.13)\n5. Parker Washington (+3.06)\n6. Mike Evans (+2.77)\n7. Zay Flowers (+2.60)\n8. Dalton Kincaid (+2.58)\n9. RJ Harvey (+2.25)\n10. Luther Burden III (+2.07)\n\n\"Expected\" YAC per reception is what a typical pass-catcher with the same aDOT, designed target rate and contested target rate gains after the catch.\n\naDOT drives 48% of the expectation, designed targets 32% and contested targets 20%.\n\nYAC over expected is actual YAC minus expected YAC",
+   "id": "2124591694628741261",
+   "text": "Bucs breakout star CB Jacob Parrish went out in the first quarter with a back injury.\n\nLions have two passing touchdowns on the day, both targeting backup Benjamin Morrison.\n\nSometimes it's as simple as that.",
    "source": "",
-   "retweetCount": 2,
-   "replyCount": 0,
-   "likeCount": 16,
+   "retweetCount": 13,
+   "replyCount": 4,
+   "likeCount": 225,
    "quoteCount": 1,
-   "viewCount": 9856,
-   "createdAt": "Wed Nov 18 15:44:15 +0000 2026",
+   "viewCount": 43860,
+   "createdAt": "Sun Nov 22 19:51:47 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 3,
-   "isPinned": false,
+   "bookmarkCount": 4,
    "author": {
     "type": "user",
-    "userName": "ffdataroma",
-    "url": "https://x.com/ffdataroma",
-    "twitterUrl": "https://twitter.com/ffdataroma",
-    "id": "1673448826340798465",
-    "name": "Dataroma",
+    "userName": "BenjaminSolak",
+    "url": "https://x.com/BenjaminSolak",
+    "twitterUrl": "https://twitter.com/BenjaminSolak",
+    "id": "2784183660",
+    "name": "Benjamin Solak",
     "isVerified": false,
     "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+    "profilePicture": "https://pbs.twimg.com/profile_images/1829516174549258241/dtUjiX4Q_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2784183660/1727030657",
+    "description": "NFL analyst @ ESPN // IG: benjamin.solak // TikTok: benjaminsolak\n\nListen to Leaguewide: https://t.co/qI2vyH1Mha",
     "location": "",
-    "followers": 21878,
-    "following": 430,
+    "followers": 191049,
+    "following": 2077,
     "protected": false,
     "status": "",
     "canDm": false,
     "canMediaTag": true,
-    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+    "createdAt": "Mon Sep 01 14:44:39 +0000 2014",
     "entities": {
-     "description": {},
-     "url": {
+     "description": {
       "urls": [
        {
-        "display_url": "beacons.ai/ffdataroma",
-        "expanded_url": "https://beacons.ai/ffdataroma",
+        "display_url": "podcasts.apple.com/us/podcast/esp\u2026",
+        "expanded_url": "https://podcasts.apple.com/us/podcast/espns-leaguewide/id6817090042",
         "indices": [
-         0,
-         23
+         89,
+         112
         ],
-        "url": "https://t.co/4QmVXjPECs"
+        "url": "https://t.co/qI2vyH1Mha"
        }
       ]
      }
     },
-    "favouritesCount": 6753,
+    "favouritesCount": 81676,
     "isTranslator": false,
-    "mediaCount": 844,
-    "statusesCount": 10768,
+    "mediaCount": 8431,
+    "statusesCount": 62139,
     "translatorTypeEnum": "none",
-    "affiliatesHighlightedLabel": {
-     "label": {
-      "badge": {
-       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-      },
-      "description": "Sleeper",
-      "url": {
-       "url": "https://twitter.com/SleeperHQ",
-       "urlType": "DeepLink"
-      },
-      "userLabelDisplayType": "Badge",
-      "userLabelType": "BusinessLabel"
-     }
-    },
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2123909485865369723"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
    },
    "extendedEntities": {},
    "card": {},
    "place": {},
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "urls": [],
-    "user_mentions": [
-     {
-      "id_str": "1512168033011306496",
-      "indices": [
-       106,
-       121
-      ],
-      "name": "Fantasy Points Data",
-      "screen_name": "FantasyPtsData"
-     }
-    ]
-   }
+   "entities": {}
   },
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2124591694628741261",
+  "url": "https://x.com/BenjaminSolak/status/2124591694628741261",
+  "twitterUrl": "https://twitter.com/BenjaminSolak/status/2124591694628741261",
+  "text": "Bucs breakout star CB Jacob Parrish went out in the first quarter with a back injury.\n\nLions have two passing touchdowns on the day, both targeting backup Benjamin Morrison.\n\nSometimes it's as simple as that.",
+  "fullText": "Bucs breakout star CB Jacob Parrish went out in the first quarter with a back injury.\n\nLions have two passing touchdowns on the day, both targeting backup Benjamin Morrison.\n\nSometimes it's as simple as that.",
+  "source": "",
+  "retweetCount": 13,
+  "replyCount": 4,
+  "likeCount": 225,
+  "quoteCount": 1,
+  "viewCount": 43860,
+  "createdAt": "Sun Nov 22 19:51:47 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2124591694628741261",
+  "author": {
+   "type": "user",
+   "userName": "BenjaminSolak",
+   "url": "https://x.com/BenjaminSolak",
+   "twitterUrl": "https://twitter.com/BenjaminSolak",
+   "id": "2784183660",
+   "name": "Benjamin Solak",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1829516174549258241/dtUjiX4Q_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2784183660/1727030657",
+   "description": "NFL analyst @ ESPN // IG: benjamin.solak // TikTok: benjaminsolak\n\nListen to Leaguewide: https://t.co/qI2vyH1Mha",
+   "location": "",
+   "followers": 191049,
+   "following": 2077,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Mon Sep 01 14:44:39 +0000 2014",
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "display_url": "podcasts.apple.com/us/podcast/esp\u2026",
+       "expanded_url": "https://podcasts.apple.com/us/podcast/espns-leaguewide/id6817090042",
+       "indices": [
+        89,
+        112
+       ],
+       "url": "https://t.co/qI2vyH1Mha"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 81676,
+   "isTranslator": false,
+   "mediaCount": 8431,
+   "statusesCount": 62139,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2124589194328584270",
+  "url": "https://x.com/BenjaminSolak/status/2124589194328584270",
+  "twitterUrl": "https://twitter.com/BenjaminSolak/status/2124589194328584270",
+  "text": "Per ESPN Research, there have been only two first halves this season with 48+ total points\n\nBears-Panthers Week 1 (55)\nRavens-Panthers Week 11 (48)",
+  "fullText": "Per ESPN Research, there have been only two first halves this season with 48+ total points\n\nBears-Panthers Week 1 (55)\nRavens-Panthers Week 11 (48)",
+  "source": "",
+  "retweetCount": 22,
+  "replyCount": 3,
+  "likeCount": 343,
+  "quoteCount": 2,
+  "viewCount": 35066,
+  "createdAt": "Sun Nov 22 19:41:51 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "2124589194328584270",
+  "author": {
+   "type": "user",
+   "userName": "BenjaminSolak",
+   "url": "https://x.com/BenjaminSolak",
+   "twitterUrl": "https://twitter.com/BenjaminSolak",
+   "id": "2784183660",
+   "name": "Benjamin Solak",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1829516174549258241/dtUjiX4Q_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2784183660/1727030657",
+   "description": "NFL analyst @ ESPN // IG: benjamin.solak // TikTok: benjaminsolak\n\nListen to Leaguewide: https://t.co/qI2vyH1Mha",
+   "location": "",
+   "followers": 191049,
+   "following": 2077,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Mon Sep 01 14:44:39 +0000 2014",
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "display_url": "podcasts.apple.com/us/podcast/esp\u2026",
+       "expanded_url": "https://podcasts.apple.com/us/podcast/espns-leaguewide/id6817090042",
+       "indices": [
+        89,
+        112
+       ],
+       "url": "https://t.co/qI2vyH1Mha"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 81676,
+   "isTranslator": false,
+   "mediaCount": 8431,
+   "statusesCount": 62139,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2124587160305033619",
+  "url": "https://x.com/BenjaminSolak/status/2124587160305033619",
+  "twitterUrl": "https://twitter.com/BenjaminSolak/status/2124587160305033619",
+  "text": "Two muffed punts from the Ravens in the first half. Panthers P Sam Martin getting tons of movement on the ball.",
+  "fullText": "Two muffed punts from the Ravens in the first half. Panthers P Sam Martin getting tons of movement on the ball.",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 77,
+  "quoteCount": 0,
+  "viewCount": 12426,
+  "createdAt": "Sun Nov 22 19:33:46 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2124587160305033619",
+  "author": {
+   "type": "user",
+   "userName": "BenjaminSolak",
+   "url": "https://x.com/BenjaminSolak",
+   "twitterUrl": "https://twitter.com/BenjaminSolak",
+   "id": "2784183660",
+   "name": "Benjamin Solak",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/1829516174549258241/dtUjiX4Q_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/2784183660/1727030657",
+   "description": "NFL analyst @ ESPN // IG: benjamin.solak // TikTok: benjaminsolak\n\nListen to Leaguewide: https://t.co/qI2vyH1Mha",
+   "location": "",
+   "followers": 191049,
+   "following": 2077,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": true,
+   "createdAt": "Mon Sep 01 14:44:39 +0000 2014",
+   "entities": {
+    "description": {
+     "urls": [
+      {
+       "display_url": "podcasts.apple.com/us/podcast/esp\u2026",
+       "expanded_url": "https://podcasts.apple.com/us/podcast/espns-leaguewide/id6817090042",
+       "indices": [
+        89,
+        112
+       ],
+       "url": "https://t.co/qI2vyH1Mha"
+      }
+     ]
+    }
+   },
+   "favouritesCount": 81676,
+   "isTranslator": false,
+   "mediaCount": 8431,
+   "statusesCount": 62139,
+   "translatorTypeEnum": "none",
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
   "media": [],
   "videos": [],
   "isConversationControlled": false
