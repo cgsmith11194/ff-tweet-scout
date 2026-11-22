@@ -1,0 +1,213 @@
+{
+ "generated_at": "2026-11-22T16:28:33.871961+00:00",
+ "window": {
+  "since": "2026-11-22",
+  "until": "2026-11-23",
+  "days": 0.292
+ },
+ "counts": {
+  "raw": 361,
+  "unique": 41,
+  "kept": 20,
+  "kills": {
+   "unparseable": 2,
+   "out_of_window": 316,
+   "low_score": 16,
+   "pure_link": 1,
+   "retweet": 3,
+   "promo": 1
+  }
+ },
+ "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
+ "rejects": [
+  {
+   "id": "2124528701127946648",
+   "url": "https://x.com/UnderdogNFL/status/2124528701127946648",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.4,
+   "likes": 423,
+   "text": "Schefter: Not a lot of optimism Brock Bowers (ankle, quad) will play Week 11 but he is pushing to play."
+  },
+  {
+   "id": "2124537622060007886",
+   "url": "https://x.com/MySportsUpdate/status/2124537622060007886",
+   "handle": "MySportsUpdate",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.4,
+   "likes": 536,
+   "text": "Chris Berman on ESPN:\n\n\"Tommy and Mort. They are up there laughing at us right now. And Ditka is yelling at them.\" \ud83e\udd79 https://t.co/8CLTyR4BG6"
+  },
+  {
+   "id": "2124524849267683504",
+   "url": "https://x.com/MySportsUpdate/status/2124524849267683504",
+   "handle": "MySportsUpdate",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.7,
+   "likes": 1192,
+   "text": "I\u2019d highly recommend watching ESPN right now as Sunday NFL Countdown remembers Tom Jackson.\n\nRaw, honest and emotional. An incredible tribute to a great man who meant so much to football."
+  },
+  {
+   "id": "2124481743210344957",
+   "url": "https://x.com/UnderdogNFL/status/2124481743210344957",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.9,
+   "likes": 389,
+   "text": "Rap: Cardinals, Patriots, Ravens among teams expected to consider signing Daniel Jones. https://t.co/tUK2wB8vJ0"
+  },
+  {
+   "id": "2124524315706089765",
+   "url": "https://x.com/YahooFantasy/status/2124524315706089765",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.5,
+   "likes": 25,
+   "text": "Drake Maye (fibula) will miss at least 6 weeks, per @RapSheet. https://t.co/GCBeaAwGS1"
+  },
+  {
+   "id": "2124518368099123282",
+   "url": "https://x.com/GuruFantasyWrld/status/2124518368099123282",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.3,
+   "likes": 43,
+   "text": "Contenders gotta contend.\n\n#Dynasty https://t.co/ExxRj4xryK"
+  },
+  {
+   "id": "2124539937538142347",
+   "url": "https://x.com/UnderdogNFL/status/2124539937538142347",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 20.0,
+   "likes": 51,
+   "text": "Bhayshul Tuten (knee, ankle) expected to get bulk of carries in Week 11 despite being limited in practice, per @tracywolfson."
+  },
+  {
+   "id": "2124517891122831587",
+   "url": "https://x.com/BenjaminSolak/status/2124517891122831587",
+   "handle": "BenjaminSolak",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.1,
+   "likes": 555,
+   "text": "Trying to remember an NFL team making as big a mistake on something as simple and straightforward as the Colts\u2019 deadline fire sale (non Deshaun edition) and it\u2019s not easy"
+  },
+  {
+   "id": "2124534865433399639",
+   "url": "https://x.com/CoopAFiasco/status/2124534865433399639",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.9,
+   "likes": 1,
+   "text": "Fantasy Football Week 11 Start/Sit, Best Bets &amp; DFS Picks &amp; NFL Inactives https://t.co/SFfrjgoCTI"
+  },
+  {
+   "id": "2124515116834336822",
+   "url": "https://x.com/CoopAFiasco/status/2124515116834336822",
+   "handle": "CoopAFiasco",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.7,
+   "likes": 5,
+   "text": "Reminder - Sirius XM is FREE for the rest of the month. Check out the @FantasyAlarm show in 15 minutes with @rotobuzzguy and I! https://t.co/lsN0sbgRBq"
+  },
+  {
+   "id": "2124537903296434501",
+   "url": "https://x.com/YahooFantasy/status/2124537903296434501",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 18.0,
+   "likes": 4,
+   "text": "Is Omarion Hampton a must-start in Week 11? \ud83d\udc40 (via Fantasy Football Live)\n\n@justinboone | @JoshNorris https://t.co/7H1Gg8xvdk"
+  },
+  {
+   "id": "2124528537277219039",
+   "url": "https://x.com/MikeClayNFL/status/2124528537277219039",
+   "handle": "MikeClayNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.9,
+   "likes": 91,
+   "text": "\ud83d\udcaf\ud83d\udc94\n\nRIP Tom Jackson"
+  },
+  {
+   "id": "2124493854577492365",
+   "url": "https://x.com/GuruFantasyWrld/status/2124493854577492365",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.7,
+   "likes": 80,
+   "text": "Emeka Egbuka better get his shit together today or I\u2019m going to go outside and whip eggs at my neighbor\u2019s house"
+  },
+  {
+   "id": "2124502588943200545",
+   "url": "https://x.com/GuruFantasyWrld/status/2124502588943200545",
+   "handle": "GuruFantasyWrld",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 14,
+   "text": "Get on my level https://t.co/FVTuxZubRb"
+  },
+  {
+   "id": "2124509766731100594",
+   "url": "https://x.com/SmolaDS/status/2124509766731100594",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 12,
+   "text": "Updated implied totals https://t.co/ohjgGxfveJ"
+  },
+  {
+   "id": "2124532748148981923",
+   "url": "https://x.com/SmolaDS/status/2124532748148981923",
+   "handle": "SmolaDS",
+   "reason": "low_score(cold_water)",
+   "score": 16.6,
+   "likes": 3,
+   "text": "Updated with fresh implied totals and 3 games with minor weather concerns \u2935\ufe0f"
+  },
+  {
+   "id": "2124520528153285029",
+   "url": "https://x.com/trendscenterapp/status/2124520528153285029",
+   "handle": "trendscenterapp",
+   "reason": "promo",
+   "score": null,
+   "likes": 61,
+   "text": "36-0 NFL trend is active! \ud83d\udcc8\n\n\ud83d\udd13 Unlock it now!\n\n\ud83d\udea8 Enter code BLACKFRIDAY in the TrendsCenter App for 40% OFF Premium! https://t.co/mDgy9HeY5o"
+  },
+  {
+   "id": "2124531786688397567",
+   "url": "https://x.com/CoopAFiasco/status/2124531786688397567",
+   "handle": "CoopAFiasco",
+   "reason": "pure_link",
+   "score": null,
+   "likes": 0,
+   "text": "https://t.co/SFfrjgoCTI"
+  },
+  {
+   "id": "2124527428123193581",
+   "url": "https://x.com/danorlovsky7/status/2124527428123193581",
+   "handle": "danorlovsky7",
+   "reason": "retweet",
+   "score": null,
+   "likes": 23657,
+   "text": "RT @AdamSchefter: \u201cWe\u2019ve lost one of the best human beings to ever walk the planet.\u201d\n\nChris Berman announces the death of his longtime broa\u2026"
+  },
+  {
+   "id": "2124536273473884523",
+   "url": "https://x.com/YahooFantasy/status/2124536273473884523",
+   "handle": "YahooFantasy",
+   "reason": "retweet",
+   "score": null,
+   "likes": 3,
+   "text": "RT @YahooFantasyJH: What are the expectations for Cam Ward in Week 11? https://t.co/4Z4NsQVETu"
+  },
+  {
+   "id": "2124527950104060141",
+   "url": "https://x.com/YahooFantasy/status/2124527950104060141",
+   "handle": "YahooFantasy",
+   "reason": "retweet",
+   "score": null,
+   "likes": 5,
+   "text": "RT @YahooFantasyJH: Week 11 Start / Sit - Fantasy Football Rankings Q&amp;A\n\nhttps://t.co/sZL8uFA0af https://t.co/j86bfrBuil"
+  }
+ ]
+}
