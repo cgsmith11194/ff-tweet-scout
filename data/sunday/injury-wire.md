@@ -11,7 +11,7 @@
 #   - Locked rows first, not-locked rows last (renderer draws the divider).
 #   - Pipes (|) can't appear inside cell text.
 #
-# WEEK 11 — 2026-11-22 — FINAL through 4:25 games 3:55 ET (byes: ATL, CLE, GB, LAR, NE, SEA; IND-HOU played Thu; MIN-SF in Mexico City)
+# WEEK 11 — 2026-11-22 — SNF check 7:00 ET (byes: ATL, CLE, GB, LAR, NE, SEA; IND-HOU played Thu; MIN-SF in Mexico City)
 
 | Player | Pos/Team | Status | Injury | Prognosis |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@
 | Jordyn Tyson | WR · NO | IN | Chest | Active - wind and rain in Chicago, flex only |
 | Ladd McConkey | WR · LAC | IN | Back | Officially active vs the Jets - flex, ESPN flagged a risk he leaves early |
 | Treylon Burks | WR · WAS | EXP OUT | Not disclosed | Doubtful for Monday night |
-| Mike Evans | WR · SF | EXP IN | Achilles | Set to return Sunday night in Mexico City per Garafolo - actives ~6:50 |
+| Mike Evans | WR · SF | EXP IN | Achilles | Will play per NBC and NFL Network, no strict snap limit per Glazer - official list not confirmed at 7:00 |
