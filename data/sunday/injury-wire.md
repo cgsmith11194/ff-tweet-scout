@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | Kenneth Walker | RB · KC | OUT | Groin | Second straight miss - Emmett Johnson starts again vs Arizona |
 | Jordan Addison | WR · MIN | OUT | Thumb | Ruled out again - Jefferson-or-nothing continues in Mexico City |
-| Kyler Murray | QB · MIN | OUT | Hamstring | Still out - Cousins starts his third for Minnesota |
+| Kyler Murray | QB · MIN | OUT | Hamstring | Still out - Cousins makes his second start for Minnesota |
 | Wan'Dale Robinson | WR · TEN | OUT | Ankle (IR) | On IR |
 | Dontayvion Wicks | WR · PHI | OUT | Ankle - foot | Ruled out |
 | Jake Ferguson | TE · DAL | OUT | Knee - ankle | Out again - multi-week situation continues |
@@ -31,6 +31,6 @@
 | Kyle Monangai | RB · CHI | EXP IN | Thumb - toe | On track to return per FantasyPts - split with Swift vs a bad run defense |
 | Ladd McConkey | WR · LAC | EXP IN | Back | Expected back per CBS - 4:05 actives ~2:35 |
 | Mike Evans | WR · SF | EXP IN | Achilles | Set to return Sunday night in Mexico City per CBS - actives ~6:50 |
-| Brock Bowers | TE · LV | PENDING | Ankle | True game-time call at Denver - 4:25 actives ~3:55 - Mayer is not a replacement (see Lab) |
+| Brock Bowers | TE · LV | PENDING | Ankle | Left last week's game - true game-time call at Denver, status ~3:55 |
 | Jonathon Brooks | RB · CAR | PENDING | Groin | Warm-up call - Chuba keeps the lead work either way |
 | Michael Pittman | WR · PIT | PENDING | Foot | Warm-up call at Philadelphia - locks ~11:30 |
