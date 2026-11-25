@@ -1,0 +1,302 @@
+{
+ "generated_at": "2026-11-25T03:48:09.452826+00:00",
+ "window": {
+  "since": "2026-11-24",
+  "until": "2026-11-26",
+  "days": 0.292
+ },
+ "counts": {
+  "raw": 570,
+  "unique": 54,
+  "kept": 23,
+  "kills": {
+   "unparseable": 2,
+   "low_score": 21,
+   "out_of_window": 514,
+   "retweet": 8,
+   "reply": 2
+  }
+ },
+ "note": "Every collected tweet that did not make candidates, with reason. Near-full text kept (2000-char cap) as a corpus for later league-wide analysis; raw Apify datasets also persist ~1 week in the console.",
+ "rejects": [
+  {
+   "id": "2125364781028671791",
+   "url": "https://x.com/YahooFantasy/status/2125364781028671791",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 24.4,
+   "likes": 157,
+   "text": "The highest scoring RBs in fantasy through 11 weeks \ud83e\udee1 https://t.co/ZKntE599I7"
+  },
+  {
+   "id": "2125354612156674192",
+   "url": "https://x.com/UnderdogNFL/status/2125354612156674192",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.8,
+   "likes": 1233,
+   "text": "Schefter: Brandon Aiyuk to visit the Commanders on Wednesday."
+  },
+  {
+   "id": "2125393764088951102",
+   "url": "https://x.com/YahooFantasy/status/2125393764088951102",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.4,
+   "likes": 131,
+   "text": "Jonah Coleman talking with J.K. Dobbins at practice today: https://t.co/BHxLMlL58i"
+  },
+  {
+   "id": "2125344879236853931",
+   "url": "https://x.com/LateRoundQB/status/2125344879236853931",
+   "handle": "LateRoundQB",
+   "reason": "low_score(analysis_hype)",
+   "score": 23.1,
+   "likes": 1418,
+   "text": "Jonah Coleman is gonna score 5 more points this week on that one additional snap https://t.co/aQxOPj7bWa"
+  },
+  {
+   "id": "2125343174230958085",
+   "url": "https://x.com/UnderdogNFL/status/2125343174230958085",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.9,
+   "likes": 1236,
+   "text": "JK Dobbins suspended one game by the Broncos for conduct detrimental to the team."
+  },
+  {
+   "id": "2125389991203500305",
+   "url": "https://x.com/YahooFantasy/status/2125389991203500305",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 22.9,
+   "likes": 56,
+   "text": "Bengals record this season:\n\nWhen Chase Brown scores a TD: 2-0\nWhen Chase Brown doesn't score a TD: 5-3"
+  },
+  {
+   "id": "2125342123956564213",
+   "url": "https://x.com/UnderdogNFL/status/2125342123956564213",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.9,
+   "likes": 448,
+   "text": "Kenneth Walker (groin) officially limited in practice Tuesday."
+  },
+  {
+   "id": "2125363287630196961",
+   "url": "https://x.com/UnderdogNFL/status/2125363287630196961",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.8,
+   "likes": 334,
+   "text": "Saquon Barkley (neck, illness) fully practices Tuesday."
+  },
+  {
+   "id": "2125351050202779679",
+   "url": "https://x.com/UnderdogNFL/status/2125351050202779679",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 21.6,
+   "likes": 157,
+   "text": "Sam LaPorta (ankle) fully practices Tuesday."
+  },
+  {
+   "id": "2125337223977734309",
+   "url": "https://x.com/UnderdogNFL/status/2125337223977734309",
+   "handle": "UnderdogNFL",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.8,
+   "likes": 119,
+   "text": "Jake Ferguson (knee, ankle) doesn't practice again Tuesday."
+  },
+  {
+   "id": "2125346747346227517",
+   "url": "https://x.com/BenjaminSolak/status/2125346747346227517",
+   "handle": "BenjaminSolak",
+   "reason": "low_score(analysis_hype)",
+   "score": 19.3,
+   "likes": 362,
+   "text": "I forgot it was a Monken/Bowers week!\n\nEvery chance he gets, Monken speaks about Bowers with such reverence. You can tell he has an enormous appreciation for the football player and the person"
+  },
+  {
+   "id": "2125366619152994808",
+   "url": "https://x.com/YahooFantasy/status/2125366619152994808",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.6,
+   "likes": 38,
+   "text": "The 5 highest-scoring TEs in fantasy football so far this year \ud83e\udee1 https://t.co/RwB6wtF50B"
+  },
+  {
+   "id": "2125432483214967181",
+   "url": "https://x.com/MySportsUpdate/status/2125432483214967181",
+   "handle": "MySportsUpdate",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.5,
+   "likes": 216,
+   "text": "NFL teams ranked by record in one-score games this season: https://t.co/pk3Cat48O7"
+  },
+  {
+   "id": "2125334219505197441",
+   "url": "https://x.com/ffdataroma/status/2125334219505197441",
+   "handle": "ffdataroma",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.4,
+   "likes": 100,
+   "text": "Yup we see this all the time. Emmett Johnson may see some additional touches/snaps, but it seems pretty unlikely they want to keep Walker off the field very often, a guy you could argue has been legitimately the best running back in football this year.\n\nShouldn't expect Walker's fantasy value to be notably worse when he returns, as he's likely to retain most of the goal line/early down passing work at the very least."
+  },
+  {
+   "id": "2125373885000405386",
+   "url": "https://x.com/Ihartitz/status/2125373885000405386",
+   "handle": "Ihartitz",
+   "reason": "low_score(analysis_hype)",
+   "score": 17.1,
+   "likes": 179,
+   "text": "Colston Loveland we never doubted you! https://t.co/QgzvkJUZUF"
+  },
+  {
+   "id": "2125348214786101404",
+   "url": "https://x.com/YahooFantasy/status/2125348214786101404",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 15.7,
+   "likes": 81,
+   "text": "The best kickers in fantasy this season \ud83e\udee1 https://t.co/buqvMiS3cS"
+  },
+  {
+   "id": "2125340000476626991",
+   "url": "https://x.com/YahooFantasy/status/2125340000476626991",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.8,
+   "likes": 46,
+   "text": "If you were eliminated in your Death League this week, you probably had one of these players \ud83e\udd37 https://t.co/H6wseOWrKZ"
+  },
+  {
+   "id": "2125356424494522402",
+   "url": "https://x.com/YahooFantasy/status/2125356424494522402",
+   "handle": "YahooFantasy",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.7,
+   "likes": 46,
+   "text": "Josh Allen continues to fall in this season's fantasy QB leaderboard \ud83d\ude2c https://t.co/MzYEPV01QS"
+  },
+  {
+   "id": "2125382742464479579",
+   "url": "https://x.com/SmolaDS/status/2125382742464479579",
+   "handle": "SmolaDS",
+   "reason": "low_score(analysis_hype)",
+   "score": 14.0,
+   "likes": 1,
+   "text": "Some background noise while you\u2019re working on waivers \ud83d\udc47"
+  },
+  {
+   "id": "2125395949006831996",
+   "url": "https://x.com/jmthrivept/status/2125395949006831996",
+   "handle": "jmthrivept",
+   "reason": "low_score(analysis_hype)",
+   "score": 5.8,
+   "likes": 99,
+   "text": "Kenneth Walker was moving around pretty good in video seen today (no cutting or sprinting seen via video though). Currently lean towards him playing.\nIf active, start him.\n\nI also think Emmett Johnson will still be worth a flex play this week even if K9 is active. https://t.co/IRW6TufAvw"
+  },
+  {
+   "id": "2125340695867330956",
+   "url": "https://x.com/nflrums/status/2125340695867330956",
+   "handle": "nflrums",
+   "reason": "low_score(analysis_hype)",
+   "score": 4.4,
+   "likes": 374,
+   "text": "\ud83d\udea8\ud83d\udea8Green Bay #Packers Micah Parsons offically will play on Wednesday #gopackgo https://t.co/za05hP91q4"
+  },
+  {
+   "id": "2125356743190622654",
+   "url": "https://x.com/Ihartitz/status/2125356743190622654",
+   "handle": "Ihartitz",
+   "reason": "reply",
+   "score": null,
+   "likes": 5,
+   "text": "Full Week 12 fantasy football RB ranks!\n\nGreat day to be great: https://t.co/pF5s4QQNxa"
+  },
+  {
+   "id": "2125354268979048767",
+   "url": "https://x.com/Ihartitz/status/2125354268979048767",
+   "handle": "Ihartitz",
+   "reason": "reply",
+   "score": null,
+   "likes": 4,
+   "text": "*Cincy 2nd LEAST PPR points per game to outside WRs, 5th MOST vs. slot."
+  },
+  {
+   "id": "2125377640588583086",
+   "url": "https://x.com/BenjaminSolak/status/2125377640588583086",
+   "handle": "BenjaminSolak",
+   "reason": "retweet",
+   "score": null,
+   "likes": 288,
+   "text": "RT @minakimes: It sure looks like Adam Peters cooked with his top draft picks this year\u2026.\n\nDiscussed the Commanders win with @BenjaminSolak\u2026"
+  },
+  {
+   "id": "2125357364085764496",
+   "url": "https://x.com/BenjaminSolak/status/2125357364085764496",
+   "handle": "BenjaminSolak",
+   "reason": "retweet",
+   "score": null,
+   "likes": 46,
+   "text": "RT @minakimes: New pod! Recapping the Commanders win and previewing the Wednesday and Thursday games with @BenjaminSolak  \n\n\ud83c\udfa7: https://t.co\u2026"
+  },
+  {
+   "id": "2125370586771681394",
+   "url": "https://x.com/FantasyPtsData/status/2125370586771681394",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 28,
+   "text": "RT @ffdataroma: Chuba Hubbard's efficiency numbers on the year, per @FantasyPtsData:\n\n+ 12.4% explosive rush rate (10th of 39 RBs)\n+ 54.3%\u2026"
+  },
+  {
+   "id": "2125370578546688110",
+   "url": "https://x.com/FantasyPtsData/status/2125370578546688110",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 112,
+   "text": "RT @ffdataroma: DeVonta Smith in his 1st week back from injury and 1st game with Joe Milton had a 47.6% target share and, per @FantasyPtsDa\u2026"
+  },
+  {
+   "id": "2125343241021325799",
+   "url": "https://x.com/FantasyPtsData/status/2125343241021325799",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 42,
+   "text": "RT @ffdataroma: DJ Moore in 6 complete games this year, per @FantasyPtsData:\n\n+ 2.99 YPRR (*Would be t-WR2 on the year)\n+ 0.30 TPRR (*t-WR5\u2026"
+  },
+  {
+   "id": "2125343219886194747",
+   "url": "https://x.com/FantasyPtsData/status/2125343219886194747",
+   "handle": "FantasyPtsData",
+   "reason": "retweet",
+   "score": null,
+   "likes": 34,
+   "text": "RT @FantasyPts: Antonio Williams saw a 40.9% first-read target rate in his Week 11 breakout game \u2014 leading to 9 receptions for 122 yards \ud83d\udcc8\u2026"
+  },
+  {
+   "id": "2125402786489856144",
+   "url": "https://x.com/HaydenWinks/status/2125402786489856144",
+   "handle": "HaydenWinks",
+   "reason": "retweet",
+   "score": null,
+   "likes": 11,
+   "text": "RT @JoshNorris: You asked, we answered\n\nWeek 12 Fantasy Football RB Rankings\n\nhttps://t.co/QXTLuuFXjG https://t.co/V30J0qsgWQ"
+  },
+  {
+   "id": "2125389577506763023",
+   "url": "https://x.com/HaydenWinks/status/2125389577506763023",
+   "handle": "HaydenWinks",
+   "reason": "retweet",
+   "score": null,
+   "likes": 56,
+   "text": "RT @YahooFantasy: The Yahoo Fantasy Expert League standings through Week 11 \ud83d\udc40\n\nWeek 11 matchup results in thread \ud83e\uddf5 https://t.co/bMq3IDBId4"
+  }
+ ]
+}

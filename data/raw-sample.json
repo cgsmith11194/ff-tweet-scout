@@ -2,1112 +2,172 @@
  {
   "noResults": true,
   "error": true,
-  "code": "C020",
-  "message": "No results found for LateRoundQB."
+  "code": "C017",
+  "message": "User: GuruFantasyWrld not found"
  },
  {
   "type": "tweet",
-  "id": "2124555708179894784",
-  "url": "https://x.com/ffdataroma/status/2124555708179894784",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2124555708179894784",
-  "text": "RT @ffdataroma: Week 11: Players that are set up to SMASH   \n\n\u2b07\ufe0f\ud83e\uddf5",
-  "fullText": "RT @ffdataroma: Week 11: Players that are set up to SMASH   \n\n\u2b07\ufe0f\ud83e\uddf5",
-  "source": "Twitter for iPhone",
-  "retweetCount": 4,
-  "replyCount": 2,
-  "likeCount": 63,
-  "quoteCount": 0,
-  "viewCount": 28104,
-  "createdAt": "Sun Nov 22 17:28:47 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 43,
-  "isReply": false,
-  "conversationId": "2124555708179894784",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21877,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10770,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "1673448826340798465",
-     "indices": [
-      3,
-      14
-     ],
-     "name": "Dataroma",
-     "screen_name": "ffdataroma"
-    }
-   ]
-  },
-  "isRetweet": true,
-  "retweet": {
-   "type": "tweet",
-   "id": "2123909485865369723",
-   "text": "Week 11: Players that are set up to SMASH   \n\n\u2b07\ufe0f\ud83e\uddf5",
-   "source": "",
-   "retweetCount": 4,
-   "replyCount": 2,
-   "likeCount": 63,
-   "quoteCount": 0,
-   "viewCount": 28104,
-   "createdAt": "Fri Nov 20 22:40:56 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 43,
-   "isPinned": true,
-   "author": {
-    "type": "user",
-    "userName": "ffdataroma",
-    "url": "https://x.com/ffdataroma",
-    "twitterUrl": "https://twitter.com/ffdataroma",
-    "id": "1673448826340798465",
-    "name": "Dataroma",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-    "location": "",
-    "followers": 21877,
-    "following": 430,
-    "protected": false,
-    "status": "",
-    "canDm": false,
-    "canMediaTag": true,
-    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-    "entities": {
-     "description": {},
-     "url": {
-      "urls": [
-       {
-        "display_url": "beacons.ai/ffdataroma",
-        "expanded_url": "https://beacons.ai/ffdataroma",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/4QmVXjPECs"
-       }
-      ]
-     }
-    },
-    "favouritesCount": 6753,
-    "isTranslator": false,
-    "mediaCount": 844,
-    "statusesCount": 10770,
-    "translatorTypeEnum": "none",
-    "affiliatesHighlightedLabel": {
-     "label": {
-      "badge": {
-       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-      },
-      "description": "Sleeper",
-      "url": {
-       "url": "https://twitter.com/SleeperHQ",
-       "urlType": "DeepLink"
-      },
-      "userLabelDisplayType": "Badge",
-      "userLabelType": "BusinessLabel"
-     }
-    },
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2123909485865369723"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
-   },
-   "extendedEntities": {},
-   "card": {},
-   "place": {},
-   "entities": {}
-  },
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2124555699414044745",
-  "url": "https://x.com/ffdataroma/status/2124555699414044745",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2124555699414044745",
-  "text": "RT @ffdataroma: Week 11: Players that you should FADE  \n\n\u2b07\ufe0f\ud83e\uddf5",
-  "fullText": "RT @ffdataroma: Week 11: Players that you should FADE  \n\n\u2b07\ufe0f\ud83e\uddf5",
-  "source": "Twitter for iPhone",
-  "retweetCount": 0,
-  "replyCount": 3,
-  "likeCount": 39,
-  "quoteCount": 0,
-  "viewCount": 24004,
-  "createdAt": "Sun Nov 22 17:28:45 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 9,
-  "isReply": false,
-  "conversationId": "2124555699414044745",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21877,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10770,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {},
-  "card": {},
-  "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "1673448826340798465",
-     "indices": [
-      3,
-      14
-     ],
-     "name": "Dataroma",
-     "screen_name": "ffdataroma"
-    }
-   ]
-  },
-  "isRetweet": true,
-  "retweet": {
-   "type": "tweet",
-   "id": "2124155887413526896",
-   "text": "Week 11: Players that you should FADE  \n\n\u2b07\ufe0f\ud83e\uddf5",
-   "source": "",
-   "retweetCount": 0,
-   "replyCount": 3,
-   "likeCount": 39,
-   "quoteCount": 0,
-   "viewCount": 24004,
-   "createdAt": "Sat Nov 21 15:00:03 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 9,
-   "isPinned": false,
-   "author": {
-    "type": "user",
-    "userName": "ffdataroma",
-    "url": "https://x.com/ffdataroma",
-    "twitterUrl": "https://twitter.com/ffdataroma",
-    "id": "1673448826340798465",
-    "name": "Dataroma",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-    "location": "",
-    "followers": 21877,
-    "following": 430,
-    "protected": false,
-    "status": "",
-    "canDm": false,
-    "canMediaTag": true,
-    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-    "entities": {
-     "description": {},
-     "url": {
-      "urls": [
-       {
-        "display_url": "beacons.ai/ffdataroma",
-        "expanded_url": "https://beacons.ai/ffdataroma",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/4QmVXjPECs"
-       }
-      ]
-     }
-    },
-    "favouritesCount": 6753,
-    "isTranslator": false,
-    "mediaCount": 844,
-    "statusesCount": 10770,
-    "translatorTypeEnum": "none",
-    "affiliatesHighlightedLabel": {
-     "label": {
-      "badge": {
-       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-      },
-      "description": "Sleeper",
-      "url": {
-       "url": "https://twitter.com/SleeperHQ",
-       "urlType": "DeepLink"
-      },
-      "userLabelDisplayType": "Badge",
-      "userLabelType": "BusinessLabel"
-     }
-    },
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2123909485865369723"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
-   },
-   "extendedEntities": {},
-   "card": {},
-   "place": {},
-   "entities": {}
-  },
-  "isQuote": false,
-  "media": [],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2123639887324688642",
-  "url": "https://x.com/ffdataroma/status/2123639887324688642",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123639887324688642",
-  "text": "\ud83c\udf7d\ufe0f\n\no14.5 rush att\u2705\n18+ rush att (+235)\u2705\n20+ rush att (+500)\u2705\no8.5 rec yards\u2705 https://t.co/GwI1z7KSgu",
-  "fullText": "\ud83c\udf7d\ufe0f\n\no14.5 rush att\u2705\n18+ rush att (+235)\u2705\n20+ rush att (+500)\u2705\no8.5 rec yards\u2705 https://t.co/GwI1z7KSgu",
+  "id": "2125344879236853931",
+  "url": "https://x.com/LateRoundQB/status/2125344879236853931",
+  "twitterUrl": "https://twitter.com/LateRoundQB/status/2125344879236853931",
+  "text": "Jonah Coleman is gonna score 5 more points this week on that one additional snap https://t.co/aQxOPj7bWa",
+  "fullText": "Jonah Coleman is gonna score 5 more points this week on that one additional snap https://t.co/aQxOPj7bWa",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 1,
-  "likeCount": 73,
+  "retweetCount": 7,
+  "replyCount": 10,
+  "likeCount": 1418,
   "quoteCount": 0,
-  "viewCount": 7248,
-  "createdAt": "Fri Nov 20 04:49:39 +0000 2026",
+  "viewCount": 51828,
+  "createdAt": "Tue Nov 24 21:44:40 +0000 2026",
   "lang": "en",
-  "quoteId": "2123455434929381677",
-  "bookmarkCount": 1,
+  "quoteId": "2125343343521743310",
+  "bookmarkCount": 4,
   "isReply": false,
-  "conversationId": "2123639887324688642",
+  "conversationId": "2125344879236853931",
   "possiblySensitive": false,
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "LateRoundQB",
+   "url": "https://x.com/LateRoundQB",
+   "twitterUrl": "https://twitter.com/LateRoundQB",
+   "id": "596744235",
+   "name": "JJ Zachariason",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
+   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
    "location": "",
-   "followers": 21877,
-   "following": 430,
+   "followers": 237743,
+   "following": 977,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "canMediaTag": false,
+   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "display_url": "LateRound.com",
+       "expanded_url": "http://LateRound.com",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "url": "https://t.co/gGsrTQey7m"
       }
      ]
     }
    },
-   "favouritesCount": 6753,
+   "fastFollowersCount": 0,
+   "favouritesCount": 43558,
+   "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10770,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
+   "mediaCount": 5362,
+   "statusesCount": 138343,
+   "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/GwI1z7KSgu",
-     "expanded_url": "https://x.com/ffdataroma/status/2123639887324688642/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 22,
-         "w": 22,
-         "x": 314,
-         "y": 45
-        },
-        {
-         "h": 33,
-         "w": 33,
-         "x": 542,
-         "y": 88
-        },
-        {
-         "h": 119,
-         "w": 119,
-         "x": 58,
-         "y": 60
-        }
-       ]
-      }
-     },
-     "id_str": "2123639883017199616",
-     "indices": [
-      78,
-      101
-     ],
-     "media_key": "3_2123639883017199616",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123639883017199616"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXivONoXoAAx7m-.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 622,
-        "w": 1110,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 963,
-        "x": 100,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 845,
-        "x": 159,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 482,
-        "x": 340,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 1110,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 963,
-      "width": 1110
-     },
-     "sizes": {
-      "large": {
-       "h": 963,
-       "resize": "fit",
-       "w": 1110
-      },
-      "medium": {
-       "h": 963,
-       "resize": "fit",
-       "w": 1110
-      },
-      "small": {
-       "h": 590,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/GwI1z7KSgu"
-    }
+    "2124864607122530383"
    ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/GwI1z7KSgu",
-     "expanded_url": "https://x.com/ffdataroma/status/2123639887324688642/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 36,
-         "w": 36,
-         "x": 513,
-         "y": 74
-        },
-        {
-         "h": 55,
-         "w": 55,
-         "x": 886,
-         "y": 144
-        },
-        {
-         "h": 195,
-         "w": 195,
-         "x": 95,
-         "y": 98
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 22,
-         "w": 22,
-         "x": 314,
-         "y": 45
-        },
-        {
-         "h": 33,
-         "w": 33,
-         "x": 542,
-         "y": 88
-        },
-        {
-         "h": 119,
-         "w": 119,
-         "x": 58,
-         "y": 60
-        }
-       ]
-      }
-     },
-     "id_str": "2123639883017199616",
-     "indices": [
-      78,
-      101
-     ],
-     "media_key": "3_2123639883017199616",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123639883017199616"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXivONoXoAAx7m-.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 622,
-        "w": 1110,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 963,
-        "x": 100,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 845,
-        "x": 159,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 482,
-        "x": 340,
-        "y": 0
-       },
-       {
-        "h": 963,
-        "w": 1110,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 963,
-      "width": 1110
-     },
-     "sizes": {
-      "large": {
-       "h": 963,
-       "resize": "fit",
-       "w": 1110
-      },
-      "medium": {
-       "h": 963,
-       "resize": "fit",
-       "w": 1110
-      },
-      "small": {
-       "h": 590,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/GwI1z7KSgu"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": true,
-  "quote": {
-   "type": "tweet",
-   "id": "2123455434929381677",
-   "text": "David Montgomery has been a full participant at practice all week, and with Woody Marks inactive here, should step right into a hefty workload. \n\nThe market is suggesting Demercado could earn roughly 30% of the RB rushing work here, but my guess is he goes under that. The Texans were not giving Demercado anything on the ground until Marks got hurt last week, and Marks similarly got 18 of 20 carries in Week 9 prior to extreme garbage time (per @FantasyPtsData). Montgomery should come in and take that work, in an expected game script set up extremely well for rushing volume (spread + Indy poor vs. run). \n\nI also like Montgomery to cross his modest 8.5 receiving-yard o/u. Stroud doesn\u2019t often target RBs, but Monty should run most of the routes (as Marks had been without him) and Indy has been very vulnerable to backfield receiving (dead last in YPG allowed out of the backfield).\n\nGive me the over on 14.5 rush attempts and over 8.5 receiving yards. I also am a fan of alt rush attempts at 18+ (+235) and 20+ (+500), along with betting on a multi-TD performance (2+ TDs at +500).",
-   "source": "",
-   "retweetCount": 0,
-   "replyCount": 1,
-   "likeCount": 23,
-   "quoteCount": 1,
-   "viewCount": 12582,
-   "createdAt": "Thu Nov 19 16:36:42 +0000 2026",
-   "lang": "en",
-   "bookmarkCount": 6,
-   "isPinned": false,
-   "author": {
-    "type": "user",
-    "userName": "ffdataroma",
-    "url": "https://x.com/ffdataroma",
-    "twitterUrl": "https://twitter.com/ffdataroma",
-    "id": "1673448826340798465",
-    "name": "Dataroma",
-    "isVerified": false,
-    "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-    "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-    "location": "",
-    "followers": 21877,
-    "following": 430,
-    "protected": false,
-    "status": "",
-    "canDm": false,
-    "canMediaTag": true,
-    "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-    "entities": {
-     "description": {},
-     "url": {
-      "urls": [
-       {
-        "display_url": "beacons.ai/ffdataroma",
-        "expanded_url": "https://beacons.ai/ffdataroma",
-        "indices": [
-         0,
-         23
-        ],
-        "url": "https://t.co/4QmVXjPECs"
-       }
-      ]
-     }
-    },
-    "favouritesCount": 6753,
-    "isTranslator": false,
-    "mediaCount": 844,
-    "statusesCount": 10770,
-    "translatorTypeEnum": "none",
-    "affiliatesHighlightedLabel": {
-     "label": {
-      "badge": {
-       "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-      },
-      "description": "Sleeper",
-      "url": {
-       "url": "https://twitter.com/SleeperHQ",
-       "urlType": "DeepLink"
-      },
-      "userLabelDisplayType": "Badge",
-      "userLabelType": "BusinessLabel"
-     }
-    },
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2123909485865369723"
-    ],
-    "professional": {
-     "category": [],
-     "professional_type": "Creator",
-     "rest_id": "1689775700130095228"
-    }
-   },
-   "extendedEntities": {},
-   "card": {},
-   "place": {},
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "urls": [],
-    "user_mentions": [
-     {
-      "id_str": "1512168033011306496",
-      "indices": [
-       447,
-       462
-      ],
-      "name": "Fantasy Points Data",
-      "screen_name": "FantasyPtsData"
-     }
-    ]
-   }
-  },
-  "media": [
-   "https://pbs.twimg.com/media/HXivONoXoAAx7m-.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2123195202605056067",
-  "url": "https://x.com/ffdataroma/status/2123195202605056067",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123195202605056067",
-  "text": "Re: Golden v. Watson volume\n\n1. Targets are earned - Golden has been getting open constantly, not force fed\n\n2. Golden is a much better man beater than Watson, while both are good against zone. Nearly the entirety of the target gap between the two comes from their difference in volume vs. man coverage.\n\n3. While both get targeted deep downfield on average, Watson is targeted further downfield on average (15 vs. 13.5 aDOT). Further downfield targets = less overall volume generally, and both are targeted at an elite rate given their aDOTs",
-  "fullText": "Re: Golden v. Watson volume\n\n1. Targets are earned - Golden has been getting open constantly, not force fed\n\n2. Golden is a much better man beater than Watson, while both are good against zone. Nearly the entirety of the target gap between the two comes from their difference in",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 8,
-  "likeCount": 216,
-  "quoteCount": 0,
-  "viewCount": 46870,
-  "createdAt": "Wed Nov 18 23:22:38 +0000 2026",
-  "lang": "en",
-  "quoteId": "2123176382432006280",
-  "bookmarkCount": 25,
-  "isReply": false,
-  "conversationId": "2123195202605056067",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21877,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10770,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
   },
   "extendedEntities": {},
-  "card": {},
+  "card": {
+   "rest_id": "https://t.co/aQxOPj7bWa"
+  },
   "place": {},
   "entities": {
-   "hashtags": [],
-   "symbols": [],
-   "urls": [],
-   "user_mentions": []
+   "urls": [
+    {
+     "display_url": "x.com/AdamSchefter/s\u2026",
+     "expanded_url": "https://x.com/AdamSchefter/status/2125343343521743310",
+     "indices": [
+      81,
+      104
+     ],
+     "url": "https://t.co/aQxOPj7bWa"
+    }
+   ]
   },
   "isRetweet": false,
   "isQuote": true,
   "quote": {
    "type": "tweet",
-   "id": "2123176382432006280",
-   "text": "I can't deny that, despite his drops, Matthew Golden has been impressive and exceeded all expectations this season\n\nBut at what point do the Packers stop force-feeding him targets in the hope that his brick hands just disappear? \n\nGolden leads the league with 13 drops, 5 more than the next closest WR (per @FantasyPtsData) \n\nYou know who hasn't had any drop issues this season? Christian Watson \n\nIn fact, Watson has the most targets of any WR without recording a single dropped pass (75)\n\nAnd that isn't the only area where Watson has been much better than Golden... \n\nYPRR :  2.99 to 2.55 \nPasser Rating :  136.3 to 92.1 \nExplosive Reception Rate :  36.2% to 30.9% \nContested Catch Rate :  61.9% to 27.3% \nYPTOE :  3.30 to -0.10 \nEPA/Target :  0.7474 to 0.286\n\nIt's not like Golden is getting open at a much higher rate than Watson either \u2014 0.088 ASS to 0.077 and 14.3% Route Win Rate to 13.1%",
+   "id": "2125343343521743310",
+   "text": "Broncos suspended RB JK Dobbins one game for conduct detrimental to the team.",
    "source": "",
-   "retweetCount": 3,
-   "replyCount": 25,
-   "likeCount": 91,
-   "quoteCount": 2,
-   "viewCount": 68619,
-   "createdAt": "Wed Nov 18 22:07:50 +0000 2026",
+   "retweetCount": 289,
+   "replyCount": 361,
+   "likeCount": 9985,
+   "quoteCount": 293,
+   "viewCount": 1447193,
+   "createdAt": "Tue Nov 24 21:38:34 +0000 2026",
    "lang": "en",
-   "bookmarkCount": 14,
-   "isPinned": false,
+   "bookmarkCount": 236,
    "author": {
     "type": "user",
-    "userName": "KyleM_FF",
-    "url": "https://x.com/KyleM_FF",
-    "twitterUrl": "https://twitter.com/KyleM_FF",
-    "id": "1890803581818716161",
-    "name": "Kyle",
+    "userName": "AdamSchefter",
+    "url": "https://x.com/AdamSchefter",
+    "twitterUrl": "https://twitter.com/AdamSchefter",
+    "id": "51263592",
+    "name": "Adam Schefter",
     "isVerified": false,
     "isBlueVerified": true,
-    "profilePicture": "https://pbs.twimg.com/profile_images/2055789233173037056/Xxnfw0bN_normal.jpg",
-    "coverPicture": "https://pbs.twimg.com/profile_banners/1890803581818716161/1764110869",
-    "description": "Helping you win your Fantasy Football Leagues through data driven analytics, insight, and guidance. \"The Crown Prince of Dank Stats\" at @FantasyPts",
-    "location": "",
-    "followers": 26390,
-    "following": 79,
+    "profilePicture": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+    "description": "ESPN Senior NFL Insider. Host of the Adam Schefter Podcast https://t.co/Rrty23Lfn7",
+    "location": "New York",
+    "followers": 11877268,
+    "following": 4105,
     "protected": false,
     "status": "",
     "canDm": false,
     "canMediaTag": true,
-    "createdAt": "Sat Feb 15 16:41:27 +0000 2025",
+    "createdAt": "Fri Jun 26 22:55:28 +0000 2009",
     "entities": {
-     "description": {},
+     "description": {
+      "urls": [
+       {
+        "display_url": "Instagram.com/AdamSchefter",
+        "expanded_url": "http://Instagram.com/AdamSchefter",
+        "indices": [
+         59,
+         82
+        ],
+        "url": "https://t.co/Rrty23Lfn7"
+       }
+      ]
+     },
      "url": {
       "urls": [
        {
-        "display_url": "reddit.com/u/KyonFantasyF\u2026",
-        "expanded_url": "https://www.reddit.com/u/KyonFantasyFootball/s/PPohqi1Oc5",
+        "display_url": "espn.smart.link/p68e9wvbd",
+        "expanded_url": "https://espn.smart.link/p68e9wvbd",
         "indices": [
          0,
          23
         ],
-        "url": "https://t.co/qASjLKk4Tk"
+        "url": "https://t.co/XrpOlYiRin"
        }
       ]
      }
     },
-    "favouritesCount": 3423,
+    "fastFollowersCount": 0,
+    "favouritesCount": 1049,
+    "hasCustomTimelines": true,
     "isTranslator": false,
-    "mediaCount": 499,
-    "statusesCount": 5463,
-    "translatorTypeEnum": "none",
+    "mediaCount": 10022,
+    "statusesCount": 89950,
     "affiliatesHighlightedLabel": {},
-    "possiblySensitive": false,
-    "pinnedTweetIds": [
-     "2094440080391991788"
-    ]
+    "possiblySensitive": false
    },
    "extendedEntities": {},
    "card": {},
    "place": {},
-   "entities": {
-    "hashtags": [],
-    "symbols": [],
-    "urls": [],
-    "user_mentions": [
-     {
-      "id_str": "1512168033011306496",
-      "indices": [
-       307,
-       322
-      ],
-      "name": "Fantasy Points Data",
-      "screen_name": "FantasyPtsData"
-     }
-    ]
-   }
+   "entities": {}
   },
   "media": [],
   "videos": [],
@@ -1115,205 +175,450 @@
  },
  {
   "type": "tweet",
-  "id": "2123146725627941203",
-  "url": "https://x.com/ffdataroma/status/2123146725627941203",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123146725627941203",
-  "text": "Explosive rush rate (10+ yard runs) vs. missed tackles forced per attempt through Week 10, per @FantasyPtsData\n\nWhich RBs are both making defenders miss and breaking off chunk runs consistently? https://t.co/xMpDtZtO7H",
-  "fullText": "Explosive rush rate (10+ yard runs) vs. missed tackles forced per attempt through Week 10, per @FantasyPtsData\n\nWhich RBs are both making defenders miss and breaking off chunk runs consistently? https://t.co/xMpDtZtO7H",
+  "id": "2125227059425255490",
+  "url": "https://x.com/LateRoundQB/status/2125227059425255490",
+  "twitterUrl": "https://twitter.com/LateRoundQB/status/2125227059425255490",
+  "text": "This week's transactions episode is live: https://t.co/fMFHtZZm60",
+  "fullText": "This week's transactions episode is live: https://t.co/fMFHtZZm60",
   "source": "",
   "retweetCount": 1,
   "replyCount": 1,
-  "likeCount": 30,
+  "likeCount": 8,
   "quoteCount": 0,
-  "viewCount": 11579,
-  "createdAt": "Wed Nov 18 20:10:00 +0000 2026",
+  "viewCount": 11341,
+  "createdAt": "Tue Nov 24 13:56:30 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 10,
+  "bookmarkCount": 0,
   "isReply": false,
-  "conversationId": "2123146725627941203",
+  "conversationId": "2125227059425255490",
   "possiblySensitive": false,
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "LateRoundQB",
+   "url": "https://x.com/LateRoundQB",
+   "twitterUrl": "https://twitter.com/LateRoundQB",
+   "id": "596744235",
+   "name": "JJ Zachariason",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
+   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
    "location": "",
-   "followers": 21877,
-   "following": 430,
+   "followers": 237743,
+   "following": 977,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "canMediaTag": false,
+   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "display_url": "LateRound.com",
+       "expanded_url": "http://LateRound.com",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "url": "https://t.co/gGsrTQey7m"
       }
      ]
     }
    },
-   "favouritesCount": 6753,
+   "fastFollowersCount": 0,
+   "favouritesCount": 43558,
+   "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10770,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
+   "mediaCount": 5362,
+   "statusesCount": 138343,
+   "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+    "2124864607122530383"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {
+   "rest_id": "https://t.co/fMFHtZZm60"
+  },
+  "place": {},
+  "entities": {
+   "urls": [
+    {
+     "display_url": "open.spotify.com/episode/02Am5J\u2026",
+     "expanded_url": "https://open.spotify.com/episode/02Am5JclgeZLDOM4R7akPX?si=efcbd5f5424b45b4",
+     "indices": [
+      42,
+      65
+     ],
+     "url": "https://t.co/fMFHtZZm60"
+    }
+   ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2125062562186428611",
+  "url": "https://x.com/LateRoundQB/status/2125062562186428611",
+  "twitterUrl": "https://twitter.com/LateRoundQB/status/2125062562186428611",
+  "text": "But seriously, a team needs to have a giant goal-line back, and when they get to the goal line, they turn off the stadium lights and the running back walks onto the field like Kane from the attitude era",
+  "fullText": "But seriously, a team needs to have a giant goal-line back, and when they get to the goal line, they turn off the stadium lights and the running back walks onto the field like Kane from the attitude era",
+  "source": "",
+  "retweetCount": 6,
+  "replyCount": 21,
+  "likeCount": 274,
+  "quoteCount": 2,
+  "viewCount": 27946,
+  "createdAt": "Tue Nov 24 03:02:51 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2125062562186428611",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "LateRoundQB",
+   "url": "https://x.com/LateRoundQB",
+   "twitterUrl": "https://twitter.com/LateRoundQB",
+   "id": "596744235",
+   "name": "JJ Zachariason",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
+   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "location": "",
+   "followers": 237743,
+   "following": 977,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": false,
+   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "LateRound.com",
+       "expanded_url": "http://LateRound.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/gGsrTQey7m"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 43558,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 5362,
+   "statusesCount": 138343,
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2124864607122530383"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2124958352191238580",
+  "url": "https://x.com/LateRoundQB/status/2124958352191238580",
+  "twitterUrl": "https://twitter.com/LateRoundQB/status/2124958352191238580",
+  "text": "Is Ashton Jeanty a fantasy football bust?",
+  "fullText": "Is Ashton Jeanty a fantasy football bust?",
+  "source": "",
+  "retweetCount": 1,
+  "replyCount": 19,
+  "likeCount": 6,
+  "quoteCount": 1,
+  "viewCount": 26292,
+  "createdAt": "Mon Nov 23 20:08:45 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2124958352191238580",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "LateRoundQB",
+   "url": "https://x.com/LateRoundQB",
+   "twitterUrl": "https://twitter.com/LateRoundQB",
+   "id": "596744235",
+   "name": "JJ Zachariason",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
+   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "location": "",
+   "followers": 237743,
+   "following": 977,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": false,
+   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "LateRound.com",
+       "expanded_url": "http://LateRound.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/gGsrTQey7m"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 43558,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 5362,
+   "statusesCount": 138343,
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2124864607122530383"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {
+   "legacy": {
+    "binding_values": [
+     {
+      "key": "choice1_label",
+      "value": {
+       "string_value": "yes",
+       "type": "STRING"
+      }
+     },
+     {
+      "key": "choice2_label",
+      "value": {
+       "string_value": "no",
+       "type": "STRING"
+      }
+     },
+     {
+      "key": "end_datetime_utc",
+      "value": {
+       "string_value": "2026-11-24T20:08:45Z",
+       "type": "STRING"
+      }
+     },
+     {
+      "key": "counts_are_final",
+      "value": {
+       "boolean_value": true,
+       "type": "BOOLEAN"
+      }
+     },
+     {
+      "key": "choice2_count",
+      "value": {
+       "string_value": "3077",
+       "type": "STRING"
+      }
+     },
+     {
+      "key": "choice1_count",
+      "value": {
+       "string_value": "1310",
+       "type": "STRING"
+      }
+     },
+     {
+      "key": "last_updated_datetime_utc",
+      "value": {
+       "string_value": "2026-11-24T20:08:49Z",
+       "type": "STRING"
+      }
+     },
+     {
+      "key": "duration_minutes",
+      "value": {
+       "string_value": "1440",
+       "type": "STRING"
+      }
+     },
+     {
+      "key": "api",
+      "value": {
+       "string_value": "capi://passthrough/1",
+       "type": "STRING"
+      }
+     },
+     {
+      "key": "card_url",
+      "value": {
+       "scribe_key": "card_url",
+       "string_value": "https://twitter.com",
+       "type": "STRING"
+      }
+     }
+    ],
+    "card_platform": {
+     "platform": {
+      "audience": {
+       "name": "production"
+      },
+      "device": {
+       "name": "Swift",
+       "version": "12"
+      }
+     }
+    },
+    "name": "poll2choice_text_only",
+    "url": "card://2124958350727143424",
+    "user_refs_results": []
+   },
+   "rest_id": "card://2124958350727143424"
+  },
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2124947762747695482",
+  "url": "https://x.com/LateRoundQB/status/2124947762747695482",
+  "twitterUrl": "https://twitter.com/LateRoundQB/status/2124947762747695482",
+  "text": "https://t.co/pAw9spEgmY",
+  "fullText": "https://t.co/pAw9spEgmY",
+  "source": "",
+  "retweetCount": 4,
+  "replyCount": 8,
+  "likeCount": 485,
+  "quoteCount": 0,
+  "viewCount": 20924,
+  "createdAt": "Mon Nov 23 19:26:40 +0000 2026",
+  "lang": "zxx",
+  "quoteId": "2124946786376647010",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2124947762747695482",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "LateRoundQB",
+   "url": "https://x.com/LateRoundQB",
+   "twitterUrl": "https://twitter.com/LateRoundQB",
+   "id": "596744235",
+   "name": "JJ Zachariason",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
+   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "location": "",
+   "followers": 237743,
+   "following": 977,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": false,
+   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "LateRound.com",
+       "expanded_url": "http://LateRound.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/gGsrTQey7m"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 43558,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 5362,
+   "statusesCount": 138343,
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2124864607122530383"
+   ]
   },
   "extendedEntities": {
    "media": [
     {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/xMpDtZtO7H",
-     "expanded_url": "https://x.com/ffdataroma/status/2123146725627941203/photo/1",
+     "display_url": "pic.x.com/pAw9spEgmY",
+     "expanded_url": "https://x.com/LateRoundQB/status/2124947762747695482/photo/1",
      "ext_media_availability": {
       "status": "Available"
      },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 35,
-         "w": 35,
-         "x": 376,
-         "y": 238
-        }
-       ]
-      }
-     },
-     "id_str": "2123080424817557505",
+     "id_str": "2124947756389208064",
      "indices": [
-      195,
-      218
+      0,
+      23
      ],
-     "media_key": "3_2123080424817557505",
+     "media_key": "16_2124947756389208064",
      "media_results": {
       "result": {
-       "media_key": "3_2123080424817557505"
+       "media_key": "16_2124947756389208064"
       }
      },
-     "media_url_https": "https://pbs.twimg.com/media/HXayZdbWAAEzJyK.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/HX1UudnXkAAHf8W.jpg",
      "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 12
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 99,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
+      "focus_rects": [],
+      "height": 426,
+      "width": 480
      },
      "sizes": {
       "large": {
-       "h": 684,
+       "h": 426,
        "resize": "fit",
-       "w": 1200
+       "w": 480
       },
       "medium": {
-       "h": 684,
+       "h": 426,
        "resize": "fit",
-       "w": 1200
+       "w": 480
       },
       "small": {
-       "h": 388,
+       "h": 426,
        "resize": "fit",
-       "w": 680
+       "w": 480
       },
       "thumb": {
        "h": 150,
@@ -1321,8 +626,21 @@
        "w": 150
       }
      },
-     "type": "photo",
-     "url": "https://t.co/xMpDtZtO7H"
+     "type": "animated_gif",
+     "url": "https://t.co/pAw9spEgmY",
+     "video_info": {
+      "aspect_ratio": [
+       80,
+       71
+      ],
+      "variants": [
+       {
+        "bitrate": 0,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/tweet_video/HX1UudnXkAAHf8W.mp4"
+       }
+      ]
+     }
     }
    ]
   },
@@ -1331,119 +649,43 @@
   "entities": {
    "media": [
     {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/xMpDtZtO7H",
-     "expanded_url": "https://x.com/ffdataroma/status/2123146725627941203/photo/1",
+     "display_url": "pic.x.com/pAw9spEgmY",
+     "expanded_url": "https://x.com/LateRoundQB/status/2124947762747695482/photo/1",
      "ext_media_availability": {
       "status": "Available"
      },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 63,
-         "w": 63,
-         "x": 665,
-         "y": 421
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 35,
-         "w": 35,
-         "x": 376,
-         "y": 238
-        }
-       ]
-      }
-     },
-     "id_str": "2123080424817557505",
+     "id_str": "2124947756389208064",
      "indices": [
-      195,
-      218
+      0,
+      23
      ],
-     "media_key": "3_2123080424817557505",
+     "media_key": "16_2124947756389208064",
      "media_results": {
       "result": {
-       "media_key": "3_2123080424817557505"
+       "media_key": "16_2124947756389208064"
       }
      },
-     "media_url_https": "https://pbs.twimg.com/media/HXayZdbWAAEzJyK.jpg",
+     "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/HX1UudnXkAAHf8W.jpg",
      "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 12
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 99,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
+      "focus_rects": [],
+      "height": 426,
+      "width": 480
      },
      "sizes": {
       "large": {
-       "h": 684,
+       "h": 426,
        "resize": "fit",
-       "w": 1200
+       "w": 480
       },
       "medium": {
-       "h": 684,
+       "h": 426,
        "resize": "fit",
-       "w": 1200
+       "w": 480
       },
       "small": {
-       "h": 388,
+       "h": 426,
        "resize": "fit",
-       "w": 680
+       "w": 480
       },
       "thumb": {
        "h": 150,
@@ -1451,798 +693,463 @@
        "w": 150
       }
      },
-     "type": "photo",
-     "url": "https://t.co/xMpDtZtO7H"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      95,
-      110
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
+     "type": "animated_gif",
+     "url": "https://t.co/pAw9spEgmY",
+     "video_info": {
+      "aspect_ratio": [
+       80,
+       71
+      ],
+      "variants": [
+       {
+        "bitrate": 0,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/tweet_video/HX1UudnXkAAHf8W.mp4"
+       }
+      ]
+     }
     }
    ]
   },
   "isRetweet": false,
-  "isQuote": false,
+  "isQuote": true,
+  "quote": {
+   "type": "tweet",
+   "id": "2124946786376647010",
+   "text": "Rams TE Terrance Ferguson will undergo season-ending ankle surgery, per HC Sean McVay. https://t.co/2EZLdAN6cI",
+   "source": "",
+   "retweetCount": 354,
+   "replyCount": 219,
+   "likeCount": 6170,
+   "quoteCount": 316,
+   "viewCount": 1048200,
+   "createdAt": "Mon Nov 23 19:22:48 +0000 2026",
+   "lang": "en",
+   "bookmarkCount": 115,
+   "possiblySensitive": false,
+   "author": {
+    "type": "user",
+    "userName": "AdamSchefter",
+    "url": "https://x.com/AdamSchefter",
+    "twitterUrl": "https://twitter.com/AdamSchefter",
+    "id": "51263592",
+    "name": "Adam Schefter",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+    "description": "ESPN Senior NFL Insider. Host of the Adam Schefter Podcast https://t.co/Rrty23Lfn7",
+    "location": "New York",
+    "followers": 11877268,
+    "following": 4105,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 26 22:55:28 +0000 2009",
+    "entities": {
+     "description": {
+      "urls": [
+       {
+        "display_url": "Instagram.com/AdamSchefter",
+        "expanded_url": "http://Instagram.com/AdamSchefter",
+        "indices": [
+         59,
+         82
+        ],
+        "url": "https://t.co/Rrty23Lfn7"
+       }
+      ]
+     },
+     "url": {
+      "urls": [
+       {
+        "display_url": "espn.smart.link/p68e9wvbd",
+        "expanded_url": "https://espn.smart.link/p68e9wvbd",
+        "indices": [
+         0,
+         23
+        ],
+        "url": "https://t.co/XrpOlYiRin"
+       }
+      ]
+     }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1049,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "mediaCount": 10022,
+    "statusesCount": 89950,
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+   },
+   "extendedEntities": {
+    "media": [
+     {
+      "display_url": "pic.x.com/2EZLdAN6cI",
+      "expanded_url": "https://x.com/AdamSchefter/status/2124946786376647010/photo/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "features": {
+       "large": {
+        "faces": []
+       },
+       "medium": {
+        "faces": []
+       },
+       "orig": {
+        "faces": []
+       },
+       "small": {
+        "faces": []
+       }
+      },
+      "id_str": "2124946783734304768",
+      "indices": [
+       87,
+       110
+      ],
+      "media_key": "3_2124946783734304768",
+      "media_results": {
+       "result": {
+        "media_key": "3_2124946783734304768"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/media/HX1T12MXkAALfEg.jpg",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 343,
+         "w": 612,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 408,
+         "w": 408,
+         "x": 117,
+         "y": 0
+        },
+        {
+         "h": 408,
+         "w": 358,
+         "x": 142,
+         "y": 0
+        },
+        {
+         "h": 408,
+         "w": 204,
+         "x": 219,
+         "y": 0
+        },
+        {
+         "h": 408,
+         "w": 612,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 408,
+       "width": 612
+      },
+      "sizes": {
+       "large": {
+        "h": 408,
+        "resize": "fit",
+        "w": 612
+       },
+       "medium": {
+        "h": 408,
+        "resize": "fit",
+        "w": 612
+       },
+       "small": {
+        "h": 408,
+        "resize": "fit",
+        "w": 612
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/2EZLdAN6cI"
+     }
+    ]
+   },
+   "card": {},
+   "place": {},
+   "entities": {
+    "media": [
+     {
+      "display_url": "pic.x.com/2EZLdAN6cI",
+      "expanded_url": "https://x.com/AdamSchefter/status/2124946786376647010/photo/1",
+      "ext_media_availability": {
+       "status": "Available"
+      },
+      "features": {
+       "large": {
+        "faces": []
+       },
+       "medium": {
+        "faces": []
+       },
+       "orig": {
+        "faces": []
+       },
+       "small": {
+        "faces": []
+       }
+      },
+      "id_str": "2124946783734304768",
+      "indices": [
+       87,
+       110
+      ],
+      "media_key": "3_2124946783734304768",
+      "media_results": {
+       "result": {
+        "media_key": "3_2124946783734304768"
+       }
+      },
+      "media_url_https": "https://pbs.twimg.com/media/HX1T12MXkAALfEg.jpg",
+      "original_info": {
+       "focus_rects": [
+        {
+         "h": 343,
+         "w": 612,
+         "x": 0,
+         "y": 0
+        },
+        {
+         "h": 408,
+         "w": 408,
+         "x": 117,
+         "y": 0
+        },
+        {
+         "h": 408,
+         "w": 358,
+         "x": 142,
+         "y": 0
+        },
+        {
+         "h": 408,
+         "w": 204,
+         "x": 219,
+         "y": 0
+        },
+        {
+         "h": 408,
+         "w": 612,
+         "x": 0,
+         "y": 0
+        }
+       ],
+       "height": 408,
+       "width": 612
+      },
+      "sizes": {
+       "large": {
+        "h": 408,
+        "resize": "fit",
+        "w": 612
+       },
+       "medium": {
+        "h": 408,
+        "resize": "fit",
+        "w": 612
+       },
+       "small": {
+        "h": 408,
+        "resize": "fit",
+        "w": 612
+       },
+       "thumb": {
+        "h": 150,
+        "resize": "crop",
+        "w": 150
+       }
+      },
+      "type": "photo",
+      "url": "https://t.co/2EZLdAN6cI"
+     }
+    ]
+   }
+  },
   "media": [
-   "https://pbs.twimg.com/media/HXayZdbWAAEzJyK.jpg"
+   "https://pbs.twimg.com/tweet_video_thumb/HX1UudnXkAAHf8W.jpg"
   ],
+  "videos": [
+   {
+    "durationMillis": null,
+    "aspectRatio": [
+     80,
+     71
+    ],
+    "variants": [
+     {
+      "bitrate": 0,
+      "contentType": "video/mp4",
+      "url": "https://video.twimg.com/tweet_video/HX1UudnXkAAHf8W.mp4"
+     }
+    ]
+   }
+  ],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2124878113888993724",
+  "url": "https://x.com/LateRoundQB/status/2124878113888993724",
+  "twitterUrl": "https://twitter.com/LateRoundQB/status/2124878113888993724",
+  "text": "There's no sleepers episode this week, but I'll be doing a mailbag for Wednesday. If you have any non-start/sit questions, send them my way ASAP!",
+  "fullText": "There's no sleepers episode this week, but I'll be doing a mailbag for Wednesday. If you have any non-start/sit questions, send them my way ASAP!",
+  "source": "",
+  "retweetCount": 0,
+  "replyCount": 5,
+  "likeCount": 17,
+  "quoteCount": 0,
+  "viewCount": 15018,
+  "createdAt": "Mon Nov 23 14:49:55 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2124878113888993724",
+  "isPinned": false,
+  "author": {
+   "type": "user",
+   "userName": "LateRoundQB",
+   "url": "https://x.com/LateRoundQB",
+   "twitterUrl": "https://twitter.com/LateRoundQB",
+   "id": "596744235",
+   "name": "JJ Zachariason",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
+   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "location": "",
+   "followers": 237743,
+   "following": 977,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": false,
+   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "LateRound.com",
+       "expanded_url": "http://LateRound.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/gGsrTQey7m"
+      }
+     ]
+    }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 43558,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 5362,
+   "statusesCount": 138343,
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2124864607122530383"
+   ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
   "videos": [],
   "isConversationControlled": false
  },
  {
   "type": "tweet",
-  "id": "2123144208928362529",
-  "url": "https://x.com/ffdataroma/status/2123144208928362529",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123144208928362529",
-  "text": "Targets per route run vs. separation score for WRs and TEs through Week 10, per @FantasyPtsData\n\nWhich pass-catchers are not only getting open, but also earning targets when they do? https://t.co/HpvH5ivXWS",
-  "fullText": "Targets per route run vs. separation score for WRs and TEs through Week 10, per @FantasyPtsData\n\nWhich pass-catchers are not only getting open, but also earning targets when they do? https://t.co/HpvH5ivXWS",
+  "id": "2124859780795654504",
+  "url": "https://x.com/LateRoundQB/status/2124859780795654504",
+  "twitterUrl": "https://twitter.com/LateRoundQB/status/2124859780795654504",
+  "text": "Need to just get this out, and I apologize to the kids: HOLY SHIT CAN THE FANTASY COMMUNITY PLEASE, FOR THE LOVE OF GOD, STOP CALLING EVERY FUCKING PLAYER IN FANTASY A \u201cLEAGUE-WINNER\u201d",
+  "fullText": "Need to just get this out, and I apologize to the kids: HOLY SHIT CAN THE FANTASY COMMUNITY PLEASE, FOR THE LOVE OF GOD, STOP CALLING EVERY FUCKING PLAYER IN FANTASY A \u201cLEAGUE-WINNER\u201d",
   "source": "",
-  "retweetCount": 5,
-  "replyCount": 3,
-  "likeCount": 42,
-  "quoteCount": 0,
-  "viewCount": 14415,
-  "createdAt": "Wed Nov 18 20:00:00 +0000 2026",
+  "retweetCount": 66,
+  "replyCount": 213,
+  "likeCount": 3176,
+  "quoteCount": 31,
+  "viewCount": 292196,
+  "createdAt": "Mon Nov 23 13:37:04 +0000 2026",
   "lang": "en",
   "bookmarkCount": 23,
   "isReply": false,
-  "conversationId": "2123144208928362529",
-  "possiblySensitive": false,
+  "conversationId": "2124859780795654504",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "LateRoundQB",
+   "url": "https://x.com/LateRoundQB",
+   "twitterUrl": "https://twitter.com/LateRoundQB",
+   "id": "596744235",
+   "name": "JJ Zachariason",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
+   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
    "location": "",
-   "followers": 21877,
-   "following": 430,
+   "followers": 237743,
+   "following": 977,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "canMediaTag": false,
+   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "display_url": "LateRound.com",
+       "expanded_url": "http://LateRound.com",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "url": "https://t.co/gGsrTQey7m"
       }
      ]
     }
    },
-   "favouritesCount": 6753,
+   "fastFollowersCount": 0,
+   "favouritesCount": 43558,
+   "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10770,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
+   "mediaCount": 5362,
+   "statusesCount": 138343,
+   "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/HpvH5ivXWS",
-     "expanded_url": "https://x.com/ffdataroma/status/2123144208928362529/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 47,
-         "w": 47,
-         "x": 232,
-         "y": 249
-        }
-       ]
-      }
-     },
-     "id_str": "2123080216209657856",
-     "indices": [
-      183,
-      206
-     ],
-     "media_key": "3_2123080216209657856",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080216209657856"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayNUTWEAA3KAh.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 30,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 159,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/HpvH5ivXWS"
-    }
+    "2124864607122530383"
    ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/HpvH5ivXWS",
-     "expanded_url": "https://x.com/ffdataroma/status/2123144208928362529/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "medium": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "orig": {
-       "faces": [
-        {
-         "h": 83,
-         "w": 83,
-         "x": 411,
-         "y": 440
-        }
-       ]
-      },
-      "small": {
-       "faces": [
-        {
-         "h": 47,
-         "w": 47,
-         "x": 232,
-         "y": 249
-        }
-       ]
-      }
-     },
-     "id_str": "2123080216209657856",
-     "indices": [
-      183,
-      206
-     ],
-     "media_key": "3_2123080216209657856",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080216209657856"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayNUTWEAA3KAh.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 30,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 159,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/HpvH5ivXWS"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      80,
-      95
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HXayNUTWEAA3KAh.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2123140434767790332",
-  "url": "https://x.com/ffdataroma/status/2123140434767790332",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123140434767790332",
-  "text": "QB Adjusted net yards per attempt (ANY/A) and completion % over expected (CPOE) through Week 10, per @FantasyPtsData:\n\nWhich QBs have been both efficient and accurate this year? https://t.co/xkZj61jrXV",
-  "fullText": "QB Adjusted net yards per attempt (ANY/A) and completion % over expected (CPOE) through Week 10, per @FantasyPtsData:\n\nWhich QBs have been both efficient and accurate this year? https://t.co/xkZj61jrXV",
-  "source": "",
-  "retweetCount": 1,
-  "replyCount": 0,
-  "likeCount": 10,
-  "quoteCount": 1,
-  "viewCount": 5394,
-  "createdAt": "Wed Nov 18 19:45:00 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 3,
-  "isReply": false,
-  "conversationId": "2123140434767790332",
-  "possiblySensitive": false,
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21877,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10770,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
-  },
-  "extendedEntities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/xkZj61jrXV",
-     "expanded_url": "https://x.com/ffdataroma/status/2123140434767790332/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2123080130847289344",
-     "indices": [
-      178,
-      201
-     ],
-     "media_key": "3_2123080130847289344",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080130847289344"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayIWTXsAAfo8e.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 468,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 510,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 639,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/xkZj61jrXV"
-    }
-   ]
-  },
-  "card": {},
-  "place": {},
-  "entities": {
-   "media": [
-    {
-     "allow_download_status": {
-      "allow_download": true
-     },
-     "display_url": "pic.x.com/xkZj61jrXV",
-     "expanded_url": "https://x.com/ffdataroma/status/2123140434767790332/photo/1",
-     "ext_media_availability": {
-      "status": "Available"
-     },
-     "features": {
-      "large": {
-       "faces": []
-      },
-      "medium": {
-       "faces": []
-      },
-      "orig": {
-       "faces": []
-      },
-      "small": {
-       "faces": []
-      }
-     },
-     "id_str": "2123080130847289344",
-     "indices": [
-      178,
-      201
-     ],
-     "media_key": "3_2123080130847289344",
-     "media_results": {
-      "result": {
-       "media_key": "3_2123080130847289344"
-      }
-     },
-     "media_url_https": "https://pbs.twimg.com/media/HXayIWTXsAAfo8e.jpg",
-     "original_info": {
-      "focus_rects": [
-       {
-        "h": 672,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 684,
-        "x": 468,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 600,
-        "x": 510,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 342,
-        "x": 639,
-        "y": 0
-       },
-       {
-        "h": 684,
-        "w": 1200,
-        "x": 0,
-        "y": 0
-       }
-      ],
-      "height": 684,
-      "width": 1200
-     },
-     "sizes": {
-      "large": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "medium": {
-       "h": 684,
-       "resize": "fit",
-       "w": 1200
-      },
-      "small": {
-       "h": 388,
-       "resize": "fit",
-       "w": 680
-      },
-      "thumb": {
-       "h": 150,
-       "resize": "crop",
-       "w": 150
-      }
-     },
-     "type": "photo",
-     "url": "https://t.co/xkZj61jrXV"
-    }
-   ],
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      101,
-      116
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
-  "isRetweet": false,
-  "isQuote": false,
-  "media": [
-   "https://pbs.twimg.com/media/HXayIWTXsAAfo8e.jpg"
-  ],
-  "videos": [],
-  "isConversationControlled": false
- },
- {
-  "type": "tweet",
-  "id": "2123096394018046265",
-  "url": "https://x.com/ffdataroma/status/2123096394018046265",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123096394018046265",
-  "text": "Adjusted Net Yards Per Attempt leaders through 10 weeks, per @FantasyPtsData:\n\n1. Brock Purdy (8.94)\n2. Trevor Lawrence (8.63)\n3. Joe Burrow (8.31)\n4. Patrick Mahomes (8.10)\n5. C.J. Stroud (7.70)\n6. Jared Goff (7.63)\n7. Josh Allen (7.46)",
-  "fullText": "Adjusted Net Yards Per Attempt leaders through 10 weeks, per @FantasyPtsData:\n\n1. Brock Purdy (8.94)\n2. Trevor Lawrence (8.63)\n3. Joe Burrow (8.31)\n4. Patrick Mahomes (8.10)\n5. C.J. Stroud (7.70)\n6. Jared Goff (7.63)\n7. Josh Allen (7.46)",
-  "source": "",
-  "retweetCount": 2,
-  "replyCount": 0,
-  "likeCount": 10,
-  "quoteCount": 0,
-  "viewCount": 4548,
-  "createdAt": "Wed Nov 18 16:50:00 +0000 2026",
-  "lang": "en",
-  "bookmarkCount": 2,
-  "isReply": false,
-  "conversationId": "2123096394018046265",
-  "isPinned": false,
-  "author": {
-   "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
-   "isVerified": false,
-   "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
-   "location": "",
-   "followers": 21877,
-   "following": 430,
-   "protected": false,
-   "status": "",
-   "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
-   "entities": {
-    "description": {},
-    "url": {
-     "urls": [
-      {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
-       "indices": [
-        0,
-        23
-       ],
-       "url": "https://t.co/4QmVXjPECs"
-      }
-     ]
-    }
-   },
-   "favouritesCount": 6753,
-   "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10770,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
-   "possiblySensitive": false,
-   "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      61,
-      76
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
-    }
-   ]
-  },
+  "entities": {},
   "isRetweet": false,
   "isQuote": false,
   "media": [],
@@ -2251,104 +1158,155 @@
  },
  {
   "type": "tweet",
-  "id": "2123095136401846320",
-  "url": "https://x.com/ffdataroma/status/2123095136401846320",
-  "twitterUrl": "https://twitter.com/ffdataroma/status/2123095136401846320",
-  "text": "TE Yards per route run leaders through 10 weeks, per @FantasyPtsData:\n\n1. Dalton Kincaid (2.83)\n2. Brock Bowers (2.74)\n3. George Kittle (2.45)\n4. Travis Kelce (2.30)\n5. Isaiah Likely (2.02)\n6. T.J. Hockenson (2.01)",
-  "fullText": "TE Yards per route run leaders through 10 weeks, per @FantasyPtsData:\n\n1. Dalton Kincaid (2.83)\n2. Brock Bowers (2.74)\n3. George Kittle (2.45)\n4. Travis Kelce (2.30)\n5. Isaiah Likely (2.02)\n6. T.J. Hockenson (2.01)",
+  "id": "2124894853347827962",
+  "url": "https://x.com/LateRoundQB/status/2124894853347827962",
+  "twitterUrl": "https://twitter.com/LateRoundQB/status/2124894853347827962",
+  "text": "Folks, this isn't a super serious post. Though I do think it's an overused word, and it just makes people hate fantasy analysts more when the player inevitably is not a league-winner. Just having some fun on a Monday to keep me sane during this insane fantasy season.",
+  "fullText": "Folks, this isn't a super serious post. Though I do think it's an overused word, and it just makes people hate fantasy analysts more when the player inevitably is not a league-winner. Just having some fun on a Monday to keep me sane during this insane fantasy season.",
   "source": "",
-  "retweetCount": 1,
-  "replyCount": 2,
-  "likeCount": 13,
-  "quoteCount": 1,
-  "viewCount": 7373,
-  "createdAt": "Wed Nov 18 16:45:00 +0000 2026",
+  "retweetCount": 0,
+  "replyCount": 12,
+  "likeCount": 107,
+  "quoteCount": 0,
+  "viewCount": 22176,
+  "createdAt": "Mon Nov 23 15:56:26 +0000 2026",
   "lang": "en",
-  "bookmarkCount": 3,
-  "isReply": false,
-  "conversationId": "2123095136401846320",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2124859780795654504",
+  "conversationId": "2124859780795654504",
+  "inReplyToUserId": "596744235",
+  "inReplyToUsername": "LateRoundQB",
   "isPinned": false,
   "author": {
    "type": "user",
-   "userName": "ffdataroma",
-   "url": "https://x.com/ffdataroma",
-   "twitterUrl": "https://twitter.com/ffdataroma",
-   "id": "1673448826340798465",
-   "name": "Dataroma",
+   "userName": "LateRoundQB",
+   "url": "https://x.com/LateRoundQB",
+   "twitterUrl": "https://twitter.com/LateRoundQB",
+   "id": "596744235",
+   "name": "JJ Zachariason",
    "isVerified": false,
    "isBlueVerified": true,
-   "profilePicture": "https://pbs.twimg.com/profile_images/1902843108536020992/aYxAUHTw_normal.jpg",
-   "coverPicture": "https://pbs.twimg.com/profile_banners/1673448826340798465/1789675479",
-   "description": "Using data-driven analysis to help you win $$$ and fantasy football | Join my Substack to get all my written content via email + player rankings and more \u2b07\ufe0f",
+   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
+   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
    "location": "",
-   "followers": 21877,
-   "following": 430,
+   "followers": 237743,
+   "following": 977,
    "protected": false,
    "status": "",
    "canDm": false,
-   "canMediaTag": true,
-   "createdAt": "Mon Jun 26 21:51:16 +0000 2023",
+   "canMediaTag": false,
+   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
    "entities": {
     "description": {},
     "url": {
      "urls": [
       {
-       "display_url": "beacons.ai/ffdataroma",
-       "expanded_url": "https://beacons.ai/ffdataroma",
+       "display_url": "LateRound.com",
+       "expanded_url": "http://LateRound.com",
        "indices": [
         0,
         23
        ],
-       "url": "https://t.co/4QmVXjPECs"
+       "url": "https://t.co/gGsrTQey7m"
       }
      ]
     }
    },
-   "favouritesCount": 6753,
+   "fastFollowersCount": 0,
+   "favouritesCount": 43558,
+   "hasCustomTimelines": true,
    "isTranslator": false,
-   "mediaCount": 844,
-   "statusesCount": 10770,
-   "translatorTypeEnum": "none",
-   "affiliatesHighlightedLabel": {
-    "label": {
-     "badge": {
-      "url": "https://pbs.twimg.com/profile_images/2008631587919872001/CY-7MMLV_bigger.jpg"
-     },
-     "description": "Sleeper",
-     "url": {
-      "url": "https://twitter.com/SleeperHQ",
-      "urlType": "DeepLink"
-     },
-     "userLabelDisplayType": "Badge",
-     "userLabelType": "BusinessLabel"
-    }
-   },
+   "mediaCount": 5362,
+   "statusesCount": 138343,
+   "affiliatesHighlightedLabel": {},
    "possiblySensitive": false,
    "pinnedTweetIds": [
-    "2123909485865369723"
-   ],
-   "professional": {
-    "category": [],
-    "professional_type": "Creator",
-    "rest_id": "1689775700130095228"
-   }
+    "2124864607122530383"
+   ]
   },
   "extendedEntities": {},
   "card": {},
   "place": {},
-  "entities": {
-   "user_mentions": [
-    {
-     "id_str": "1512168033011306496",
-     "indices": [
-      53,
-      68
-     ],
-     "name": "Fantasy Points Data",
-     "screen_name": "FantasyPtsData"
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "videos": [],
+  "isConversationControlled": false
+ },
+ {
+  "type": "tweet",
+  "id": "2124864607122530383",
+  "url": "https://x.com/LateRoundQB/status/2124864607122530383",
+  "twitterUrl": "https://twitter.com/LateRoundQB/status/2124864607122530383",
+  "text": "Every Monday morning during the fantasy football season, I put together a thread featuring data from the week's games. This isn't about takes. It's just about providing information.\n\nHere's the Week 11 data dump.",
+  "fullText": "Every Monday morning during the fantasy football season, I put together a thread featuring data from the week's games. This isn't about takes. It's just about providing information.\n\nHere's the Week 11 data dump.",
+  "source": "",
+  "retweetCount": 10,
+  "replyCount": 5,
+  "likeCount": 345,
+  "quoteCount": 0,
+  "viewCount": 112494,
+  "createdAt": "Mon Nov 23 13:56:15 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 192,
+  "isReply": false,
+  "conversationId": "2124864607122530383",
+  "isPinned": true,
+  "author": {
+   "type": "user",
+   "userName": "LateRoundQB",
+   "url": "https://x.com/LateRoundQB",
+   "twitterUrl": "https://twitter.com/LateRoundQB",
+   "id": "596744235",
+   "name": "JJ Zachariason",
+   "isVerified": false,
+   "isBlueVerified": true,
+   "profilePicture": "https://pbs.twimg.com/profile_images/847142806191849476/gZ2-Fz9Z_normal.jpg",
+   "coverPicture": "https://pbs.twimg.com/profile_banners/596744235/1643651545",
+   "description": "East Coast Dad\u2122. Late-Round Fantasy Football creator. Host of the award-winning Late-Round Fantasy Football Podcast & @LiveTheStreamFF. Pitt alum.",
+   "location": "",
+   "followers": 237743,
+   "following": 977,
+   "protected": false,
+   "status": "",
+   "canDm": false,
+   "canMediaTag": false,
+   "createdAt": "Fri Jun 01 17:51:35 +0000 2012",
+   "entities": {
+    "description": {},
+    "url": {
+     "urls": [
+      {
+       "display_url": "LateRound.com",
+       "expanded_url": "http://LateRound.com",
+       "indices": [
+        0,
+        23
+       ],
+       "url": "https://t.co/gGsrTQey7m"
+      }
+     ]
     }
+   },
+   "fastFollowersCount": 0,
+   "favouritesCount": 43558,
+   "hasCustomTimelines": true,
+   "isTranslator": false,
+   "mediaCount": 5362,
+   "statusesCount": 138343,
+   "affiliatesHighlightedLabel": {},
+   "possiblySensitive": false,
+   "pinnedTweetIds": [
+    "2124864607122530383"
    ]
   },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
   "isRetweet": false,
   "isQuote": false,
   "media": [],
