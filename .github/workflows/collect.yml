@@ -81,8 +81,11 @@ jobs:
           FILE=data/latest.json; [ "$MODE" = "inactives" ] && FILE=data/inactives-latest.json
           # Threshold by mode: inactives 10 min (the 11:45 backstop MUST still
           # re-sweep after a healthy 11:30 run — it exists to catch stragglers);
-          # weekly/sunday 4 h (9/16: cron ran 2h20m late, past the old 1h gate).
-          MAXAGE=14400; [ "$MODE" = "inactives" ] && MAXAGE=600
+          # sunday 4 h (9/16: cron ran 2h20m late, past the old 1h gate);
+          # weekly 24 h (11/24: a manual Tuesday-night collection should make
+          # Wednesday's cron skip instead of paying Apify twice. Sunday's data
+          # is ~3 days old by then, so it can never trigger this skip).
+          MAXAGE=14400; [ "$MODE" = "weekly" ] && MAXAGE=86400; [ "$MODE" = "inactives" ] && MAXAGE=600
           SKIP=false
           if [ "${{ github.event_name }}" = "schedule" ] && [ -f "$FILE" ]; then
             AGE=$(python3 -c "import json,sys;from datetime import datetime,timezone;g=json.load(open(sys.argv[1])).get('generated_at');print(int((datetime.now(timezone.utc)-datetime.fromisoformat(g)).total_seconds()))" "$FILE" 2>/dev/null || echo 999999)
